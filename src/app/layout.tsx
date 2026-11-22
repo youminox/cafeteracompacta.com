@@ -62,7 +62,7 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    google: "172C7_Myoxhj0Y7awkbiE22513T05NSfBYUdmPFvxgY",
+    google: ["google07464c8c60a81e7a", "172C7_Myoxhj0Y7awkbiE22513T05NSfBYUdmPFvxgY"],
   },
   formatDetection: { telephone: false },
 };
