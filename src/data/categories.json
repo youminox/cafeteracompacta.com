@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "resenas-cafeteras",
+    "name": "Reseñas de Cafeteras Espresso Compactas",
+    "short": "Reseñas",
+    "isTransactional": true,
+    "primaryKeyword": "reseñas de cafeteras espresso compactas",
+    "description": "Análisis técnicos y pruebas de extracción de las cafeteras espresso compactas más vendidas en Amazon EE. UU.: CASABREWS CM5418, Breville Bambino, De’Longhi Dedica Arte, Gaggia, HiBREW, Ninja y más.",
+    "icon": "coffee"
+  },
+  {
+    "slug": "comparativas",
+    "name": "Comparativas Modelo vs Modelo",
+    "short": "Comparativas VS",
+    "isTransactional": true,
+    "primaryKeyword": "comparativa cafeteras espresso compactas",
+    "description": "Duelos directos cara a cara entre cafeteras espresso, molinos y espumadores según su precio en Amazon, ancho en centímetros, tiempo de calentamiento, vaporizador y facilidad de uso.",
+    "icon": "scale"
+  },
+  {
+    "slug": "mejores-cafeteras-y-accesorios",
+    "name": "Rankings y Guías de Compra Amazon",
+    "short": "Guías de Compra",
+    "isTransactional": true,
+    "primaryKeyword": "rankings y guías de compra cafeteras espresso amazon",
+    "description": "Los mejores modelos y accesorios compatibles por presupuesto y tamaño: menos de $150 y $300, ultra-delgadas de 15 cm, molinos compactos, espumadores, básculas y kits de 51 mm, 54 mm y 58 mm.",
+    "icon": "trophy"
+  },
+  {
+    "slug": "molinos-y-molienda",
+    "name": "Molinos de Café y Calibración de Molienda",
+    "short": "Molinos y Molienda",
+    "isTransactional": false,
+    "primaryKeyword": "molinos de café compactos para espresso",
+    "description": "Cómo elegir y calibrar tu molino de café para espresso en casa: ajustes paso a paso para Baratza Encore ESP, Fellow Opus, Turin DF54 y manuales, muelas cónicas vs planas y técnica RDT.",
+    "icon": "cog"
+  },
+  {
+    "slug": "espumadores-y-latte-art",
+    "name": "Espumadores de Leche y Latte Art",
+    "short": "Leche y Latte Art",
+    "isTransactional": false,
+    "primaryKeyword": "cómo espumar leche para latte art en cafetera compacta",
+    "description": "Técnica completa para emulsionar microespuma sedosa a 60–65 °C con la lanceta MyLatte Art de De’Longhi, vapor CASABREWS, sistema MilQ de Breville o espumadores externos y leches vegetales.",
+    "icon": "sparkles"
+  },
+  {
+    "slug": "basculas-y-accesorios-barista",
+    "name": "Básculas y Accesorios Compatibles (51/54/58 mm)",
+    "short": "Accesorios 51/54mm",
+    "isTransactional": false,
+    "primaryKeyword": "accesorios compatibles 51mm 54mm cafetera espresso",
+    "description": "Guía exacta de medidas y compatibilidad: portafiltros sin fondo (Bottomless) de 2 y 3 orejas, cestas IMS, tampers calibrados, distribuidores WDT, puck screens, básculas mini y knock boxes.",
+    "icon": "sliders"
+  },
+  {
+    "slug": "extraccion-y-recetas-espresso",
+    "name": "Extracción Perfecta y Recetas Barista",
+    "short": "Extracción y Recetas",
+    "isTransactional": false,
+    "primaryKeyword": "cómo extraer un espresso perfecto en casa",
+    "description": "Domina el ratio 1:2 en 25–30 segundos, la lectura del manómetro de presión, el diagnóstico de café ácido o amargo y las recetas exactas de Flat White, Cortado, Cappuccino, Americano e Iced Latte.",
+    "icon": "flame"
+  },
+  {
+    "slug": "mantenimiento-y-descalcificacion",
+    "name": "Mantenimiento, Limpieza y Descalcificación",
+    "short": "Descalcificación",
+    "isTransactional": false,
+    "primaryKeyword": "cómo descalcificar cafetera espresso compacta",
+    "description": "Tutoriales paso a paso para descalcificar la CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte, apagar las luces de alerta, hacer backflushing con Cafiza y cambiar la junta del grupo.",
+    "icon": "shield"
+  },
+  {
+    "slug": "problemas-y-soluciones",
+    "name": "Solución de Problemas y Errores",
+    "short": "Problemas y Fallos",
+    "isTransactional": false,
+    "primaryKeyword": "problemas comunes cafetera espresso y soluciones",
+    "description": "Diagnóstico técnico cuando la cafetera no sube de presión, marca sobrepresión en el manómetro, gotea por el portafiltro, parpadean las luces en la Bambino o Dedica, o la lanceta no saca vapor.",
+    "icon": "wrench"
+  },
+  {
+    "slug": "espacios-pequenos-y-coffee-corner",
+    "name": "Espacios Pequeños y Diseño de Coffee Corner",
+    "short": "Coffee Corner",
+    "isTransactional": false,
+    "primaryKeyword": "estación de café para cocinas pequeñas",
+    "description": "Cómo organizar tu rincón de café en apartamentos pequeños, estudios, oficinas o dormitorios en EE. UU.: medidas reales bajo alacenas, bandejas deslizantes, ruido en dB y consumo en 120V.",
+    "icon": "home"
+  },
+  {
+    "slug": "cafe-en-grano-y-agua",
+    "name": "Café en Grano, Tuestes y Agua para Espresso",
+    "short": "Grano y Agua",
+    "isTransactional": false,
+    "primaryKeyword": "mejor café en grano y agua para cafetera espresso",
+    "description": "Cómo elegir granos de café en Amazon EE. UU., diferencias entre tueste medio y oscuro en máquinas Thermoblock, fecha de tueste, conservación al vacío y filtración del agua para evitar sarro.",
+    "icon": "droplet"
+  },
+  {
+    "slug": "ciencia-y-tecnologia-espresso",
+    "name": "Ciencia e Ingeniería del Espresso Compacto",
+    "short": "Tecnología Espresso",
+    "isTransactional": false,
+    "primaryKeyword": "cómo funciona una cafetera espresso compacta",
+    "description": "Ingeniería explicada sin rodeos: verdad sobre los 15 y 20 bares frente a los 9 bares reales (válvula OPV), ThermoJet de 3 segundos vs Thermoblock vs caldera, control térmico PID y válvula solenoide.",
+    "icon": "cpu"
+  }
+]
