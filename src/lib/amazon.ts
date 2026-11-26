@@ -19,8 +19,6 @@ export interface AmazonProductRecommendation {
   title: string;
   subtitle: string;
   features: string[];
-  rating: string;
-  reviewsCount: string;
   categoryType: AmazonCategoryType;
   specs?: {
     width: string;
@@ -103,8 +101,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Manómetro frontal analógico que muestra en tiempo real si tu molienda está en la zona ideal de extracción",
       "Bomba italiana de 20 bares con pre-infusión a baja presión y lanceta de vapor para espumar leche y Cappuccino",
     ],
-    rating: "4.5",
-    reviewsCount: "11.400+",
     categoryType: "espresso-machine",
     specs: {
       width: "15.0 cm (5.9 in)",
@@ -127,8 +123,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Pre-infusión a baja presión seguida de extracción regulada a 9 bares reales mediante válvula OPV comercial",
       "Portafiltro de 54 mm para dosis de 18-19 g y lanceta de vapor manual de alta potencia para microespuma Latte Art",
     ],
-    rating: "4.6",
-    reviewsCount: "6.800+",
     categoryType: "espresso-machine",
     specs: {
       width: "19.5 cm (7.7 in)",
@@ -151,8 +145,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Lanceta de vapor profesional MyLatte Art para texturizar microespuma sedosa sin burbujas grandes",
       "Bandeja de goteo de doble altura (acepta tazas de hasta 13 cm), Thermoblock de 15 bares y portafiltro de 51 mm",
     ],
-    rating: "4.5",
-    reviewsCount: "18.900+",
     categoryType: "espresso-machine",
     specs: {
       width: "14.9 cm (5.85 in)",
@@ -175,8 +167,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Válvula solenoide de 3 vías que seca la pastilla de café al instante tras terminar el shot",
       "Tanque de agua grande de 1.9 L, portafiltro de 54 mm en acero inoxidable y calentamiento en 3 segundos",
     ],
-    rating: "4.6",
-    reviewsCount: "9.200+",
     categoryType: "espresso-machine",
     specs: {
       width: "19.5 cm (7.7 in)",
@@ -199,8 +189,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "3 ajustes de temperatura de infusión y 3 niveles de pre-infusión en un chasis compacto de 20.7 cm",
       "Incluye portafiltro de 51 mm, tamper pesado de acero, jarra de leche y bandeja de doble nivel",
     ],
-    rating: "4.5",
-    reviewsCount: "1.450+",
     categoryType: "espresso-machine",
     specs: {
       width: "20.7 cm (8.1 in)",
@@ -214,17 +202,15 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
   },
   CASABREWS_3700_ESSENTIAL: {
     id: "casabrews-3700essential",
-    badge: "💰 Mejor Económica < $130 · Superventas Amazon US",
+    badge: "💰 Mejor Económica precio variable en Amazon · Superventas Amazon US",
     title: "CASABREWS 3700Essential — Cafetera Espresso Compacta 20 Bar para Principiantes",
     subtitle:
       "La opción más asequible de CASABREWS en Amazon Estados Unidos con bomba de 20 bares, tanque de 1.3 L, calentador de tazas superior y lanceta de vapor de acero inoxidable.",
     features: [
-      "Relación calidad-precio imbatible para tu primer rincón de café sin gastar más de $130-$140",
+      "Relación calidad-precio imbatible para tu primer rincón de café sin gastar más de precio variable en Amazon",
       "Filtros presurizados de 51 mm que garantizan crema espesa incluso con café pre-molido de supermercado",
       "Tanque transparente extraíble de 43 oz (1.3 L) y protección automática contra sobrecalentamiento",
     ],
-    rating: "4.4",
-    reviewsCount: "7.500+",
     categoryType: "espresso-machine",
     specs: {
       width: "15.8 cm (6.2 in)",
@@ -238,7 +224,7 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
   },
   DELONGHI_STILOSA: {
     id: "delonghi-stilosa",
-    badge: "💵 Mejor por Menos de $100 · Caldera Inox",
+    badge: "💵 Mejor precio variable en Amazon · Caldera Inox",
     title: "De’Longhi Stilosa (EC260BK) — Cafetera Espresso Compacta de 15 Bares con Caldera de Acero",
     subtitle:
       "La puerta de entrada más económica y fiable al espresso en Amazon EE. UU.: caldera de acero inoxidable, portafiltro ergonómico de 51 mm y vaporizador para capuchinos.",
@@ -247,8 +233,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Portafiltro de 51 mm con filtros para 1 y 2 tazas y bandeja abatible para vasos altos de Latte",
       "Tamaño compacto de 20.5 cm de ancho, ideal para apartamentos, estudiantes y presupuestos ajustados",
     ],
-    rating: "4.4",
-    reviewsCount: "14.200+",
     categoryType: "espresso-machine",
     specs: {
       width: "20.5 cm (8.07 in)",
@@ -271,8 +255,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Válvula solenoide comercial de 3 vías y válvula OPV calibrada a 9 bares en la versión norteamericana",
       "Construcción 100% reparable en acero inoxidable cepillado de solo 23 cm de ancho para toda la vida",
     ],
-    rating: "4.5",
-    reviewsCount: "4.600+",
     categoryType: "espresso-machine",
     specs: {
       width: "23.0 cm (9.0 in)",
@@ -295,8 +277,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Pantalla digital para programar temperatura de extracción, temperatura de vapor y segundos de pre-infusión",
       "Manómetro frontal de presión y lanceta de vapor articulada de 270° para practicar Latte Art",
     ],
-    rating: "4.5",
-    reviewsCount: "1.200+",
     categoryType: "espresso-machine",
     specs: {
       width: "23.0 cm (9.0 in)",
@@ -319,8 +299,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Prepara Espresso doble/cuádruple, Cold Pressed Espresso y Café de Filtro equilibrado en una sola máquina",
       "Espumador automático Dual Froth con batidor integrado en la jarra para espuma fría y caliente",
     ],
-    rating: "4.7",
-    reviewsCount: "2.300+",
     categoryType: "espresso-machine",
     specs: {
       width: "33.0 cm (Todo-en-1)",
@@ -343,8 +321,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Muelas cónicas europeas M2 de acero endurecido de 40 mm fabricadas en Liechtenstein",
       "Incluye vaso dosificador metálico con adaptador para portafiltros de 54 mm y 58 mm (y compatible con 51 mm)",
     ],
-    rating: "4.6",
-    reviewsCount: "5.400+",
     categoryType: "grinder",
     queryUS: "Baratza Encore ESP Electric Conical Burr Coffee Grinder",
     queryES: "Baratza Encore ESP Molinillo de Café Espresso",
@@ -361,8 +337,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Tecnología antiestática integrada y tolva Single Dose para retención mínima de café molido",
       "Tapa que funciona como medidor volumétrico de granos y parada automática inteligente",
     ],
-    rating: "4.4",
-    reviewsCount: "2.800+",
     categoryType: "grinder",
     queryUS: "Fellow Opus Conical Burr Coffee Grinder Espresso",
     queryES: "Fellow Opus Molinillo de Café Muelas Cónicas Espresso",
@@ -379,8 +353,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Dial micrométrico continuo (Stepless) que permite ajustes infinitos al milímetro",
       "Generador de iones de plasma en el conducto de salida que elimina la estática y retención (< 0.1 g)",
     ],
-    rating: "4.7",
-    reviewsCount: "980+",
     categoryType: "grinder",
     queryUS: "MiiCoffee DF54 Single Dose Flat Burr Coffee Grinder",
     queryES: "DF54 Single Dose Flat Burr Molinillo Café Espresso 54mm",
@@ -395,10 +367,8 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
     features: [
       "Ajuste externo de 60 clics por vuelta (16 micras por clic) capaz de calibrar cualquier portafiltro Bottomless",
       "Se guarda dentro de un cajón o junto a tu cafetera ocupando 0 cm de enchufes en la cocina",
-      "Calidad de molienda comparable a molinos eléctricos de más de $300 por una fracción de su precio",
+      "Calidad de molienda comparable a molinos eléctricos de más de precio variable en Amazon por una fracción de su precio",
     ],
-    rating: "4.8",
-    reviewsCount: "3.100+",
     categoryType: "grinder",
     queryUS: "KINGrinder K6 Manual Hand Coffee Grinder Espresso",
     queryES: "KINGrinder K6 Molinillo de Café Manual Espresso",
@@ -415,8 +385,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Jarra de acero inoxidable con pico vertedor de barista profesional incluida en un solo equipo",
       "Control digital LED con calentamiento preciso a 65 °C sin quemar las proteínas de la leche",
     ],
-    rating: "4.6",
-    reviewsCount: "2.400+",
     categoryType: "frother",
     queryUS: "Dreo BaristaMaker Milk Frother Latte Art Microfoam",
     queryES: "Dreo BaristaMaker Espumador de Leche Latte Art",
@@ -433,8 +401,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Versión V2 Lithium recargable por USB-C e impermeable IP4, o versión PRO automática de sobremesa",
       "Complemento perfecto si quieres espumar la leche al mismo tiempo que extraes el espresso en tu cafetera",
     ],
-    rating: "4.5",
-    reviewsCount: "3.600+",
     categoryType: "frother",
     queryUS: "Subminimal NanoFoamer Lithium Milk Frother Microfoam",
     queryES: "Subminimal NanoFoamer V2 Lithium Espumador Microespuma",
@@ -451,8 +417,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Dimensiones mini (~10×10 cm) para que no sobresalga ni vibre sobre la rejilla de goteo de tu cafetera",
       "Batería de litio recargable por USB-C, superficie resistente a salpicaduras y alfombrilla de silicona térmica",
     ],
-    rating: "4.6",
-    reviewsCount: "4.200+",
     categoryType: "scale",
     queryUS: "Mini Espresso Scale with Timer 0.1g Rechargeable",
     queryES: "Báscula Café Espresso Mini con Temporizador 0.1g USB",
@@ -469,8 +433,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Permite visualizar la extracción en vivo para corregir el channeling y obtener crema avellana tigreada",
       "Combínalo con Tamper con muelle de 51 mm, distribuidor de agujas WDT 0.3 mm y Puck Screen de 51 mm",
     ],
-    rating: "4.6",
-    reviewsCount: "5.800+",
     categoryType: "accessory-51mm",
     queryUS: "51mm Bottomless Portafilter 3 Ears Delonghi Dedica Casabrews",
     queryES: "Portafiltro Sin Fondo 51mm 3 Orejas Delonghi Dedica Casabrews",
@@ -487,8 +449,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Portafiltro sin fondo de 54 mm (3 orejas Breville) con cesta no presurizada de 18-20 g",
       "Puck Screen de acero inoxidable 1.7 mm que mantiene la ducha de tu Bambino impecable tras cada café",
     ],
-    rating: "4.7",
-    reviewsCount: "7.100+",
     categoryType: "accessory-54mm",
     queryUS: "54mm Bottomless Portafilter and 53.3mm Calibrated Tamper Breville Bambino",
     queryES: "Portafiltro Sin Fondo 54mm y Tamper Calibrado 53.3mm Sage Bambino",
@@ -505,8 +465,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Distribuidor de agujas WDT de 0.3 mm y anillo dosificador magnético de aluminio anodizado",
       "Puck Screen de 58.5 mm y alfombrilla de silicona esquinera para proteger la encimera al prensar",
     ],
-    rating: "4.8",
-    reviewsCount: "4.300+",
     categoryType: "accessory-58mm",
     queryUS: "58.5mm Spring Loaded Calibrated Tamper WDT Tool Puck Screen 58mm",
     queryES: "Tamper Calibrado 58.5mm WDT Puck Screen 58mm Espresso",
@@ -523,8 +481,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Detergente Urnex Cafiza para backflushing y remojo de cestas, filtros presurizados y puck screens",
       "Alarga la vida útil de la bomba de 15/20 bares, restaura la presión del vapor y apaga la alerta de descalcificación",
     ],
-    rating: "4.8",
-    reviewsCount: "38.500+",
     categoryType: "cleaning-beans",
     queryUS: "De'Longhi EcoDecalk Descaler and Urnex Cafiza Espresso Cleaner",
     queryES: "De'Longhi EcoDecalk Descalcificador y Urnex Cafiza Limpiador Espresso",
@@ -541,8 +497,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Ideal tanto para filtros presurizados (con molino económico) como para portafiltros Bottomless de 51 y 54 mm",
       "Acompáñalo con un bote hermético al vacío (Fellow Atmos / Airscape) para conservar la frescura 3 veces más tiempo",
     ],
-    rating: "4.6",
-    reviewsCount: "46.000+",
     categoryType: "cleaning-beans",
     queryUS: "Lavazza Super Crema Whole Bean Coffee Espresso 2.2 lb",
     queryES: "Lavazza Super Crema Café en Grano para Espresso 1kg",
@@ -559,8 +513,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Knock Box compacto con barra de goma silenciosa amortiguadora para descargar la pastilla de un golpe",
       "Tapete de silicona antideslizante que protege la encimera durante el prensado con el tamper",
     ],
-    rating: "4.7",
-    reviewsCount: "6.100+",
     categoryType: "accessory-51mm",
     queryUS: "Espresso Knock Box Mini Milk Frothing Pitcher 12oz Tamping Mat",
     queryES: "Knock Box Café Espresso Compacto Jarra Leche 350ml Barista",
@@ -695,7 +647,7 @@ export function getContextualAmazonProducts(
     return {
       sectionTitle: "Las Reinas del Espresso Económico en Amazon: De’Longhi Stilosa y CASABREWS CM5418",
       sectionSubtitle:
-        "Ideales para estrenar tu primer rincón de café en casa con presupuesto inferior a $100-$150.",
+        "Ideales para estrenar tu primer rincón de café en casa con presupuesto inferior a precio variable en Amazon.",
       products: [
         CATALOG.DELONGHI_STILOSA,
         CATALOG.CASABREWS_CM5418,

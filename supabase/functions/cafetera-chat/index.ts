@@ -60,8 +60,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "CASABREWS CM5418 — Cafetera Espresso Compacta 20 Bar en Acero Inoxidable con Manómetro",
     subtitle:
       "Solo 15 cm de ancho, manómetro de presión frontal en vivo, lanceta de vapor articulada y portafiltro de 51 mm (3 orejas).",
-    rating: "4.5",
-    reviewsCount: "11.400+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("CASABREWS CM5418 Espresso Machine 20 Bar Stainless Steel")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("CASABREWS CM5418 Cafetera Espresso 20 Bar Acero Inoxidable")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -71,8 +69,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "Breville Bambino (BES450) — Cafetera Espresso Compacta ThermoJet con Portafiltro 54 mm",
     subtitle:
       "Calienta en 3 segundos (ThermoJet), control electrónico PID a 93 °C, válvula OPV a 9 bares reales y grupo de 54 mm.",
-    rating: "4.6",
-    reviewsCount: "6.800+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Breville Bambino Espresso Machine BES450BSS")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Sage the Bambino Cafetera Espresso Compacta Acero Inoxidable")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -82,8 +78,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "De’Longhi Dedica Arte (EC885M) — Cafetera Espresso Ultra-Delgada 15 cm con Lanceta Barista",
     subtitle:
       "Chasis metálico de 14.9 cm de ancho con lanceta de vapor comercial MyLatte Art, jarra de leche, tamper metálico y grupo de 51 mm.",
-    rating: "4.5",
-    reviewsCount: "18.900+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("De'Longhi Dedica Arte Espresso Machine EC885M")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("De'Longhi Dedica Arte EC885.M Cafetera Espresso")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -93,8 +87,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "Breville Bambino Plus (BES500) — Espresso Compacta con Espumador de Leche Automático MilQ",
     subtitle:
       "ThermoJet de 3 s + vaporizador automático MilQ manos libres con sensor térmico + válvula solenoide de 3 vías.",
-    rating: "4.6",
-    reviewsCount: "9.200+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Breville Bambino Plus Espresso Machine BES500BSS")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Sage the Bambino Plus Cafetera Espresso Automática")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -104,8 +96,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "Baratza Encore ESP — Molino de Café Compacto de Muelas Cónicas Especial para Espresso",
     subtitle:
       "20 micro-ajustes de alta resolución para calibrar espresso en tu Bambino, Dedica o Casabrews + 20 ajustes para filtro.",
-    rating: "4.6",
-    reviewsCount: "5.400+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Baratza Encore ESP Electric Conical Burr Coffee Grinder")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Baratza Encore ESP Molinillo de Café Espresso")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -115,8 +105,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "Fellow Opus Conical Burr Grinder — Molino de Café Compacto Antiestático para Espresso",
     subtitle:
       "Solo 12.9 cm de ancho con muelas C6-40 de 6 cuchillas, tecnología antiestática y tolva Single Dose.",
-    rating: "4.4",
-    reviewsCount: "2.800+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Fellow Opus Conical Burr Coffee Grinder Espresso")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Fellow Opus Molinillo de Café Muelas Cónicas Espresso")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -126,8 +114,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "Dreo BaristaMaker Milk Frother — Espumador de Leche Inteligente para Microespuma y Latte Art",
     subtitle:
       "Impulsor patentado de 2 etapas y jarra de acero inoxidable que crea microespuma de 0.5 mm a 65 °C para dibujar Latte Art.",
-    rating: "4.6",
-    reviewsCount: "2.400+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Dreo BaristaMaker Milk Frother Latte Art Microfoam")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Dreo BaristaMaker Espumador de Leche Latte Art")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -137,8 +123,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "TIMEMORE Black Mirror Mini / SearchPean Tiny 2S — Báscula Digital Compacta para Espresso",
     subtitle:
       "Báscula ultra-delgada (~10×10 cm) con sensibilidad de 0.1 g y cronómetro automático al caer la primera gota.",
-    rating: "4.6",
-    reviewsCount: "4.200+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Mini Espresso Scale with Timer 0.1g Rechargeable")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Báscula Café Espresso Mini con Temporizador 0.1g USB")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -148,8 +132,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "Portafiltro Bottomless 51 mm (3 Orejas) + Tamper Calibrado 51 mm + WDT y Embudo Magnético",
     subtitle:
       "Kit completo de 51 mm (3 orejas) compatible con CASABREWS CM5418 y De’Longhi Dedica Arte EC885M / EC685M.",
-    rating: "4.6",
-    reviewsCount: "5.800+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("51mm Bottomless Portafilter 3 Ears Delonghi Dedica Casabrews")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Portafiltro Sin Fondo 51mm 3 Orejas Delonghi Dedica Casabrews")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -159,8 +141,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "Portafiltro Bottomless 54 mm + Tamper Calibrado Normcore V4 (53.3 mm) + Embudo y Puck Screen",
     subtitle:
       "Accesorios de precisión diseñados al milímetro para el grupo de 54 mm de la Breville Bambino y Bambino Plus.",
-    rating: "4.7",
-    reviewsCount: "7.100+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("54mm Bottomless Portafilter and 53.3mm Calibrated Tamper Breville Bambino")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Portafiltro Sin Fondo 54mm y Tamper Calibrado 53.3mm Sage Bambino")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -569,7 +549,7 @@ Deno.serve(async (req: Request) => {
 
 Tu doble misión es:
 1. RESPONDER TODAS LAS DUDAS DEL USUARIO con precisión barista:
-   - Comparar CASABREWS CM5418 (15 cm, 20 Bar con manómetro frontal, portafiltro 51 mm 3 orejas, ~$139, mejor calidad-precio), Breville Bambino BES450 (19.5 cm, ThermoJet 3 segundos, PID digital + válvula OPV 9 bares reales, portafiltro 54 mm / tamper 53.3 mm, ~$299, mejor calidad barista), Breville Bambino Plus BES500 (vapor automático MilQ + solenoide) y De’Longhi Dedica Arte EC885M (14.9 cm ultra-delgada, lanceta profesional MyLatte Art, 51 mm 3 orejas, ~$229).
+   - Comparar CASABREWS CM5418, Breville Bambino BES450, Breville Bambino Plus BES500 (vapor automático MilQ + solenoide) y De’Longhi Dedica Arte EC885M.
    - Recomendar molinos (Baratza Encore ESP, Fellow Opus, Turin DF54, KINGrinder K6), espumadores (Dreo BaristaMaker, Subminimal NanoFoamer), básculas mini (TIMEMORE Black Mirror Mini 0.1g) y accesorios compatibles cuidando siempre los milímetros (51 mm vs 54 mm vs 58 mm).
    - Enlazar en tu respuesta a entre 1 y 3 guías de nuestro listado inferior usando Markdown exacto: [Título](${SITE}/categoria/slug/) e incluir sus slugs en "recommended_slugs".
 2. AYUDAR ACTIVAMENTE A QUE COMPREN EL PRODUCTO IDEAL EN AMAZON (${storeName}):
