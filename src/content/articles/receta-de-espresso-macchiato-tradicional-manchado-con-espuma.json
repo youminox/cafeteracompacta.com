@@ -4,161 +4,124 @@
   "path": "/extraccion-y-recetas-espresso/receta-de-espresso-macchiato-tradicional-manchado-con-espuma/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "diferencia espresso macchiato y latte macchiato",
   "title": "Espresso Macchiato Tradicional vs Latte Macchiato en Vaso Alto de Cristal: Diferencias y Receta",
-  "seoTitle": "Espresso Macchiato Tradicional vs Latte Macchiato en Vaso Alto de Cristal | Guía Barista Compacta",
-  "metaDescription": "Espresso Macchiato Tradicional vs Latte Macchiato en Vaso Alto de Cristal: Diferencias y Receta: El Espresso Macchiato es un shot corto 'manchado' con una cucharadita de espuma; el Latte Macchiato es leche en capas manchada con espresso. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "El Espresso Macchiato es un shot corto 'manchado' con una cucharadita de espuma; el Latte Macchiato es leche en capas manchada con espresso.",
-  "quickAnswer": "Sobre diferencia espresso macchiato y latte macchiato: El Espresso Macchiato es un shot corto 'manchado' con una cucharadita de espuma; el Latte Macchiato es leche en capas manchada con espresso. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Espresso Macchiato Tradicional vs Latte Macchiato en Vaso Alto de Cristal: Diferencias y Receta | cafeteracompacta.com",
+  "metaDescription": "Entiende la diferencia entre espresso macchiato y latte macchiato: proporciones de leche, temperatura de texturizado y orden de vertido paso a paso.",
+  "excerpt": "Compara técnicamente el caffé macchiato italiano de 60 ml frente al latte macchiato tricapa de 250 ml: densidades térmicas, texturizado con lanceta y recetas exactas en casa.",
+  "quickAnswer": "La diferencia entre espresso macchiato y latte macchiato radica en la base líquida y el orden de servicio: el espresso macchiato parte de **30 a 36 g** de café en taza demitasse coronados con solo **15 ml** de microespuma para redondear su acidez. En cambio, el latte macchiato utiliza **180 ml** de leche vaporizada a **62 °C** en vaso alto de cristal que se mancha después vertiendo lentamente **30 g** de espresso.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: El Espresso Macchiato es un shot corto 'manchado' con una cucharadita de espuma; el Latte Macchiato es leche en capas manchada con espresso., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Close inspection angle highlighting materials, latches and finish: realistic scene illustrating 'Espresso Macchiato Tradicional vs Latte Macchiato en Vaso Alto de Cristal: Diferencias y Receta' (diferencia espresso macchiato y latte macchiato) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, on a solid oak workbench in a tidy modern home space, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Espresso Macchiato Tradicional vs Latte Macchiato en Vaso Alto de Cristal: Diferencias y Receta"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **diferencia espresso macchiato y latte macchiato** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. El Espresso Macchiato es un shot corto 'manchado' con una cucharadita de espuma; el Latte Macchiato es leche en capas manchada con espresso."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Pedir un «macchiato» a secas en una barra de Milán y recibir una taza diminuta de porcelana con apenas una cucharadita de espuma sobre un espresso intenso sorprende a quienes esperaban un vaso alto de cristal con tres capas blancas y marrones. Confundir ambas bebidas es frecuente porque comparten el participio italiano *macchiato* («manchado»), pero representan dos conceptos opuestos de barra. Comprender la **diferencia espresso macchiato y latte macchiato** —tanto en volumen como en química de las proteínas lácteas, según detallamos en nuestro [manual de bebidas y extracción espresso](/extraccion-y-recetas-espresso/)— te permitirá aprovechar al máximo la lanceta de vapor de tu **De’Longhi Dedica Arte (EC885M)**, **Breville Bambino (BES450)** o **CASABREWS CM5418** para preparar cualquiera de las dos recetas con precisión profesional."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: diferencia espresso macchiato y latte macchiato"
+      "text": "Qué se mancha en cada receta: café manchado con leche vs leche manchada con café"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **diferencia espresso macchiato y latte macchiato** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: diferencia espresso macchiato y latte macchiato",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "El Espresso Macchiato es un shot corto 'manchado' con una cucharadita de espuma; el Latte Macchiato es leche en capas manchada con espresso.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "En el **Espresso Macchiato tradicional** (o *Caffè Macchiato*), el protagonista absoluto es un espresso sencillo de **25 a 30 g** o doble de **36 g** servido en una taza demitasse de **60 a 90 ml**. La leche cumple únicamente la función de un modificador sensorial: se depositan entre **10 y 15 ml** de microespuma sedosa en el centro de la crema para amortiguar el impacto táctil y redondear la acidez sin ocultar el origen del grano. Para que esa «mancha» blanca flote sobre la superficie dorada del café es fundamental saber [distinguir la crema real de microburbujas frente a la espuma falsa](/extraccion-y-recetas-espresso/por-que-sale-demasiada-crema-falsa-con-burbujas-grandes/) y, si prefieres la medida clásica italiana de un solo tiro, puedes [dividir dos espressos idénticos con el portafiltro de doble salida](/extraccion-y-recetas-espresso/como-hacer-dos-espressos-individuales-con-el-portafiltro-de-dos-salidas/). Por el contrario, en el **Latte Macchiato**, el lienzo es un vaso alto de cristal de **240 a 300 ml** lleno con **180 a 200 ml** de leche vaporizada y una corona gruesa de espuma que posteriormente se «mancha» vertiendo un shot de espresso lento que queda suspendido entre la leche líquida inferior y la espuma superior."
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de barista sobre diferencia espresso macchiato y latte macchiato",
-      "text": "El Espresso Macchiato es un shot corto 'manchado' con una cucharadita de espuma; el Latte Macchiato es leche en capas manchada con espresso. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "Para que el espresso quede flotando exactamente en el medio del vaso de cristal en un Latte Macchiato, la leche debe estar a unos 60–62 °C y haber reposado 30 segundos en el vaso antes de verter el café. Si la leche está demasiado fría o no se ha separado de su capa superior de espuma, el espresso se mezclará con todo el líquido y perderás las tres franjas visuales.",
+      "title": "La física detrás de las tres capas del Latte Macchiato en vaso de cristal"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar diferencia espresso macchiato y latte macchiato hoy mismo en tu cocina"
+      "text": "Tabla comparativa técnica: Espresso Macchiato vs Latte Macchiato vs Cortado"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "table",
+      "headers": [
+        "Especificación técnica",
+        "Espresso Macchiato Tradicional",
+        "Latte Macchiato en Vaso Alto",
+        "Cortado / Piccolo Latte (Referencia)"
+      ],
+      "rows": [
+        [
+          "Base de café espresso",
+          "30 a 36 g (Protagonista: 70–80 % del volumen)",
+          "25 a 35 g (Mancha: 15 % del volumen total)",
+          "30 a 36 g (Equilibrio 1:1 o 1:1.5 con leche)"
+        ],
+        [
+          "Volumen y textura de leche",
+          "10 a 15 ml de microespuma densa (1–1.5 cm)",
+          "180 a 200 ml de leche muy aireada y cremosa",
+          "35 a 45 ml de leche líquida sedosa con poca espuma"
+        ],
+        [
+          "Orden de ensamblaje",
+          "1.º Espresso en taza → 2.º Toque de espuma encima",
+          "1.º Leche espumada en vaso → 2.º Espresso vertido lento",
+          "1.º Espresso en vaso corto → 2.º Leche integrada"
+        ],
+        [
+          "Vajilla y capacidad ideal",
+          "Taza demitasse de porcelana de 60 a 90 ml",
+          "Vaso alto de cristal templado de 250 a 300 ml",
+          "Vasito de cristal de 100 a 130 ml"
+        ]
+      ],
+      "caption": "Diferencias de proporción, temperatura y servicio entre las tres bebidas manchadas"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo ejecutar cada receta paso a paso con la lanceta de tu cafetera compacta"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "1. Texturizado diferenciado en jarra de acero de 350 ml",
+          "text": "Purga la lanceta de tu **Breville Bambino**, **Dedica Arte** o **CASABREWS CM5418**. Para un **Espresso Macchiato**, introduce aire apenas **2 a 3 segundos** y emulsiona hasta **60 °C**; para un **Latte Macchiato**, estira la leche con el siseo superficial durante **5 a 7 segundos** para crear una capa más gruesa de espuma y calienta hasta **63 °C**."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "2. Ejecución del Espresso Macchiato clásico en demitasse",
+          "text": "Extrae **30 a 36 g** de espresso en una taza pequeña precalentada. Da un golpe suave a la jarra de leche, gira para brillar la emulsión y vierte un pequeño círculo central de **15 ml** de microespuma (o deposítalo con una cucharilla) dejando visible el anillo marrón de crema alrededor."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "3. Ejecución del Latte Macchiato tricapa en vaso de cristal",
+          "text": "Vierte los **200 ml** de leche vaporizada en el vaso alto de cristal y espera **30 a 40 segundos** mientras extraes el café; durante esa pausa, la leche líquida densa baja al fondo y la espuma seca sube. Vierte lentamente **30 g** de espresso caliente en el centro con una jarrita de pico fino para perforar la espuma y formar el anillo intermedio."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con diferencia espresso macchiato y latte macchiato en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Si necesitas una jarra de leche de acero inoxidable con marcas internas o vasos de doble pared para lucir tus capas, consulta a nuestro Asesor IA o revisa las tarjetas de Amazon integradas en la página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre diferencia espresso macchiato y latte macchiato?",
-      "a": "El Espresso Macchiato es un shot corto 'manchado' con una cucharadita de espuma; el Latte Macchiato es leche en capas manchada con espresso. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué el café se queda flotando en el medio en un Latte Macchiato?",
+      "a": "Porque el espresso recién extraído a **65–70 °C** es menos denso que la leche líquida inferior (que contiene lactosa y sólidos disueltos a **60 °C**), pero mucho más pesado que la capa superior de espuma llena de aire. Al verterlo despacio, se estabiliza exactamente en la frontera entre ambas fases."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cuánta leche debo poner en la jarra si solo quiero manchar un Espresso Macchiato?",
+      "a": "Como el volumen final del Espresso Macchiato es solo una cucharada de microespuma, no necesitas desperdiciar leche: usa una jarra pequeña de **150 a 250 ml** (o de **350 ml** inclinada a **45 grados**) con **80 a 100 ml** de leche fría para que la boquilla de la lanceta quede sumergida sin salpicar."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Se puede hacer un Latte Macchiato por capas usando leche de avena?",
+      "a": "Sí, la bebida de avena **versión Barista** (que incorpora aceites vegetales y reguladores de acidez como fosfato dipotásico) logra las tres capas sin cortarse. Solo recuerda no superar los **60 °C** al vaporizar y dejar reposar la leche en el vaso **45 segundos** antes de verter el espresso."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/receta-de-caramel-macchiato-casero-estilo-starbucks/",
     "/extraccion-y-recetas-espresso/receta-de-affogato-al-caffe-italiano-con-helado-de-vainilla/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/receta-de-shakerato-italiano-espresso-agitado-con-hielo/",
+    "/extraccion-y-recetas-espresso/por-que-sale-demasiada-crema-falsa-con-burbujas-grandes/",
+    "/extraccion-y-recetas-espresso/como-hacer-dos-espressos-individuales-con-el-portafiltro-de-dos-salidas/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/receta-de-espresso-macchiato-tradicional-manchado-con-espuma.webp"
 }

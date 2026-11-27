@@ -4,161 +4,120 @@
   "path": "/espumadores-y-latte-art/velocidad-de-vertido-en-latte-art-cuando-ir-lento-y-cuando-acelerar/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "velocidad de vertido en latte art",
   "title": "Control de Caudal en Latte Art: Lento al Mezclar la Base, Rápido al Dibujar en Superficie",
-  "seoTitle": "Control de Caudal en Latte Art | Guía Barista Compacta",
-  "metaDescription": "Control de Caudal en Latte Art: Lento al Mezclar la Base, Rápido al Dibujar en Superficie: Si viertes demasiado lento al bajar el pico, la espuma se queda en el sitio; necesitas un caudal decidido para que la leche avance por la taza. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Si viertes demasiado lento al bajar el pico, la espuma se queda en el sitio; necesitas un caudal decidido para que la leche avance por la taza.",
-  "quickAnswer": "Sobre velocidad de vertido en latte art: Si viertes demasiado lento al bajar el pico, la espuma se queda en el sitio; necesitas un caudal decidido para que la leche avance por la taza. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Control de Caudal en Latte Art: Lento al Mezclar la Base, Rápido al Dibujar en Superficie | cafeteracompacta.com",
+  "metaDescription": "Domina la velocidad de vertido en latte art: caudales exactos en ml/s para perforar la crema en la base, acelerar al dibujar en superficie y cortar limpio.",
+  "excerpt": "Aprende a modular el caudal y la altura de la jarra en las 3 fases del vertido para que la microespuma no se hunda bajo la crema ni manche el fondo marrón del espresso.",
+  "quickAnswer": "La **velocidad de vertido en latte art** exige tres ritmos distintos: un caudal lento y constante (**15 a 20 ml/s** desde **8 cm** de altura) para perforar la crema sin mancharla; una aceleración firme (**35 a 45 ml/s** rozando la superficie a **0.5 cm**) para que la microespuma flote y dibuje; y una desaceleración a hilo fino (**10 ml/s**) al levantar la jarra para cortar la figura.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Si viertes demasiado lento al bajar el pico, la espuma se queda en el sitio; necesitas un caudal decidido para que la leche avance por la taza., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Wide environmental domestic interior shot on 24mm lens: realistic scene illustrating 'Control de Caudal en Latte Art: Lento al Mezclar la Base, Rápido al Dibujar en Superficie' (velocidad de vertido en latte art) for cafeteracompacta.com, featuring equipment in warm sand beige with matte black hardware, in a bright family home interior with clean architectural lines, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Control de Caudal en Latte Art: Lento al Mezclar la Base, Rápido al Dibujar en Superficie"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **velocidad de vertido en latte art** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Si viertes demasiado lento al bajar el pico, la espuma se queda en el sitio; necesitas un caudal decidido para que la leche avance por la taza."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Espumadores Y Latte Art](/espumadores-y-latte-art/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Consigues una microespuma brillante y elástica en tu **Breville Bambino (BES450)**, en tu **CASABREWS CM5418** o siguiendo nuestra guía para [sacar microespuma perfecta en el Dreo BaristaMaker](/espumadores-y-latte-art/como-usar-dreo-baristamaker-para-hacer-latte-art/), pero en el momento de inclinar la jarra sobre la taza ocurre siempre uno de dos extremos: o toda la taza se tiñe de un beige grisáceo sin contraste antes de que puedas dibujar, o bajas el pico y la leche sigue hundiéndose sin dejar ni rastro de blanco en la superficie. El secreto que separa ambos resultados es la **velocidad de vertido en latte art**: entender cómo el caudal en mililitros por segundo (**ml/s**) y la altura de caída controlan si la microespuma perfora la crema o flota sobre ella."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: velocidad de vertido en latte art"
+      "text": "Hidrodinámica en la taza: cómo se relacionan la altura y el caudal (ml/s)"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **velocidad de vertido en latte art** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Cuando viertes leche texturizada sobre un espresso doble de **36 g** extraído a **9 bares** en una taza semiesférica de **180 ml a 220 ml**, gobiernas la energía cinética del chorro mediante dos variables: la altura del pico y el caudal volumétrico. En la primera fase (creación del lienzo), debes mantener el pico a **7–10 cm** de altura con un caudal lento y contenido de **15 a 20 ml/s** (un chorro del grosor de un lápiz, de **3 a 4 mm**); así el líquido adquiere velocidad vertical suficiente para perforar la crema marrón y sumergirse sin mancharla de blanco. Cuando la taza alcanza el **65 % de su capacidad**, haces una micropausa de **0.5 segundos**, bajas el pico a menos de **0.5 cm** del café y duplicas la velocidad de vertido hasta **35 a 45 ml/s**. Ese caudal alto con caída nula frena la penetración vertical y empuja la microespuma horizontalmente sobre la superficie, técnica imprescindible al [dibujar tu primer corazón de latte art paso a paso](/espumadores-y-latte-art/como-hacer-tu-primer-corazon-de-latte-art-paso-a-paso/) después de [elegir entre una jarra de 350 ml, 450 ml o 600 ml](/espumadores-y-latte-art/que-tamano-de-jarra-elegir-350ml-12oz-vs-450ml-15oz-vs-600ml/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: velocidad de vertido en latte art",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Fase del vertido",
+        "Caudal objetivo (ml/s)",
+        "Altura del pico al café",
+        "Grosor del chorro",
+        "Comportamiento físico en la taza"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Si viertes demasiado lento al bajar el pico, la espuma se queda en el sitio; necesitas un caudal decidido para que la leche avance por la taza.",
-          "Mejora la consistencia y evita errores de extracción"
+          "1. Mezcla del lienzo (Base)",
+          "15 a 20 ml/s (Lento y constante)",
+          "7 cm a 10 cm de altura",
+          "3 a 4 mm (tipo lápiz)",
+          "Atraviesa la crema y eleva la densidad del fondo sin manchar"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "2. Micropausa de transición",
+          "0 ml/s (Pausa de 0.5 segundos)",
+          "Bajada rápida hacia la taza",
+          "Sin chorro",
+          "Estabiliza las corrientes internas antes de dibujar"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "3. Marcado en superficie (Dibujo)",
+          "35 a 45 ml/s (Aceleración firme)",
+          "0.3 cm a 0.5 cm (rozando)",
+          "8 a 10 mm (caudal ancho)",
+          "La microespuma flota y se expande en ondas blancas nítidas"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "4. Corte final (Draw-through)",
+          "8 a 12 ml/s (Hilo muy fino)",
+          "Elevación a 5 cm de altura",
+          "1.5 a 2 mm (hilo fino)",
+          "Corta la simetría de la figura sin arrastrar ni deformar los bordes"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre velocidad de vertido en latte art",
-      "text": "Si viertes demasiado lento al bajar el pico, la espuma se queda en el sitio; necesitas un caudal decidido para que la leche avance por la taza. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Matriz técnica de caudal, altura y grosor del chorro en las 4 fases del Latte Art"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar velocidad de vertido en latte art hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con velocidad de vertido en latte art en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Los tres fallos de caudal que arruinan el contraste blanco sobre marrón"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Verter demasiado rápido durante la base (>30 ml/s):** Si abres un chorro grueso y caudaloso desde el primer segundo, la turbulencia rompe la tensión superficial de la crema del espresso y aflora espuma blanca por toda la taza, dejando un fondo pálido sin contraste donde el dibujo final apenas se distingue.",
+        "**Conservar un caudal tímido al bajar a la superficie (<20 ml/s):** Es el reflejo de miedo más frecuente en casa: acercas bien la jarra al café, pero viertes tan despacio que a la microespuma le falta empuje para salir del pico y abrirse paso sobre la crema, hundiéndose hasta el último segundo.",
+        "**No reducir el caudal al levantar para cortar la figura:** Si atraviesas el corazón o la rosetta manteniendo el chorro grueso de **40 ml/s** de la fase de dibujo, hundirás el centro de la figura y arrastrarás la espuma hacia el borde opuesto de la taza."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Ejercicio de entrenamiento en frío con agua y báscula para calibrar tu muñeca"
     },
     {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "callout",
+      "variant": "tip",
+      "text": "Para memorizar muscularmente el cambio de velocidad sin gastar litros de leche, coloca una taza de **200 ml** sobre tu báscula digital de café en cero y llena tu jarra de **450 ml** con **160 g de agua**. Practica este ritmo con el cronómetro: vierte los primeros **80 g en exactamente 4 segundos** desde **8 cm** de altura (caudal lento de **20 g/s**); detente **medio segundo** mientras bajas el pico al borde de la taza; y vierte los siguientes **60 g en solo 1.5 segundos** (caudal rápido de **40 g/s**), terminando con un hilo fino de **10 g en 1 segundo** al levantar. Tras cinco repeticiones en agua, tu muñeca ejecutará la aceleración de forma automática con leche real.",
+      "title": "Entrenamiento de caudal 20 g/s vs 40 g/s sobre la báscula de espresso"
+    },
+    {
+      "type": "cta",
+      "text": "¿Necesitas una jarra barista bien balanceada o una báscula con cronómetro de respuesta rápida para entrenar tu control de caudal? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre velocidad de vertido en latte art?",
-      "a": "Si viertes demasiado lento al bajar el pico, la espuma se queda en el sitio; necesitas un caudal decidido para que la leche avance por la taza. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Hasta dónde debo llenar la taza a velocidad lenta antes de acelerar para dibujar?",
+      "a": "Debes detener la fase de base y bajar el pico cuando la taza alcance entre el **60 % y el 70 % de su capacidad total** (en una taza de **180 ml**, cuando hayas vertido unos **75–85 ml** de leche sobre los **36 ml** de espresso). Si esperas al **80 %**, la taza se desbordará antes de terminar la figura."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué la espuma blanca solo sale cuando acelero la velocidad de vertido?",
+      "a": "Porque al inicio la jarra está inclinada apenas **20 o 30 grados** y la microespuma flotante aún queda retenida detrás de la curvatura del pico. Al acelerar el caudal a **35–45 ml/s** e inclinar más la jarra, obligas a la capa superior de espuma densa a superar el umbral del pico y deslizarse sobre la crema."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Influye la forma del pico de la jarra en la velocidad de vertido?",
+      "a": "Un **pico redondo y ancho** libera un caudal alto (**40 ml/s**) con menor inclinación de muñeca, facilitando que broten ondas amplias en corazones y tulipanes. Un **pico afilado** restringe ligeramente el ancho del chorro, exigiendo mayor precisión pero facilitando líneas finas en rosettas."
     }
   ],
   "related": [
-    "/espumadores-y-latte-art/",
-    "/espumadores-y-latte-art/resumen-los-7-errores-que-te-impiden-hacer-latte-art-en-casa/",
-    "/espumadores-y-latte-art/como-hacer-un-babyccino-o-leche-espumada-templada-para-ninos/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/espumadores-y-latte-art/por-que-la-leche-y-la-jarra-deben-estar-frias-de-nevera-4-grados/",
+    "/espumadores-y-latte-art/como-hacer-tu-primer-corazon-de-latte-art-paso-a-paso/",
+    "/espumadores-y-latte-art/que-tamano-de-jarra-elegir-350ml-12oz-vs-450ml-15oz-vs-600ml/",
+    "/espumadores-y-latte-art/como-usar-dreo-baristamaker-para-hacer-latte-art/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/velocidad-de-vertido-en-latte-art-cuando-ir-lento-y-cuando-acelerar.webp"
 }

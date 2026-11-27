@@ -4,161 +4,124 @@
   "path": "/molinos-y-molienda/como-calibrar-molino-para-espresso-paso-a-paso/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como calibrar molino de cafe para espresso",
   "title": "Cómo Calibrar tu Molino de Café para Espresso desde Cero (Dial-In en 3 Intentos)",
-  "seoTitle": "Cómo Calibrar tu Molino de Café para Espresso desde Cero (Dial-In en 3 Intentos) | Guía Barista Compacta",
-  "metaDescription": "Cómo Calibrar tu Molino de Café para Espresso desde Cero (Dial-In en 3 Intentos): Método práctico para encontrar el punto exacto de molienda que extrae 36 g de espresso en 25 a 30 segundos sin desperdiciar medio paquete de café. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Método práctico para encontrar el punto exacto de molienda que extrae 36 g de espresso en 25 a 30 segundos sin desperdiciar medio paquete de café.",
-  "quickAnswer": "Sobre como calibrar molino de cafe para espresso: Método práctico para encontrar el punto exacto de molienda que extrae 36 g de espresso en 25 a 30 segundos sin desperdiciar medio paquete de café. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Cómo Calibrar tu Molino de Café para Espresso desde Cero (Dial-In en 3 Intentos) | cafeteracompacta.com",
+  "metaDescription": "Aprende cómo calibrar tu molino de café para espresso en 3 intentos con ratio 1:2, control de gramos y tiempos de 25 a 30 segundos sin desperdiciar grano.",
+  "excerpt": "Domina el método técnico de dial-in en tres extracciones para fijar la dosis en gramos, ajustar la granulometría según el caudal y clavar el ratio 1:2 en cafeteras espresso compactas de 51 mm y 54 mm.",
+  "quickAnswer": "Para calibrar un molino de café para espresso desde cero, fija una dosis inamovible en báscula (**16 g** en cestas de **51 mm** o **18 g** en **54 mm**) y busca un ratio líquido **1:2** (**32 g** o **36 g**) entre **25 y 30 segundos**. Si el flujo alcanza ese peso antes de **20 segundos**, cierra **2 o 3 clics** hacia fino; si supera **35 segundos**, abre **1 o 2 clics** hacia grueso.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Método práctico para encontrar el punto exacto de molienda que extrae 36 g de espresso en 25 a 30 segundos sin desperdiciar medio paquete de café., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Three-quarter 50mm studio-natural close-up shot: realistic scene illustrating 'Cómo Calibrar tu Molino de Café para Espresso desde Cero (Dial-In en 3 Intentos)' (como calibrar molino de cafe para espresso) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, in a well-organized domestic utility area with natural plants nearby, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Calibrar tu Molino de Café para Espresso desde Cero (Dial-In en 3 Intentos)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como calibrar molino de cafe para espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Método práctico para encontrar el punto exacto de molienda que extrae 36 g de espresso en 25 a 30 segundos sin desperdiciar medio paquete de café."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Abres una bolsa de café en grano de tueste medio recién llegada a casa, cargas el portafiltro de tu **Breville Bambino (BES450)** o **CASABREWS CM5418** y, al pulsar el botón de extracción, un chorro rubio y acuoso llena la taza en apenas **11 segundos**. En el segundo intento cierras el dial del molino al azar y la máquina se bloquea por completo, goteando un líquido negro y amargo tras **45 segundos**. Para salir de esa frustración sin tirar medio paquete a la basura, el proceso técnico de calibración (*dial-in*) exige congelar todas las variables de peso y mover exclusivamente la distancia entre muelas siguiendo una metodología estructurada dentro de nuestro [catálogo de molinos y molienda para espresso](/molinos-y-molienda/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como calibrar molino de cafe para espresso"
+      "text": "Variables Fijas Antes de Tocar el Dial: Dosis, Ratio 1:2 y Purga de Retención"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como calibrar molino de cafe para espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Jamás cambies los gramos de café y el punto de molienda al mismo tiempo. Antes de girar el collarín del molino, clava una dosis fija en báscula con precisión de **0.1 g**: en cestas de **51 mm** (**De’Longhi Dedica Arte EC885M**, **CASABREWS CM5418**) bloquea tu receta en **16.0 g**, mientras que en portafiltros de **54 mm** (**Breville Bambino BES450 y BES500**) fija **18.0 g**. Tu objetivo inicial estándar es un **ratio 1:2** en peso líquido (**32 g** o **36 g** en taza) extraídos entre **25 y 30 segundos** contando desde que activas la bomba. Ten presente que la resistencia hidráulica cambia radicalmente cuando decides [moler para cestas de alta extracción IMS o VST](/molinos-y-molienda/como-moler-para-cestas-de-alta-extraccion-ims-y-vst/) o si tu equipo monta [muelas recubiertas de titanio frente a acero inoxidable](/molinos-y-molienda/molinos-de-muelas-de-titanio-vs-acero-inoxidable/), y recuerda purgar entre **0.5 g y 1.0 g** de grano cada vez que modifiques el dial para expulsar la molienda antigua retenida en el conducto."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: como calibrar molino de cafe para espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Tiempo de Extracción (1:2)",
+        "Comportamiento en Manómetro / Flujo",
+        "Sabor en Taza",
+        "Corrección Exacta en el Molino"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Método práctico para encontrar el punto exacto de molienda que extrae 36 g de espresso en 25 a 30 segundos sin desperdiciar medio paquete de café.",
-          "Mejora la consistencia y evita errores de extracción"
+          "10 a 18 segundos",
+          "Chorro turbulento pálido, presión inferior a 6 bares",
+          "Ácido, salado, acuoso y sin cuerpo",
+          "Cerrar 3 a 4 clics (más fino) con motor encendido"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "19 a 23 segundos",
+          "Flujo rápido que rubia pronto, 7 a 8 bares",
+          "Acidez punzante con dulzor incompleto",
+          "Cerrar 1 a 2 clics (micro-ajuste fino)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "25 a 30 segundos",
+          "Hilo continuo color avellana y miel, 9 bares estables",
+          "Dulce, equilibrado, crema densa y persistente",
+          "Punto óptimo alcanzado (mantener dial fijo)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "35 a 45+ segundos",
+          "Goteo tardío tras 12 s, sobrepasa 11 a 13 bares",
+          "Amargo seco, astringente y hueco",
+          "Abrir 2 clics (más grueso) y purgar 1 g"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre como calibrar molino de cafe para espresso",
-      "text": "Método práctico para encontrar el punto exacto de molienda que extrae 36 g de espresso en 25 a 30 segundos sin desperdiciar medio paquete de café. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Diagnóstico Técnico del Tiro de Prueba para Ratio 1:2 (18 g en Seco -> 36 g en Taza)"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como calibrar molino de cafe para espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Método de Aproximación en 3 Intentos sin Desperdiciar la Bolsa de Grano"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Intento 1: Anclaje en el centro del rango espresso del fabricante",
+          "text": "Sitúa el molino en la mitad exacta de su escala de espresso (por ejemplo, clic 15 en Baratza Encore ESP, nivel 1.75 en Fellow Opus o división 16 desde cero en Turin DF54). Pesa 18.0 g, distribuye con aguja WDT, compacta nivelado y cronometra cuánto tarda en llegar a 36.0 g líquidos."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Intento 2: Salto correctivo proporcional a la desviación de segundos",
+          "text": "En molinos domésticos de precisión con pasos de 16 a 20 micras, cada clic modifica la extracción entre 3 y 5 segundos. Si tu primer tiro terminó en 16 segundos (11 segundos rápido), cierra 3 clics de una sola vez con el motor en marcha y purga 1 g antes de moler la segunda dosis."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Intento 3: Micro-ajuste fino guiado por cata organoléptica",
+          "text": "Una vez situado entre 25 y 30 segundos, deja que el espresso baje a 60 °C y pruébalo. Si notas sequedad áspera en el paladar (sobre-extracción), abre 1 clic; si percibes acidez cítrica agresiva y falta de textura (sub-extracción), cierra 1 último clic."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Ajustes por Envejecimiento del Grano y Nivel de Tueste Durante la Semana"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "A medida que el café tostado libera dióxido de carbono (CO2) al contacto con el aire tras abrir la bolsa, la pastilla ofrece menor resistencia al paso del agua presurizada a 9 bares. Es completamente normal tener que cerrar el molino 1 clic hacia fino cada 5 a 7 días para conservar tus 27 segundos de extracción. Asimismo, los granos de tueste claro son mucho más densos y menos porosos que los tuestes oscuros, por lo que exigen empezar la calibración entre 2 y 3 clics más fino.",
+      "title": "Por qué el mismo número de molienda corre más rápido a los 10 días de abrir el café"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con como calibrar molino de cafe para espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Tienes dudas sobre el punto de partida exacto para tu combinación de cafetera y molino? Consulta ahora a nuestro Asesor IA o revisa la disponibilidad actual de molinos con micro-ajuste para espresso en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como calibrar molino de cafe para espresso?",
-      "a": "Método práctico para encontrar el punto exacto de molienda que extrae 36 g de espresso en 25 a 30 segundos sin desperdiciar medio paquete de café. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cuántos gramos de café es normal gastar al calibrar una bolsa nueva?",
+      "a": "En un molino calibrado para uso doméstico de espresso, una bolsa nueva de 250 g debería requerir entre 2 y 3 tiros (32 g a 54 g en total) si anotas el número de clic del paquete anterior con nivel de tueste similar y aplicas la regla de 3 a 4 segundos por cada clic."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Debo encender el molino antes de girar la rueda de ajuste?",
+      "a": "Sí, al menos cuando cambias hacia un ajuste más fino. Si cierras las muelas con el motor apagado mientras quedan fragmentos de grano duro entre los dientes de corte, forzarás el eje, atascarás el embrague y obtendrás una primera dosis inconsistente hasta que las muelas asienten en su nueva posición."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué hago si un clic va demasiado rápido y el siguiente clic bloquea la cafetera?",
+      "a": "Cuando un tiro corre rápido en 18 segundos y al cerrar un solo clic pasa a gotear en 38 segundos, suele deberse a canalización por exceso de presión o saltos grandes entre clics. Mantén el clic más grueso de los dos y sube la dosis en la cesta 0.5 g (por ejemplo, de 17.5 g a 18.0 g) para ganar unos 3 segundos sin tocar el dial."
     }
   ],
   "related": [
-    "/molinos-y-molienda/",
-    "/molinos-y-molienda/ajuste-baratza-encore-esp-para-breville-bambino/",
-    "/molinos-y-molienda/resumen-tabla-universal-de-clics-de-molinos-para-espresso/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/molinos-de-muelas-de-titanio-vs-acero-inoxidable/",
+    "/molinos-y-molienda/como-moler-para-cestas-de-alta-extraccion-ims-y-vst/",
+    "/molinos-y-molienda/como-evitar-que-el-polvo-de-cafe-caiga-en-la-encimera-al-moler/",
+    "/molinos-y-molienda/como-calibrar-el-molino-integrado-de-la-delonghi-la-specialista-arte/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-calibrar-molino-para-espresso-paso-a-paso.webp"
 }

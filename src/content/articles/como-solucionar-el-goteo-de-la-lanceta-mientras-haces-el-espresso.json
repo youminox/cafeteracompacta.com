@@ -4,161 +4,118 @@
   "path": "/problemas-y-soluciones/como-solucionar-el-goteo-de-la-lanceta-mientras-haces-el-espresso/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "lanceta gotea mientras sale el cafe",
   "title": "Por Qué Caen Gotas por la Lanceta de Vapor Mientras Estás Extrayendo el Café (Válvula de Vapor)",
-  "seoTitle": "Por Qué Caen Gotas por la Lanceta de Vapor Mientras Estás Extrayendo el Café (Válvula de Vapor) | Guía Barista Compacta",
-  "metaDescription": "Por Qué Caen Gotas por la Lanceta de Vapor Mientras Estás Extrayendo el Café (Válvula de Vapor): Comprueba que el pomo o selector lateral de vapor esté cerrado hasta el tope y haz una descalcificación para limpiar el asiento de la válvula. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Comprueba que el pomo o selector lateral de vapor esté cerrado hasta el tope y haz una descalcificación para limpiar el asiento de la válvula.",
-  "quickAnswer": "Sobre lanceta gotea mientras sale el cafe: Comprueba que el pomo o selector lateral de vapor esté cerrado hasta el tope y haz una descalcificación para limpiar el asiento de la válvula. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué Caen Gotas por la Lanceta de Vapor Mientras Estás Extrayendo el Café (Válvula de Vapor) | cafeteracompacta.com",
+  "metaDescription": "¿La lanceta de vapor gotea agua mientras haces el espresso? Aprende a distinguir la condensación residual de una fuga en la válvula o junta por sarro.",
+  "excerpt": "Diagnóstico mecánico del goteo por la boquilla de vapor durante la extracción del café: cómo limpiar cristales de cal en el asiento de la válvula y evitar la pérdida de presión en el portafiltro.",
+  "quickAnswer": "Si caen solo 3 a 5 gotas tibias al iniciar el café y luego se detienen, es simple condensación residual alojada en el tubo de la lanceta. Pero si el goteo es caliente y continuo durante los 25–30 segundos de extracción, la presión de 9 a 15 bares está venciendo la válvula de vapor debido a una partícula de sarro en su asiento o una junta tórica desgastada.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Comprueba que el pomo o selector lateral de vapor esté cerrado hasta el tope y haz una descalcificación para limpiar el asiento de la válvula., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Close-up ergonomic grip and control panel perspective in crisp daylight: realistic scene illustrating 'Por Qué Caen Gotas por la Lanceta de Vapor Mientras Estás Extrayendo el Café (Válvula de Vapor)' (lanceta gotea mientras sale el cafe) for cafeteracompacta.com, featuring equipment in arctic white with warm stone-gray details, in a well-organized domestic utility area with natural plants nearby, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué Caen Gotas por la Lanceta de Vapor Mientras Estás Extrayendo el Café (Válvula de Vapor)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **lanceta gotea mientras sale el cafe** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Comprueba que el pomo o selector lateral de vapor esté cerrado hasta el tope y haz una descalcificación para limpiar el asiento de la válvula."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Encajas el portafiltro con **17 gramos** de café recién prensado en tu **CASABREWS CM5418**, **De’Longhi Dedica Arte (EC885M)** o **Gaggia Classic Evo Pro**, pulsas el botón de extracción y, justo cuando la bomba alcanza su pico de presión contra la pastilla, ves cómo por la punta de la lanceta de vapor empiezan a caer gotas constantes de agua caliente —o incluso un fino hilo con vapor— sobre la encimera. Más allá de la molestia de tener que poner un vaso debajo de la lanceta en cada café, dentro de nuestro [hub de problemas y soluciones para cafeteras espresso](/problemas-y-soluciones/) advertimos que una fuga activa en la válvula de vapor actúa como un escape parásito: cada mililitro que se escapa por la boquilla durante los **25 a 30 segundos** del shot le roba entre **1 y 3 bares de presión real** a tu portafiltro."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: lanceta gotea mientras sale el cafe"
+      "text": "Por Qué la Presión del Café Empuja la Válvula de la Lanceta de Vapor"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **lanceta gotea mientras sale el cafe** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: lanceta gotea mientras sale el cafe",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "Comprueba que el pomo o selector lateral de vapor esté cerrado hasta el tope y haz una descalcificación para limpiar el asiento de la válvula.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "En las cafeteras compactas de un solo bloque térmico (**Single Thermoblock** o caldera única) equipadas con perilla giratoria o palanca lateral de vapor, la salida hacia la ducha del grupo y el conducto hacia la lanceta comparten el mismo colector presurizado aguas arriba. Mientras el agua corre libre sin portafiltro apenas hay **1 bar** en la tubería, pero cuando la pastilla de café compactada opone resistencia —especialmente en escenarios de molienda fina donde [el manómetro de la CASABREWS marca sobrepresión y no sale café](/problemas-y-soluciones/manometro-casabrews-marca-sobrepresion-y-no-sale-cafe/)—, esos **9 a 15 bares hidrostáticos** empujan con fuerza contra el asiento cerrado de la válvula de vapor. Si un microcristal de carbonato cálcico (sarro) se ha alojado en el cono de cierre o la junta tórica de **EPDM / Viton** está fatigada, la presión vence el sello y el agua se filtra hacia la lanceta, un síntoma que puedes contrastar rápidamente en nuestra [tabla maestra de diagnóstico barista de síntoma, causa y solución en 10 segundos](/problemas-y-soluciones/tabla-maestra-de-diagnostico-barista-sintoma-causa-y-solucion-en-10-segundos/)."
     },
     {
       "type": "callout",
       "variant": "aviso",
-      "title": "Precaución técnica sobre lanceta gotea mientras sale el cafe",
-      "text": "Comprueba que el pomo o selector lateral de vapor esté cerrado hasta el tope y haz una descalcificación para limpiar el asiento de la válvula. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "El error que arruina definitivamente las válvulas de aguja (como las de la **Gaggia Classic** o modelos con grifo rotatorio) es **apretar la rueda de vapor con fuerza excesiva** para intentar frenar el goteo. Cuando el metal está a **140 °C**, forzar el cierre aplasta el asiento de latón o cizalla el anillo de silicona contra la rebaba de cal, convirtiendo un goteo leve en una fuga permanente.",
+      "title": "Nunca aprietes a tope la perilla de vapor en caliente para cortar el goteo"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar lanceta gotea mientras sale el cafe hoy mismo en tu cocina"
+      "text": "Cómo Distinguir la Condensación Residual Inofensiva de una Fuga de Válvula Real"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "table",
+      "headers": [
+        "Tipo de goteo observado",
+        "Cuántas gotas caen durante el shot (28 s)",
+        "Temperatura del agua que gotea",
+        "Causa técnica y gravedad"
+      ],
+      "rows": [
+        [
+          "Goteo residual por expansión térmica",
+          "De 3 a 6 gotas sueltas y luego se detiene",
+          "Tibia o fría (agua del ciclo anterior)",
+          "Normal: agua condensada alojada en el tubo de la lanceta que cae al calentarse el aire"
+        ],
+        [
+          "Goteo rítmico sincronizado con la bomba ULKA",
+          "1 gota por segundo durante toda la extracción (25–30 gotas)",
+          "Muy caliente (> 85 °C) con leve siseo",
+          "Fuga por partícula de cal en el asiento de la válvula de vapor; requiere purga descalcificadora"
+        ],
+        [
+          "Chorro continuo o escupitajo de agua y vapor",
+          "Pierde entre 15 y 30 ml de agua mientras sale el café",
+          "Hirviendo (90–95 °C)",
+          "Junta tórica del vástago rota o asiento de válvula rayado; resta presión crítica al espresso"
+        ]
+      ],
+      "caption": "Criterios de diagnóstico en 20 segundos observando el ritmo y temperatura del goteo por la lanceta"
+    },
+    {
+      "type": "h2",
+      "text": "Protocolo en 3 Pasos para Limpiar el Asiento de la Válvula Sin Desmontar la Cafetera"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Purga de arrastre a caudal abierto (Flushing del asiento)",
+          "text": "Con el tanque lleno y sin portafiltro, activa la salida de agua caliente por la lanceta (o abre la rueda de vapor 2 vueltas completas en modo café) durante 15 segundos seguidos para que un chorro de agua a alta velocidad arrastre fuera cualquier escama de cal suelta atrapada en el cierre."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Baño de ácido cítrico o descalcificador estacionario en la válvula",
+          "text": "Prepara una solución descalcificadora (ácido cítrico o láctico al 3 %), haz pasar 100 ml por la lanceta de vapor, cierra la válvula y apaga la máquina dejando actuar el líquido caliente dentro del asiento de la válvula durante 20 minutos para disolver el carbonato adherido antes de enjuagar con 1 litro de agua limpia."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Sustitución de la junta tórica (O-Ring de silicona/Viton) si la fuga persiste",
+          "text": "Si tras descalcificar sigue cayendo un hilo continuo a 9 bares, la goma interna de cierre se ha deformado o agrietado; en máquinas con garantía vigente tramita el reemplazo y, fuera de garantía, sustituye la junta tórica del vástago por una de Viton grado alimentario resistente a 200 °C."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con lanceta gotea mientras sale el cafe en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Necesitas un descalcificador seguro para juntas de silicona y bloques de aluminio o estás pensando en renovar tu cafetera compacta? Pregunta a nuestro Asesor IA o consulta los líquidos descalcificadores y cafeteras disponibles en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre lanceta gotea mientras sale el cafe?",
-      "a": "Comprueba que el pomo o selector lateral de vapor esté cerrado hasta el tope y haz una descalcificación para limpiar el asiento de la válvula. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿El goteo por la lanceta de vapor arruina el sabor o la crema del espresso?",
+      "a": "Si caen más de 20 o 30 gotas continuas (unos 10 a 15 ml) durante los 28 segundos del shot, sí afecta: la presión busca el camino de menor resistencia y, al escaparse por la lanceta, la presión real sobre la pastilla de café cae por debajo de los 7–8 bares, dejando el espresso subextraído y ácido."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué gotea la lanceta en una Breville Bambino si no tiene perilla giratoria?",
+      "a": "La Breville Bambino (BES450) y la Bambino Plus (BES500) no usan una rueda mecánica de aguja, sino electroválvulas controladas por placa. Es normal que suelten un pequeño chorro de purga hacia la bandeja al cambiar de modo, pero si la lanceta gotea mientras sale café, hay cal impidiendo el cierre de la electroválvula."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Puedo usar vinagre blanco para destapar la válvula de vapor que gotea?",
+      "a": "No se recomienda usar vinagre blanco doméstico (ácido acético) porque ataca el acabado del latón, reseca las juntas de EPDM y deja un olor persistente difícil de eliminar del Thermoblock. Utiliza siempre ácido cítrico de grado alimentario o descalcificador formulado con ácido láctico."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/como-saber-si-el-termostato-o-fusible-termico-de-la-cafetera-fallo/",
+    "/problemas-y-soluciones/por-que-suena-un-golpe-clack-al-terminar-el-espresso-en-la-bambino-plus/",
     "/problemas-y-soluciones/tabla-maestra-de-diagnostico-barista-sintoma-causa-y-solucion-en-10-segundos/",
-    "/problemas-y-soluciones/por-que-la-lanceta-de-vapor-tarda-en-arrancar-en-cafeteras-compactas/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/manometro-casabrews-marca-sobrepresion-y-no-sale-cafe/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-solucionar-el-goteo-de-la-lanceta-mientras-haces-el-espresso.webp"
 }

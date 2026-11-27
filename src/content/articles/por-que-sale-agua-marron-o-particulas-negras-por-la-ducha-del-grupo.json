@@ -4,161 +4,132 @@
   "path": "/mantenimiento-y-descalcificacion/por-que-sale-agua-marron-o-particulas-negras-por-la-ducha-del-grupo/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "caen particulas negras por la ducha cafetera espresso",
   "title": "Por Qué Caen Puntitos Negros o Agua Oscura al Purgar la Cafetera sin Portafiltro (y Cómo Quitarlos)",
-  "seoTitle": "Por Qué Caen Puntitos Negros o Agua Oscura al Purgar la Cafetera sin Portafiltro (y Cómo Quitarlos) | Guía Barista Compacta",
-  "metaDescription": "Por Qué Caen Puntitos Negros o Agua Oscura al Purgar la Cafetera sin Portafiltro (y Cómo Quitarlos): Son restos de café seco adheridos a la cara interna de la ducha tras apagar la bomba; cepilla el grupo y usa un Puck Screen. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Son restos de café seco adheridos a la cara interna de la ducha tras apagar la bomba; cepilla el grupo y usa un Puck Screen.",
-  "quickAnswer": "Sobre caen particulas negras por la ducha cafetera espresso: Son restos de café seco adheridos a la cara interna de la ducha tras apagar la bomba; cepilla el grupo y usa un Puck Screen. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Por Qué Caen Puntitos Negros o Agua Oscura al Purgar la Cafetera sin Portafiltro (y Cómo Quitarlos) | cafeteracompacta.com",
+  "metaDescription": "Descubre por qué caen partículas negras o agua marrón por la ducha de tu cafetera espresso al purgar y cómo desmontar el difusor para dejarlo impecable.",
+  "excerpt": "Guía de diagnóstico visual y táctil para identificar si los sedimentos oscuros que caen al purgar el grupo provienen de aceites de café carbonizados, sarro desprendido o desgaste de la junta.",
+  "quickAnswer": "Los puntitos negros y el agua marrón que caen al purgar la cafetera sin portafiltro suelen ser **aceites y finos de café carbonizados** acumulados en la cara oculta de la ducha (*shower screen*), o bien fragmentos de cal o de una junta de goma envejecida. Para eliminarlos por completo, debes desatornillar el disco difusor central, sumergirlo **15 minutos** en agua a **75 °C** con **3 g** de **Urnex Cafiza**, cepillar el asiento del grupo y purgar **200 ml** de agua antes de volver a montarlo.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Son restos de café seco adheridos a la cara interna de la ducha tras apagar la bomba; cepilla el grupo y usa un Puck Screen., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Split comparison composition showing two complementary setups side by side: realistic scene illustrating 'Por Qué Caen Puntitos Negros o Agua Oscura al Purgar la Cafetera sin Portafiltro (y Cómo Quitarlos)' (caen particulas negras por la ducha cafetera espresso) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, on a solid oak workbench in a tidy modern home space, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué Caen Puntitos Negros o Agua Oscura al Purgar la Cafetera sin Portafiltro (y Cómo Quitarlos)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **caen particulas negras por la ducha cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Son restos de café seco adheridos a la cara interna de la ducha tras apagar la bomba; cepilla el grupo y usa un Puck Screen."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Colocas una taza de porcelana blanca bajo el grupo de tu **CASABREWS CM5418**, **De’Longhi Dedica Arte (EC885M)** o **Breville Bambino (BES450)** para precalentarla sin el portafiltro puesto y, al pulsar el botón de extracción, ves caer agua amarillenta acompañada de decenas de puntitos negros flotando en la superficie. Aunque la primera reacción suele ser pensar que el filtro de carbón activo del tanque se ha roto o que el interior de la caldera se está desintegrando, en más del **85 %** de los casos esos sedimentos oscuros están alojados en los últimos **4 milímetros** del recorrido hidráulico: justo detrás de la malla perforada de la ducha (*shower screen*). La solución definitiva pasa por aplicar nuestro tutorial sobre [cómo desmontar el tornillo central de la ducha del grupo para quitar el café incrustado](/mantenimiento-y-descalcificacion/como-desatornillar-y-limpiar-la-ducha-del-grupo-en-delonghi-dedica-y-casabrews/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: caen particulas negras por la ducha cafetera espresso"
+      "text": "Cómo identificar el origen exacto de las partículas negras frotándolas con los dedos"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **caen particulas negras por la ducha cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: caen particulas negras por la ducha cafetera espresso",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "Son restos de café seco adheridos a la cara interna de la ducha tras apagar la bomba; cepilla el grupo y usa un Puck Screen.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "En las cafeteras espresso compactas de **51 mm** sin válvula solenoide de 3 vías —como la **CASABREWS CM5418**, la **CASABREWS 3700Essential** o la **De’Longhi Dedica Arte**—, cuando la bomba de **15 o 20 bares** se detiene al terminar el café, la pastilla húmeda del portafiltro se expande hacia arriba y empuja una pequeña cantidad de agua con finos de café y lípidos hacia el reverso de la ducha. Con el calor del grupo (**92–95 °C**), esa capa orgánica se hornea día tras día hasta formar escamas negras carbonizadas que se desprenden al purgar. Para limpiarlas correctamente debes distinguir si se trata de grasa de café, cal oxidada o caucho revisando la [diferencia entre descalcificar cal y desengrasar aceites con Urnex Cafiza](/mantenimiento-y-descalcificacion/diferencia-entre-descalcificar-cal-y-desengrasar-con-cafiza/) y asegurándote de [lavar el depósito de agua transparente cada semana para evitar biofilm y moho](/mantenimiento-y-descalcificacion/como-limpiar-el-tanque-de-agua-para-evitar-biofilm-y-moho/)."
     },
     {
       "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre caen particulas negras por la ducha cafetera espresso",
-      "text": "Son restos de café seco adheridos a la cara interna de la ducha tras apagar la bomba; cepilla el grupo y usa un Puck Screen. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "tip",
+      "text": "Recoge dos o tres puntitos negros del fondo de la taza blanca con una servilleta de papel y aplástalos con la uña: si dejan un **rastro marrón aceitoso** y huelen a café quemado, son aceites y finos carbonizados detrás de la ducha. Si son **duros y cristalinos como granos de arena**, son escamas de cal desprendidas del termobloque. Si son **elásticos y dejan una raya negra tipo lápiz**, la junta de caucho del grupo se está deshaciendo por envejecimiento.",
+      "title": "Prueba táctil en servilleta blanca en 10 segundos"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar caen particulas negras por la ducha cafetera espresso hoy mismo en tu cocina"
+      "text": "Tabla de diagnóstico de sedimentos y coloración del agua en el grupo"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "table",
+      "headers": [
+        "Aspecto visual en la taza",
+        "Textura al aplastar el sedimento",
+        "Componente donde se origina",
+        "Tratamiento correctivo exacto"
+      ],
+      "rows": [
+        [
+          "Agua marrón claro con motas negras o café oscuro",
+          "Blanda, untuosa y tiñe el papel de color sepia",
+          "Reverso de la ducha (51 mm / 54 mm) y bloque difusor",
+          "Desatornillar la ducha y sumergirla 15 min en agua a 75 °C con 3 g de Urnex Cafiza"
+        ],
+        [
+          "Agua transparente con trocitos negros gomosos",
+          "Elástica, tizna de negro mate al frotar con fuerza",
+          "Junta de goma del grupo (Group Gasket) reseca o agrietada",
+          "Sustituir la junta desgastada por una nueva junta de silicona alimentaria"
+        ],
+        [
+          "Agua turbia con escamas grises, blancas o negras duras",
+          "Crujiente, mineral e insoluble al frotar con los dedos",
+          "Caldera o serpentín del termobloque tras descalcificar",
+          "Retirar la ducha y pasar 2 tanques completos de agua limpia por el grupo abierto"
+        ],
+        [
+          "Copos negros sólo durante las primeras 2 tazas tras cambiar filtro",
+          "Polvo fino inodoro que se asienta rápido en el fondo",
+          "Carbón activo suelto del cartucho filtrante nuevo del tanque",
+          "Sumerge y agita el cartucho nuevo en un vaso con agua 2 minutos antes de instalarlo"
+        ]
+      ],
+      "caption": "Identificación técnica de partículas en el agua de purga del grupo espresso"
+    },
+    {
+      "type": "h2",
+      "text": "Protocolo de descontaminación del bloque difusor y la malla de la ducha"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Extracción del tornillo central con destornillador corto (Stubby)",
+          "text": "Apaga la cafetera, espera **20 minutos** a que el grupo se enfríe y utiliza un destornillador corto tipo *stubby* (punta Phillips **PH2** en **De’Longhi Dedica** y **CASABREWS**, o llave Allen de **3 mm** / Phillips según versión en **Breville Bambino**) girando en sentido antihorario para retirar el tornillo y el disco perforado de acero inoxidable."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Baño alcalino a 75 °C para saponificar la costra carbonizada",
+          "text": "Coloca la ducha metálica y su tornillo en un cuenco de cerámica con **300 ml** de agua caliente a **75–80 °C** y **3 gramos** (media cucharadita) de detergente **Urnex Cafiza** o percarbonato sódico durante **15 minutos**. Verás cómo el agua se tiñe de marrón oscuro al disolverse el alquitrán de café adherido al reverso."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Cepillado de la cavidad del grupo y del canal de la junta",
+          "text": "Mientras la ducha está en remojo, frota el bloque difusor interno de la cafetera y el surco interior de la junta de goma con un cepillo de cerdas de nailon para grupo mojándolo en agua caliente con una gota de jabón neutro, hasta que al pasar un paño blanco salga completamente limpio."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Purga de 200 ml a grupo abierto sin la malla instalada",
+          "text": "Antes de volver a atornillar la ducha, enciende la cafetera, coloca un bol bajo el grupo desnudo y pulsa el botón de extracción durante **10 segundos** (**~150–200 ml**) para que el chorro arrastre cualquier partícula suelta que haya quedado en el conducto de salida del termobloque."
+        },
+        {
+          "name": "Montaje con par de apriete suave y verificación en taza blanca",
+          "text": "Cepilla la ducha bajo el grifo verificando a contraluz que todos sus microagujeros estén despejados, atorníllala a mano hasta que asiente firme sin forzar la rosca y extrae una taza de agua caliente en blanco para confirmar que el agua sale **100 % cristalina**."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con caen particulas negras por la ducha cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Necesitas un cepillo angular para limpiar el grupo, detergente **Urnex Cafiza** o una ducha de precisión compatible con tu **De’Longhi Dedica**, **CASABREWS CM5418** o **Breville Bambino**? Consulta la disponibilidad actual en las tarjetas de Amazon de esta página o pregunta a nuestro Asesor IA."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre caen particulas negras por la ducha cafetera espresso?",
-      "a": "Son restos de café seco adheridos a la cara interna de la ducha tras apagar la bomba; cepilla el grupo y usa un Puck Screen. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué siguen saliendo puntitos negros aunque purgue 5 tazas seguidas de agua caliente?",
+      "a": "Los aceites esenciales del café contienen lípidos y azúcares caramelizados que son insolubles en agua sola, incluso a 92 °C. Al purgar sin desmontar la ducha, el agua fluye por los agujeros menos obstruidos mientras la costra negra pegada en la cara superior de la chapa sigue soltando fragmentos en cada extracción."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Es peligroso para la salud beber un espresso si la cafetera suelta esas partículas negras?",
+      "a": "Tomar café con partículas de aceites carbonizados no es tóxico, pero arruina por completo el perfil sensorial del espresso: aporta un amargor áspero a ceniza, destruye la estabilidad de la crema color avellana y deja un regusto rancio persistente en el paladar."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cada cuánto tiempo debo desatornillar la ducha para que no vuelva a salir agua marrón?",
+      "a": "En cafeteras compactas sin válvula solenoide de 3 vías como la CASABREWS CM5418 o la De’Longhi Dedica Arte, lo ideal es desatornillar y lavar la ducha cada 3 o 4 semanas. Si colocas un filtro de papel o un puck screen de acero de 51 mm sobre el café molido, reducirás la suciedad en un 80 %."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/como-lubricar-con-grasa-de-silicona-alimentaria-molykote-111/",
-    "/mantenimiento-y-descalcificacion/mantenimiento-de-la-valvula-antigoteo-del-fondo-del-tanque-de-agua/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/diferencia-entre-descalcificar-cal-y-desengrasar-con-cafiza/",
+    "/mantenimiento-y-descalcificacion/como-desatornillar-y-limpiar-la-ducha-del-grupo-en-delonghi-dedica-y-casabrews/",
+    "/mantenimiento-y-descalcificacion/como-programar-la-dureza-del-agua-en-el-menu-de-delonghi-dedica/",
+    "/mantenimiento-y-descalcificacion/como-limpiar-el-tanque-de-agua-para-evitar-biofilm-y-moho/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/por-que-sale-agua-marron-o-particulas-negras-por-la-ducha-del-grupo.webp"
 }

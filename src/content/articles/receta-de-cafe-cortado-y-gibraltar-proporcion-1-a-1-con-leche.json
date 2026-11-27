@@ -4,161 +4,121 @@
   "path": "/extraccion-y-recetas-espresso/receta-de-cafe-cortado-y-gibraltar-proporcion-1-a-1-con-leche/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como hacer un cafe cortado perfecto barista",
   "title": "Cómo Hacer un Cortado Perfecto (Proporción 1:1 de Espresso Doble y Leche Texturizada en Vaso de 130 ml)",
-  "seoTitle": "Cómo Hacer un Cortado Perfecto (Proporción 1 | Guía Barista Compacta",
-  "metaDescription": "Cómo Hacer un Cortado Perfecto (Proporción 1:1 de Espresso Doble y Leche Texturizada en Vaso de 130 ml): 36 gramos de espresso mezclados con 36–45 ml de leche caliente sedosa para cortar la acidez sin ocultar las notas del grano. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "36 gramos de espresso mezclados con 36–45 ml de leche caliente sedosa para cortar la acidez sin ocultar las notas del grano.",
-  "quickAnswer": "Sobre como hacer un cafe cortado perfecto barista: 36 gramos de espresso mezclados con 36–45 ml de leche caliente sedosa para cortar la acidez sin ocultar las notas del grano. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Hacer un Cortado Perfecto (Proporción 1:1 de Espresso Doble y Leche Texturizada en Vaso de 130 ml) | cafeteracompacta.com",
+  "metaDescription": "Descubre cómo hacer un café cortado perfecto estilo barista y su variante Gibraltar: proporción exacta 1:1 de espresso doble y leche vaporizada en 130 ml.",
+  "excerpt": "Guía práctica para preparar un cortado de especialidad y un Gibraltar californiano en casa: control de la acidez láctica a 55 °C, proporción 1:1 en peso y volumen, y técnica de texturizado con poca aireación.",
+  "quickAnswer": "Un café cortado de especialidad respeta una proporción estricta 1:1 entre espresso y leche texturizada: sobre un tiro doble de 36 a 40 ml (extraído de 16 a 18 g de café), se vierten exactamente 40 a 45 ml de leche vaporizada a 55–58 °C con apenas 3 mm de microespuma. Servido en un vaso de cristal facetado de 130 ml (4.5 oz), recibe el nombre de Gibraltar.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: 36 gramos de espresso mezclados con 36–45 ml de leche caliente sedosa para cortar la acidez sin ocultar las notas del grano., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Over-the-shoulder hands-on demonstration perspective in natural light: realistic scene illustrating 'Cómo Hacer un Cortado Perfecto (Proporción 1:1 de Espresso Doble y Leche Texturizada en Vaso de 130 ml)' (como hacer un cafe cortado perfecto barista) for cafeteracompacta.com, featuring equipment in graphite gray with subtle amber indicator details, in a clean modern garage or studio corner with slate flooring, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Hacer un Cortado Perfecto (Proporción 1:1 de Espresso Doble y Leche Texturizada en Vaso de 130 ml)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como hacer un cafe cortado perfecto barista** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. 36 gramos de espresso mezclados con 36–45 ml de leche caliente sedosa para cortar la acidez sin ocultar las notas del grano."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "En la barra de cualquier cafetería de especialidad, el **Cortado** (y su hermano californiano, el **Gibraltar**) es la prueba de fuego donde no hay lugar para esconder un espresso defectuoso. A diferencia de bebidas con mayor volumen lácteo donde 200 ml de leche disimulan un tiro canalizado o amargo, en un vaso de **120 a 130 ml** la leche actúa únicamente como un modulador químico: aporta la lactosa y los lípidos exactos para cortar la acidez punzante del grano sin diluir su cuerpo siruposo. Dominar la **proporción 1:1** en una **Breville Bambino BES450**, una **De’Longhi Dedica Arte EC885M** o una **CASABREWS CM5418** requiere controlar la temperatura al grado, siguiendo los principios de nuestro [manual completo de extracción y recetas espresso](/extraccion-y-recetas-espresso/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como hacer un cafe cortado perfecto barista"
+      "text": "Cortado Tradicional vs Gibraltar de Especialidad: medidas exactas en vaso de 130 ml (4.5 oz)"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como hacer un cafe cortado perfecto barista** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "La regla matemática que define al cortado barista moderno es la **paridad 1:1 entre espresso doble y leche texturizada**. Cuando extraes un tiro doble de **36 a 40 gramos** (a partir de **18 g** en el portafiltro de **54 mm de la Breville Bambino** o **15.5 g** para **32–34 g** en los **51 mm de la CASABREWS CM5418 y la Dedica**), añades exactamente el mismo volumen de leche tibia (**35 a 45 ml**) coronada por apenas **2 a 3 mm** de microespuma sedosa. En San Francisco nació la variante **Gibraltar** al servir esta misma receta en un vaso de cristal octogonal **Libbey Gibraltar de 133 ml (4.5 oz)**: el vidrio grueso disipa el calor rápidamente para beberlo de inmediato a **54–56 °C**, ofreciendo una textura más concentrada que la [receta del flat white auténtico con doble ristretto](/extraccion-y-recetas-espresso/receta-de-flat-white-autentico-australiano-en-cafetera-compacta/) o que al [preparar un dirty chai latte especiado con un shot de espresso](/extraccion-y-recetas-espresso/receta-de-dirty-chai-latte-con-un-shot-de-espresso/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: como hacer un cafe cortado perfecto barista",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Variante de Bebida",
+        "Recipiente Estándar",
+        "Base de Espresso",
+        "Volumen y Temp. de Leche",
+        "Espesor de Espuma y Textura"
       ],
       "rows": [
         [
-          "Clave principal",
-          "36 gramos de espresso mezclados con 36–45 ml de leche caliente sedosa para cortar la acidez sin ocultar las notas del grano.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Cortado de Especialidad (3ra Ola)",
+          "Vaso de cristal o cerámica de 120 ml (4 oz)",
+          "Doble Espresso (36 g / ~40 ml con crema)",
+          "40 ml a 55–58 °C (proporción 1:1)",
+          "2–3 mm de microespuma fina; cuerpo denso y dulce"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Gibraltar Californiano",
+          "Vaso octogonal Libbey Gibraltar 133 ml (4.5 oz)",
+          "Doble Espresso (36–40 g) tueste medio",
+          "50–55 ml a 54–56 °C (proporción 1:1.3)",
+          "3–4 mm de microespuma; listo para beber al instante"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Cortado Clásico Español / Cubano (Cortadito)",
+          "Vasito de vidrio templado de 90–100 ml",
+          "Espresso Simple o Doble corto (25–30 ml)",
+          "30 ml a 60–62 °C (en el Cortadito se endulza la base)",
+          "1–2 mm de leche apenas manchada con vapor; ataque intenso"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Piccolo Latte Australiano",
+          "Vaso Duralex Picardie de 90–100 ml (3.5 oz)",
+          "Simple Ristretto (15–18 g líquidos)",
+          "60–70 ml a 58–60 °C (proporción 1:3.5)",
+          "4 mm de microespuma; un mini latte en formato corto"
         ]
-      ]
+      ],
+      "caption": "Especificaciones técnicas del Cortado Español, Cortado de Especialidad y Gibraltar Californiano"
+    },
+    {
+      "type": "h2",
+      "text": "Por qué nunca debes pasar de 58 °C al vaporizar la leche de un Cortado"
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de barista sobre como hacer un cafe cortado perfecto barista",
-      "text": "36 gramos de espresso mezclados con 36–45 ml de leche caliente sedosa para cortar la acidez sin ocultar las notas del grano. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "Un Cortado no lleva suficiente leche como para absorber el exceso de calor de un espresso recién extraído a **92 °C** si además calientas la jarra hasta los **68 °C** típicos de una cafetería tradicional. Cuando vaporizas la leche a **55–58 °C** (retirando la jarra del vaporizador justo en el instante en que el metal empieza a incomodar en la palma de la mano), logras dos ventajas críticas: la **lactosa disuelta se percibe en su pico de dulzor natural** y la bebida final queda a la temperatura ideal de cata inmediata (**56 °C**), permitiendo apreciar las notas de caramelo, avellana o fruta madura sin quemarte la lengua.",
+      "title": "El secreto térmico del Gibraltar: beberlo en los primeros 90 segundos"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como hacer un cafe cortado perfecto barista hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con como hacer un cafe cortado perfecto barista en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "El truco de las dos jarras para texturizar solo 45 ml de leche sin hacer burbujas grandes"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**No intentes vaporizar solo 45 ml en la jarra:** Ninguna lanceta doméstica (ni en la **Breville Bambino** ni en la **CASABREWS CM5418**) puede sumergirse en 45 ml de leche sin soplar aire a presión y salpicar toda la encimera.",
+        "**Vaporiza un mínimo de 110 ml en una jarra de 350 ml:** Introduce aire durante apenas **1 a 2 segundos** al arrancar el vapor y dedica el resto del ciclo a girar la leche en vórtice silencioso hasta los **56 °C**.",
+        "**Usa la transferencia entre dos jarras (pitcher transfer):** Si al terminar ves un exceso de espuma flotando arriba, vierte la mitad de la leche a una segunda jarra pequeña precalentada para quedarte con la fracción más líquida y sedosa.",
+        "**Vierte a 3 cm de altura y cierra con un mini corazón:** Integra los primeros **25 ml** en círculos sobre la crema del espresso doble y acerca el pico en los últimos **20 ml** para dibujar una rosetta corta o un corazón limpio en el centro del vaso de **130 ml**."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "Explora los vasos de cristal facetado estilo Gibraltar de 130 ml, jarras pequeñas de precisión y accesorios para tu cafetera compacta en las tarjetas de Amazon integradas en esta guía, o consulta a nuestro Asesor IA para perfeccionar tus proporciones de extracción."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como hacer un cafe cortado perfecto barista?",
-      "a": "36 gramos de espresso mezclados con 36–45 ml de leche caliente sedosa para cortar la acidez sin ocultar las notas del grano. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cuál es la diferencia exacta entre un Café Cortado y un Espresso Macchiato?",
+      "a": "En un espresso macchiato tradicional solo se deposita una cucharadita (10 a 15 ml) de espuma seca o microespuma sobre el espresso para 'manchar' la crema. El cortado, en cambio, incorpora 40 a 45 ml de leche líquida vaporizada en proporción 1:1, transformando todo el cuerpo y la temperatura de la bebida."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Qué tipo de grano y tueste funciona mejor para un Cortado 1:1 en casa?",
+      "a": "Un grano de tueste medio con notas a chocolate con leche, caramelo o frutos secos extraído en ratio 1:2 (por ejemplo, 18 g en seco para 36 g en taza en 28 segundos). Si usas un tueste muy claro y cítrico, el bajo volumen de leche del cortado puede no bastar para domar la acidez salvo que estires el tiro a 1:2.3."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué hago con la leche que sobra en la jarra si solo preparo un Cortado?",
+      "a": "Para evitar desperdiciar los 60 ml de leche sobrantes tras texturizar el mínimo de 110 ml que exige la lanceta, puedes preparar dos cortados a la vez dividiendo la leche entre dos vasos, o bien enfriar el sobrante para añadirlo al café con hielo de la tarde (nunca vuelvas a vaporizar leche que ya fue calentada una vez)."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/receta-de-cafe-latte-con-leche-caliente-y-de-avena/",
     "/extraccion-y-recetas-espresso/receta-de-flat-white-autentico-australiano-en-cafetera-compacta/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/receta-de-espresso-tonic-con-agua-tonica-y-piel-de-naranja/",
+    "/extraccion-y-recetas-espresso/receta-de-caramel-macchiato-casero-estilo-starbucks/",
+    "/extraccion-y-recetas-espresso/receta-de-dirty-chai-latte-con-un-shot-de-espresso/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/receta-de-cafe-cortado-y-gibraltar-proporcion-1-a-1-con-leche.webp"
 }

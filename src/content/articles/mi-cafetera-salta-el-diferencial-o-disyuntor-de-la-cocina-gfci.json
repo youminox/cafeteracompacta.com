@@ -4,161 +4,118 @@
   "path": "/problemas-y-soluciones/mi-cafetera-salta-el-diferencial-o-disyuntor-de-la-cocina-gfci/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cafetera espresso hace saltar enchufe gfci cocina",
   "title": "Por Qué Salta el Enchufe GFCI de la Cocina en EE. UU. al Encender la Cafetera y otro Electrodoméstico",
-  "seoTitle": "Por Qué Salta el Enchufe GFCI de la Cocina en EE. UU. al Encender la Cafetera y otro Electrodoméstico | Guía Barista Compacta",
-  "metaDescription": "Por Qué Salta el Enchufe GFCI de la Cocina en EE. UU. al Encender la Cafetera y otro Electrodoméstico: Una cafetera compacta consume 1350W–1500W (~12 amperios en 120V): no enciendas el microondas o tostadora al mismo tiempo en el mismo circuito de 15A. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Una cafetera compacta consume 1350W–1500W (~12 amperios en 120V): no enciendas el microondas o tostadora al mismo tiempo en el mismo circuito de 15A.",
-  "quickAnswer": "Sobre cafetera espresso hace saltar enchufe gfci cocina: Una cafetera compacta consume 1350W–1500W (~12 amperios en 120V): no enciendas el microondas o tostadora al mismo tiempo en el mismo circuito de 15A. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué Salta el Enchufe GFCI de la Cocina en EE. UU. al Encender la Cafetera y otro Electrodoméstico | cafeteracompacta.com",
+  "metaDescription": "Descubre por qué tu cafetera espresso hace saltar el enchufe GFCI o el breaker en EE. UU.: consumo en vatios, fugas de humedad y cómo solucionarlo.",
+  "excerpt": "Analizamos la diferencia entre sobrecargar un circuito de 15 A en cocinas estadounidenses y sufrir una derivación por condensación en resistencias ThermoJet o calderas compactas.",
+  "quickAnswer": "Cuando una cafetera espresso corta la energía en una cocina de Estados Unidos (**120 V**), debes distinguir si saltó el botón **RESET** del enchufe **GFCI** o la palanca del cuadro eléctrico. Si salta el cuadro, superaste los **1800 W** (**15 A**) por compartir circuito con otro electrodoméstico; si salta el enchufe, hay una microfuga superior a **5 mA** por humedad en la resistencia o fatiga del tomacorriente.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Una cafetera compacta consume 1350W–1500W (~12 amperios en 120V): no enciendas el microondas o tostadora al mismo tiempo en el mismo circuito de 15A., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Top-down flat-lay knolling arrangement with accessories: realistic scene illustrating 'Por Qué Salta el Enchufe GFCI de la Cocina en EE. UU. al Encender la Cafetera y otro Electrodoméstico' (cafetera espresso hace saltar enchufe gfci cocina) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, on a light terrazzo surface in a contemporary living space, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué Salta el Enchufe GFCI de la Cocina en EE. UU. al Encender la Cafetera y otro Electrodoméstico"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cafetera espresso hace saltar enchufe gfci cocina** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Una cafetera compacta consume 1350W–1500W (~12 amperios en 120V): no enciendas el microondas o tostadora al mismo tiempo en el mismo circuito de 15A."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Son las siete de la mañana en un apartamento de Estados Unidos, pulsas el botón de extracción de tu **Breville Bambino (BES450)** o tu **CASABREWS CM5418** mientras la tostadora o el microondas están funcionando y, de repente, se escucha un chasquido seco en la pared: toda la encimera queda sin corriente. En las instalaciones residenciales norteamericanas de **120 V / 60 Hz**, este corte repentino obedece a dos mecanismos eléctricos muy distintos que suelen confundirse: el disparo del botón **RESET** en el propio tomacorriente **GFCI** (*Ground Fault Circuit Interrupter*) o la caída de la palanca magnetotérmica en el panel principal. Si estás revisando nuestro [hub de problemas y soluciones](/problemas-y-soluciones/), lo primero que debes comprobar es cuál de los dos dispositivos cortó el suministro."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cafetera espresso hace saltar enchufe gfci cocina"
+      "text": "Sobrecarga en líneas de 15 A frente a derivación a tierra en el tomacorriente GFCI"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cafetera espresso hace saltar enchufe gfci cocina** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "El código eléctrico estadounidense (**NEC**) exige que las encimeras de cocina cuenten con circuitos derivados de **15 A** (máximo **1800 W** puntuales y **1440 W** continuos) o **20 A** (**2400 W**), donde varios enchufes comparten el mismo cableado en cascada (*daisy chain*). Una cafetera con sistema **ThermoJet** como la **Breville Bambino Plus (BES500)** demanda **1560 W** (**13 A**), mientras que una estación con molino integrado como la **Ninja Luxe Café (ES601)** alcanza los **1650 W** (**13.75 A**). Si enciendes cualquiera de ellas simultáneamente con una freidora de aire o un hervidor en la misma línea, superarás los **15 A** y saltará el disyuntor del cuadro. En cambio, si el botón del enchufe GFCI salta cuando la cafetera está sola —incluso tras resolver otros fallos electrónicos como los [avisos de agua o embudo en la Ninja Luxe Café](/problemas-y-soluciones/error-en-ninja-luxe-cafe-add-water-o-install-funnel-solucion/) o verificar el [comportamiento del vaporizador de la Bambino Plus](/problemas-y-soluciones/el-vaporizador-automatico-de-la-bambino-plus-deja-la-leche-fria/)—, el GFCI está detectando una fuga de corriente a tierra de apenas **4 mA a 6 mA** provocada por humedad interna o por el pico inductivo de la bomba vibratoria **ULKA**."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: cafetera espresso hace saltar enchufe gfci cocina",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Cafetera / Escenario",
+        "Potencia y Amperaje (120 V)",
+        "Dispositivo que Salta",
+        "Causa Técnica Principal"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Una cafetera compacta consume 1350W–1500W (~12 amperios en 120V): no enciendas el microondas o tostadora al mismo tiempo en el mismo circuito de 15A.",
-          "Mejora la consistencia y evita errores de extracción"
+          "CASABREWS CM5418 / Dedica Arte (EC885M)",
+          "1300 W – 1350 W (~11.2 A)",
+          "Botón RESET del enchufe GFCI",
+          "Humedad en clavija NEMA 5-15P o condensación en termobloque"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Breville Bambino / Bambino Plus (BES500)",
+          "1560 W (13.0 A)",
+          "Breaker del panel al usar otro aparato",
+          "Sobrecarga térmica al superar 1800 W en línea compartida de 15 A"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Ninja Luxe Café (ES601)",
+          "1650 W (13.75 A)",
+          "GFCI al activar bomba o solenoide",
+          "Receptáculo GFCI envejecido sensible al pico inductivo de la bomba"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Gaggia Classic Evo Pro (US 120 V)",
+          "1300 W (~10.8 A)",
+          "GFCI nada más pulsar encendido",
+          "Derivación a chasis en resistencia de caldera por microfuga de vapor"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre cafetera espresso hace saltar enchufe gfci cocina",
-      "text": "Una cafetera compacta consume 1350W–1500W (~12 amperios en 120V): no enciendas el microondas o tostadora al mismo tiempo en el mismo circuito de 15A. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Consumo eléctrico a 120 V y diagnóstico de disparo en cocinas de EE. UU."
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar cafetera espresso hace saltar enchufe gfci cocina hoy mismo en tu cocina"
+      "text": "Por qué la humedad del vapor o un receptáculo GFCI antiguo disparan el corte a 5 mA"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "h2",
+      "text": "Pasos para aislar si el fallo está en el circuito de tu cocina o en la cafetera"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Desconecta electrodomésticos del mismo ramal (Load Side)",
+          "text": "Un solo enchufe GFCI con botones TEST/RESET suele proteger otros 2 o 3 enchufes normales situados a su derecha o izquierda. Desenchufa tostadoras, microondas o hervidores y pulsa RESET con firmeza hasta oír el clic metálico."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Haz la prueba cruzada en otro circuito GFCI (baño o isla)",
+          "text": "Conecta la cafetera sola en un enchufe GFCI perteneciente a otra línea del cuadro eléctrico. Si allí calienta y extrae a 9 bares sin saltar, el enchufe GFCI original de tu encimera sufre fatiga en su bobina diferencial y debe sustituirse por un receptáculo nuevo de 15 A o 20 A."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Seca la condensación residual de la resistencia sin carga GFCI (si hubo derrame)",
+          "text": "Si rebosó el tanque trasero o cayó agua sobre la rejilla superior calentadora de tazas, deja la máquina desenchufada 24 horas en un ambiente seco y ventilado antes de volver a pulsar RESET para que se evapore la humedad en los bornes del termobloque."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con cafetera espresso hace saltar enchufe gfci cocina en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Buscas una cafetera compacta de bajo amperaje para tu cocina o necesitas recambios compatibles en Estados Unidos? Consulta a nuestro Asesor IA o revisa la disponibilidad en tiempo real en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cafetera espresso hace saltar enchufe gfci cocina?",
-      "a": "Una cafetera compacta consume 1350W–1500W (~12 amperios en 120V): no enciendas el microondas o tostadora al mismo tiempo en el mismo circuito de 15A. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Puedo conectar mi cafetera espresso a una regleta con protector de sobretensión para que no salte el GFCI?",
+      "a": "No. Las cafeteras espresso compactas de 1300 W a 1650 W deben conectarse directamente al enchufe de pared. Las regletas domésticas añaden resistencia de contacto, se recalientan con consumos de 13 A y no evitan que el sensor GFCI de la pared detecte una fuga de 5 mA."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué mi cafetera enciende las luces bien pero hace saltar el enchufe justo cuando pulso el botón de hacer café?",
+      "a": "Ocurre porque al pulsar el botón de café entran en acción simultáneamente la resistencia calefactora a máxima potencia, la bomba vibratoria de 15 o 20 bares y, en modelos avanzados, la válvula solenoide. Si hay vapor condensado cerca de los conectores Faston internos, ese pico provoca la derivación."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Un enchufe GFCI viejo puede saltar aunque la cafetera no tenga ningún cortocircuito?",
+      "a": "Sí. Los receptáculos GFCI instalados en cocinas sufren desgaste mecánico y electrónico tras años de ciclos térmicos. Con el tiempo, su transformador diferencial pierde tolerancia y se dispara en falso ante el arranque inductivo del motor del molino o la bomba de una cafetera totalmente sana."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/error-en-ninja-luxe-cafe-add-water-o-install-funnel-solucion/",
+    "/problemas-y-soluciones/mi-bascula-mini-de-espresso-cambia-los-gramos-sola-durante-el-shot/",
     "/problemas-y-soluciones/el-vaporizador-automatico-de-la-bambino-plus-deja-la-leche-fria/",
-    "/problemas-y-soluciones/he-perdido-la-aguja-de-limpieza-de-la-lanceta-que-puedo-usar/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/la-pastilla-de-cafe-se-rompe-por-la-mitad-o-tiene-un-crater/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/mi-cafetera-salta-el-diferencial-o-disyuntor-de-la-cocina-gfci.webp"
 }

@@ -4,161 +4,133 @@
   "path": "/extraccion-y-recetas-espresso/receta-de-iced-latte-y-iced-americano-de-verano/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como hacer iced latte en casa con cafetera espresso",
   "title": "Cómo Hacer un Iced Latte de Cafetería en Casa sin que el Hielo Deje el Café Aguado",
-  "seoTitle": "Cómo Hacer un Iced Latte de Cafetería en Casa sin que el Hielo Deje el Café Aguado | Guía Barista Compacta",
-  "metaDescription": "Cómo Hacer un Iced Latte de Cafetería en Casa sin que el Hielo Deje el Café Aguado: El truco está en verter el hielo sobre la leche fría primero y añadir el espresso al final, o enfriar el shot en jarra metálica. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "El truco está en verter el hielo sobre la leche fría primero y añadir el espresso al final, o enfriar el shot en jarra metálica.",
-  "quickAnswer": "Sobre como hacer iced latte en casa con cafetera espresso: El truco está en verter el hielo sobre la leche fría primero y añadir el espresso al final, o enfriar el shot en jarra metálica. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Hacer un Iced Latte de Cafetería en Casa sin que el Hielo Deje el Café Aguado | cafeteracompacta.com",
+  "metaDescription": "Aprende cómo hacer un iced latte en casa con cafetera espresso sin que el hielo deje el café aguado: orden correcto de vertido, gramos de hielo y ratio.",
+  "excerpt": "Descubre el error térmico que arruina el café frío en casa y aplica el ensamblaje profesional con hielo macizo, leche a 4 °C y doble ristretto para un Iced Latte o Iced Americano intenso.",
+  "quickAnswer": "El secreto para preparar un Iced Latte en casa sin que quede aguado consiste en nunca verter el espresso caliente de 90 °C directamente sobre el hielo desnudo. Primero llena un vaso de 350 ml con 100 g de cubos de hielo grandes, añade 160 ml de leche fría a 4 °C para crear un amortiguador térmico y, por último, incorpora un doble espresso o doble ristretto concentrado (30 a 36 g).",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: El truco está en verter el hielo sobre la leche fría primero y añadir el espresso al final, o enfriar el shot en jarra metálica., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Over-the-shoulder hands-on demonstration perspective in natural light: realistic scene illustrating 'Cómo Hacer un Iced Latte de Cafetería en Casa sin que el Hielo Deje el Café Aguado' (como hacer iced latte en casa con cafetera espresso) for cafeteracompacta.com, featuring equipment in graphite gray with subtle amber indicator details, inside a bright contemporary apartment with minimalist decor, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Hacer un Iced Latte de Cafetería en Casa sin que el Hielo Deje el Café Aguado"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como hacer iced latte en casa con cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. El truco está en verter el hielo sobre la leche fría primero y añadir el espresso al final, o enfriar el shot en jarra metálica."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "El motivo por el que el **Iced Latte** que preparas en casa un día de calor sabe aguado y plano a los dos minutos de servirlo no tiene nada que ver con la potencia de tu **CASABREWS CM5418**, tu **Breville Bambino BES450** o tu **De’Longhi Dedica Arte EC885M**: el culpable es el choque térmico de extraer o volcar **36 gramos de espresso a 90 °C** directamente sobre un vaso lleno solo de cubitos de hielo. Cuando el café hirviendo golpea las aristas de hielo pequeño de congelador doméstico, funde al instante entre **45 y 60 ml de agua pura** antes siquiera de que abras la botella de leche. A menos que busques expresamente la emulsión agitada de la [receta del caffè shakerato italiano agitado en coctelera](/extraccion-y-recetas-espresso/receta-de-shakerato-italiano-espresso-agitado-con-hielo/), la regla de oro del barismo frío consiste en usar siempre el líquido frío a **4 °C** como colchón térmico."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como hacer iced latte en casa con cafetera espresso"
+      "text": "Termodinámica del hielo en el vaso: por qué la leche fría a 4 °C debe ir siempre antes del espresso"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como hacer iced latte en casa con cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "La capacidad calorífica de **150 a 160 ml de leche entera o bebida de avena fría (a 4 °C)** es más de cuatro veces superior a la de un tiro doble de espresso de **32 a 36 gramos**. Si llenas primero tu vaso de cristal de **330 a 350 ml** con **100 gramos de cubos de hielo macizos** (recién sacados del congelador a **-18 °C**, nunca húmedos ni translúcidos) y viertes inmediatamente los **160 ml de leche fría**, el conjunto desciende a una temperatura estable de **1 a 2 °C**. Al incorporar el espresso caliente al final sobre esa masa líquida refrigerada —ajustando la proporción respecto a las [medidas exactas del caffè latte caliente y con avena](/extraccion-y-recetas-espresso/receta-de-cafe-latte-con-leche-caliente-y-de-avena/)—, el calor del tiro se disipa en toda la leche en menos de dos segundos, elevando la bebida a unos **6 °C** sin apenas derretir los cubos y permitiendo además [distinguir entre crema real de microburbujas y espuma falsa](/extraccion-y-recetas-espresso/por-que-sale-demasiada-crema-falsa-con-burbujas-grandes/) en la corona marmolada superior."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: como hacer iced latte en casa con cafetera espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Bebida Fría de Verano",
+        "Hielo Macizo (-18 °C)",
+        "Líquido Base Frío (4 °C)",
+        "Extracción de Espresso Recomendada",
+        "Orden Exacto de Ensamblaje"
       ],
       "rows": [
         [
-          "Clave principal",
-          "El truco está en verter el hielo sobre la leche fría primero y añadir el espresso al final, o enfriar el shot en jarra metálica.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Iced Latte de Cafetería (Cremoso)",
+          "95 – 105 g (4 a 5 cubos grandes de 3 cm)",
+          "150 – 160 ml de leche entera o avena barista",
+          "Doble Espresso o Ristretto Largo: 18 g → 32–34 g (o 15.5 g → 28 g en 51 mm)",
+          "1º Hielo → 2º Leche a 4 °C → 3º Espresso vertido suave sobre un cubo superior"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Iced Flat White / Iced Cortado Intenso",
+          "80 g (3 cubos grandes macizos)",
+          "110 ml de leche entera fría a 4 °C",
+          "Doble Ristretto concentrado: 18 g → 27 g en 24 s",
+          "1º Hielo → 2º Leche fría → 3º Doble Ristretto para máximo golpe de café tostado"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Iced Americano Refrescante",
+          "110 – 120 g de hielo macizo",
+          "130 – 140 ml de agua filtrada fría (4 °C)",
+          "Doble Espresso: 18 g → 36 g en 28 s (tueste medio o frutal)",
+          "1º Hielo → 2º Agua fría a 4 °C → 3º Espresso encima para preservar la crema fría"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Iced Latte con Sirope o Miel",
+          "100 g de hielo macizo",
+          "150 ml de leche fría a 4 °C",
+          "34 g de espresso + 12 g de sirope disueltos en el vaso de tiro caliente",
+          "1º Disolver sirope en el espresso caliente → 2º Hielo + Leche → 3º Verter mezcla"
         ]
-      ]
+      ],
+      "caption": "Recetas y proporciones exactas para Iced Latte, Iced Flat White e Iced Americano en vaso de 350 ml"
+    },
+    {
+      "type": "h2",
+      "text": "Por qué debes acortar el ratio de tu espresso a 1:1.7 cuando preparas bebidas con hielo"
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de barista sobre como hacer iced latte en casa con cafetera espresso",
-      "text": "El truco está en verter el hielo sobre la leche fría primero y añadir el espresso al final, o enfriar el shot en jarra metálica. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "Las papilas gustativas humanas perciben hasta un **30 % menos de dulzor y cuerpo** cuando una bebida se sirve por debajo de **8 °C**, mientras que las notas amargas y astringentes de la cola de extracción se vuelven mucho más evidentes en frío. Por eso, en lugar de extraer los **36 a 40 gramos** habituales de un Latte caliente, corta el tiro de tu **Breville Bambino** en **30 a 32 gramos** (o en **26 a 28 gramos** con el portafiltro de **51 mm de la CASABREWS CM5418 o la De’Longhi Dedica**): obtendrás una textura densa y achocolatada que compensa el pequeño porcentaje de fusión natural del hielo mientras bebes.",
+      "title": "Ajuste de ratio en frío: menos agua en el portafiltro, más intensidad en el vaso"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como hacer iced latte en casa con cafetera espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Cómo endulzar y crear el efecto degradado de dos capas sin formar grumos en el fondo"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Extraer el tiro doble en una jarrita de acero o vaso medidor aparte",
+          "text": "Si deseas añadir azúcar moreno, miel, leche condensada o sirope de vainilla, incorpóralo directamente en la jarrita donde cae el espresso a 90 °C y remueve 4 segundos; el azúcar jamás se disuelve bien en leche a 4 °C."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Llenar el vaso de cristal de 350 ml con 100 g de hielo seco del congelador",
+          "text": "Usa cubos grandes de silicona (de 3 a 4 cm de lado) porque presentan menor superficie de contacto con el líquido que el hielo picado o hueco, reduciendo la velocidad de fusión a la mitad."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Verter los 150–160 ml de leche fría a 4 °C hasta tres cuartos del vaso",
+          "text": "Deja que la leche enfríe las paredes de cristal y sumerja casi por completo los cubos de hielo inferiores durante 10 segundos."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Deslizar el espresso sobre el dorso de una cuchara o un cubo flotante",
+          "text": "Para lograr el efecto visual de cafetería (blanco abajo y ámbar oscuro arriba), vierte el espresso lentamente sobre la cara plana de un cubo de hielo que sobresalga de la leche."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con como hacer iced latte en casa con cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Revisa en las tarjetas de Amazon integradas en esta guía la disponibilidad actual de moldes de silicona para cubos de hielo grandes, vasos de cristal de borosilicato de 350 ml con pajita de vidrio y jarras medidoras de espresso, o consulta a nuestro Asesor IA para adaptar tus recetas de verano."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como hacer iced latte en casa con cafetera espresso?",
-      "a": "El truco está en verter el hielo sobre la leche fría primero y añadir el espresso al final, o enfriar el shot en jarra metálica. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Debo espumar la leche para hacer un Iced Latte en casa?",
+      "a": "Nunca debes vaporizar la leche con la lanceta caliente para luego echarla sobre hielo, porque derretirás todos los cubos al instante. Si quieres una corona de espuma fría (Cold Foam) encima de tu Iced Latte, bate 40 ml de leche desnatada o avena barista fría a 4 °C con un espumador eléctrico de mano o en prensa francesa fría durante 15 segundos."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Qué tipo de café en grano queda mejor en un Iced Latte o Iced Americano?",
+      "a": "Ambos tienen su público: un tueste medio-oscuro con notas de cacao y avellana cortado en ratio 1:1.7 da el clásico Iced Latte cremoso estilo postre, mientras que un tueste medio-claro africano o centroamericano brilla especialmente en el Iced Americano por sus notas cítricas y florales refrescantes."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Sirve el truco de congelar cubitos de café para no aguar el Iced Latte?",
+      "a": "Si preparas los cubitos de café con un café de filtro suave o un Americano diluido (proporción 1:4), funcionan muy bien para no aguar la leche a medida que se funden. Evita congelar espresso puro sin diluir, porque al derretirse al final del vaso desequilibra la receta y deja un fondo excesivamente amargo."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/receta-de-espresso-tonic-con-agua-tonica-y-piel-de-naranja/",
     "/extraccion-y-recetas-espresso/receta-de-cafe-latte-con-leche-caliente-y-de-avena/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/receta-de-espresso-macchiato-tradicional-manchado-con-espuma/",
+    "/extraccion-y-recetas-espresso/receta-de-shakerato-italiano-espresso-agitado-con-hielo/",
+    "/extraccion-y-recetas-espresso/por-que-sale-demasiada-crema-falsa-con-burbujas-grandes/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/receta-de-iced-latte-y-iced-americano-de-verano.webp"
 }

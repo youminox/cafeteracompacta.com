@@ -3,162 +3,112 @@
   "pillar": "basculas-y-accesorios-barista",
   "path": "/basculas-y-accesorios-barista/vasos-medidores-de-espresso-shot-glass-con-marcas-en-ml-y-oz-vs-bascula/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "medir espresso en gramos con bascula vs mililitros",
   "title": "Vaso Medidor Graduado en Mililitros (Shot Glass) vs Báscula en Gramos: Por Qué la Crema Engaña en Volumen",
-  "seoTitle": "Vaso Medidor Graduado en Mililitros (Shot Glass) vs Báscula en Gramos | Guía Barista Compacta",
-  "metaDescription": "Vaso Medidor Graduado en Mililitros (Shot Glass) vs Báscula en Gramos: Por Qué la Crema Engaña en Volumen: Un café muy fresco puede generar un 40% de espuma de CO2 (60 ml de volumen que solo pesan 30 g); pesar en gramos con báscula es 100% exacto. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Un café muy fresco puede generar un 40% de espuma de CO2 (60 ml de volumen que solo pesan 30 g); pesar en gramos con báscula es 100% exacto.",
-  "quickAnswer": "Sobre medir espresso en gramos con bascula vs mililitros: Un café muy fresco puede generar un 40% de espuma de CO2 (60 ml de volumen que solo pesan 30 g); pesar en gramos con báscula es 100% exacto. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Vaso Medidor Graduado en Mililitros (Shot Glass) vs Báscula en Gramos: Por Qué la Crema Engaña en Volumen | cafeteracompacta.com",
+  "metaDescription": "¿Vaso medidor en mililitros o báscula en gramos? Entiende por qué la densidad de la crema engaña al medir tu espresso y cómo clavar siempre tu receta.",
+  "excerpt": "La crema recién extraída contiene gas carbónico que infla el volumen en un vaso graduado sin aportar masa líquida. Descubre cuándo usar el shot glass de borosilicato y cuándo fiarte solo de la báscula.",
+  "quickAnswer": "Medir el espresso en **gramos con una báscula digital** es técnicamente muy superior a guiar la extracción por las marcas en **mililitros (ml) u onzas (oz)** de un vaso medidor, porque la crema es espuma de gas $\\text{CO}_2$ con una densidad de solo **0.30 a 0.50 g/ml**. Dos extracciones detenidas en la línea de **60 ml** pueden variar hasta en **15 gramos** de líquido real según la frescura del grano.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Un café muy fresco puede generar un 40% de espuma de CO2 (60 ml de volumen que solo pesan 30 g); pesar en gramos con báscula es 100% exacto., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Close inspection angle highlighting materials, latches and finish: realistic scene illustrating 'Vaso Medidor Graduado en Mililitros (Shot Glass) vs Báscula en Gramos: Por Qué la Crema Engaña en Volumen' (medir espresso en gramos con bascula vs mililitros) for cafeteracompacta.com, featuring equipment in terracotta copper accent with matte slate body, inside a bright contemporary apartment with minimalist decor, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Vaso Medidor Graduado en Mililitros (Shot Glass) vs Báscula en Gramos: Por Qué la Crema Engaña en Volumen"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **medir espresso en gramos con bascula vs mililitros** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Un café muy fresco puede generar un 40% de espuma de CO2 (60 ml de volumen que solo pesan 30 g); pesar en gramos con báscula es 100% exacto."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Basculas Y Accesorios Barista](/basculas-y-accesorios-barista/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Extraes un espresso doble en tu **CASABREWS CM5418** o **De’Longhi Dedica Arte (EC885M)** usando un vaso medidor graduado (*shot glass*) y detienes la bomba justo cuando la espuma dorada toca la línea de **60 ml (2 oz)**. Sin embargo, al día siguiente cambias de bolsa de café, detienes la máquina exactamente en la misma marca de **60 ml** y el resultado en boca pasa de espeso a aguado y astringente. La razón es puramente física: la crema del espresso es una emulsión de microburbujas de dióxido de carbono ($\\text{CO}_2$) cuya densidad oscila entre **0.30 y 0.55 g/ml**, por lo que **medir en mililitros mide gas atrapado y no líquido real**."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: medir espresso en gramos con bascula vs mililitros"
+      "text": "La trampa del CO2: cuánto pesan realmente 60 ml de espresso según el tueste"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **medir espresso en gramos con bascula vs mililitros** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: medir espresso en gramos con bascula vs mililitros",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "Un café muy fresco puede generar un 40% de espuma de CO2 (60 ml de volumen que solo pesan 30 g); pesar en gramos con báscula es 100% exacto.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "Cuando mueles **18 gramos** de grano recién tostado (entre **5 y 14 días** desde la fecha de tueste) tras [colocar un embudo dosificador magnético al moler](/basculas-y-accesorios-barista/para-que-sirve-el-embudo-dosificador-magnetico-dosing-funnel/), la liberación de $\\text{CO}_2$ bajo los **9 bares** de presión de una **Breville Bambino (BES450)** puede hacer que la crema ocupe hasta el **40 % del volumen visual** del vaso graduado. Si cortas la extracción guiándote por la raya de **60 ml**, al disiparse la espuma solo tendrás unos **33 gramos** de bebida real (ratio corto **1:1.8**). Por el contrario, si decides [utilizar filtros de papel circulares para limpiar la taza](/basculas-y-accesorios-barista/filtros-de-papel-para-espresso-arriba-o-abajo-de-la-pastilla/) o empleas un café con **5 semanas** de tueste que apenas genera crema, para alcanzar la misma marca de **60 ml** habrás extraído **52 gramos** de agua (ratio **1:2.9**), arruinando la receta que sí habrías clavado al [configurar el modo automático Auto-Tare y Auto-Timer de tu báscula](/basculas-y-accesorios-barista/funciones-de-una-bascula-barista-modo-auto-timer-y-auto-tare/)."
     },
     {
       "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre medir espresso en gramos con bascula vs mililitros",
-      "text": "Un café muy fresco puede generar un 40% de espuma de CO2 (60 ml de volumen que solo pesan 30 g); pesar en gramos con báscula es 100% exacto. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "etiqueta",
+      "text": "Si utilizas cestas presurizadas (de doble pared) en una **CASABREWS 3700Essential** o **De’Longhi Dedica**, la válvula restrictora airea artificialmente el café creando una falsa espuma muy voluminosa. En estas cestas, **60 ml** en un vaso medidor pueden contener apenas **25 a 28 gramos** de líquido, haciendo todavía más imprescindible pesar en gramos con una báscula de precisión de **0.1 g** para lograr repetibilidad.",
+      "title": "Por qué las cestas presurizadas multiplican el error de lectura en mililitros"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar medir espresso en gramos con bascula vs mililitros hoy mismo en tu cocina"
+      "text": "Comparativa real: vaso medidor graduado (ml/oz) frente a báscula digital (gramos)"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con medir espresso en gramos con bascula vs mililitros en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
+      "type": "table",
+      "headers": [
+        "Parámetro de Control",
+        "Vaso Medidor (Shot Glass en ml / oz)",
+        "Báscula Barista Digital (en gramos)"
+      ],
+      "rows": [
+        [
+          "Impacto de la frescura del grano",
+          "Alto error: a más gas CO2, menos líquido real en la misma marca de ml",
+          "Cero error: 36 gramos de masa líquida son siempre 36 gramos independientemente de la crema"
+        ],
+        [
+          "Precisión del ratio de extracción",
+          "Baja (oscilación de ±8 a 14 gramos entre distintos tipos de tueste)",
+          "Exacta al décimo de gramo (±0.1 g) para clavar el ratio 1:2 en 25-30 segundos"
+        ],
+        [
+          "Diagnóstico visual del tiro",
+          "Excelente: el vidrio borosilicato permite ver la formación de crema y estratos",
+          "Nulo por sí sola (requiere taza transparente o portafiltro sin fondo)"
+        ],
+        [
+          "Trasvase para bebidas con leche",
+          "Muy cómodo gracias al doble pico vertedor y al mango aislante de madera o vidrio",
+          "No aplica (instrumento exclusivo de medición gravimétrica y temporal)"
+        ]
+      ],
+      "caption": "Diferencias técnicas entre controlar la extracción por volumen (Shot Glass) o por masa (Báscula)"
     },
     {
       "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Por qué los baristas usan ambos: cómo elegir un buen vaso Shot Glass para poner sobre tu báscula"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Vidrio borosilicato de pared gruesa (3.5 a 4 mm):** soporta el choque térmico del espresso a **92 °C** sin agrietarse y conserva la temperatura mientras espumas la leche en tu **Breville Bambino Plus**.",
+        "**Altura exterior inferior a 6.5 cm:** vital para que el vaso quepa holgadamente encima de la báscula digital bajo los picos del portafiltro de una **De’Longhi Dedica Arte** o **CASABREWS CM5418**, donde el espacio libre es reducido.",
+        "**Doble pico vertedor (*double spout*) en V:** permite verter el espresso dentro de un vaso alto con hielo y leche (*Iced Latte*) sin que una sola gota resbale por la pared exterior del cristal.",
+        "**Base plana de al menos 4.5 cm de diámetro:** asegura un asiento firme sobre la alfombrilla de silicona de la báscula para que las vibraciones de la bomba no desplacen el recipiente."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "¿Quieres combinar la precisión en gramos de una báscula mini con la comodidad visual y de vertido de un vaso Shot Glass de borosilicato? Consulta los modelos disponibles en las tarjetas de Amazon de esta página o pide consejo a nuestro Asesor IA."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre medir espresso en gramos con bascula vs mililitros?",
-      "a": "Un café muy fresco puede generar un 40% de espuma de CO2 (60 ml de volumen que solo pesan 30 g); pesar en gramos con báscula es 100% exacto. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cuántos gramos y cuántos mililitros tiene un espresso doble estándar?",
+      "a": "Un espresso doble estándar (extraído con 18 g de café molido en un ratio 1:2) debe pesar 36 gramos en la báscula. En un vaso medidor graduado, esos mismos 36 gramos suelen ocupar entre 45 ml y 60 ml dependiendo del grosor de la capa de crema."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Es mejor un vaso medidor de vidrio borosilicato o una jarrita medidora de acero inoxidable?",
+      "a": "Los vasos de vidrio borosilicato transparente con mango lateral (de madera de nogal o cristal macizo) son superiores porque te permiten observar en vivo el color rubio que avisa del final de la extracción (blonding) y verter sin quemarte las yemas de los dedos."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Tiene sentido comprar un vaso medidor si ya tengo una báscula digital de espresso?",
+      "a": "Sí, es la combinación ideal en barras domésticas: colocas el shot glass sobre la báscula, haces tara a cero gramos, extraes hasta alcanzar exactamente tus 36 gramos en 27 segundos —ignorando las líneas de mililitros— y usas su pico vertedor para armar tu capuchino o latte frío."
     }
   ],
   "related": [
-    "/basculas-y-accesorios-barista/",
-    "/basculas-y-accesorios-barista/como-proteger-tu-bascula-mini-de-espresso-del-agua-y-el-vapor/",
-    "/basculas-y-accesorios-barista/disco-ciego-de-goma-para-backflushing-en-51mm-54mm-y-58mm/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/basculas-y-accesorios-barista/distribuidor-de-asheta-giratorio-ocd-vs-agujas-wdt-cual-es-mejor/",
+    "/basculas-y-accesorios-barista/filtros-de-papel-para-espresso-arriba-o-abajo-de-la-pastilla/",
+    "/basculas-y-accesorios-barista/para-que-sirve-el-embudo-dosificador-magnetico-dosing-funnel/",
+    "/basculas-y-accesorios-barista/funciones-de-una-bascula-barista-modo-auto-timer-y-auto-tare/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/vasos-medidores-de-espresso-shot-glass-con-marcas-en-ml-y-oz-vs-bascula.webp"
 }

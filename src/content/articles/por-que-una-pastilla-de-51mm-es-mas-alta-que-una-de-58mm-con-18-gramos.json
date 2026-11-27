@@ -4,161 +4,122 @@
   "path": "/ciencia-y-tecnologia-espresso/por-que-una-pastilla-de-51mm-es-mas-alta-que-una-de-58mm-con-18-gramos/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "diferencia profundidad pastilla 51mm 54mm y 58mm",
   "title": "Geometría Hidráulica: Por Qué 18 g de Café en 51 mm o 54 mm Crean una Columna Más Profunda que en 58 mm",
-  "seoTitle": "Geometría Hidráulica | Guía Barista Compacta",
-  "metaDescription": "Geometría Hidráulica: Por Qué 18 g de Café en 51 mm o 54 mm Crean una Columna Más Profunda que en 58 mm: Un diámetro menor aumenta la altura de la cama de café un 25%, por lo que pide una molienda un punto más gruesa para igualar los 27 segundos. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Un diámetro menor aumenta la altura de la cama de café un 25%, por lo que pide una molienda un punto más gruesa para igualar los 27 segundos.",
-  "quickAnswer": "Sobre diferencia profundidad pastilla 51mm 54mm y 58mm: Un diámetro menor aumenta la altura de la cama de café un 25%, por lo que pide una molienda un punto más gruesa para igualar los 27 segundos. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Geometría Hidráulica: Por Qué 18 g de Café en 51 mm o 54 mm Crean una Columna Más Profunda que en 58 mm | cafeteracompacta.com",
+  "metaDescription": "Descubre la diferencia de profundidad en pastillas de 51 mm, 54 mm y 58 mm con 18 g de café y cómo ajustar la molienda en tu cafetera espresso compacta.",
+  "excerpt": "Analizamos la geometría cilíndrica y la ley de Darcy en cestas de 51 mm, 54 mm y 58 mm para explicar por qué las cafeteras compactas requieren un grosor de molienda distinto al de un grupo comercial.",
+  "quickAnswer": "Al mantener fija una dosis de **18 gramos**, reducir el diámetro del filtro disminuye el área transversal y obliga al café a apilarse verticalmente. Mientras que en un portafiltro comercial de **58 mm** (**26.42 cm²**) la pastilla mide unos **13 a 14 mm** de espesor, en uno de **54 mm** (**Breville Bambino**) alcanza **16 mm** y en **51 mm** (**De’Longhi Dedica Arte** o **CASABREWS CM5418**) supera los **18 mm**, aumentando la resistencia hidráulica.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Un diámetro menor aumenta la altura de la cama de café un 25%, por lo que pide una molienda un punto más gruesa para igualar los 27 segundos., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "High-angle 45-degree workbench/tabletop perspective on 28mm lens: realistic scene illustrating 'Geometría Hidráulica: Por Qué 18 g de Café en 51 mm o 54 mm Crean una Columna Más Profunda que en 58 mm' (diferencia profundidad pastilla 51mm 54mm y 58mm) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, inside a bright contemporary apartment with minimalist decor, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Geometría Hidráulica: Por Qué 18 g de Café en 51 mm o 54 mm Crean una Columna Más Profunda que en 58 mm"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **diferencia profundidad pastilla 51mm 54mm y 58mm** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Un diámetro menor aumenta la altura de la cama de café un 25%, por lo que pide una molienda un punto más gruesa para igualar los 27 segundos."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Ciencia Y Tecnologia Espresso](/ciencia-y-tecnologia-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Cuando intentas replicar al pie de la letra una receta de cafetería de especialidad —por ejemplo, **18 gramos** de café molido fino para extraer **36 gramos** en **27 segundos**— dentro de una **CASABREWS CM5418** o una **De’Longhi Dedica Arte (EC885M)** con portafiltro de **51 mm**, el resultado habitual es un bloqueo total: el manómetro se dispara a la zona roja y apenas caen gotas negras. El problema no es tu cafetera compacta, sino la geometría cilíndrica del filtro. Al introducir la misma masa de café en un diámetro menor, la columna vertical de molienda crece drásticamente y multiplica la oposición al paso del agua según los principios de la [cinética de extracción bajo presión](/ciencia-y-tecnologia-espresso/por-que-el-agua-caliente-bajo-presion-extrae-en-25-segundos-lo-que-en-filtro-tarda-4-minutos/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: diferencia profundidad pastilla 51mm 54mm y 58mm"
+      "text": "Física Cilíndrica y Ley de Darcy: Área Transversal frente a Espesor de Pastilla"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **diferencia profundidad pastilla 51mm 54mm y 58mm** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "El volumen de un cilindro responde a la fórmula `V = π × r² × h`. Una cesta comercial de **58 mm** ofrece un área transversal de **26.42 cm²**, mientras que el estándar de **54 mm** de la **Breville Bambino (BES450)** y **Breville Bambino Plus (BES500)** la reduce a **22.90 cm²**, y el formato ultracompacto de **51 mm** cae hasta **20.43 cm²** (un **22.7 %** menos de superficie que en **58 mm**). Según la ley de Darcy para medios porosos (`Q = (k × A × ΔP) / (μ × L)`), el caudal `Q` disminuye de forma doblemente penalizada en diámetros estrechos: tienes menos área `A` de entrada y un recorrido longitudinal `L` hasta un **34 % más profundo**. Comprender esta relación dentro de la [ingeniería del espresso compacto](/ciencia-y-tecnologia-espresso/) explica por qué una columna alta actúa como un filtro mecánico mucho más restrictivo, pero también más indulgente frente a microfisuras que una pastilla delgada de **58 mm**, antes de desechar y [aprovechar los posos del knock box](/ciencia-y-tecnologia-espresso/como-usar-los-posos-de-cafe-de-tu-knock-box-como-fertilizante-para-plantas/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: diferencia profundidad pastilla 51mm 54mm y 58mm",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Diámetro de Cesta",
+        "Área Transversal (A)",
+        "Altura de Pastilla (L) con 18 g",
+        "Calibre de Molienda Requerido",
+        "Cafeteras de Referencia"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Un diámetro menor aumenta la altura de la cama de café un 25%, por lo que pide una molienda un punto más gruesa para igualar los 27 segundos.",
-          "Mejora la consistencia y evita errores de extracción"
+          "51 mm (Compacto)",
+          "20.43 cm²",
+          "18.2 – 19.0 mm",
+          "Medio-fino (280 – 315 micras)",
+          "CASABREWS CM5418, De’Longhi Dedica Arte EC885M"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "54 mm (Prosumer)",
+          "22.90 cm²",
+          "15.8 – 16.5 mm",
+          "Fino intermedio (250 – 280 micras)",
+          "Breville Bambino BES450, Bambino Plus BES500"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "58 mm (Comercial)",
+          "26.42 cm²",
+          "13.2 – 14.0 mm",
+          "Extra fino (220 – 245 micras)",
+          "Grupos comerciales E61 y calderas de latón 58 mm"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre diferencia profundidad pastilla 51mm 54mm y 58mm",
-      "text": "Un diámetro menor aumenta la altura de la cama de café un 25%, por lo que pide una molienda un punto más gruesa para igualar los 27 segundos. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Comparativa geométrica e hidráulica con una dosis fija de 18 g compactada a 9 bares"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar diferencia profundidad pastilla 51mm 54mm y 58mm hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Cómo Ajustar el Calibre de Molienda al Pasar de 58 mm a 54 mm o 51 mm"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Compensa la altura abriendo el molino entre 2 y 4 clics",
+          "text": "Para que el agua atraviese 18.5 mm de café en un portafiltro de 51 mm en el mismo tiempo (25 a 30 segundos) que 13.5 mm en uno de 58 mm, la permeabilidad intrínseca (k) debe subir aumentando el tamaño medio de partícula unas 35 a 60 micras."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Adapta la dosis seca al volumen real de la cesta de fábrica",
+          "text": "Las cestas originales de 51 mm incluidas en la De’Longhi Dedica Arte y la CASABREWS CM5418 están diseñadas para 14 a 16 g; si deseas cargar 18 g sin golpear la ducha del grupo, instala una cesta de precisión recta de pared alta (24 a 26 mm de altura externa) en un portafiltro sin fondo."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Verifica la cámara libre (headspace) con la prueba de los 2 mm",
+          "text": "Tras compactar en tu Breville Bambino de 54 mm o cafetera de 51 mm, deja entre 1.5 y 2 mm de espacio libre entre la superficie seca del café y la rejilla dispersora para permitir que la pastilla se expanda al hidratarse sin fracturarse."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Ventaja Oculta de las Columnas Profundas frente al Channeling Radial"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Una pastilla delgada de **13 mm** en un filtro de **58 mm** exige una distribución WDT perfecta: cualquier grieta microscópica conecta de inmediato la ducha superior con los agujeros inferiores del filtro y provoca un chorro rubio de subextracción. En cambio, las columnas de **16 mm a 19 mm** propias de los grupos de **54 mm** y **51 mm** obligan al agua a recorrer un laberinto tortuoso más largo, amortiguando errores leves de apisonado y entregando mayor cuerpo y textura siruposa en tuestes medios.",
+      "title": "Por qué 51 mm y 54 mm perdonan más errores de distribución"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con diferencia profundidad pastilla 51mm 54mm y 58mm en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Dudas sobre qué cesta de precisión IMS o portafiltro sin fondo de **51 mm** o **54 mm** encaja en tu cafetera? Consulta al Asesor IA del portal o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta guía."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre diferencia profundidad pastilla 51mm 54mm y 58mm?",
-      "a": "Un diámetro menor aumenta la altura de la cama de café un 25%, por lo que pide una molienda un punto más gruesa para igualar los 27 segundos. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué 18 gramos de café no caben en la cesta original de mi cafetera de 51 mm?",
+      "a": "Porque las cestas dobles originales de fábrica de 51 mm tienen una altura interior pensada para 14 a 16 gramos. Si introduces 18 gramos de un tueste medio o oscuro (que es menos denso y ocupa más volumen), la pastilla toca la ducha antes de extraer. Para 18 g necesitas una cesta H24 o H26 en portafiltro naked."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Se debe moler más fino o más grueso en un filtro de 51 mm respecto a uno de 58 mm?",
+      "a": "Debes moler ligeramente más grueso en 51 mm y 54 mm. Al ser la columna de café entre 3 y 5 milímetros más alta que en 58 mm a igualdad de gramos, una molienda calibrada para 58 mm generará un exceso de resistencia hidráulica y ahogará la bomba."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cambia el ratio de extracción 1:2 al usar un portafiltro de 51 mm o 54 mm?",
+      "a": "No cambia el ratio (por ejemplo, 1:2 sigue siendo 16 g de café seco para obtener 32 g de líquido en taza), pero sí cambia la dosis óptima de partida: 15 a 16 g en cestas estándar de 51 mm y 17 a 18 g en las cestas de 54 mm de la Breville Bambino."
     }
   ],
   "related": [
+    "/ciencia-y-tecnologia-espresso/por-que-el-agua-caliente-bajo-presion-extrae-en-25-segundos-lo-que-en-filtro-tarda-4-minutos/",
+    "/ciencia-y-tecnologia-espresso/como-usar-los-posos-de-cafe-de-tu-knock-box-como-fertilizante-para-plantas/",
     "/ciencia-y-tecnologia-espresso/",
-    "/ciencia-y-tecnologia-espresso/que-es-el-porcentaje-de-extraccion-ey-18-a-22-por-ciento-y-el-tds/",
-    "/ciencia-y-tecnologia-espresso/fisica-del-filtro-no-presurizado-por-que-el-propio-cafe-es-la-resistencia/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/ciencia-y-tecnologia-espresso/tecnologia-thermojet-de-3-segundos-vs-thermoblock-tradicional-vs-caldera/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/por-que-una-pastilla-de-51mm-es-mas-alta-que-una-de-58mm-con-18-gramos.webp"
 }

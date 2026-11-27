@@ -4,161 +4,128 @@
   "path": "/basculas-y-accesorios-barista/para-que-sirve-la-marca-interna-en-las-cestas-de-cafe-linea-de-nivel/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "linea interior cesta portafiltro nivel cafe",
   "title": "Cómo Interpretar la Línea Grabada en el Interior de tu Cesta de Café tras Prensar",
-  "seoTitle": "Cómo Interpretar la Línea Grabada en el Interior de tu Cesta de Café tras Prensar | Guía Barista Compacta",
-  "metaDescription": "Cómo Interpretar la Línea Grabada en el Interior de tu Cesta de Café tras Prensar: Esa ranura indica el nivel ideal donde debe quedar la superficie del café una vez prensado con el tamper para dejar 2 mm de espacio libre al agua. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Esa ranura indica el nivel ideal donde debe quedar la superficie del café una vez prensado con el tamper para dejar 2 mm de espacio libre al agua.",
-  "quickAnswer": "Sobre linea interior cesta portafiltro nivel cafe: Esa ranura indica el nivel ideal donde debe quedar la superficie del café una vez prensado con el tamper para dejar 2 mm de espacio libre al agua. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Interpretar la Línea Grabada en el Interior de tu Cesta de Café tras Prensar | cafeteracompacta.com",
+  "metaDescription": "Aprende a interpretar la línea interior de la cesta del portafiltro tras prensar el café: cómo ajustar el headspace, el gramaje y el espacio del puck screen.",
+  "excerpt": "Descubre qué indica realmente el surco perimetral grabado dentro de tu filtro de café, cómo varía el volumen según el tueste del grano y cómo usar la prueba de la moneda para validar la altura.",
+  "quickAnswer": "La línea grabada en el interior de la cesta indica el **nivel óptimo de la pastilla ya prensada** para garantizar un espacio libre (**headspace**) de **2 a 3 mm** respecto a la ducha del grupo. También cumple una función mecánica: actúa como retén frente al resorte interno del portafiltro. Si usas un **puck screen de 1.7 mm**, el café prensado debe quedar ligeramente bajo esa marca.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Esa ranura indica el nivel ideal donde debe quedar la superficie del café una vez prensado con el tamper para dejar 2 mm de espacio libre al agua., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Split comparison composition showing two complementary setups side by side: realistic scene illustrating 'Cómo Interpretar la Línea Grabada en el Interior de tu Cesta de Café tras Prensar' (linea interior cesta portafiltro nivel cafe) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, on a clean stone countertop with neatly arranged accessories, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Interpretar la Línea Grabada en el Interior de tu Cesta de Café tras Prensar"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **linea interior cesta portafiltro nivel cafe** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Esa ranura indica el nivel ideal donde debe quedar la superficie del café una vez prensado con el tamper para dejar 2 mm de espacio libre al agua."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Basculas Y Accesorios Barista](/basculas-y-accesorios-barista/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Observas el interior vacío de la cesta de tu **Breville Bambino (BES450)**, **De’Longhi Dedica Arte (EC885M)** o **CASABREWS CM5418** y distingues un anillo hundido que recorre toda la pared metálica a unos **5 o 7 mm** del borde superior. Muchos principiantes creen que deben llenar el filtro de café suelto hasta ese surco antes de prensar, pero hacerlo deja una dosis ridícula y una pastilla encharcada. Esa **línea interior de la cesta del portafiltro** cumple una doble función física y volumétrica que solo cobra sentido **después de haber compactado el café** con el tamper. Dominar su lectura te permitirá clavar el espacio libre bajo el grupo, especialmente si estás valorando [cuándo merece la pena instalar una ducha de dispersión IMS Nanotech](/basculas-y-accesorios-barista/duchas-de-dispersion-ims-nanotech-para-gaggia-y-breville-merecen-la-pena/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: linea interior cesta portafiltro nivel cafe"
+      "text": "Función mecánica (Ridged) y referencia de Headspace tras compactar"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **linea interior cesta portafiltro nivel cafe** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Desde el punto de vista de fabricación, ese pliegue anular —conocido técnicamente en cestas de **58 mm**, **54 mm** y **51 mm** como diseño **Ridged** (con reborde)— sobresale hacia fuera por la cara externa del filtro para engancharse en el alambre elástico del portafiltro e impedir que la cesta se caiga al golpear la pastilla en el knock box. Hacia el interior, los fabricantes sitúan ese surco exactamente a la altura que deja entre **2.0 y 3.0 mm de espacio libre (headspace)** respecto a la ducha por donde sale el agua caliente. Cuando prensas tu dosis con un buen nivelador —puedes consultar nuestra [guía de elección entre tamper de base plana y base acanalada ripple](/basculas-y-accesorios-barista/tamper-de-base-plana-vs-base-concentricamente-acanalada-ripple/)—, la superficie superior del café compactado debe quedar **a ras o ligeramente por debajo de la línea grabada**. Si sobrepasa la marca, el café seco chocará contra el metal del grupo antes de humedecerse y dificultará el giro del portafiltro, incluso aunque conozcas las [ventajas de las juntas de grupo de silicona frente a las de goma NBR](/basculas-y-accesorios-barista/juntas-de-grupo-de-silicona-cafelat-vs-juntas-de-goma-negra-nbr/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: linea interior cesta portafiltro nivel cafe",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Escenario de preparación",
+        "Nivel de la pastilla prensada respecto a la línea",
+        "Gramos orientativos (51 mm / 54 mm / 58 mm)",
+        "Comportamiento del Headspace en extracción"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Esa ranura indica el nivel ideal donde debe quedar la superficie del café una vez prensado con el tamper para dejar 2 mm de espacio libre al agua.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Sin Puck Screen (Tueste medio estándar)",
+          "Exactamente a ras del centro de la línea grabada",
+          "15.5 g (51 mm) / 17.5 g (54 mm) / 18.0 g (58 mm)",
+          "Holgura ideal de 2.0 a 2.5 mm para expansión húmeda"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Con Puck Screen metálico de 1.7 mm",
+          "De 1.5 a 2.0 mm por debajo de la línea interior",
+          "Reducir dosis entre 1.0 y 1.5 gramos",
+          "El disco metálico queda a ras de la línea sin tocar el tornillo"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Grano de tueste muy oscuro (baja densidad)",
+          "Tiende a subir por encima de la línea a igual peso",
+          "14.0 g (51 mm) / 16.0 g (54 mm) / 16.5 g (58 mm)",
+          "Exige bajar gramos para no bloquear la ducha del grupo"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Grano de tueste claro (alta densidad)",
+          "Queda de 1.5 a 2.0 mm bajo la línea a igual peso",
+          "16.5 g (51 mm) / 18.5 g (54 mm) / 19.5 g (58 mm)",
+          "Admite subir 1 g extra o añadir un Puck Screen de 1.7 mm"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre linea interior cesta portafiltro nivel cafe",
-      "text": "Esa ranura indica el nivel ideal donde debe quedar la superficie del café una vez prensado con el tamper para dejar 2 mm de espacio libre al agua. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Dónde debe quedar el café prensado respecto a la línea interior según el tueste y uso de Puck Screen"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar linea interior cesta portafiltro nivel cafe hoy mismo en tu cocina"
+      "text": "Por qué 18 gramos de tueste oscuro superan la línea y 18 gramos de tueste claro no llegan"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Uno de los mayores desconciertos al usar una báscula de precisión es comprobar que **17 gramos** de un café comercial de tueste italiano oscuro desbordan la línea interior de tu cesta de **54 mm** en la **Breville Bambino**, mientras que **17 gramos** de un café etíope de especialidad de tueste medio-claro quedan **2 mm por debajo** del surco. Durante el tueste prolongado, el grano pierde humedad y desarrolla una estructura celular mucho más porosa y voluminosa: a igualdad de peso en gramos, **el café oscuro ocupa hasta un 18 % más de volumen** dentro de la cesta tras el prensado. Por eso la línea interior del filtro es tu mejor guía visual: el gramaje impreso en la cesta (por ejemplo, **18 g**) es solo una referencia para tueste medio; quien manda en última instancia para no fracturar la pastilla contra la ducha es la altura geométrica que marca el surco interior."
+    },
+    {
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "En las cafeteras **Breville de 54 mm** (como la Bambino y la Barista Express), la cuchilla metálica de nivelación **Razor** incluida en la caja tiene sus hombros laterales calibrados exactamente a la misma profundidad que la línea interior de las cestas originales, dejando el espacio libre exacto para la ducha del grupo.",
+      "title": "Relación entre la línea de la cesta Breville y la herramienta Razor"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo hacer la prueba de la moneda (Nickel Test) para validar tu nivel exacto"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Prensa tu dosis habitual en seco y coloca una moneda limpia",
+          "text": "Prepara y compacta tu café hasta la referencia de la línea interior, y apoya en el centro de la pastilla seca una moneda limpia de **1.7 a 2.0 mm** de grosor (o tu propio **puck screen de 1.7 mm**)."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Encaja el portafiltro en el grupo sin encender la bomba",
+          "text": "Bloquea el portafiltro a **90 grados** en el cabezal de la cafetera apagada y vuelve a sacarlo inmediatamente con suavidad."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Inspecciona la huella sobre la superficie del café compactado",
+          "text": "Si la moneda apenas ha dejado una leve marca superficial sin hundirse en el café, tienes **2 mm** de headspace perfecto; si se ha incrustado profundamente, debes reducir tu dosis entre **1.0 y 1.5 gramos**."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con linea interior cesta portafiltro nivel cafe en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Revisa en las tarjetas de Amazon integradas en esta página las cestas de precisión sin reborde (Ridgeless) y con reborde (Ridged) en 51 mm, 54 mm y 58 mm, o pregunta a nuestro Asesor IA qué capacidad en gramos necesitas para tu tipo de tueste."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre linea interior cesta portafiltro nivel cafe?",
-      "a": "Esa ranura indica el nivel ideal donde debe quedar la superficie del café una vez prensado con el tamper para dejar 2 mm de espacio libre al agua. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué algunas cestas de competición no tienen línea interior grabada (Ridgeless)?",
+      "a": "En las cestas de precisión sin reborde (Ridgeless) de marcas como IMS o VST, las paredes interiores son completamente lisas y rectas para evitar que el café se acumule en el surco al prensar. En ellas debes guiarte por una distancia de 5 a 6 mm desde el labio superior o aplicar la prueba de la moneda."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Qué pasa si el café prensado queda 3 mm por debajo de la línea interior?",
+      "a": "Si al terminar el café la pastilla sale húmeda o con una fina capa de agua arriba pero el espresso se extrajo en 25 a 30 segundos con buen cuerpo, no hay ningún fallo: simplemente indica que tienes un headspace amplio o que tu cafetera no tiene válvula solenoide de 3 vías."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Debo bajar la dosis de café respecto a la línea interior si uso un Puck Screen?",
+      "a": "Sí. Un puck screen estándar de malla sinterizada mide 1.7 mm de espesor (o 0.8 mm en los modelos ultrafinos de chapa perforada). Para que el disco no choque contra el tornillo central de la ducha del grupo, la pastilla prensada debe quedar entre 1.5 y 2 mm por debajo de la línea."
     }
   ],
   "related": [
-    "/basculas-y-accesorios-barista/",
-    "/basculas-y-accesorios-barista/guia-definitiva-compatibilidad-accesorios-todas-las-marcas-amazon/",
-    "/basculas-y-accesorios-barista/como-comprobar-si-los-imanes-de-tu-embudo-agarran-bien-en-tu-cesta/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/basculas-y-accesorios-barista/tamper-de-base-plana-vs-base-concentricamente-acanalada-ripple/",
+    "/basculas-y-accesorios-barista/paños-de-microfibra-barista-por-que-tener-uno-exclusivo-para-la-lanceta/",
+    "/basculas-y-accesorios-barista/juntas-de-grupo-de-silicona-cafelat-vs-juntas-de-goma-negra-nbr/",
+    "/basculas-y-accesorios-barista/duchas-de-dispersion-ims-nanotech-para-gaggia-y-breville-merecen-la-pena/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/para-que-sirve-la-marca-interna-en-las-cestas-de-cafe-linea-de-nivel.webp"
 }

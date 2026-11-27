@@ -3,159 +3,128 @@
   "pillar": "extraccion-y-recetas-espresso",
   "path": "/extraccion-y-recetas-espresso/",
   "isPillar": true,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "cómo extraer un espresso perfecto en casa",
   "title": "Extracción Perfecta del Espresso (Ratio 1:2) y Recetas de Cafetería en Casa",
-  "seoTitle": "Cómo Extraer un Espresso Perfecto en Casa: Ratio 1:2, Presión y Recetas",
-  "metaDescription": "Extracción Perfecta del Espresso (Ratio 1:2) y Recetas de Cafetería en Casa: hub completo con 60 guías sobre control del ratio 1:2 (18 g en 25–30 s para 36 g líquidos), lectura del manómetro de presión, corrección de café ácido o amargo y recetas de Flat White, Cortado y Latte y ofertas en Amazon EE. UU. y España.",
-  "excerpt": "Explora las 60 guías especializadas de este silo sobre control del ratio 1:2 (18 g en 25–30 s para 36 g líquidos), lectura del manómetro de presión, corrección de café ácido o amargo y recetas de Flat White, Cortado y Latte.",
-  "quickAnswer": "En esta sección principal de Extracción Perfecta del Espresso (Ratio 1 reunimos 60 guías verificadas sobre control del ratio 1:2 (18 g en 25–30 s para 36 g líquidos), lectura del manómetro de presión, corrección de café ácido o amargo y recetas de Flat White, Cortado y Latte, diseñadas para ayudarte a comprar, calibrar y mantener tu cafetera espresso compacta y sus accesorios compatibles en Amazon.",
-  "readingMinutes": 8,
+  "seoTitle": "Extracción Perfecta del Espresso (Ratio 1:2) y Recetas de Cafetería en Casa | cafeteracompacta.com",
+  "metaDescription": "Aprende cómo extraer un espresso perfecto en casa: control del ratio 1:2 en gramos, tiempos de 25 a 30 segundos, corrección de acidez y recetas de cafetería.",
+  "excerpt": "Domina la fórmula maestra del espresso (ratio 1:2 por peso) en tu cafetera compacta y prepara cortados, lattes, espresso tonic y caramel macchiato con estándar de cafetería.",
+  "quickAnswer": "La clave sobre **cómo extraer un espresso perfecto en casa** consiste en medir la receta por peso usando un **ratio 1:2** en un tiempo de **25 a 30 segundos** a **9 bares** y **92–93 °C**. Con una dosis de **18 gramos** de café molido en un portafiltro de **54 mm** o **58 mm** (o **15 g** en **51 mm**), debes detener la extracción al obtener **36 gramos** (**30 g** en **51 mm**) de líquido en taza.",
+  "readingMinutes": 7,
   "image": {
-    "prompt": "Extreme close-up of a naked bottomless portafilter extracting tiger-striped golden hazelnut espresso crema into a double-walled glass cup on a mini digital scale",
-    "alt": "Portafiltro sin fondo extrayendo espresso con crema atigrada sobre una báscula digital mini"
+    "prompt": "Diagonal isometric product-in-use composition in modern home setting: realistic scene illustrating 'Extracción Perfecta del Espresso (Ratio 1:2) y Recetas de Cafetería en Casa' (cómo extraer un espresso perfecto en casa) for cafeteracompacta.com, featuring equipment in arctic white with warm stone-gray details, on a matte dark-gray technical mat with measuring tools nearby, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Extracción Perfecta del Espresso (Ratio 1:2) y Recetas de Cafetería en Casa"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub central de **Extracción Perfecta del Espresso (Ratio 1:2) y Recetas de Cafetería en Casa** en **CafeteraCompacta.com**. Aquí reunimos toda la ingeniería barista, pruebas de extracción y criterios de compra sobre **control del ratio 1:2 (18 g en 25–30 s para 36 g líquidos), lectura del manómetro de presión, corrección de café ácido o amargo y recetas de Flat White, Cortado y Latte**, organizados bajo una arquitectura sin canibalización para que encuentres el modelo o accesorio compatible exacto antes de comprar en Amazon Estados Unidos (`amazon.com`) o España (`amazon.es`)."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si buscas tu primera cafetera espresso por menos de $150 como la **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, un diseño italiano ultra-delgado de 15 cm con lanceta profesional como la **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)** o el estándar de cafetería en 3 segundos con la **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, dominar las medidas y parámetros de este silo multiplicará la calidad de tus cafés cada mañana."
+      "text": "Guiarse por los mililitros de un vaso medidor o dejar correr el botón automático de fábrica hasta llenar media taza es la razón principal por la que el café casero sabe aguado, agrio o excesivamente amargo. La crema del espresso está compuesta por burbujas de gas **CO2** cuyo volumen varía drásticamente según la frescura del tueste, haciendo que **30 ml** puedan pesar desde **15 gramos** hasta **28 gramos**. Por ello, aprender **cómo extraer un espresso perfecto en casa** empieza por colocar una báscula digital bajo la taza y dividir la extracción por gramos. Si nunca has probado cómo evolucionan los compuestos químicos segundo a segundo, te invitamos a realizar [el experimento del Salami Shot para entender las 3 fases del espresso](/extraccion-y-recetas-espresso/que-es-el-salami-shot-el-experimento-para-entender-las-3-fases-del-espresso/), separando un mismo tiro en **5 vasos consecutivos** para identificar dónde terminan los ácidos frutales, dónde emerge el dulzor caramelizado y cuándo empieza el amargor astringente."
     },
     {
       "type": "h2",
-      "text": "Criterios técnicos en Extracción Perfecta del Espresso (Ratio 1"
+      "text": "La Geometría de la Receta: Ristretto (1:1.5), Normale (1:2) y Lungo (1:2.5)"
     },
     {
       "type": "p",
-      "text": "En cada una de las **60 guías especializadas** de esta categoría evaluamos cifras reales y verificables: ancho en centímetros y pulgadas para encimeras pequeñas, diámetro y número de orejas del portafiltro (**51 mm**, **54 mm** y **58 mm**), estabilidad térmica PID (93 °C), regulación de presión a 9 bares reales mediante válvula OPV y potencia de vaporización para Latte Art."
+      "text": "Una vez dominas la extracción base **1:2** en tu **Breville Bambino**, **De’Longhi Dedica Arte** o **CASABREWS CM5418**, dispones del cimiento concentrado para preparar cualquier bebida de cafetería de especialidad con equilibrio exacto entre café y lácteo o refresco. Si buscas intensidad sedosa sin que la leche apague los matices del grano, aplica nuestra [receta de café cortado y Gibraltar en proporción 1:1 con leche texturizada](/extraccion-y-recetas-espresso/receta-de-cafe-cortado-y-gibraltar-proporcion-1-a-1-con-leche/) servida en vaso de cristal de **130 ml (4.5 oz)**. Para las tardes calurosas con cafés de tueste medio o ligero de notas cítricas, nuestra [receta de Espresso Tonic con agua tónica fría y piel de naranja](/extraccion-y-recetas-espresso/receta-de-espresso-tonic-con-agua-tonica-y-piel-de-naranja/) explica cómo deslizar el espresso sobre una cuchara o hielo grande para evitar que el ácido carbónico desborde el vaso, mientras que la [receta de Caramel Macchiato casero frío o caliente](/extraccion-y-recetas-espresso/receta-de-caramel-macchiato-casero-estilo-starbucks/) te enseña a estratificar jarabe de vainilla, leche emulsionada y la mancha superior de espresso doble."
     },
     {
       "type": "table",
-      "caption": "Índice destacado de guías en Extracción Perfecta del Espresso (Ratio 1",
       "headers": [
-        "Guía Barista Especializada",
-        "Acceso Directo"
+        "Bebida / Perfil",
+        "Dosis Seca (51 mm / 54–58 mm)",
+        "Rendimiento Líquido (Ratio)",
+        "Tiempo Objetivo",
+        "Complemento en Taza"
       ],
       "rows": [
         [
-          "La Fórmula del Ratio 1:2 en Espresso: Cómo Pasar de 18 g de Café Seco a 36 g en Taza en 27 Segundos",
-          "[Ver guía completa](/extraccion-y-recetas-espresso/que-es-el-ratio-1-2-en-espresso-y-como-medirlo-en-casa/)"
+          "Ristretto (Tueste medio-oscuro)",
+          "15 g / 18 g",
+          "22.5 g / 27 g (Ratio 1:1.5)",
+          "22 a 26 segundos",
+          "Sin añadido; textura densa y baja astringencia"
         ],
         [
-          "Cómo Leer el Manómetro de Presión de tu CASABREWS CM5418 (Zona Pre-Infusión, Zona Espresso y Sobrepresión)",
-          "[Ver guía completa](/extraccion-y-recetas-espresso/como-leer-el-manometro-de-presion-de-la-casabrews-cm5418/)"
+          "Espresso Doble Normale",
+          "15 g / 18 g",
+          "30 g / 36 g (Ratio 1:2.0)",
+          "25 a 30 segundos",
+          "Base universal equilibrada en acidez y dulzor"
         ],
         [
-          "Tu Espresso Está Ácido o Amargo: Tabla de Diagnóstico por Sabor y Cómo Corregirlo en el Siguiente Shot",
-          "[Ver guía completa](/extraccion-y-recetas-espresso/diferencia-entre-espresso-subextraido-acido-y-sobreextraido-amargo/)"
+          "Lungo Moderno (Tueste claro)",
+          "15 g / 18 g",
+          "37.5 g / 45 g (Ratio 1:2.5)",
+          "26 a 32 segundos",
+          "Resalta notas florales en granos de alta densidad"
         ],
         [
-          "Qué Es el Channeling (Canalización) en la Pastilla de Café y las 4 Formas de Eliminarlo al 100%",
-          "[Ver guía completa](/extraccion-y-recetas-espresso/que-es-el-channeling-canalizacion-en-el-espresso-y-como-eliminarlo/)"
+          "Cortado / Gibraltar (130 ml)",
+          "15 g / 18 g",
+          "30 g / 36 g (Ratio 1:2.0)",
+          "25 a 30 segundos",
+          "+ 30 a 36 ml de leche texturizada a 62 °C (1:1)"
         ],
         [
-          "Cómo Programar la Cantidad de Café de los Botones 1 Taza y 2 Tazas en la CASABREWS CM5418",
-          "[Ver guía completa](/extraccion-y-recetas-espresso/como-programar-el-volumen-y-tiempo-de-los-botones-en-casabrews-cm5418/)"
-        ],
-        [
-          "Cómo Programar la Dosis Personalizada y Controlar la Pre-Infusión Manual en la Breville Bambino",
-          "[Ver guía completa](/extraccion-y-recetas-espresso/como-programar-el-volumen-de-extraccion-en-la-breville-bambino/)"
-        ],
-        [
-          "El Menú Oculto de la De’Longhi Dedica Arte (EC885M): Cómo Subir la Temperatura al Nivel Alto",
-          "[Ver guía completa](/extraccion-y-recetas-espresso/como-ajustar-las-3-temperaturas-y-el-volumen-en-la-delonghi-dedica-arte/)"
-        ],
-        [
-          "El Secreto del 'Blank Shot': Por Qué Pasar Agua Caliente por el Portafiltro Vacío Mejora la Crema un 40%",
-          "[Ver guía completa](/extraccion-y-recetas-espresso/por-que-es-imprescindible-precalentar-el-portafiltro-con-un-disparo-en-vacio/)"
-        ],
-        [
-          "Cuántos Gramos de Café Poner en un Portafiltro de 51 mm (14–16 g) vs 54 mm (17–19 g) vs 58 mm (18–20 g)",
-          "[Ver guía completa](/extraccion-y-recetas-espresso/como-saber-cuantos-gramos-caben-en-tu-cesta-de-51mm-vs-54mm/)"
-        ],
-        [
-          "El Experimento del 'Salami Shot': Divide tu Espresso en 5 Vasos para Probar Ácidos, Dulzor y Amargor",
-          "[Ver guía completa](/extraccion-y-recetas-espresso/que-es-el-salami-shot-el-experimento-para-entender-las-3-fases-del-espresso/)"
-        ],
-        [
-          "Receta de Café Americano de Especialidad vs Long Black: Proporción Exacta de Agua a 90 °C y Espresso",
-          "[Ver guía completa](/extraccion-y-recetas-espresso/como-hacer-un-americano-perfecto-en-casa-proporcion-agua-y-espresso/)"
-        ],
-        [
-          "Cómo Preparar un Flat White Auténtico en Casa (Doble Ristretto + 120 ml de Microespuma Fina)",
-          "[Ver guía completa](/extraccion-y-recetas-espresso/receta-de-flat-white-autentico-australiano-en-cafetera-compacta/)"
+          "Flat White / Latte (180–240 ml)",
+          "15 g / 18 g",
+          "30 g / 36 g (Ratio 1:2.0)",
+          "25 a 30 segundos",
+          "+ 120 a 180 ml de microespuma fina a 65 °C"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "etiqueta",
-      "title": "Compatibilidad milimétrica verificada (51 mm vs 54 mm vs 58 mm)",
-      "text": "Antes de pedir un portafiltro Bottomless, tamper calibrado o Puck Screen en Amazon, verifica siempre la medida de tu grupo: la CASABREWS CM5418 y la De’Longhi Dedica Arte usan 51 mm (3 orejas); la De’Longhi Stilosa usa 51 mm (2 orejas); la Breville Bambino usa 54 mm (tamper 53.3 mm); y la Gaggia Classic Evo Pro o HiBREW H10A usan 58 mm."
+      ],
+      "caption": "Parámetros Técnicos de Extracción y Proporciones de Recetas Clásicas"
     },
     {
       "type": "h2",
-      "text": "Cómo aprovechar nuestras comparativas y enlaces de Amazon"
-    },
-    {
-      "type": "ol",
-      "items": [
-        "**Mide el hueco de tu cocina:** las cafeteras ultra-compactas de 15 cm caben en cualquier rincón; recuerda dejar 10 cm a la derecha para mover la lanceta de vapor con comodidad.",
-        "**Elige el molino y accesorios de tu diámetro exacto:** combinar tu cafetera con un molino de muelas para espresso (como el [Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/) o el [Fellow Opus](/resenas-cafeteras/fellow-opus-conical-burr-grinder/)) y una báscula mini de 0.1 g transforma por completo la crema en taza.",
-        "**Consulta el precio y ofertas en tu tienda Amazon:** nuestras tarjetas están optimizadas por defecto para **Amazon Estados Unidos (`cafeteracompacta-20`)** y detectan automáticamente si navegas desde **España (`cafeteracompacta-21`)**."
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿No estás seguro de qué cafetera, molino o accesorio de este silo elegir? Pregúntale en vivo a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Las 5 reglas de oro del barismo compacto en casa"
+      "text": "Diagnóstico Sensorial en Taza: Cómo Corregir Sub-extracción y Sobre-extracción"
     },
     {
       "type": "ul",
       "items": [
-        "**Ratio 1:2 en 25 a 30 segundos:** pesa 16 a 18 gramos de café en seco y detén la extracción cuando la báscula mini marque 32 a 36 gramos de espresso líquido.",
-        "**Purga de calentamiento ('Blank Shot'):** pasa siempre 4 segundos de agua caliente por el portafiltro vacío antes de poner el café para que el metal alcance los 90 °C.",
-        "**Distribución WDT + Prensado nivelado:** rompe los grumos con agujas de 0.3 mm y prensa recto con un tamper calibrado para eliminar el channeling.",
-        "**Descalcificación cada 60–90 días:** utiliza ácido láctico (De’Longhi EcoDecalk o Urnex Dezcal) y nunca vinagre blanco para proteger el Thermoblock."
+        "**Sabor agrio, punzante, salado y crema pálida delgada (Sub-extracción):** El agua ha pasado demasiado rápido (**menos de 20 segundos**) o a baja temperatura sin disolver los azúcares que equilibran la acidez inicial. **Solución:** Muele **1 o 2 clics más fino**, purga un disparo de agua en blanco para calentar el grupo y el portafiltro, o alarga el ratio a **1:2.2**.",
+        "**Sabor amargo seco, ceniciento, hueco y que raspa la lengua (Sobre-extracción):** El agua ha tardado demasiado (**más de 35 segundos**) o el tueste es muy oscuro para una temperatura alta, extrayendo fibras vegetales insolubles al final del tiro. **Solución:** Abre el molino hacia un punto más grueso o acorta el rendimiento en báscula a un ratio **1:1.7**.",
+        "**Mezcla simultánea de acidez punzante y amargor seco (Canalización o Channeling):** El agua ha perforado una grieta en la pastilla de café, sobre-extrayendo ese canal y dejando seca el resto de la cama. **Solución:** Aplica distribución con agujas **WDT de 0.35 mm** y nivela el prensado."
       ]
+    },
+    {
+      "type": "h2",
+      "text": "La Regla de Temperatura según el Nivel de Tueste del Grano"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "En cafeteras con ajuste térmico como la **De’Longhi Dedica Arte / Maestro Plus** (**3 niveles: Bajo, Medio, Alto**) o la **HiBREW H10A** (**PID de 90 a 95 °C**), adapta el calor a la solubilidad del grano: usa **90–91 °C (Nivel Bajo)** para tuestes oscuros italianos para no extraer amargor quemado; **92–93 °C (Nivel Medio)** para tuestes medios de especialidad; y **94–95 °C (Nivel Alto)** para tuestes claros de origen único más densos.",
+      "title": "Cómo ajustar los 3 niveles térmicos o el PID de tu cafetera"
+    },
+    {
+      "type": "cta",
+      "text": "Explora nuestro recetario barista paso a paso, consulta al Asesor IA cómo ajustar tu ratio según el tueste de tus granos y revisa la disponibilidad de tazas, vasos térmicos y accesorios en las tarjetas de Amazon integradas."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué guías incluye la sección de Extracción Perfecta del Espresso (Ratio 1?",
-      "a": "Incluye 60 artículos técnicos detallados sobre control del ratio 1:2 (18 g en 25–30 s para 36 g líquidos), lectura del manómetro de presión, corrección de café ácido o amargo y recetas de Flat White, Cortado y Latte, con tablas de medidas, parámetros de extracción y enlaces directos a los productos compatibles en Amazon Estados Unidos y España."
+      "q": "¿Desde qué momento exacto debo empezar a contar los 25 a 30 segundos del espresso?",
+      "a": "El estándar técnico de cafetería más consistente consiste en **iniciar el cronómetro en el instante en que pulsas el botón de extracción** de la cafetera. Esto incluye los **4 a 8 segundos de pre-infusión** en modelos como la **Breville Bambino** o la **De’Longhi Dedica**, cayendo las primeras gotas entre el segundo **6 y 9**."
     },
     {
-      "q": "¿Todas las recomendaciones son compatibles con cocinas pequeñas?",
-      "a": "Sí, en CafeteraCompacta.com nos especializamos exclusivamente en cafeteras espresso de huella reducida (14 a 23 cm de ancho), molinos compactos Single Dose y básculas mini de 10×10 cm."
+      "q": "¿Por qué debo detener la cafetera 2 gramos antes de mi peso objetivo?",
+      "a": "Al pulsar el botón para parar la bomba, queda agua en tránsito dentro del portafiltro (especialmente en máquinas sin válvula solenoide de 3 vías como la **CASABREWS CM5418** o la **De’Longhi Dedica Arte**). Si tu objetivo son **36 gramos**, corta la extracción al ver **33.5 o 34.0 gramos** en la pantalla."
     },
     {
-      "q": "¿Puedo pedir una recomendación personalizada según mi presupuesto?",
-      "a": "Por supuesto: abre el widget del Barista IA en la esquina inferior derecha, indícale tu presupuesto en dólares o euros y te armará el combo exacto en Amazon."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Espresso Standards",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Coffee Quality Institute – Barista & Extraction Science",
-      "url": "https://www.coffeeinstitute.org/"
+      "q": "¿Cómo puedo calentar la máquina rápidamente antes del primer espresso de la mañana?",
+      "a": "Con el portafiltro vacío encajado en el grupo, coloca tu taza debajo y ejecuta **un disparo corto de agua caliente de 5 a 8 segundos** antes de secar la cesta y dosificar el café. Ese simple gesto atempera el metal del portafiltro, el cabezal de ducha y la porcelana de la taza."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/que-es-el-ratio-1-2-en-espresso-y-como-medirlo-en-casa/",
-    "/extraccion-y-recetas-espresso/como-leer-el-manometro-de-presion-de-la-casabrews-cm5418/",
-    "/extraccion-y-recetas-espresso/diferencia-entre-espresso-subextraido-acido-y-sobreextraido-amargo/",
-    "/extraccion-y-recetas-espresso/que-es-el-channeling-canalizacion-en-el-espresso-y-como-eliminarlo/"
+    "/extraccion-y-recetas-espresso/que-es-el-salami-shot-el-experimento-para-entender-las-3-fases-del-espresso/",
+    "/extraccion-y-recetas-espresso/receta-de-cafe-cortado-y-gibraltar-proporcion-1-a-1-con-leche/",
+    "/extraccion-y-recetas-espresso/receta-de-espresso-tonic-con-agua-tonica-y-piel-de-naranja/",
+    "/extraccion-y-recetas-espresso/receta-de-caramel-macchiato-casero-estilo-starbucks/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/extraccion-y-recetas-espresso.webp"
 }

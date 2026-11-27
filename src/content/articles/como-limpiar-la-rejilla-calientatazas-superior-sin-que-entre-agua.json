@@ -4,161 +4,128 @@
   "path": "/mantenimiento-y-descalcificacion/como-limpiar-la-rejilla-calientatazas-superior-sin-que-entre-agua/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "limpiar bandeja calientatazas superior cafetera",
   "title": "Cómo Limpiar la Bandeja Calientatazas Superior de tu Cafetera sin Que Entre Líquido a la Placa",
-  "seoTitle": "Cómo Limpiar la Bandeja Calientatazas Superior de tu Cafetera sin Que Entre Líquido a la Placa | Guía Barista Compacta",
-  "metaDescription": "Cómo Limpiar la Bandeja Calientatazas Superior de tu Cafetera sin Que Entre Líquido a la Placa: Usa siempre un paño ligeramente humedecido y nunca vuelques agua encima del techo de la máquina donde van los botones. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Usa siempre un paño ligeramente humedecido y nunca vuelques agua encima del techo de la máquina donde van los botones.",
-  "quickAnswer": "Sobre limpiar bandeja calientatazas superior cafetera: Usa siempre un paño ligeramente humedecido y nunca vuelques agua encima del techo de la máquina donde van los botones. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Limpiar la Bandeja Calientatazas Superior de tu Cafetera sin Que Entre Líquido a la Placa | cafeteracompacta.com",
+  "metaDescription": "Aprende a limpiar la bandeja calientatazas superior de tu cafetera espresso sin filtrar agua ni desengrasante hacia la placa electrónica PCB o el cableado.",
+  "excerpt": "La plataforma superior de la CASABREWS CM5418, De’Longhi Dedica y Breville Bambino tiene ranuras de ventilación sobre la placa de control: límpiala en seco o con microfibra controlada.",
+  "quickAnswer": "Para limpiar la bandeja calientatazas superior de tu cafetera sin dañar su electrónica interna, desconecta el equipo de la red eléctrica, espera a que la placa descienda a **menos de 30 °C** y aspira el café molido de las ranuras en seco. Luego, frota con un paño de microfibra humedecido con apenas **2 pulverizaciones de alcohol isopropílico al 70 %** aplicadas sobre la tela, nunca directamente sobre el chasis.",
+  "readingMinutes": 5,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Usa siempre un paño ligeramente humedecido y nunca vuelques agua encima del techo de la máquina donde van los botones., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Dynamic action-ready placement on clean counter surface with subtle reflections: realistic scene illustrating 'Cómo Limpiar la Bandeja Calientatazas Superior de tu Cafetera sin Que Entre Líquido a la Placa' (limpiar bandeja calientatazas superior cafetera) for cafeteracompacta.com, featuring equipment in sleek titanium silver with carbon-gray texture, on a warm walnut table beside a sunlit window, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Limpiar la Bandeja Calientatazas Superior de tu Cafetera sin Que Entre Líquido a la Placa"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **limpiar bandeja calientatazas superior cafetera** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Usa siempre un paño ligeramente humedecido y nunca vuelques agua encima del techo de la máquina donde van los botones."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "En cafeteras ultra-compactas de **15 cm de ancho** como la **CASABREWS CM5418**, la **De’Longhi Dedica Arte EC885M** o la **Breville Bambino BES450**, la bandeja metálica superior cumple una función muy práctica: aprovechar el calor residual del thermoblock (entre **40 y 45 °C**) para atemperar la porcelana de tus tazas. Sin embargo, al apoyar tazas recién enjuagadas, manipular el portafiltro o rellenar el depósito trasero, esta cubierta acumula cercos marrones de café, polvo de molienda y cal. El error más peligroso que vemos a diario en nuestras [guías de mantenimiento y descalcificación](/mantenimiento-y-descalcificacion/) es rociar limpiacristales o pasar una esponja empapada directamente sobre esa placa superior sin saber qué hay debajo."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: limpiar bandeja calientatazas superior cafetera"
+      "text": "El riesgo oculto bajo las ranuras de ventilación del calientatazas pasivo"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **limpiar bandeja calientatazas superior cafetera** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "A diferencia de una bandeja de goteo inferior, la rejilla calientatazas superior **no es una cubeta estanca**. Para evitar que el chasis compacto se sobrecaliente, los fabricantes diseñan esta tapa de acero inoxidable o polímero metalizado con ranuras perimetrales de expansión térmica o perforaciones de ventilación. Justo debajo de esas rendijas —a menudo a **menos de 15 mm de distancia**— se alojan la **placa electrónica de control (PCB)**, los microinterruptores de la botonera frontal y los terminales eléctricos de alta tensión del bloque calefactor. Derramar agua jabonosa por ahí arriba es tan dañino para la electrónica como lo es para los metales cometer el error de [meter el portafiltro de aluminio al lavavajillas](/mantenimiento-y-descalcificacion/se-puede-meter-el-portafiltro-al-lavavajillas-peligro-en-aluminio/) o descuidar la higiene del grupo cuando [dejas la pastilla de café mojada puesta todo el día](/mantenimiento-y-descalcificacion/por-que-no-debes-dejar-la-pastilla-de-cafe-mojada-puesta-todo-el-dia/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: limpiar bandeja calientatazas superior cafetera",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Modelo de cafetera",
+        "Material de la bandeja superior",
+        "Puntos de filtración hacia el interior",
+        "Método de limpieza seguro"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Usa siempre un paño ligeramente humedecido y nunca vuelques agua encima del techo de la máquina donde van los botones.",
-          "Mejora la consistencia y evita errores de extracción"
+          "CASABREWS CM5418 / 3700Essential",
+          "Acero inoxidable cepillado con barandilla",
+          "Unión perimetral del chasis y bisagra del tanque",
+          "Aspirado en seco + microfibra con alcohol al 70 % en paño"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "De’Longhi Dedica Arte (EC885M)",
+          "Acero inoxidable estampado con ranuras",
+          "Aberturas de disipación directamente sobre cableado y PCB",
+          "Brocha seca + paño apenas húmedo escurrido al 100 %"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Breville Bambino / Plus (BES450/500)",
+          "Termoplástico técnico y chapa superior",
+          "Junta entre cubierta superior y botonera frontal iluminada",
+          "Microfibra de 300 GSM con 2 gotas de agua tibia jabonosa"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Gaggia Classic E24 / Evo Pro",
+          "Acero inoxidable grueso de cuerpo entero",
+          "Borde del embudo de llenado de agua y tornillería superior",
+          "Paño húmedo siguiendo la veta del acero + secado inmediato"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre limpiar bandeja calientatazas superior cafetera",
-      "text": "Usa siempre un paño ligeramente humedecido y nunca vuelques agua encima del techo de la máquina donde van los botones. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Arquitectura de la bandeja superior y vulnerabilidad en cafeteras compactas"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar limpiar bandeja calientatazas superior cafetera hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Técnica de limpieza de baja humedad en 4 pasos para eliminar cercos de café"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Desconexión eléctrica y enfriamiento por debajo de 30 °C",
+          "text": "Desenchufa la cafetera de la toma de pared y espera al menos **20 minutos** tras el último café. Si limpias la placa mientras está a **45 °C**, cualquier líquido se evaporará dejando cercos blanquecinos instantáneos sobre el acero."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Barrido y aspirado en seco de partículas de molienda",
+          "text": "Retira todas las tazas y utiliza una **brocha de barismo de cerdas secas** o un aspirador de mano con boquilla estrecha para extraer los granos de café molido alojados en las ranuras y juntas perimetrales. Si los mojas primero, formarán un barro que se colará al interior."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Frotado con microfibra y pulverización indirecta de alcohol al 70 %",
+          "text": "Aplica **2 pulverizaciones de alcohol isopropílico al 70 %** (o agua destilada con una gota de jabón neutro) **directamente sobre un paño de microfibra doblado**, jamás sobre la cafetera. Frota siguiendo la dirección del cepillado del metal para disolver aceites y manchas de café seco."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Pulido final en seco y verificación de tazas antes de apilarlas",
+          "text": "Pasa la cara seca de la microfibra hasta que no quede rastro de humedad. A partir de ahora, seca siempre la base exterior de tus tazas con un paño antes de colocarlas boca abajo sobre el calientatazas."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Qué hacer si se derramó líquido dentro de la rejilla superior por accidente"
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Si por un descuido al rellenar el depósito con una jarra o al apoyar una taza goteando observas que ha entrado agua por las ranuras del calientatazas superior, **desenchufa el cable de alimentación en el acto** (no pulses ningún botón para comprobar si sigue funcionando). Retira el tanque de agua y la bandeja de goteo, seca el exterior, coloca la cafetera en una habitación ventilada sobre un paño seco y déjala reposar durante **24 a 36 horas** completas para que la humedad sobre la placa PCB se evapore antes de volver a energizarla.",
+      "title": "Protocolo de emergencia de 24 horas ante filtración en la cubierta superior"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con limpiar bandeja calientatazas superior cafetera en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Buscas paños de microfibra de alto gramaje para acero inoxidable, brochas antiestáticas de barismo o tazas de espresso de pared gruesa para tu estación? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre limpiar bandeja calientatazas superior cafetera?",
-      "a": "Usa siempre un paño ligeramente humedecido y nunca vuelques agua encima del techo de la máquina donde van los botones. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Se puede desmontar la rejilla calientatazas superior para lavarla en el fregadero?",
+      "a": "En la gran mayoría de cafeteras compactas domésticas (incluidas **De’Longhi Dedica**, **CASABREWS CM5418** y **Breville Bambino**), la bandeja superior forma parte estructural de la carcasa superior atornillada desde dentro. No debes intentar hacer palanca con un destornillador porque romperás las pestañas plásticas de anclaje."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cómo quito los cercos blancos de cal que dejan las tazas húmedas sobre el acero?",
+      "a": "Esas marcas circulares blancas son carbonato cálcico depositado al evaporarse las gotas de agua del grifo que quedan en la base de las tazas recién lavadas. Para eliminarlas sin mojar la placa, frota con la esquina de una microfibra humedecida con **3 gotas de vinagre blanco o ácido cítrico diluido** y seca al instante."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿El alcohol isopropílico daña el acabado de acero inoxidable del calientatazas?",
+      "a": "El alcohol isopropílico al **70 %** aplicado en mínima cantidad sobre el paño de microfibra es totalmente seguro para la bandeja de acero inoxidable, ya que disuelve la grasa del café y se evapora en segundos sin dejar conductividad eléctrica. Solo evita frotarlo con fuerza sobre logotipos pintados o plásticos cromados."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/como-saber-si-tu-cafetera-tiene-cal-acumulada-3-sintomas-claros/",
-    "/mantenimiento-y-descalcificacion/que-hacer-si-la-cafetera-estuvo-guardada-6-meses-sin-usarse/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/como-cambiar-la-junta-de-goma-del-grupo-cuando-gotea-el-portafiltro/",
+    "/mantenimiento-y-descalcificacion/cada-cuanto-cambiar-el-filtro-ablandador-de-resina-del-tanque/",
+    "/mantenimiento-y-descalcificacion/por-que-no-debes-dejar-la-pastilla-de-cafe-mojada-puesta-todo-el-dia/",
+    "/mantenimiento-y-descalcificacion/se-puede-meter-el-portafiltro-al-lavavajillas-peligro-en-aluminio/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-limpiar-la-rejilla-calientatazas-superior-sin-que-entre-agua.webp"
 }

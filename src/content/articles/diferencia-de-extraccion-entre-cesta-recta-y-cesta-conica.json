@@ -4,161 +4,116 @@
   "path": "/extraccion-y-recetas-espresso/diferencia-de-extraccion-entre-cesta-recta-y-cesta-conica/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cesta paredes rectas vs conica portafiltro",
   "title": "Cestas de Paredes Rectas (Cilíndricas) vs Cestas con Borde Inclinado: Cómo Cambia el Caudal",
-  "seoTitle": "Cestas de Paredes Rectas (Cilíndricas) vs Cestas con Borde Inclinado | Guía Barista Compacta",
-  "metaDescription": "Cestas de Paredes Rectas (Cilíndricas) vs Cestas con Borde Inclinado: Cómo Cambia el Caudal: Las cestas cilíndricas de precisión permiten que el agua atraviese los bordes con la misma velocidad que el centro de la pastilla. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Las cestas cilíndricas de precisión permiten que el agua atraviese los bordes con la misma velocidad que el centro de la pastilla.",
-  "quickAnswer": "Sobre cesta paredes rectas vs conica portafiltro: Las cestas cilíndricas de precisión permiten que el agua atraviese los bordes con la misma velocidad que el centro de la pastilla. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Cestas de Paredes Rectas (Cilíndricas) vs Cestas con Borde Inclinado: Cómo Cambia el Caudal | cafeteracompacta.com",
+  "metaDescription": "Comparativa técnica entre cestas de paredes rectas y cestas cónicas para portafiltro: cómo cambian el caudal, la molienda y la extracción.",
+  "excerpt": "Analizamos cómo la geometría cilíndrica de una cesta de precisión IMS o VST modifica los vectores de flujo hidráulico frente a los filtros cónicos de serie en cafeteras de 51 y 54 mm.",
+  "quickAnswer": "Una **cesta de paredes rectas (cilíndrica a 90°)** mantiene el mismo diámetro desde el borde superior hasta la base, aumentando la superficie perforada entre un **18 % y un 25 %** frente a una **cesta cónica**. Esto genera un flujo vertical uniforme que eleva el rendimiento de extracción (**EY %**), pero exige moler entre **1 y 3 puntos más fino**.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Las cestas cilíndricas de precisión permiten que el agua atraviese los bordes con la misma velocidad que el centro de la pastilla., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Over-the-shoulder hands-on demonstration perspective in natural light: realistic scene illustrating 'Cestas de Paredes Rectas (Cilíndricas) vs Cestas con Borde Inclinado: Cómo Cambia el Caudal' (cesta paredes rectas vs conica portafiltro) for cafeteracompacta.com, featuring equipment in graphite gray with subtle amber indicator details, beside a neat storage shelf in a sunlit modern room, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cestas de Paredes Rectas (Cilíndricas) vs Cestas con Borde Inclinado: Cómo Cambia el Caudal"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cesta paredes rectas vs conica portafiltro** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Las cestas cilíndricas de precisión permiten que el agua atraviese los bordes con la misma velocidad que el centro de la pastilla."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Si colocas sobre la encimera el filtro original que viene de fábrica con una **CASABREWS CM5418**, una **De’Longhi Dedica Arte (EC885M)** o incluso la cesta estándar de una **Breville Bambino (BES450)**, notarás que sus paredes laterales no bajan en un ángulo recto perfecto, sino que se estrechan hacia la base formando un cono truncado o un bisel pronunciado. Cuando decides dar el salto a una cesta de precisión de paredes completamente rectas (**90°**), la hidrodinámica dentro del portafiltro cambia por completo. En nuestro [centro técnico de extracción y recetas espresso](/extraccion-y-recetas-espresso/) desglosamos cómo esa diferencia geométrica altera la resistencia de la pastilla, el ajuste del molino y la uniformidad del sabor en taza."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cesta paredes rectas vs conica portafiltro"
+      "text": "Hidrodinámica en el Portafiltro: Flujo Convergente vs Flujo Laminar Vertical"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cesta paredes rectas vs conica portafiltro** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "En una cesta cónica o biselada, las paredes inclinadas desvían los vectores de presión del agua (**9 bares**) hacia el eje central del fondo perforado. Esto provoca que el cono central del café reciba un caudal excesivo de agua mientras el anillo inferior exterior queda parcialmente estancado, generando una extracción desigual donde coexisten notas ácidas y astringentes, algo que notarás de inmediato al [remover la crema del espresso con cucharilla para evaluar la extracción](/extraccion-y-recetas-espresso/como-catar-tu-propio-espresso-por-que-es-obligatorio-remover-la-crema-con-cuchara/). En cambio, una cesta cilíndrica de paredes rectas (como las **IMS Competition** o **VST**) mantiene el mismo diámetro desde la boca hasta la base, permitiendo que un tamper nivelado descienda sin atascarse —recuerda [por qué apretar más fuerte con el tamper no frena el tiempo del shot](/extraccion-y-recetas-espresso/como-afecta-la-presion-de-tamping-fuerte-vs-suave-al-tiempo-del-shot/)— y logrando que el agua atraviese el disco de café en columnas verticales idénticas."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: cesta paredes rectas vs conica portafiltro",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Parámetro Técnico",
+        "Cesta Cónica o Biselada (De Serie)",
+        "Cesta de Paredes Rectas (Cilíndrica 90°)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Las cestas cilíndricas de precisión permiten que el agua atraviese los bordes con la misma velocidad que el centro de la pastilla.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Geometría de la Pared Lateral",
+          "Inclinada o con escalón interior hacia una base más estrecha",
+          "Cilindro vertical continuo de diámetro constante hasta el fondo"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Superficie Perforada Útil",
+          "Reducida (concentrada en el círculo central inferior)",
+          "Hasta un 18 %–25 % mayor (agujeros llegan casi hasta el borde)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Velocidad de Caudal a Igual Molienda",
+          "Más lenta (el estrechamiento inferior restringe la salida)",
+          "Más rápida (exige moler entre 1 y 3 clics más fino en el molino)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "Tolerancia a Dosis Menores (Under-dosing)",
+          "Baja (el tamper choca contra el estrechamiento de la pared)",
+          "Alta (el tamper baja libremente manteniendo el sello perimetral)"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Perfil de Tueste más Favorecido",
+          "Tueste medio-oscuro y oscuro tradicional (indulgente)",
+          "Tueste claro y medio de especialidad (máxima claridad y EY %)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre cesta paredes rectas vs conica portafiltro",
-      "text": "Las cestas cilíndricas de precisión permiten que el agua atraviese los bordes con la misma velocidad que el centro de la pastilla. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Comparativa técnica entre cestas de serie con borde cónico y cestas de precisión de paredes rectas (51 mm, 54 mm y 58 mm)"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar cesta paredes rectas vs conica portafiltro hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con cesta paredes rectas vs conica portafiltro en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "4 Ajustes Obligatorios al Pasar de una Cesta Cónica a una de Paredes Rectas"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Cierra el ajuste de tu molino entre 1 y 3 puntos:** Al tener una base perforada más amplia y orificios electro-pulidos de **0.30 mm**, una cesta recta ofrece menos restricción mecánica; en un **Baratza Encore ESP** o **Fellow Opus** deberás moler ligeramente más fino para mantener tus **36 g** de salida en **26–30 segundos**.",
+        "**Utiliza un tamper sobredimensionado de precisión:** Las cestas cilíndricas aprovechan al máximo los tampers de tolerancia estricta (**51.3 mm** para Dedica/CASABREWS, **53.3 mm** para Breville Bambino o **58.5 mm** para grupos comerciales), sellando la pared lateral hasta el fondo.",
+        "**Extrema la distribución con aguja WDT:** Como las perforaciones de la cesta recta llegan hasta el perímetro inferior, cualquier grumo o falta de densidad en los bordes se traducirá inmediatamente en microchorros visibles si usas un portafiltro sin fondo (**bottomless**).",
+        "**Respeta la capacidad nominal en gramos según el tueste:** Una cesta recta de **18 g** con altura de **24 a 26 mm** admitirá **18.5 g** de un café etíope denso de tueste ligero, pero se llenará con solo **16.5 a 17 g** si usas un grano de tueste oscuro más poroso y voluminoso."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Compatibilidad Física con Portafiltros de Serie con Inserto de Plástico"
     },
     {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "Si tienes una **De’Longhi Dedica (EC685 / EC885M)**, una **CASABREWS CM5418** o una **Breville Bambino (BES450)** y compras una cesta de precisión de paredes rectas de **18 a 20 g** (como la serie **IMS Big Bang** o **H26**), verifica antes el fondo interno de tu portafiltro original. Muchas cestas cilíndricas profundas chocan contra el repartidor interno de plástico negro de los portafiltros de doble boquilla de fábrica; para que asienten a ras del borde, necesitarás retirar el inserto plástico o montarlas directamente en un portafiltro **bottomless**.",
+      "title": "Comprueba la profundidad libre antes de montar una cesta recta de 18–20 g"
+    },
+    {
+      "type": "cta",
+      "text": "¿No estás seguro de qué altura de cesta recta (H24, H26 o H28) encaja en el portafiltro de 51 mm o 54 mm de tu cafetera? Consulta ahora al Asesor IA del portal o revisa los modelos compatibles en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cesta paredes rectas vs conica portafiltro?",
-      "a": "Las cestas cilíndricas de precisión permiten que el agua atraviese los bordes con la misma velocidad que el centro de la pastilla. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué los fabricantes incluyen cestas cónicas de serie en lugar de cestas de paredes rectas?",
+      "a": "Las cestas cónicas son mucho más indulgentes con moliendas imperfectas o café con varias semanas de tueste, ya que su estrechamiento inferior frena el caudal de forma natural y ayuda a generar crema incluso cuando la técnica de distribución aún no es perfecta."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Es lo mismo una cesta 'ridgeless' (sin ranura) que una cesta de paredes rectas?",
+      "a": "El término 'ridgeless' (sin pestaña) se refiere únicamente a la ausencia del surco horizontal superior donde engancha el alambre o muelle del portafiltro, facilitando la limpieza. Una cesta de paredes rectas se refiere a que el cilindro completo mantiene 90 grados hasta la base perforada, tenga o no una micro-muesca superior para el muelle."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cuándo conviene mantener la cesta cónica original en vez de cambiar a una recta?",
+      "a": "Si preparas exclusivamente cafés de tueste oscuro italiano con notas achocolatadas y aún no cuentas con un molino dedicado de espresso con micro-ajustes, la cesta cónica original te dará mayor estabilidad. La cesta recta brilla cuando tienes un molino capaz de compensar su mayor caudal."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/que-es-el-blooming-espresso-pausa-despues-de-la-preinfusion/",
     "/extraccion-y-recetas-espresso/como-catar-tu-propio-espresso-por-que-es-obligatorio-remover-la-crema-con-cuchara/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/como-afecta-la-presion-de-tamping-fuerte-vs-suave-al-tiempo-del-shot/",
+    "/extraccion-y-recetas-espresso/cuanta-cafeina-tiene-un-espresso-doble-comparado-con-un-cafe-de-filtro/",
+    "/extraccion-y-recetas-espresso/como-hacer-cafe-cubano-cafecito-con-espumita-de-azucar-en-tu-cafetera/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/diferencia-de-extraccion-entre-cesta-recta-y-cesta-conica.webp"
 }

@@ -4,161 +4,122 @@
   "path": "/basculas-y-accesorios-barista/la-prueba-de-la-moneda-nickel-test-para-saber-cuantos-gramos-caben-en-tu-cesta/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "prueba de la moneda dosis portafiltro espresso",
   "title": "La Prueba de la Moneda (Coin Test): Cómo Saber la Dosis Exacta en Gramos que Admite tu Portafiltro",
-  "seoTitle": "La Prueba de la Moneda (Coin Test) | Guía Barista Compacta",
-  "metaDescription": "La Prueba de la Moneda (Coin Test): Cómo Saber la Dosis Exacta en Gramos que Admite tu Portafiltro: Pon una moneda limpia de 2 mm sobre el café prensado, encaja el portafiltro en seco y sácalo: si la moneda se hunde, resta 0.5–1 g de café. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Pon una moneda limpia de 2 mm sobre el café prensado, encaja el portafiltro en seco y sácalo: si la moneda se hunde, resta 0.5–1 g de café.",
-  "quickAnswer": "Sobre prueba de la moneda dosis portafiltro espresso: Pon una moneda limpia de 2 mm sobre el café prensado, encaja el portafiltro en seco y sácalo: si la moneda se hunde, resta 0.5–1 g de café. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "La Prueba de la Moneda (Coin Test): Cómo Saber la Dosis Exacta en Gramos que Admite tu Portafiltro | cafeteracompacta.com",
+  "metaDescription": "Aprende cómo hacer la prueba de la moneda (Coin Test / Nickel Test) paso a paso para saber cuántos gramos exactos de café admite la cesta de tu portafiltro.",
+  "excerpt": "Aprende a realizar el Coin Test (prueba de la moneda) en menos de 60 segundos para descubrir el peso exacto en gramos que admite tu cesta según el tueste del grano sin chocar contra la ducha del grupo.",
+  "quickAnswer": "La **prueba de la moneda para calcular la dosis de tu portafiltro de espresso** consiste en colocar una moneda limpia de **~1.9 mm de grosor** (5 centavos de EE. UU. o 10 céntimos de euro) sobre el café prensado en seco, encajar el portafiltro en la cafetera apagada y retirarlo. Si la moneda deja una huella apenas perceptible sin hundirse, tienes el **espacio libre ideal de 2 mm** para que el café se expanda al extraer.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Pon una moneda limpia de 2 mm sobre el café prensado, encaja el portafiltro en seco y sácalo: si la moneda se hunde, resta 0.5–1 g de café., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Eye-level 35mm editorial documentary photograph: realistic scene illustrating 'La Prueba de la Moneda (Coin Test): Cómo Saber la Dosis Exacta en Gramos que Admite tu Portafiltro' (prueba de la moneda dosis portafiltro espresso) for cafeteracompacta.com, featuring equipment in warm sand beige with matte black hardware, on a matte dark-gray technical mat with measuring tools nearby, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "La Prueba de la Moneda (Coin Test): Cómo Saber la Dosis Exacta en Gramos que Admite tu Portafiltro"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **prueba de la moneda dosis portafiltro espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Pon una moneda limpia de 2 mm sobre el café prensado, encaja el portafiltro en seco y sácalo: si la moneda se hunde, resta 0.5–1 g de café."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Basculas Y Accesorios Barista](/basculas-y-accesorios-barista/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Uno de los errores más repetidos al empezar en el espresso casero es copiar al pie de la letra una receta de internet de **18.0 gramos** sin comprobar el volumen físico de tu filtro. Si cargas **18 gramos** de un café de tueste medio-oscuro en la cesta de **51 mm** de una **De’Longhi Dedica Arte (EC885M)** o una **CASABREWS CM5418**, al girar el mango notarás una resistencia dura: el café seco está aplastándose directamente contra la rejilla de la ducha del grupo. Cuando activas la bomba, la molienda absorbe agua y se expande entre un **15 % y un 25 %**, bloqueando la salida y rompiendo la pastilla. Aplicar la **prueba de la moneda para calcular la dosis de tu portafiltro de espresso** (*Nickel Test* o *Coin Test*) te permite medir en menos de un minuto el espacio libre exacto (*headspace*) que necesita tu cesta con cualquier grano, complementando la referencia de nuestra [tabla de medidas de accesorios para De’Longhi Dedica Arte EC885M en 51 mm](/basculas-y-accesorios-barista/que-medida-de-accesorios-usa-delonghi-dedica-arte-ec885-y-ec685/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: prueba de la moneda dosis portafiltro espresso"
+      "text": "Por qué necesitas 1.8 a 2.0 mm de espacio libre (Headspace) bajo la ducha del grupo"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **prueba de la moneda dosis portafiltro espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: prueba de la moneda dosis portafiltro espresso",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "Pon una moneda limpia de 2 mm sobre el café prensado, encaja el portafiltro en seco y sácalo: si la moneda se hunde, resta 0.5–1 g de café.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre prueba de la moneda dosis portafiltro espresso",
-      "text": "Pon una moneda limpia de 2 mm sobre el café prensado, encaja el portafiltro en seco y sácalo: si la moneda se hunde, resta 0.5–1 g de café. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
-    },
-    {
-      "type": "h2",
-      "text": "Paso a paso para aplicar prueba de la moneda dosis portafiltro espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "El método toma su nombre del *Nickel* estadounidense (moneda de **5 centavos de dólar**), que tiene un grosor calibrado de **1.95 mm**, muy similar al de una **moneda de 10 céntimos de euro (1.93 mm)** o una de **2 céntimos de euro (1.67 mm)**. Esos casi **2 milímetros** representan la holgura vertical perfecta entre la superficie de la pastilla prensada en seco y la malla metálica de la ducha de tu cafetera. Si dejas menos de **1.5 mm**, el café hinchado por el agua caliente sellará los orificios de la ducha y provocará canalización severa alrededor del tornillo central (muy habitual en grupos con tornillo expuesto, como los que analizamos en las [medidas del estándar comercial de 58 mm de Gaggia Classic y HiBREW H10A](/basculas-y-accesorios-barista/que-medida-de-accesorios-usa-gaggia-classic-y-hibrew-h10a-58mm/)). Si dejas más de **3.5 mm**, obtendrás una pastilla aguada tras la extracción, algo fácil de ajustar con las herramientas de nuestro [hub de básculas y accesorios barista](/basculas-y-accesorios-barista/)."
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Muele, distribuye y prensa tu dosis de prueba en seco",
+          "text": "Pesa tu dosis inicial (por ejemplo, **16.0 g** en una cesta de **51 mm** o **18.0 g** en una de **54 mm**), pasa el WDT y compacta con tu tamper aplicando tu presión habitual."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Coloca una moneda limpia de ~1.9 mm en el centro de la pastilla",
+          "text": "Lava y seca bien una moneda de **5 centavos de EE. UU. (1.95 mm)** o de **10 céntimos (1.93 mm)** y apóyala plana justo en el centro del café prensado."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Encaja el portafiltro en el grupo apagado y retíralo al instante",
+          "text": "Con la cafetera fría o **sin pulsar ningún botón de agua**, bloquea el portafiltro hasta su posición habitual de las **6 en punto (90°)** y vuelve a sacarlo con cuidado."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Inspecciona la huella que la moneda ha dejado en el café",
+          "text": "Observa la superficie a contraluz: una marca apenas perceptible indica la dosis perfecta; una moneda enterrada exige restar gramos inmediatamente."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Cómo interpretar la marca de la moneda sobre la pastilla de café seco"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Huella observada al retirar el portafiltro",
+        "Diagnóstico del espacio libre (Headspace)",
+        "Qué ocurre durante la extracción real",
+        "Ajuste recomendado en tu báscula"
+      ],
+      "rows": [
+        [
+          "La moneda se hunde por completo y agrieta el café alrededor",
+          "Sobredosificación severa (0 mm de espacio libre)",
+          "El café choca en seco con la ducha; bloqueo o chorros laterales",
+          "Reduce la dosis entre 1.5 g y 2.0 g (o usa una cesta más alta)"
+        ],
+        [
+          "Se aprecia una silueta circular muy leve sin hundir la superficie",
+          "Espacio libre ideal (aprox. 1.8 a 2.0 mm)",
+          "Expansión homogénea de la pastilla y extracción limpia a 9 bares",
+          "Mantén exactamente esos gramos para ese café y nivel de tueste"
+        ],
+        [
+          "No hay absolutamente ninguna marca y la pastilla sale muy fangosa al extraer",
+          "Subdosificación (más de 3.5 a 4 mm de hueco)",
+          "Turbulencia excesiva sobre la cama y pastilla húmeda pegajosa",
+          "Aumenta entre 0.5 g y 1.0 g o coloca un Puck Screen de 1.7 mm encima"
+        ]
+      ],
+      "caption": "Guía de diagnóstico del Coin Test y ajuste exacto en gramos"
+    },
+    {
+      "type": "h2",
+      "text": "Cuándo repetir la prueba de la moneda aunque no cambies de cesta ni de cafetera"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Si utilizas un **Puck Screen metálico de 1.7 mm**, puedes hacer la prueba directamente con el propio Puck Screen (o colocando una moneda fina encima de la malla): si al sacar el portafiltro en seco el disco metálico aparece doblado en el centro o incrustado en el café, debes bajar tu dosis en **1.5 gramos** para proteger tanto la malla como la ducha de tu máquina.",
+      "title": "Cómo adaptar el Coin Test si usas Puck Screen a diario"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con prueba de la moneda dosis portafiltro espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Necesitas una báscula con precisión de 0.1 g o una cesta de mayor capacidad tras hacer la prueba de la moneda? Consulta a nuestro Asesor IA o revisa las opciones compatibles en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre prueba de la moneda dosis portafiltro espresso?",
-      "a": "Pon una moneda limpia de 2 mm sobre el café prensado, encaja el portafiltro en seco y sácalo: si la moneda se hunde, resta 0.5–1 g de café. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Se desperdicia el café del portafiltro al hacer la prueba de la moneda?",
+      "a": "Sí, totalmente limpio y reutilizable. Siempre que laves y seques bien la moneda antes de apoyarla sobre la pastilla y no actives la bomba de agua durante la prueba, puedes retirar la moneda, dar un leve retoque plano con el tamper si quedó una ligera marca y extraer tu espresso con normalidad."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué mi cesta admitía 18 gramos con un café y con otro nuevo solo caben 16.5 gramos?",
+      "a": "Porque la densidad del grano cambia drásticamente con el nivel de tueste y la altitud de cultivo. Un café colombiano de tueste oscuro es mucho más esponjoso y ligero que un etíope de tueste claro: a igualdad de peso en báscula (por ejemplo, 17 gramos), el tueste oscuro puede ocupar hasta 3 mm más de altura dentro de la cesta."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Es normal que se marque el tornillo de la ducha en la pastilla después de hacer el café?",
+      "a": "No en la Breville Bambino (BES450) ni en la Bambino Plus (BES500), ya que su ducha es completamente plana con el tornillo embutido a ras. En cambio, en cafeteras como la Gaggia Classic o ciertas máquinas con tornillo hexagonal saliente en el centro de la ducha, una leve marca central del tornillo tras extraer (cuando el café ya se hinchó con agua) es normal siempre que en seco supere la prueba de la moneda."
     }
   ],
   "related": [
-    "/basculas-y-accesorios-barista/",
-    "/basculas-y-accesorios-barista/knock-box-de-sobremesa-vs-cajon-knock-box-debajo-del-molino/",
-    "/basculas-y-accesorios-barista/que-tamano-de-cesta-ims-elegir-h24-h26-o-h28-segun-tus-gramos/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/basculas-y-accesorios-barista/kit-de-viaje-para-llevar-tus-accesorios-barista-de-vacaciones/",
+    "/basculas-y-accesorios-barista/guia-definitiva-compatibilidad-accesorios-todas-las-marcas-amazon/",
+    "/basculas-y-accesorios-barista/que-medida-de-accesorios-usa-delonghi-dedica-arte-ec885-y-ec685/",
+    "/basculas-y-accesorios-barista/que-medida-de-accesorios-usa-gaggia-classic-y-hibrew-h10a-58mm/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/la-prueba-de-la-moneda-nickel-test-para-saber-cuantos-gramos-caben-en-tu-cesta.webp"
 }

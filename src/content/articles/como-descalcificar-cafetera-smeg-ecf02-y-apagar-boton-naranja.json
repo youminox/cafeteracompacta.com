@@ -4,161 +4,121 @@
   "path": "/mantenimiento-y-descalcificacion/como-descalcificar-cafetera-smeg-ecf02-y-apagar-boton-naranja/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como descalcificar cafetera smeg ecf02",
   "title": "Tutorial para Descalcificar la SMEG ECF02 50's Style y Apagar el LED Naranja de Vapor",
-  "seoTitle": "Tutorial para Descalcificar la SMEG ECF02 50's Style y Apagar el LED Naranja de Vapor | Guía Barista Compacta",
-  "metaDescription": "Tutorial para Descalcificar la SMEG ECF02 50's Style y Apagar el LED Naranja de Vapor: Al compartir arquitectura italiana con De’Longhi, requiere el ciclo guiado por la lanceta y el enjuague de depósito completo. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Al compartir arquitectura italiana con De’Longhi, requiere el ciclo guiado por la lanceta y el enjuague de depósito completo.",
-  "quickAnswer": "Sobre como descalcificar cafetera smeg ecf02: Al compartir arquitectura italiana con De’Longhi, requiere el ciclo guiado por la lanceta y el enjuague de depósito completo. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Tutorial para Descalcificar la SMEG ECF02 50's Style y Apagar el LED Naranja de Vapor | cafeteracompacta.com",
+  "metaDescription": "Tutorial paso a paso para descalcificar la cafetera SMEG ECF02 50's Style, ejecutar el ciclo automático de 15 minutos y apagar el LED naranja de vapor.",
+  "excerpt": "El menú dual de la SMEG ECF02 confunde a muchos usuarios cuando se ilumina el botón derecho en color ámbar. Sigue la combinación exacta de botones para completar el descalcificado y el enjuague final.",
+  "quickAnswer": "Para descalcificar la **SMEG ECF02** y apagar el **LED naranja del botón de vapor**, llena el depósito de **1.1 L** (sin filtro de agua) con **100 ml de descalcificador láctico** y agua hasta el nivel `MAX`, coloca un recipiente de **1.5 L** bajo el grupo y la lanceta, e inicia el programa automático manteniendo pulsados los botones correspondientes durante **5 segundos** y abriendo el mando de vapor. Tras **15 minutos**, debes completar obligatoriamente el tanque entero de **enjuague con agua limpia hasta `MAX`** para que el contador se reinicie a blanco.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Al compartir arquitectura italiana con De’Longhi, requiere el ciclo guiado por la lanceta y el enjuague de depósito completo., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Over-the-shoulder hands-on demonstration perspective in natural light: realistic scene illustrating 'Tutorial para Descalcificar la SMEG ECF02 50's Style y Apagar el LED Naranja de Vapor' (como descalcificar cafetera smeg ecf02) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, on a warm walnut table beside a sunlit window, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Tutorial para Descalcificar la SMEG ECF02 50's Style y Apagar el LED Naranja de Vapor"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como descalcificar cafetera smeg ecf02** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Al compartir arquitectura italiana con De’Longhi, requiere el ciclo guiado por la lanceta y el enjuague de depósito completo."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Si tienes en tu cocina la **SMEG ECF02 (50's Style)** —la renovación fabricada en Italia que mejoró a la veterana ECF01 incorporando un sistema de doble menú y una lanceta de vapor de acero inoxidable sin panarello—, tarde o temprano verás que el **botón del extremo derecho (icono de vapor) se queda iluminado en color naranja fijo o parpadeante** mientras los botones de 1 y 2 tazas permanecen en blanco. Debido a que en este modelo el color naranja también se utiliza para entrar al menú secundario de espresso largo, muchos propietarios pulsan el botón repetidamente sin lograr borrar el aviso. Dentro de tu rutina de [mantenimiento y descalcificación](/mantenimiento-y-descalcificacion/), es clave entender que ese piloto ámbar solo se apaga cuando el microcontrolador registra de principio a fin el programa automático de descalcificación y su enjuague completo."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como descalcificar cafetera smeg ecf02"
+      "text": "Diferencia entre el menú naranja de café largo y la alerta de descalcificación en la SMEG ECF02"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como descalcificar cafetera smeg ecf02** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "La **SMEG ECF02** cuenta únicamente con **3 botones frontales** y una palanca lateral de vapor. En uso normal, una pulsación breve sobre el botón de vapor alterna los tres indicadores entre **luz blanca** (espresso corto, espresso doble y vapor estándar) y **luz naranja** (espresso largo individual, espresso largo doble y vapor). Sin embargo, cuando los dos botones de café están iluminados en **blanco** y **únicamente el tercer botón de vapor brilla en naranja**, la cafetera te está indicando que ha alcanzado el límite de litros procesados según la dureza de agua programada en su memoria. Ignorar esta alerta no solo reduce la temperatura del **Thermoblock de 1350 W**, sino que provoca que con el tiempo notes [por qué sale agua marrón o partículas negras por la ducha del grupo](/mantenimiento-y-descalcificacion/por-que-sale-agua-marron-o-particulas-negras-por-la-ducha-del-grupo/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: como descalcificar cafetera smeg ecf02",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Estado de los LEDs (Botón 1 / Botón 2 / Botón Vapor)",
+        "Significado técnico en la SMEG ECF02",
+        "Acción requerida por el usuario"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Al compartir arquitectura italiana con De’Longhi, requiere el ciclo guiado por la lanceta y el enjuague de depósito completo.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Blanco fijo / Blanco fijo / Blanco fijo",
+          "Menú principal listo para erogar espresso corto o doble",
+          "Operación normal de extracción a 15 bares"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Naranja fijo / Naranja fijo / Naranja fijo",
+          "Menú secundario activo (funciones de espresso largo)",
+          "Pulsar brevemente el botón derecho para volver al menú blanco"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Blanco fijo / Blanco fijo / Naranja fijo",
+          "Aviso de descalcificación obligatoria del Thermoblock",
+          "Ejecutar el ciclo automático de 15 minutos con descalcificador láctico"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Apagado / Apagado / Naranja parpadeante durante el ciclo",
+          "Programa de descalcificación o enjuague en ejecución / esperando agua",
+          "Mantener palanca abierta o rellenar el tanque de 1.1 L con agua limpia"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre como descalcificar cafetera smeg ecf02",
-      "text": "Al compartir arquitectura italiana con De’Longhi, requiere el ciclo guiado por la lanceta y el enjuague de depósito completo. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Códigos luminosos del panel frontal de 3 botones en la cafetera SMEG ECF02"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como descalcificar cafetera smeg ecf02 hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Paso a paso para ejecutar el ciclo automático y apagar el LED naranja de la SMEG ECF02"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Preparar el depósito de 1.1 L sin filtro suavizador",
+          "text": "Extrae el tanque trasero, retira el filtro ablandador de agua si lo tienes instalado, y vierte 100 ml de descalcificador líquido a base de ácido láctico (como SMEG NOKALK o De’Longhi EcoDecalk) mezclados con agua tibia hasta la marca MAX (1.1 L). Retira el portafiltro de 51 mm del grupo."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Colocar recipiente colector de 1.5 L bajo grupo y lanceta",
+          "text": "Sitúa un bol amplio que recoja simultáneamente el líquido que saldrá tanto por la ducha del grupo de infusión como por la lanceta de vapor de acero inoxidable."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Activar la secuencia de descalcificación en el panel frontal",
+          "text": "Con la máquina encendida y las luces listas, mantén presionados al mismo tiempo el botón de 1 taza y el botón de vapor durante 5 segundos hasta que los botones parpadeen, o abre la palanca lateral de vapor y pulsa el botón naranja parpadeante según te pida la secuencia del panel. La bomba comenzará a impulsar solución a intervalos pausados durante unos 15 a 20 minutos."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Completar el ciclo de enjuague con agua fresca hasta el apagado del LED",
+          "text": "Cuando el depósito se vacíe, el LED naranja parpadeará indicando fin de la fase ácida. Lava muy bien el tanque con agua corriente, llénalo hasta el nivel MAX con agua limpia filtrada, vuelve a colocarlo y pulsa el botón de vapor parpadeante para que la máquina bombee todo el depósito de aclarado. Al terminar y cerrar la palanca, el botón de vapor volverá a lucir blanco fijo."
         }
       ]
     },
     {
-      "type": "cta",
-      "text": "¿Tienes dudas con como descalcificar cafetera smeg ecf02 en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
       "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Cómo ajustar el nivel de dureza del agua en la memoria de la SMEG ECF02"
     },
     {
       "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "De fábrica, la **SMEG ECF02** viene configurada en el nivel de **agua dura**, lo que enciende la alarma naranja con mucha frecuencia incluso si usas agua mineral embotellada o jarras filtrantes. Al igual que conviene conocer los menús internos cuando aprendes a [quitar la alarma de limpieza en CASABREWS 3700Essential y CM5418](/mantenimiento-y-descalcificacion/como-resetear-la-alarma-de-descalcificacion-en-casabrews-3700-y-ultra/), en la SMEG puedes adecuar la frecuencia de aviso en **30 segundos**: mantén pulsados simultáneamente el **botón de 2 tazas y el botón de vapor durante 5 segundos** para entrar al menú de programación, pulsa el **botón de vapor** para elegir la dureza del agua y selecciona el **botón de 1 taza (agua blanda)** o el **botón de 2 tazas (agua media)** antes de esperar a que los LEDs parpadeen confirmando el guardado."
+    },
+    {
+      "type": "cta",
+      "text": "¿Necesitas líquido descalcificador de ácido láctico compatible con el Thermoblock de tu SMEG ECF02 o accesorios de 51 mm para mejorar tus extracciones? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como descalcificar cafetera smeg ecf02?",
-      "a": "Al compartir arquitectura italiana con De’Longhi, requiere el ciclo guiado por la lanceta y el enjuague de depósito completo. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Se descalcifica igual la nueva SMEG ECF02 que el modelo anterior SMEG ECF01?",
+      "a": "En la SMEG ECF01 original los tres botones tenían una sola función directa y una perilla lateral distinta, mientras que la nueva SMEG ECF02 (fabricada en Italia) utiliza el botón de vapor para alternar entre el menú blanco y el menú naranja, además de expulsar el líquido tanto por el grupo como por la lanceta según la fase del programa."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Puedo descalcificar mi SMEG ECF02 con vinagre blanco de cocina?",
+      "a": "No es recomendable. El ácido acético del vinagre doméstico ataca los sellos internos de caucho del Thermoblock y deja un olor persistente muy difícil de eliminar incluso tras tres tanques de enjuague. Utiliza siempre descalcificadores líquidos formulados con ácido láctico o ácido cítrico tamponado para cafeteras espresso."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Vale la pena instalar el filtro ablandador de agua dentro del tanque de la SMEG ECF02?",
+      "a": "Si vives en una zona de agua dura o media, el cartucho ablandador de resina catiónica colocado en la base del depósito de 1.1 L retiene los iones de calcio y magnesio, protegiendo el Thermoblock y permitiendo configurar la cafetera en modo de agua blanda para espaciar los ciclos de descalcificación."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/como-descalcificar-solis-barista-perfetta-plus-paso-a-paso/",
-    "/mantenimiento-y-descalcificacion/como-limpiar-manchas-de-cafe-seco-en-encimeras-de-cuarzo-blanco/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/como-recuperar-un-portafiltro-de-aluminio-que-se-oxido-en-el-lavavajillas/",
+    "/mantenimiento-y-descalcificacion/como-resetear-la-alarma-de-descalcificacion-en-casabrews-3700-y-ultra/",
+    "/mantenimiento-y-descalcificacion/como-descalcificar-hibrew-h10a-y-h10b-modo-automatico/",
+    "/mantenimiento-y-descalcificacion/por-que-sale-agua-marron-o-particulas-negras-por-la-ducha-del-grupo/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-descalcificar-cafetera-smeg-ecf02-y-apagar-boton-naranja.webp"
 }

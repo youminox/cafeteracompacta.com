@@ -4,161 +4,122 @@
   "path": "/basculas-y-accesorios-barista/como-hacer-la-tecnica-wdt-correctamente-de-abajo-hacia-arriba/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como usar distribuidor de agujas wdt paso a paso",
   "title": "Cómo Aplicar la Técnica WDT en 10 Segundos: Círculos Profundos Desde el Fondo Hasta la Superficie",
-  "seoTitle": "Cómo Aplicar la Técnica WDT en 10 Segundos | Guía Barista Compacta",
-  "metaDescription": "Cómo Aplicar la Técnica WDT en 10 Segundos: Círculos Profundos Desde el Fondo Hasta la Superficie: Empieza removiendo en pequeños círculos tocando el fondo de la cesta y sube en espiral para dejar la superficie plana como arena rastrillada. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Empieza removiendo en pequeños círculos tocando el fondo de la cesta y sube en espiral para dejar la superficie plana como arena rastrillada.",
-  "quickAnswer": "Sobre como usar distribuidor de agujas wdt paso a paso: Empieza removiendo en pequeños círculos tocando el fondo de la cesta y sube en espiral para dejar la superficie plana como arena rastrillada. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Aplicar la Técnica WDT en 10 Segundos: Círculos Profundos Desde el Fondo Hasta la Superficie | cafeteracompacta.com",
+  "metaDescription": "Aprende cómo usar el distribuidor de agujas WDT paso a paso de abajo hacia arriba en 10 segundos para eliminar grumos y evitar chorros asimétricos.",
+  "excerpt": "Domina el barrido ascendente por capas con agujas de 0.35 mm en portafiltros de 51 mm y 54 mm para romper bolsas de aire inferiores y lograr extracciones uniformes sin canalización.",
+  "quickAnswer": "Para aplicar la **técnica WDT (Weiss Distribution Technique)** con precisión, inserta una herramienta con agujas de **0.3 mm a 0.4 mm** hasta tocar el fondo de la cesta y dibuja círculos cortos de **1.5 cm** ascendiendo en tres niveles durante **8 a 10 segundos**. Este movimiento de abajo hacia arriba deshace los grumos por estática y nivela la densidad antes del prensado en cafeteras de **51 mm** o **54 mm**.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Empieza removiendo en pequeños círculos tocando el fondo de la cesta y sube en espiral para dejar la superficie plana como arena rastrillada., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Eye-level 35mm editorial documentary photograph: realistic scene illustrating 'Cómo Aplicar la Técnica WDT en 10 Segundos: Círculos Profundos Desde el Fondo Hasta la Superficie' (como usar distribuidor de agujas wdt paso a paso) for cafeteracompacta.com, featuring equipment in sleek titanium silver with carbon-gray texture, on a clean stone countertop with neatly arranged accessories, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Aplicar la Técnica WDT en 10 Segundos: Círculos Profundos Desde el Fondo Hasta la Superficie"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como usar distribuidor de agujas wdt paso a paso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Empieza removiendo en pequeños círculos tocando el fondo de la cesta y sube en espiral para dejar la superficie plana como arena rastrillada."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Basculas Y Accesorios Barista](/basculas-y-accesorios-barista/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Cuando acoplas un portafiltro sin fondo (bottomless) en una **CASABREWS CM5418** o en una **De’Longhi Dedica Arte (EC885M)** y recibes un chorro lateral violento que mancha la taza y la bandeja, la causa rara vez es la bomba de presión. El problema suele originarse diez segundos antes: pasar las agujas del distribuidor únicamente por los **3 o 4 mm superiores** de la molienda para dejarla visualmente bonita, ignorando los grumos compactos que el molino depositó contra la base metálica de la cesta. Antes de elegir tu herramienta, conviene repasar [cómo medir el diámetro exacto de tu portafiltro con una regla](/basculas-y-accesorios-barista/como-medir-el-diametro-de-tu-portafiltro-en-casa-con-una-regla/) para asegurarte de trabajar con un embudo dosificador que permita agitar sin miedo a derramar café."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como usar distribuidor de agujas wdt paso a paso"
+      "text": "Física del lecho en cestas estrechas: por qué el barrido debe nacer en la base"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como usar distribuidor de agujas wdt paso a paso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: como usar distribuidor de agujas wdt paso a paso",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "Empieza removiendo en pequeños círculos tocando el fondo de la cesta y sube en espiral para dejar la superficie plana como arena rastrillada.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "Las cestas de **51 mm** (como las de **CASABREWS** y **De’Longhi**) y las de **54 mm** (presentes en la **Breville Bambino BES450** y **Bambino Plus BES500**) son considerablemente más estrechas y profundas que un filtro comercial de **58 mm** para albergar la misma dosis de **16 a 18 gramos**. Esa columna vertical de café acumula bolsas de aire en el tercio inferior al caer desde el molino. Para cortar esos conglomerados electrostáticos sin empujar el grano, necesitas agujas de acupuntura de acero inoxidable con un calibre estricto de **0.3 mm a 0.4 mm** —disponibles en nuestra [sección de básculas y accesorios barista](/basculas-y-accesorios-barista/)—, las cuales preparan una cama de densidad idéntica lista para recibir un prensado uniforme como el que analizamos en la [comparativa entre los tampers calibrados Normcore V4, IKAPE y MHW-3BOMBER](/basculas-y-accesorios-barista/comparativa-tampers-normcore-v4-vs-ikape-vs-mhw-3bomber/)."
     },
     {
       "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre como usar distribuidor de agujas wdt paso a paso",
-      "text": "Empieza removiendo en pequeños círculos tocando el fondo de la cesta y sube en espiral para dejar la superficie plana como arena rastrillada. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "aviso",
+      "text": "Jamás golpees el lateral del portafiltro con la palma de la mano ni con el mango del tamper tras terminar el WDT. Ese impacto horizontal despega la pastilla de las paredes internas de acero inoxidable y abre una grieta perimetral por donde el agua a 9 bares escapará sin extraer el centro.",
+      "title": "El error fatal del golpe lateral tras distribuir"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como usar distribuidor de agujas wdt paso a paso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Cómo usar el distribuidor de agujas WDT paso a paso en 10 segundos"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "1. Anclaje del embudo e inmersión basal (Segundo 0 a 1)",
+          "text": "Coloca el anillo magnético sobre el portafiltro e introduce las agujas verticalmente hasta sentir el roce metálico suave contra el fondo perforado de la cesta."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "2. Espirales cortas en la zona profunda (Segundos 1 a 4)",
+          "text": "Traza pequeños círculos superpuestos de unos 1.5 cm de diámetro recorriendo todo el perímetro inferior y el centro para deshacer las bolsas de aire creadas al volcar la dosis."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "3. Ascenso helicoidal a la capa media (Segundos 4 a 7)",
+          "text": "Sin dejar de girar la muñeca con suavidad, eleva la herramienta unos 8 mm hacia la mitad de la columna de café para integrar las partículas finas con el resto del lecho."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "4. Rastrillado superficial y asentamiento vertical (Segundos 7 a 10)",
+          "text": "Nivelados los últimos 3 mm superiores para dejar la cama plana, retira el embudo y da un único golpe seco y 100 % vertical contra la alfombrilla de silicona para colapsar el aire."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Parámetros de distribución según el diámetro de tu portafiltro compacto"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Diámetro de cesta",
+        "Cafeteras compatibles",
+        "Profundidad de cama (17-18 g)",
+        "Calibre y número de agujas óptimo"
+      ],
+      "rows": [
+        [
+          "51 mm",
+          "CASABREWS CM5418 / 3700Essential, De’Longhi Dedica Arte EC885M",
+          "24 a 27 mm (muy profunda)",
+          "6 a 8 agujas de 0.35 mm (requiere inmersión profunda)"
+        ],
+        [
+          "54 mm",
+          "Breville Bambino BES450 / Bambino Plus BES500",
+          "20 a 23 mm (media)",
+          "8 a 9 agujas de 0.30 a 0.35 mm"
+        ],
+        [
+          "58 mm",
+          "De’Longhi Dedica Maestro Plus EC950M / Gaggia Classic",
+          "15 a 18 mm (baja y ancha)",
+          "9 a 10 agujas de 0.25 a 0.35 mm"
+        ]
+      ],
+      "caption": "Ajuste de la técnica WDT según la geometría de la cesta y cafetera"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con como usar distribuidor de agujas wdt paso a paso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Buscas un distribuidor WDT con agujas reemplazables de 0.35 mm y soporte de aluminio? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como usar distribuidor de agujas wdt paso a paso?",
-      "a": "Empieza removiendo en pequeños círculos tocando el fondo de la cesta y sube en espiral para dejar la superficie plana como arena rastrillada. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Sirve un distribuidor WDT con agujas gruesas o puntas en forma de gota?",
+      "a": "No. Los modelos económicos con alambres gruesos de 0.7 mm o puntas redondeadas con bolita empujan el café molido como si fueran un arado en lugar de cortarlo, creando surcos vacíos que empeoran la canalización bajo presión."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Es normal que las agujas rocen el fondo metálico de la cesta al principio?",
+      "a": "Sí, es normal y beneficioso. El acero templado de 0.35 mm es tan fino que actúa como un amortiguador flexible al rozar la base perforada, evitando rayar o deformar los microagujeros de precisión de tu filtro despresurizado."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué ocurre si remuevo el café con el WDT durante demasiado tiempo?",
+      "a": "El punto exacto es entre 8 y 10 segundos. Si bates la molienda durante más de 15 segundos, provocas el efecto nuez del Brasil (segregación granular): los fragmentos más gruesos suben y los finos migran al fondo, bloqueando los poros."
     }
   ],
   "related": [
-    "/basculas-y-accesorios-barista/",
-    "/basculas-y-accesorios-barista/distribuidor-de-asheta-giratorio-ocd-vs-agujas-wdt-cual-es-mejor/",
-    "/basculas-y-accesorios-barista/que-es-la-herramienta-wdt-weiss-distribution-technique-y-grosor-de-agujas/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/basculas-y-accesorios-barista/termometros-de-tira-adhesiva-lcd-para-grupo-y-leche/",
+    "/basculas-y-accesorios-barista/como-medir-el-diametro-de-tu-portafiltro-en-casa-con-una-regla/",
+    "/basculas-y-accesorios-barista/orden-de-compra-de-accesorios-barista-que-comprar-primero-y-que-despues/",
+    "/basculas-y-accesorios-barista/comparativa-tampers-normcore-v4-vs-ikape-vs-mhw-3bomber/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-hacer-la-tecnica-wdt-correctamente-de-abajo-hacia-arriba.webp"
 }

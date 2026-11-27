@@ -4,161 +4,137 @@
   "path": "/extraccion-y-recetas-espresso/como-preparar-un-espresso-con-crema-usando-cafe-premolido-de-supermercado/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como hacer buen espresso con cafe premolido",
   "title": "Guía para Sacar el Mejor Café Posible con Café Pre-Molido (Lavazza / Illy / Bustelo) en Filtro Presurizado",
-  "seoTitle": "Guía para Sacar el Mejor Café Posible con Café Pre-Molido (Lavazza / Illy / Bustelo) en Filtro Presurizado | Guía Barista Compacta",
-  "metaDescription": "Guía para Sacar el Mejor Café Posible con Café Pre-Molido (Lavazza / Illy / Bustelo) en Filtro Presurizado: Usa la cesta de doble pared, pesa 14–15 g con báscula, nivela sin apretar en exceso y corta la extracción a los 22–25 segundos. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Usa la cesta de doble pared, pesa 14–15 g con báscula, nivela sin apretar en exceso y corta la extracción a los 22–25 segundos.",
-  "quickAnswer": "Sobre como hacer buen espresso con cafe premolido: Usa la cesta de doble pared, pesa 14–15 g con báscula, nivela sin apretar en exceso y corta la extracción a los 22–25 segundos. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Guía para Sacar el Mejor Café Posible con Café Pre-Molido (Lavazza / Illy / Bustelo) en Filtro Presurizado | cafeteracompacta.com",
+  "metaDescription": "Aprende cómo hacer buen espresso con café premolido Lavazza, Illy o Bustelo usando el filtro presurizado de tu cafetera compacta sin ahogar la bomba.",
+  "excerpt": "Protocolo de dosificación, nivelado suave y ratio de corte para extraer crema estable con café molido comercial en cestas de doble pared de 51 mm y 54 mm sin sabor a quemado.",
+  "quickAnswer": "Para **hacer buen espresso con café premolido** (como **Illy Espresso**, **Lavazza** o **Bustelo**), es imprescindible instalar el **filtro presurizado de doble pared** de tu cafetera compacta. Dosifica entre **13.5 y 14.5 g** en cestas de **51 mm** (o **16.5–17.5 g** en **54 mm**), aplica un prensado suave de **5 a 7 kg** para no obstruir la válvula y corta la extracción manualmente en un **ratio corto de 1:1.8** (**25–32 g** líquidos).",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Usa la cesta de doble pared, pesa 14–15 g con báscula, nivela sin apretar en exceso y corta la extracción a los 22–25 segundos., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Close-up ergonomic grip and control panel perspective in crisp daylight: realistic scene illustrating 'Guía para Sacar el Mejor Café Posible con Café Pre-Molido (Lavazza / Illy / Bustelo) en Filtro Presurizado' (como hacer buen espresso con cafe premolido) for cafeteracompacta.com, featuring equipment in sleek titanium silver with carbon-gray texture, in a bright family home interior with clean architectural lines, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Guía para Sacar el Mejor Café Posible con Café Pre-Molido (Lavazza / Illy / Bustelo) en Filtro Presurizado"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como hacer buen espresso con cafe premolido** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Usa la cesta de doble pared, pesa 14–15 g con báscula, nivela sin apretar en exceso y corta la extracción a los 22–25 segundos."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Acabas de desembalar tu **CASABREWS CM5418**, tu **De’Longhi Dedica Arte (EC885M)** o tu **Breville Bambino (BES450)**, todavía no tienes un molino dedicado de muelas cónicas en la encimera y abres un bote de **Illy Classico** o un paquete al vacío de **Lavazza** o **Café Bustelo**. Saber **cómo hacer buen espresso con café premolido** no es cuestión de suerte: requiere entender cómo interactúa una granulometría comercial estándar con la válvula restrictora de tu filtro presurizado de doble pared."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como hacer buen espresso con cafe premolido"
+      "text": "Por qué el filtro presurizado de doble pared es obligatorio con café comercial"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como hacer buen espresso con cafe premolido** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Los cafés premolidos de supermercado se muelen en fábrica a un calibre intermedio de **350 a 500 micras** para que funcionen tanto en cafeteras italianas Moka como en máquinas domésticas. Esa molienda es demasiado gruesa para generar por sí sola los **9 bares** de resistencia hidráulica en una cesta profesional, además de haber perdido gran parte de su $\\text{CO}_2$ tras el envasado. Aquí entra en juego la cesta presurizada (*Dual Wall*) que incluyen de serie la **CASABREWS 3700Essential**, la **CM5418** y la **Breville Bambino**: debajo de la malla perforada interior existe una cámara sellada con **un único micro-orificio central de salida**. Ese estrangulamiento mecánico frena el caudal, eleva la presión interna y emulsiona los aceites del grano para formar una capa de crema densa y persistente, ideal para tomar solo o preparar un [carajillo shaken con Licor 43](/extraccion-y-recetas-espresso/receta-de-carajillo-mexicano-con-espresso-y-licor-43-shaken/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: como hacer buen espresso con cafe premolido",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Marca y variedad premolida",
+        "Granulometría media y composición",
+        "Dosis ideal (Cesta 51 mm / 54 mm)",
+        "Fuerza de prensado (Tamper)",
+        "Ratio de corte recomendado"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Usa la cesta de doble pared, pesa 14–15 g con báscula, nivela sin apretar en exceso y corta la extracción a los 22–25 segundos.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Illy Classico (Bote presurizado espresso)",
+          "340–380 µm (100 % Arábica suave)",
+          "14.0 g / 17.0 g",
+          "Suave-medio (5–7 kg)",
+          "1:1.8 (25–30 g en taza)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Lavazza Qualità Oro (Lata o ladrillo)",
+          "380–430 µm (100 % Arábica floral)",
+          "14.5 g / 17.5 g",
+          "Medio (7–9 kg)",
+          "1:2 (29–35 g en taza)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Lavazza Crema e Gusto (Ladrillo vacío)",
+          "360–410 µm (Arábica + Robusta intenso)",
+          "13.5 g / 16.5 g",
+          "Suave (5–6 kg)",
+          "1:1.8 (24–30 g en taza)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Café Bustelo Espresso Ground",
+          "300–350 µm (Tueste oscuro muy fino)",
+          "13.0 g / 16.0 g",
+          "Muy suave (3–5 kg)",
+          "1:1.5 a 1:1.8 (corto)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre como hacer buen espresso con cafe premolido",
-      "text": "Usa la cesta de doble pared, pesa 14–15 g con báscula, nivela sin apretar en exceso y corta la extracción a los 22–25 segundos. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Ajustes de dosis, prensado y ratio para las 4 marcas de café premolido más usadas en casa"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como hacer buen espresso con cafe premolido hoy mismo en tu cocina"
+      "text": "El error del prensado excesivo: cómo no bloquear tu cesta de 51 mm o 54 mm"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "El fallo número uno al consultar nuestro [hub de extracción y recetas espresso](/extraccion-y-recetas-espresso/) con café de supermercado es aplicar los **15 kg de presión** de prensado que se usan en cafeterías de especialidad. En un filtro presurizado la resistencia ya la pone el agujero inferior del metal; si además compactas con fuerza extrema un polvo fino como **Café Bustelo** o llenas la cesta hasta el borde sin dejar **2 mm** de espacio libre respecto a la ducha, bloquearás el flujo (en la **CASABREWS CM5418** verás la aguja del manómetro clavarse en la zona roja de sobrepresión). Además, ten presente que mezclas con alto porcentaje de Robusta como **Crema e Gusto** aportan más cuerpo pero también modifican [cuánta cafeína tiene tu espresso doble](/extraccion-y-recetas-espresso/cuanta-cafeina-tiene-un-espresso-doble-comparado-con-un-cafe-de-filtro/), por lo que conviene pesar siempre la dosis con báscula."
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Una vez abierto el ladrillo al vacío o el bote presurizado de aluminio, el oxígeno oxida los lípidos aromáticos en menos de 7 días a temperatura ambiente. Trasvasa el café a un bote hermético opaco con válvula unidireccional y consérvalo en una alacena fresca y seca (nunca en el refrigerador, donde la condensación humedece el polvo y apelmaza la molienda).",
+      "title": "Conservación crítica tras romper el sello al vacío"
+    },
+    {
+      "type": "h2",
+      "text": "Protocolo en 4 pasos para extraer el máximo dulzor de un café premolido"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Purga térmica de 5 segundos antes de calzar el portafiltro",
+          "text": "Deja correr agua caliente sin café a través del filtro presurizado vacío hacia tu taza. Esto calienta el acero del portafiltro a más de 80 °C y limpia cualquier resto seco en la cámara interna de doble pared."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Dosifica 0.5 a 1 g menos que con café recién molido y nivela sin apretar",
+          "text": "El café premolido se asienta de forma más compacta; usa un distribuidor o da dos toques verticales sobre la alfombrilla y apoya el tamper aplicando solo entre 4 y 7 kg de presión firme pero ligera."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Corta el shot manualmente con báscula al llegar al ratio 1:1.8",
+          "text": "Como el café comercial tiene menos sólidos solubles volátiles, no dejes correr el botón automático hasta 50 o 60 ml. Detén la bomba en cuanto tengas entre 25 y 32 g en taza para evitar el regusto aguado y ceniciento del final."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Despresuriza y limpia el orificio inferior a contraluz cada semana",
+          "text": "En máquinas sin válvula solenoide de 3 vías como la CASABREWS CM5418 o la Dedica Arte, espera 15 segundos antes de soltar el portafiltro y verifica a contraluz que el micro-orificio de la cesta no esté obstruido por aceites rancios."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con como hacer buen espresso con cafe premolido en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Quieres comprobar qué modelos de cafeteras compactas incluyen filtros presurizados de 51 mm y 54 mm o añadir un bote hermético al vacío a tu estación? Revisa el stock actualizado en las tarjetas de Amazon de esta página o consulta a nuestro Asesor IA."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como hacer buen espresso con cafe premolido?",
-      "a": "Usa la cesta de doble pared, pesa 14–15 g con báscula, nivela sin apretar en exceso y corta la extracción a los 22–25 segundos. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿La crema que sale con filtro presurizado y café premolido es crema real o espuma?",
+      "a": "Es una espuma híbrida: combina aceites reales del café con microburbujas de aire forzadas a alta velocidad por el orificio único del filtro presurizado (efecto jet). Visualmente es un poco más clara y con burbujas mayores que la crema de CO2 de un grano recién tostado, pero cumple perfectamente su función aromática y de textura."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué con Café Bustelo mi cafetera gotea muy lento o se ahoga y con Lavazza no?",
+      "a": "Café Bustelo viene molido unos 40–60 micras más fino que Lavazza y tiene un tueste mucho más oscuro y soluble. Si usas la misma cantidad en gramos y prensas fuerte en una cesta presurizada de 51 mm, los finos taponan el micro-orificio inferior; reduce la dosis en 1 g y prensa solo con el peso de la muñeca."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Puedo usar el bote de Illy que dice 'Molienda Moka' en mi cafetera espresso compacta?",
+      "a": "No si pone 'Molienda Moka'. Illy fabrica dos versiones idénticas por fuera: la lata con el dibujo de una cafetera italiana Moka tiene molienda gruesa (450–550 micras) que dará un café aguado y ácido en tu máquina; busca siempre la lata con el icono del portafiltro que especifica 'Molienda Espresso'."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/que-pasa-si-usas-cafe-molido-para-moka-o-filtro-en-un-portafiltro-bottomless/",
     "/extraccion-y-recetas-espresso/cuanta-cafeina-tiene-un-espresso-doble-comparado-con-un-cafe-de-filtro/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/receta-de-carajillo-mexicano-con-espresso-y-licor-43-shaken/",
+    "/extraccion-y-recetas-espresso/como-enfriar-un-espresso-sin-aguarlo-usando-una-bola-de-acero-congelada/",
+    "/extraccion-y-recetas-espresso/como-hacer-dos-capuchinos-seguidos-para-invitados-en-menos-de-3-minutos/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-preparar-un-espresso-con-crema-usando-cafe-premolido-de-supermercado.webp"
 }

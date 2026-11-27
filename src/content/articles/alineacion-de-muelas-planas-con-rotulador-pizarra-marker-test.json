@@ -4,161 +4,128 @@
   "path": "/molinos-y-molienda/alineacion-de-muelas-planas-con-rotulador-pizarra-marker-test/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "alinear muelas planas molino cafe rotulador",
   "title": "El Test del Rotulador Borrable para Verificar la Alineación de Muelas Planas en el DF54",
-  "seoTitle": "El Test del Rotulador Borrable para Verificar la Alineación de Muelas Planas en el DF54 | Guía Barista Compacta",
-  "metaDescription": "El Test del Rotulador Borrable para Verificar la Alineación de Muelas Planas en el DF54: Cómo comprobar si las dos muelas planas apoyan de forma 100% paralela usando tinta de pizarra blanca comestible/borrable. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Cómo comprobar si las dos muelas planas apoyan de forma 100% paralela usando tinta de pizarra blanca comestible/borrable.",
-  "quickAnswer": "Sobre alinear muelas planas molino cafe rotulador: Cómo comprobar si las dos muelas planas apoyan de forma 100% paralela usando tinta de pizarra blanca comestible/borrable. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "El Test del Rotulador Borrable para Verificar la Alineación de Muelas Planas en el DF54 | cafeteracompacta.com",
+  "metaDescription": "Aprende a realizar el test del rotulador borrable en tu molino Turin DF54 para comprobar el paralelismo de las muelas planas de 54 mm y calzar con aluminio.",
+  "excerpt": "Protocolo técnico paso a paso para diagnosticar desviaciones micrométricas en muelas planas mediante tinta de pizarra y nivelar el portamuelas con láminas de aluminio.",
+  "quickAnswer": "El test del rotulador borrable (*marker test*) consiste en pintar los dientes planos exteriores de las muelas de **54 mm** con tinta de pizarra en seco y acercar el dial hasta el primer roce metálico para comprobar qué porcentaje del perímetro se borra. Si se limpia menos del **80 %** del anillo, existe una falta de paralelismo que se corrige insertando tiras de papel de aluminio doméstico (**16 micras** por capa) bajo la zona donde la tinta quedó intacta.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Cómo comprobar si las dos muelas planas apoyan de forma 100% paralela usando tinta de pizarra blanca comestible/borrable., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "High-angle 45-degree workbench/tabletop perspective on 28mm lens: realistic scene illustrating 'El Test del Rotulador Borrable para Verificar la Alineación de Muelas Planas en el DF54' (alinear muelas planas molino cafe rotulador) for cafeteracompacta.com, featuring equipment in warm sand beige with matte black hardware, beside a neat storage shelf in a sunlit modern room, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "El Test del Rotulador Borrable para Verificar la Alineación de Muelas Planas en el DF54"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **alinear muelas planas molino cafe rotulador** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Cómo comprobar si las dos muelas planas apoyan de forma 100% paralela usando tinta de pizarra blanca comestible/borrable."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Estrenas un **Turin DF54** junto a tu **Breville Bambino BES450** o tu **De’Longhi Dedica Maestro Plus EC950M**, ajustas el dial cerca del número **12** y notas un fenómeno desconcertante: la extracción comienza con un goteo lento durante los primeros **8 segundos** y, de repente, el chorro se rompe en una cascada rubia y acuosa que llena la taza en **19 segundos**. Antes de culpar al grano o dudar de todo tu [equipamiento de molienda para espresso](/molinos-y-molienda/), conviene verificar la geometría interna de la cámara. En cualquier molino de muelas planas de **54 mm**, una desviación de paralelismo de apenas **20 micras** entre el portamuelas superior fijo y el rotor inferior giratorio provoca que un sector del disco triture polvo ultrafino mientras el extremo opuesto deja escapar fragmentos gruesos."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: alinear muelas planas molino cafe rotulador"
+      "text": "Física del paralelismo en muelas planas de 54 mm y por qué la tinta revela micras"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **alinear muelas planas molino cafe rotulador** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "A diferencia de un conjunto cónico que se autocentra parcialmente por la gravedad del grano, las dos coronas planas de acero inoxidable de **54 mm** del **Turin DF54** trabajan enfrentadas a distancias de entre **120 y 220 micras** cuando mueles para espresso. Si la fundición de aluminio del soporte superior o el asiento de goma de los tres muelles ondulados (*wave springs*) presenta una inclinación mínima, el punto de roce (*chirp*) que escuchas al girar el dial hacia el cero no es real: solo está tocando una ceja de metal de **15 grados** del perímetro total. Esta asimetría persiste incluso si realizas la técnica de [echar los granos con el motor ya en marcha (Hot Start)](/molinos-y-molienda/moler-con-el-molino-en-marcha-hot-start-vs-cold-start/) o si ya has completado [el proceso de curado de muelas nuevas](/molinos-y-molienda/curado-de-muelas-nuevas-burr-seasoning-es-necesario/). El test del rotulador borrable de pizarra blanca deposita una película de pigmento seco de aproximadamente **4 a 6 micras** de espesor sobre la banda exterior plana de acabado, permitiendo visualizar con exactitud quirúrgica qué porcentaje de la circunferencia entra realmente en contacto."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: alinear muelas planas molino cafe rotulador",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Porcentaje de tinta borrada tras el roce",
+        "Diagnóstico de paralelismo micrométrico",
+        "Impacto directo en la pastilla de espresso (51 mm / 54 mm / 58 mm)",
+        "Acción correctiva recomendada"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Cómo comprobar si las dos muelas planas apoyan de forma 100% paralela usando tinta de pizarra blanca comestible/borrable.",
-          "Mejora la consistencia y evita errores de extracción"
+          "90 % a 100 % del anillo perimetral limpio",
+          "Alineación excelente de fábrica (< 5 micras de desviación)",
+          "Granulometría unimodal limpia, flujo simétrico y alta dulzura en taza",
+          "No calzar; limpiar la tinta con alcohol isopropílico y montar"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "65 % a 85 % del anillo borrado en arco continuo",
+          "Alineación aceptable dentro de tolerancia doméstica (10–15 micras)",
+          "Extracción estable con cesta de precisión tras aplicar WDT cuidadoso",
+          "Opcional: colocar 1 lámina de aluminio (16 micras) bajo el tornillo opuesto"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "35 % a 60 % de borrado concentrado en un lado",
+          "Desalineación moderada (15–30 micras de inclinación)",
+          "Falso punto cero; mezcla de finos astringentes y partículas gruesas que canalizan",
+          "Calzar con 1 a 2 capas de papel de aluminio en la zona donde la tinta quedó intacta"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Menos del 30 % borrado (toque puntual)",
+          "Asentamiento defectuoso o suciedad bajo la muela (> 35 micras)",
+          "Imposible calibrar a 9 bares sin atascar o aguachentar el café",
+          "Desmontar la muela, raspar restos de café prensado del asiento y repetir el test"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre alinear muelas planas molino cafe rotulador",
-      "text": "Cómo comprobar si las dos muelas planas apoyan de forma 100% paralela usando tinta de pizarra blanca comestible/borrable. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Interpretación del barrido de tinta en el perímetro de las muelas planas de 54 mm"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar alinear muelas planas molino cafe rotulador hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Paso a paso para ejecutar el Marker Test y calzar con papel de aluminio (shimming)"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Desconexión eléctrica y marcado de posición del collarín superior",
+          "text": "Desenchufa el DF54 de la corriente, retira el fuelle de silicona y haz una marca con lápiz o cinta entre el anillo roscado y el chasis para volver a montar el portamuelas superior exactamente en la misma orientación de sus tres pestañas."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Pintado de la banda plana exterior con rotulador de pizarra blanca",
+          "text": "Limpia la grasa de café de ambas muelas de 54 mm con alcohol isopropílico al 99 % y pinta toda la corona plana perimetral (los dientes exteriores de acabado) con un rotulador borrable en seco tipo Expo; deja secar la tinta durante 20 segundos."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Giro manual o pulso breve hasta el primer roce acústico (Chirp)",
+          "text": "Rosca el collarín hasta tu ajuste de filtro y ve cerrando despacio hacia el cero mientras giras el eje central a mano (o dando un pulso de encendido de medio segundo sin granos) hasta escuchar un leve silbido metálico; abre de inmediato el dial."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Lectura del patrón y calzado con aluminio de 16 micras (Shimming)",
+          "text": "Extrae el portamuelas y observa dónde permanece intacta la tinta: esa es la zona hundida. Afloja los tres tornillos Phillips de esa muela, introduce una tira estrecha de papel de aluminio doméstico estándar (0.016 mm de grosor) bajo el borde exterior del sector con tinta, aprieta en cruz y repite la prueba hasta lograr al menos un 85 % de barrido."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Por qué jamás debes usar un rotulador permanente ni calzar el centro del disco"
+    },
+    {
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "Utiliza exclusivamente **rotuladores de pizarra blanca borrables en seco** (*dry-erase markers*) de base alcohólica no tóxica. Los rotuladores permanentes contienen resinas acrílicas y solventes aromáticos que se adhieren a los microporos del acero mecanizado, transfiriendo olor químico a tus primeras extracciones y falseando la lectura porque la capa seca resiste la fricción leve. Asimismo, al recortar las calzas de papel de aluminio de **4 mm x 10 mm**, asegúrate de situarlas únicamente en el **borde perimetral exterior** bajo la muela y nunca cerca del agujero central; si una tira invade el radio interior, arqueará el disco de acero al apretar los tornillos.",
+      "title": "Regla crítica de seguridad alimentaria y mecánica al calzar muelas"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con alinear muelas planas molino cafe rotulador en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Pregunta a nuestro Asesor IA si necesitas ayuda para interpretar el patrón de roce de tus muelas o consulta la disponibilidad actual del Turin DF54 y accesorios de limpieza en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre alinear muelas planas molino cafe rotulador?",
-      "a": "Cómo comprobar si las dos muelas planas apoyan de forma 100% paralela usando tinta de pizarra blanca comestible/borrable. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué se suele calzar primero la muela superior fija en lugar de la inferior giratoria?",
+      "a": "Porque el rotor inferior está fijado directamente sobre el plato mecanizado del eje del motor eléctrico, donde suele presentar menor desviación axial. No obstante, siempre debes pintar tanto la muela superior como la inferior al mismo tiempo; si la inferior conserva tinta en un sector específico, también puedes calzarla bajo sus tres tornillos."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cuánto grosor aporta exactamente cada capa de papel de aluminio de cocina bajo la muela?",
+      "a": "El papel de aluminio doméstico convencional mide entre 15 y 16 micras (0.016 mm) de grosor, mientras que la versión reforzada (heavy duty) alcanza unas 24 micras. Para corregir una falta de contacto de media circunferencia en muelas de 54 mm, suele bastar con una o dos capas plegadas del aluminio estándar."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cuántos gramos de café debo purgar tras terminar el test del rotulador borrable?",
+      "a": "Después de frotar las coronas con papel absorbente y un bastoncillo humedecido en alcohol isopropílico para retirar todo rastro visible de pigmento, basta con moler y desechar 15 gramos de granos de café viejos en un ajuste medio para arrastrar cualquier partícula microscópica restante."
     }
   ],
   "related": [
-    "/molinos-y-molienda/",
-    "/molinos-y-molienda/molienda-para-tueste-oscuro-italiano-vs-tueste-medio-especialidad/",
-    "/molinos-y-molienda/como-viajar-con-un-molino-manual-de-espresso-en-el-equipaje-de-mano/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/moler-con-el-molino-en-marcha-hot-start-vs-cold-start/",
+    "/molinos-y-molienda/como-usar-el-vaso-dosificador-de-54mm-en-un-portafiltro-de-51mm/",
+    "/molinos-y-molienda/curado-de-muelas-nuevas-burr-seasoning-es-necesario/",
+    "/molinos-y-molienda/ruido-en-decibelios-de-los-molinos-de-espresso-mas-vendidos/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/alineacion-de-muelas-planas-con-rotulador-pizarra-marker-test.webp"
 }

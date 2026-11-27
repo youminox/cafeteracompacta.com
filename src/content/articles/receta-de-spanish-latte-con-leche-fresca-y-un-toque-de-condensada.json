@@ -4,161 +4,124 @@
   "path": "/extraccion-y-recetas-espresso/receta-de-spanish-latte-con-leche-fresca-y-un-toque-de-condensada/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "receta spanish latte con cafetera espresso",
   "title": "Cómo Hacer un Spanish Latte Cremoso (Frío o Caliente) en tu Cafetera Espresso Compacta",
-  "seoTitle": "Cómo Hacer un Spanish Latte Cremoso (Frío o Caliente) en tu Cafetera Espresso Compacta | Guía Barista Compacta",
-  "metaDescription": "Cómo Hacer un Spanish Latte Cremoso (Frío o Caliente) en tu Cafetera Espresso Compacta: 15–20 g de leche condensada disueltos con los 36 g de espresso caliente y completados con 150 ml de leche vaporizada sedosa. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "15–20 g de leche condensada disueltos con los 36 g de espresso caliente y completados con 150 ml de leche vaporizada sedosa.",
-  "quickAnswer": "Sobre receta spanish latte con cafetera espresso: 15–20 g de leche condensada disueltos con los 36 g de espresso caliente y completados con 150 ml de leche vaporizada sedosa. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Hacer un Spanish Latte Cremoso (Frío o Caliente) en tu Cafetera Espresso Compacta | cafeteracompacta.com",
+  "metaDescription": "Prepara la auténtica receta de Spanish Latte con cafetera espresso compacta: proporción exacta de leche condensada, leche fresca texturizada y shot doble.",
+  "excerpt": "A diferencia del café bombón tradicional, el Spanish Latte de especialidad equilibra un espresso doble intenso con una base medida de leche condensada y microespuma sedosa a 60 °C o hielo cristalino.",
+  "quickAnswer": "La receta ideal de Spanish Latte en cafetera compacta combina 36 g de espresso doble (ratio 1:2 en 27 segundos), entre 22 y 25 g de leche condensada y 150 ml de leche entera fresca. El secreto técnico consiste en extraer el espresso caliente directamente sobre la leche condensada y remover durante 5 segundos para rebajar su alta viscosidad antes de incorporar la leche texturizada o el hielo.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: 15–20 g de leche condensada disueltos con los 36 g de espresso caliente y completados con 150 ml de leche vaporizada sedosa., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating 'Cómo Hacer un Spanish Latte Cremoso (Frío o Caliente) en tu Cafetera Espresso Compacta' (receta spanish latte con cafetera espresso) for cafeteracompacta.com, featuring equipment in arctic white with warm stone-gray details, beside a neat storage shelf in a sunlit modern room, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Hacer un Spanish Latte Cremoso (Frío o Caliente) en tu Cafetera Espresso Compacta"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **receta spanish latte con cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. 15–20 g de leche condensada disueltos con los 36 g de espresso caliente y completados con 150 ml de leche vaporizada sedosa."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Quien pide por primera vez un *Spanish Latte* en una cafetería de especialidad pensando en el tradicional café bombón alicantino descubre una bebida radicalmente más equilibrada: en lugar de una mezcla empalagosa mitad café y mitad leche condensada, recibe una taza sedosa donde el dulzor lácteo caramelizado apenas envuelve la intensidad de un shot doble y la microespuma fresca. Sin embargo, cuando intentas replicar la **receta spanish latte con cafetera espresso** en tu cocina, es muy habitual que la leche condensada quede pegada como un bloque intacto en el fondo del vaso —especialmente en la versión con hielo— mientras el resto de la bebida sabe a un café con leche aguado. Aprender la proporción exacta de gramajes y el orden térmico de disolución dentro de nuestro repertorio de [extracción y recetas espresso](/extraccion-y-recetas-espresso/) transformará tu **Breville Bambino (BES450)**, **De’Longhi Dedica Arte (EC885M)** o **CASABREWS CM5418** en una barra de autor."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: receta spanish latte con cafetera espresso"
+      "text": "La regla de proporción 1:6 entre leche condensada y leche fresca para no tapar el espresso"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **receta spanish latte con cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "La leche condensada azucarada tiene una concentración de sacarosa cercana al **45 %** y una viscosidad altísima (**~2.500 cP** a **20 °C**). Si superas los **35 g** por taza, el azúcar satura las papilas gustativas y anula por completo las notas de chocolate negro, avellana o caramelo de tu grano. El estándar técnico de cafetería de especialidad para un vaso de **220 a 250 ml** utiliza exactamente entre **22 g y 26 g** de leche condensada (aproximadamente una cucharada sopera colmada, pesada siempre con báscula bajo la taza), **36 g** de espresso doble extraído a ratio **1:2** en **26–29 segundos** y **150 ml** de leche entera fresca (**3.5 % de grasa**). A diferencia de cuando estudiamos [cómo combinar espresso con proteína Proffee sin que haga grumos](/extraccion-y-recetas-espresso/como-combinar-espresso-con-proteina-proffee-sin-que-haga-grumos/) —donde el calor excesivo es un enemigo—, aquí necesitas aprovechar los **88–90 °C** del espresso recién extraído cayendo directamente sobre la leche condensada y aplicar el mismo principio de [remover el espresso con cucharilla antes de beber](/extraccion-y-recetas-espresso/como-catar-tu-propio-espresso-por-que-es-obligatorio-remover-la-crema-con-cuchara/) para fundir el jarabe lácteo antes de que toque cualquier elemento frío."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: receta spanish latte con cafetera espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Componente y Parámetro",
+        "Café Bombón Tradicional (Vaso corto)",
+        "Spanish Latte Caliente (Taza 220 ml)",
+        "Iced Spanish Latte (Vaso 300 ml)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "15–20 g de leche condensada disueltos con los 36 g de espresso caliente y completados con 150 ml de leche vaporizada sedosa.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Dosis de leche condensada",
+          "40 g – 50 g (capa densa sin mezclar)",
+          "22 g – 25 g (emulsionada con el shot)",
+          "25 g – 28 g (ligeramente mayor por el hielo)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Extracción de espresso doble",
+          "30 g – 35 g (tueste medio-oscuro)",
+          "36 g (18 g in → 36 g out en 27 s)",
+          "34 g (18 g in → 34 g out, más concentrado)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Leche entera fresca (3.5 % grasa)",
+          "0 ml (no lleva leche líquida fresca)",
+          "150 ml vaporizada a 58–62 °C (microespuma 0.5 cm)",
+          "130 ml fría a 4 °C + 110 g de hielo macizo"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Dulzor percibido y textura en boca",
+          "Muy alto; densidad de postre licoroso",
+          "Medio-equilibrado; cuerpo aterciopelado y sedoso",
+          "Refrescante, cremoso y con retrogusto a toffee"
         ]
-      ]
+      ],
+      "caption": "Comparativa técnica entre Café Bombón tradicional, Spanish Latte caliente e Iced Spanish Latte"
+    },
+    {
+      "type": "h2",
+      "text": "Ajuste de temperatura de vaporizado: por qué debes detener la jarra a 58–60 °C"
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de barista sobre receta spanish latte con cafetera espresso",
-      "text": "15–20 g de leche condensada disueltos con los 36 g de espresso caliente y completados con 150 ml de leche vaporizada sedosa. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "Cuando vaporizas leche entera normal con la lanceta **MyLatte Art** de la **De’Longhi Dedica Arte (EC885M)** o la lanceta articulada de la **CASABREWS CM5418**, la lactosa alcanza su pico de dulzor natural cerca de los **60–63 °C**. Como el Spanish Latte ya incorpora más de **11 g** de azúcares simples procedentes de la leche condensada, calentar la leche fresca por encima de **65 °C** genera notas de leche hervida que resultan pesadas y empalagosas. Si tienes una **Breville Bambino Plus (BES500)** o **De’Longhi Dedica Maestro Plus (EC950M)**, selecciona el nivel de temperatura **Templado/Medio (58–60 °C)** y el nivel **1 de espuma** para conseguir una crema líquida brillante apta para *latte art*.",
+      "title": "Controla la temperatura de la jarra para evitar el efecto de leche cocida empalagosa"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar receta spanish latte con cafetera espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Paso a paso para preparar el Spanish Latte perfecto (versión caliente con Latte Art y versión Iced)"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Pesa 24 g de leche condensada en el fondo de la taza usando tu báscula de café",
+          "text": "Coloca tu taza de cerámica precalentada (o una jarrita de cristal si vas a preparar la versión fría) sobre la báscula, ponla a cero (*tare*) y vierte **22 a 25 g** de leche condensada entera en el centro del fondo, evitando manchar las paredes laterales."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Extrae los 36 g de espresso doble encima y remueve enérgicamente durante 6 segundos",
+          "text": "Extrae tu espresso doble (**18 g** de dosis en cesta de **54 mm** o **16 g** en cesta de **51 mm**) directamente sobre la leche condensada. Apenas se detenga la bomba, remueve con una cucharilla durante **5 a 6 segundos**: el calor del café fundirá la viscosidad de la condensada creando una base uniforme de color avellana brillante con crema en la superficie."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Vierte 150 ml de leche texturizada a 60 °C (o monta el vaso con hielo macizo y leche fría)",
+          "text": "Para la versión caliente, texturiza **150 ml** de leche entera hasta **60 °C** e intégrala desde **8 cm** de altura sobre la base de espresso condensado antes de bajar el pico para dibujar tu *latte art*. Para la versión **Iced Spanish Latte**, llena un vaso alto con **110 g** de hielo macizo, añade **130 ml** de leche fría y vierte encima la mezcla de espresso y condensada ya disuelta para crear un degradado marmoleado que se integra con un solo giro de pajita."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con receta spanish latte con cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Quieres comprobar qué báscula con cronómetro, jarra de leche de acero inoxidable o cafetera compacta con lanceta profesional se ajusta a tu rincón de café? Consulta a nuestro Asesor IA o revisa la disponibilidad en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre receta spanish latte con cafetera espresso?",
-      "a": "15–20 g de leche condensada disueltos con los 36 g de espresso caliente y completados con 150 ml de leche vaporizada sedosa. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Qué tipo de grano y nivel de tueste funciona mejor para hacer un Spanish Latte?",
+      "a": "Los granos 100 % Arábica de tueste medio a medio-oscuro (orígenes Brasil, Colombia o Guatemala) con notas de cata a chocolate con leche, nuez tostada y caramelo ofrecen la estructura ideal. Un tueste muy claro y cítrico choca con el perfil lácteo caramelizado de la leche condensada."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Puedo preparar un Spanish Latte con bebida de avena en lugar de leche entera de vaca?",
+      "a": "Sí. La bebida de avena versión Barista es la mejor alternativa vegetal porque su cuerpo cremoso sostiene muy bien la densidad de la leche condensada (o leche condensada vegana de coco/avena). Como la avena ya contiene azúcares naturales derivados de su hidrólisis enzimática, reduce la leche condensada a 18–20 g."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Es lo mismo usar leche evaporada que leche condensada en el Spanish Latte?",
+      "a": "No. La leche evaporada es leche concentrada al 50 % de su agua pero sin azúcar añadido y con una viscosidad muy líquida (se usa para el Café con Leche Evaporada o estilo Hong Kong), mientras que la leche condensada incorpora un 45 % de sacarosa que aporta el cuerpo almibarado y el sabor a toffee propios del Spanish Latte."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/receta-de-cafe-con-hielo-al-estilo-espanol-y-valenciano-del-tiempo/",
     "/extraccion-y-recetas-espresso/como-combinar-espresso-con-proteina-proffee-sin-que-haga-grumos/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/receta-de-vanilla-sweet-cream-cold-brew-y-espresso-shaken/",
+    "/extraccion-y-recetas-espresso/como-catar-tu-propio-espresso-por-que-es-obligatorio-remover-la-crema-con-cuchara/",
+    "/extraccion-y-recetas-espresso/como-corregir-el-donut-extraction-cuando-sale-primero-por-los-bordes/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/receta-de-spanish-latte-con-leche-fresca-y-un-toque-de-condensada.webp"
 }

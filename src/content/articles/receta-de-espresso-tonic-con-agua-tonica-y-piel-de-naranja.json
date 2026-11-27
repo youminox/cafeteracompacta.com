@@ -4,161 +4,123 @@
   "path": "/extraccion-y-recetas-espresso/receta-de-espresso-tonic-con-agua-tonica-y-piel-de-naranja/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "receta espresso tonic paso a paso",
   "title": "Receta de Espresso Tonic Refrescante: Cómo Verter el Espresso sobre la Tónica sin que Espume en Exceso",
-  "seoTitle": "Receta de Espresso Tonic Refrescante | Guía Barista Compacta",
-  "metaDescription": "Receta de Espresso Tonic Refrescante: Cómo Verter el Espresso sobre la Tónica sin que Espume en Exceso: Vierte suavemente los 36 g de espresso sobre un cubito de hielo grande flotando en 150 ml de tónica fría con un twist de naranja. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Vierte suavemente los 36 g de espresso sobre un cubito de hielo grande flotando en 150 ml de tónica fría con un twist de naranja.",
-  "quickAnswer": "Sobre receta espresso tonic paso a paso: Vierte suavemente los 36 g de espresso sobre un cubito de hielo grande flotando en 150 ml de tónica fría con un twist de naranja. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Receta de Espresso Tonic Refrescante: Cómo Verter el Espresso sobre la Tónica sin que Espume en Exceso | cafeteracompacta.com",
+  "metaDescription": "Domina la receta de espresso tonic paso a paso: proporción exacta de tónica, café y técnica de vertido con cuchara para evitar exceso de espuma.",
+  "excerpt": "Aprende a preparar un espresso tonic limpio y en dos capas usando tu cafetera compacta: control de nucleación del gas carbónico, temperatura del hielo y elección de granos cítricos.",
+  "quickAnswer": "Para ejecutar la receta de espresso tonic paso a paso sin desbordes de espuma, llena un vaso de **300 ml** con cubos de hielo grandes y secos, vierte **150 ml** de agua tónica a **4 °C** y espera **15 segundos** para estabilizar el gas. Extrae **36 g** de espresso en tu **Breville Bambino** o **CASABREWS CM5418**, atempéralo **20 segundos** y deslízalo suavemente con una cuchara sobre el hielo.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Vierte suavemente los 36 g de espresso sobre un cubito de hielo grande flotando en 150 ml de tónica fría con un twist de naranja., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Close-up ergonomic grip and control panel perspective in crisp daylight: realistic scene illustrating 'Receta de Espresso Tonic Refrescante: Cómo Verter el Espresso sobre la Tónica sin que Espume en Exceso' (receta espresso tonic paso a paso) for cafeteracompacta.com, featuring equipment in graphite gray with subtle amber indicator details, on a light terrazzo surface in a contemporary living space, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Receta de Espresso Tonic Refrescante: Cómo Verter el Espresso sobre la Tónica sin que Espume en Exceso"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **receta espresso tonic paso a paso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Vierte suavemente los 36 g de espresso sobre un cubito de hielo grande flotando en 150 ml de tónica fría con un twist de naranja."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Cuando viertes un espresso recién salido del portafiltro a más de **65 °C** directamente sobre un vaso con agua tónica fría, el resultado suele ser un pequeño volcán de espuma seca y marrón que rebosa el cristal y deja el líquido plano y sin gas. Este fenómeno ocurre porque las melanoidinas, los aceites emulsionados y las micropartículas en suspensión del café actúan como miles de puntos de nucleación instantáneos para el dióxido de carbono disuelto en la tónica. Para dominar la **receta espresso tonic paso a paso** y conseguir esa separación visual limpia entre la capa ámbar cristalina inferior y la corona oscura superior —como explicamos en nuestras [técnicas de extracción y recetas espresso](/extraccion-y-recetas-espresso/)—, el secreto no está en comprar una tónica distinta, sino en gestionar la temperatura del hielo, la desgasificación previa del refresco y la velocidad de impacto del café."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: receta espresso tonic paso a paso"
+      "text": "Física de la nucleación: por qué la humedad del hielo y la temperatura del shot disparan la espuma"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **receta espresso tonic paso a paso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: receta espresso tonic paso a paso",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "Vierte suavemente los 36 g de espresso sobre un cubito de hielo grande flotando en 150 ml de tónica fría con un twist de naranja.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "El gas carbónico se mantiene estable dentro de la tónica mientras el líquido permanece frío (entre **3 °C y 5 °C**) y libre de turbulencias. Si utilizas hielos pequeños o húmedos que ya están derritiéndose a **0 °C**, su superficie rugosa libera burbujas antes siquiera de añadir el café. Además, cuando preparas el tiro en una **CASABREWS CM5418** o una **Breville Bambino (BES450)**, la extracción con cesta no presurizada de **51 mm** o **54 mm** genera una crema densa cargada de microburbujas de CO2 del propio tueste. Al [ajustar el tiempo de pre-infusión según el tueste](/extraccion-y-recetas-espresso/como-influye-el-tiempo-de-preinfusion-en-el-cuerpo-del-espresso/) entre **5 y 7 segundos**, reduces la migración de finos a la taza y obtienes un líquido más limpio; y si aplicas los mismos principios térmicos que al [preparar un iced latte o iced americano sin aguar el café](/extraccion-y-recetas-espresso/receta-de-iced-latte-y-iced-americano-de-verano/), atemperando el espresso unos segundos antes del ensamblaje, evitarás que el choque térmico rompa la carbonatación de la quinina."
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de barista sobre receta espresso tonic paso a paso",
-      "text": "Vierte suavemente los 36 g de espresso sobre un cubito de hielo grande flotando en 150 ml de tónica fría con un twist de naranja. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "Extrae tu espresso directamente sobre una jarrita de acero inoxidable o un vaso pequeño de vidrio que hayas guardado 10 minutos antes en la nevera. Este simple gesto reduce la temperatura del café de 68 °C a unos 48–50 °C en apenas 15 segundos sin diluirlo con agua, conservando intactos los aromas florales y reduciendo a la mitad la reacción espumosa al tocar la tónica.",
+      "title": "Enfría el recipiente receptor antes de pulsar el botón de extracción"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar receta espresso tonic paso a paso hoy mismo en tu cocina"
+      "text": "Parámetros de extracción y proporciones según el perfil de tueste del grano"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "table",
+      "headers": [
+        "Parámetro técnico",
+        "Tueste Claro / Medio-Claro (Etiopía, Kenia)",
+        "Tueste Medio Clásico (Colombia, Centroamérica)"
+      ],
+      "rows": [
+        [
+          "Dosis en seco y ratio",
+          "18 g en cesta → 40 g líquidos (Ratio 1:2.2)",
+          "18 g en cesta → 34–36 g líquidos (Ratio 1:2)"
+        ],
+        [
+          "Tiempo de extracción",
+          "27 a 32 segundos a 9 bares reales",
+          "25 a 28 segundos a 9 bares reales"
+        ],
+        [
+          "Volumen y temperatura de tónica",
+          "150 ml de tónica neutra a 4 °C",
+          "165 ml de tónica con toque cítrico a 4 °C"
+        ],
+        [
+          "Guarnición aromática recomendada",
+          "Piel de pomelo rosado o flor de romero",
+          "Piel de naranja exprimida sobre la crema"
+        ]
+      ],
+      "caption": "Configuración técnica para un Espresso Tonic equilibrado en vaso Highball de 300 ml"
+    },
+    {
+      "type": "h2",
+      "text": "Paso a paso: técnica de vertido en cascada con cuchara para lograr dos capas nítidas"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "1. Carga de hielo seco y purga de agua residual",
+          "text": "Llena hasta el borde un vaso alto de **300 a 350 ml** con **4 o 5 cubos grandes** recién sacados del congelador a **-18 °C**. Si notas que han soltado gotas de agua en el fondo del vaso mientras preparabas la estación, escúrrelas por completo antes de abrir la tónica."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "2. Vertido inclinado de la tónica y pausa de estabilización",
+          "text": "Inclina el vaso a **45 grados** y desliza **150 ml** de agua tónica fría por la pared interior de cristal. Deja reposar el vaso en vertical durante **15 a 20 segundos** para que se libere el exceso inicial de gas superficial."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "3. Extracción controlada y atemperado breve",
+          "text": "Prepara un espresso doble de **36 a 40 g** en tu **Breville Bambino**, **De’Longhi Dedica Arte (EC885M)** o **CASABREWS CM5418**. Remueve suavemente el shot en su jarrita durante **15 segundos** para homogeneizar la crema con el cuerpo del café."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "4. Flotación sobre el dorso de la cuchara y perfumado cítrico",
+          "text": "Apoya el dorso de una cuchara sopera o de coctelería justo encima del cubo de hielo superior y vierte el espresso en un hilo fino y continuo. Termina presionando una tira de **piel de naranja fresca** sobre la superficie para pulverizar sus aceites esenciales y deslízala por el borde del cristal."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con receta espresso tonic paso a paso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Buscas una jarrita dosificadora con pico vertedor, cestas despresurizadas o granos ideales para bebidas frías? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre receta espresso tonic paso a paso?",
-      "a": "Vierte suavemente los 36 g de espresso sobre un cubito de hielo grande flotando en 150 ml de tónica fría con un twist de naranja. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué mi espresso tonic sabe demasiado amargo o medicinal?",
+      "a": "Los cafés con tueste muy oscuro o torrefacto contienen notas de humo, ceniza y amargor fenólico que chocan frontalmente con la quinina amarga del agua tónica. Para lograr un perfil refrescante y brillante, utiliza granos **100 % Arábica** de tueste medio o medio-claro con notas cítricas, frutales o florales."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Puedo hacer un espresso tonic si mi cafetera compacta usa filtro presurizado?",
+      "a": "Sí, pero ten en cuenta que el filtro presurizado de doble pared inyecta mucho aire mecánico y crea una espuma rígida que reacciona más con el gas de la tónica. Si usas cesta presurizada, deja reposar el espresso **30 segundos** y retira con una cucharilla la capa superior de burbujas grandes antes de verterlo."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cómo puedo endulzar un espresso tonic sin que pierda el gas?",
+      "a": "No es recomendable añadir azúcar granulado porque actúa como un potente catalizador de nucleación y desgasifica la bebida al instante. Si buscas un perfil más goloso, incorpora **8 a 10 ml** de sirope simple frío o licor de naranja junto con la tónica antes de flotar el espresso."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/receta-de-affogato-al-caffe-italiano-con-helado-de-vainilla/",
     "/extraccion-y-recetas-espresso/receta-de-iced-latte-y-iced-americano-de-verano/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/receta-de-caramel-macchiato-casero-estilo-starbucks/",
+    "/extraccion-y-recetas-espresso/receta-de-dirty-chai-latte-con-un-shot-de-espresso/",
+    "/extraccion-y-recetas-espresso/como-influye-el-tiempo-de-preinfusion-en-el-cuerpo-del-espresso/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/receta-de-espresso-tonic-con-agua-tonica-y-piel-de-naranja.webp"
 }

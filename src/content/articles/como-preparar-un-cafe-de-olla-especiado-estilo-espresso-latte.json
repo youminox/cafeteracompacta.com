@@ -4,161 +4,132 @@
   "path": "/extraccion-y-recetas-espresso/como-preparar-un-cafe-de-olla-especiado-estilo-espresso-latte/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "receta cafe de olla latte con espresso",
   "title": "Latte de Café de Olla: Cómo Fusionar Piloncillo, Canela y Naranja con un Shot de Espresso",
-  "seoTitle": "Latte de Café de Olla | Guía Barista Compacta",
-  "metaDescription": "Latte de Café de Olla: Cómo Fusionar Piloncillo, Canela y Naranja con un Shot de Espresso: Infusiona un jarabe rápido de piloncillo/panela y canela en rama para endulzar tu Latte matutino con aroma tradicional. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Infusiona un jarabe rápido de piloncillo/panela y canela en rama para endulzar tu Latte matutino con aroma tradicional.",
-  "quickAnswer": "Sobre receta cafe de olla latte con espresso: Infusiona un jarabe rápido de piloncillo/panela y canela en rama para endulzar tu Latte matutino con aroma tradicional. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Latte de Café de Olla: Cómo Fusionar Piloncillo, Canela y Naranja con un Shot de Espresso | cafeteracompacta.com",
+  "metaDescription": "Prepara esta receta de café de olla latte con espresso fusionando reducción de piloncillo, canela Ceilán y piel de naranja con leche texturizada a 60 °C.",
+  "excerpt": "Técnica segura para elaborar un jarabe concentrado de piloncillo y especias fuera de la máquina, integrándolo con un espresso doble y microespuma sedosa sin obstruir la ducha del grupo.",
+  "quickAnswer": "Para preparar la **receta de café de olla latte con espresso** sin dañar tu cafetera, elabora aparte una **reducción a fuego lento de 150 g de piloncillo, 150 ml de agua, canela de Ceilán, clavo y piel de naranja (sin parte blanca)**. Coloca **20 ml de este jarabe colado** en la taza, extrae encima un **espresso doble de 36 g a 9 bares**, remueve para emulsionar y vierte **160 ml de leche texturizada a 60–62 °C**.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Infusiona un jarabe rápido de piloncillo/panela y canela en rama para endulzar tu Latte matutino con aroma tradicional., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Eye-level 35mm editorial documentary photograph: realistic scene illustrating 'Latte de Café de Olla: Cómo Fusionar Piloncillo, Canela y Naranja con un Shot de Espresso' (receta cafe de olla latte con espresso) for cafeteracompacta.com, featuring equipment in warm sand beige with matte black hardware, beside a neat storage shelf in a sunlit modern room, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Latte de Café de Olla: Cómo Fusionar Piloncillo, Canela y Naranja con un Shot de Espresso"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **receta cafe de olla latte con espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Infusiona un jarabe rápido de piloncillo/panela y canela en rama para endulzar tu Latte matutino con aroma tradicional."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "El aroma de una olla de barro cociendo lentamente **piloncillo oscuro, canela de Ceilán, clavo de olor y cáscara de naranja** es uno de los patrimonios sensoriales más reconfortantes de México. Sin embargo, adaptarlo a una **receta de café de olla latte con espresso** en tu **CASABREWS CM5418**, **De’Longhi Dedica Arte (EC885M)** o **Breville Bambino (BES450)** exige una regla técnica fundamental: las especias y el azúcar jamás deben entrar en el portafiltro ni en el tanque de agua, sino integrarse mediante una **reducción barista de piloncillo** que preserve tanto tu máquina como la sedosidad de la microespuma de leche."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: receta cafe de olla latte con espresso"
+      "text": "La reducción barista de piloncillo y especias a 60 °Brix (sin amargor cítrico)"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **receta cafe de olla latte con espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "A diferencia del café de olla tradicional hervido en agua (donde el grano molido grueso pierde cuerpo para acompañar con leche), en el [hub de extracción y recetas espresso](/extraccion-y-recetas-espresso/) separamos la infusión aromática de la extracción a **9 bares**. Al preparar un jarabe concentrado cocinando a fuego lento **150 g de piloncillo oscuro** con **150 ml de agua**, **canela verdadera (*Cinnamomum verum*)**, **clavo** y **piel de naranja**, obtienes una base densa de unos **55 a 60 °Brix** que puedes conservar en un biberón de cristal durante **3 semanas**. El detalle técnico crítico al pelar la naranja es retirar únicamente el **flavedo** (la capa externa naranja rica en limoneno aromático) evitando al **100 %** el **albedo blanco**, ya que al hervir libera limonina intensamente amarga que choca con la crema del espresso."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: receta cafe de olla latte con espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Componente de la receta",
+        "Cantidad para el lote de jarabe (250 ml)",
+        "Dosis exacta por taza Latte (240 ml)",
+        "Nota técnica de preparación"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Infusiona un jarabe rápido de piloncillo/panela y canela en rama para endulzar tu Latte matutino con aroma tradicional.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Piloncillo oscuro (Panela o chancaca)",
+          "150 g rallado o troceado",
+          "20 a 25 ml de jarabe colado",
+          "Aporta notas de melaza, caramelo tostado y minerales que realzan el cacao del café"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Agua filtrada + Especias enteras",
+          "150 ml agua + 2 ramas canela Ceilán + 2 clavos + 1 anís estrella",
+          "Incluido en la reducción",
+          "Infusionar 10 min a fuego lento (85–90 °C) sin hervir a borbotones; colar en frío"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Piel de naranja fresca (Solo flavedo)",
+          "3 tiras de 5 cm sin parte blanca",
+          "Incluido en la reducción",
+          "Añadir en los últimos 3 minutos de infusión para que los aceites cítricos no se evaporen"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Espresso doble + Leche texturizada",
+          "No aplica al jarabe base",
+          "36 g de espresso (Ratio 1:2) + 160 ml leche a 60–62 °C",
+          "Integrar primero el shot caliente con el jarabe en el fondo de la taza antes de verter la leche"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre receta cafe de olla latte con espresso",
-      "text": "Infusiona un jarabe rápido de piloncillo/panela y canela en rama para endulzar tu Latte matutino con aroma tradicional. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Fórmula maestra para 250 ml de Jarabe de Café de Olla y proporción por taza Latte de 240 ml"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar receta cafe de olla latte con espresso hoy mismo en tu cocina"
+      "text": "Cómo extraer el shot y texturizar la leche para que la naranja no corte la espuma"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Muchas personas cometen el error de espolvorear canela molida dentro de la cesta del portafiltro pensando que el agua a presión extraerá más sabor. En realidad, la canela en polvo es hidrofóbica y se hincha al mojarse, cegando los poros de la pastilla: si sabes [cómo leer el manómetro de presión de la CASABREWS CM5418](/extraccion-y-recetas-espresso/como-leer-el-manometro-de-presion-de-la-casabrews-cm5418/), verás cómo la aguja se dispara a la zona de bloqueo o provoca una canalización severa. Extrae siempre tu espresso limpio vigilando [cuándo cortar el shot en el blonding point](/extraccion-y-recetas-espresso/como-saber-cuando-cortar-el-shot-visualmente-el-blonding-point/) directamente sobre los **20 ml de jarabe de piloncillo** en la taza. Además, al haber infusionado solo la cáscara de naranja (aceite esencial) y no el zumo ácido, el pH del jarabe se mantiene neutro y no coagula la caseína de la leche cuando viertes la microespuma a **60–62 °C**."
+    },
+    {
+      "type": "callout",
+      "variant": "etiqueta",
+      "text": "Utiliza siempre canela de Ceilán (de corteza fina, multicapa como un habano y quebradiza) en lugar de canela Cassia dura de supermercado. La variedad Ceilán libera cinamaldehído dulce y floral con mínima cumarina, armonizando con el dulzor lácteo sin dejar picor astringente en la garganta.",
+      "title": "Canela de Ceilán vs. Canela Cassia en bebidas con leche vaporizada"
+    },
+    {
+      "type": "h2",
+      "text": "Montaje paso a paso de tu Latte de Café de Olla digno de barra de especialidad"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Dosifica 20 ml de reducción de piloncillo especiado en una taza precalentada",
+          "text": "Vierte el jarabe colado en el fondo de una taza cerámica de 240 ml previamente templada con agua caliente para que el jarabe denso esté fluido al recibir el café."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Extrae un espresso doble de 36 g directamente sobre el jarabe y emulsiona",
+          "text": "Coloca la taza bajo el portafiltro, extrae tu shot en 25–30 segundos y da tres giros circulares a la taza para que la crema del espresso y la melaza del piloncillo formen una base homogénea y brillante."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Vaporiza 160 ml de leche entera hasta 60–62 °C con microespuma de pintura fresca",
+          "text": "Con la lanceta MyLatte Art de la Dedica Arte, la CASABREWS CM5418 o el sensor automático MilQ de la Breville Bambino Plus, inyecta aire solo los primeros 3 segundos y gira en vórtice hasta que la jarra queme al tacto durante 1 segundo."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Vierte el Latte Art y termina con ralladura fresca de canela en rama",
+          "text": "Integra desde 8 cm de altura y baja el pico de la jarra al centro para dibujar tu rosetta o corazón. Ralla al momento un toque microscópico de canela en rama con un rallador Microplane sobre la espuma blanca."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con receta cafe de olla latte con espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Necesitas una jarra de leche de acero inoxidable con pico para latte art o accesorios de limpieza para la lanceta de vapor de tu cafetera compacta? Revisa la disponibilidad actual en las tarjetas de Amazon de esta guía o consulta a nuestro Asesor IA."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre receta cafe de olla latte con espresso?",
-      "a": "Infusiona un jarabe rápido de piloncillo/panela y canela en rama para endulzar tu Latte matutino con aroma tradicional. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Puedo poner el jarabe de piloncillo y canela dentro de la jarra de leche antes de vaporizar?",
+      "a": "No lo recomendamos en cafeteras compactas como la Breville Bambino o la CASABREWS CM5418. El piloncillo contiene azúcares invertidos y minerales que caramelizan a más de 65 °C dentro de la punta de la lanceta de vapor, obstruyendo el orificio de salida y favoreciendo residuos bacterianos difíciles de purgar."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cómo preparo esta misma receta en versión Iced Café de Olla Latte con hielo?",
+      "a": "Sí, funciona perfectamente en frío (Iced Café de Olla Latte). Solo asegúrate de mezclar primero los 20–25 ml de jarabe con el espresso recién extraído caliente en un vaso aparte para que el piloncillo se disuelva al 100 %, y luego viértelo sobre un vaso lleno de hielo y 150 ml de leche fría."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué leche vegetal combina mejor con el piloncillo y las especias del café de olla?",
+      "a": "Las bebidas de avena versión Barista son la mejor alternativa vegetal para esta receta porque sus betaglucanos naturales y su toque de cereal tostado complementan de maravilla la melaza del piloncillo, la canela y la naranja sin separarse a 60 °C."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/como-enfriar-un-espresso-sin-aguarlo-usando-una-bola-de-acero-congelada/",
     "/extraccion-y-recetas-espresso/receta-de-espresso-martini-con-crema-natural-de-tu-cafetera/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/como-saber-cuando-cortar-el-shot-visualmente-el-blonding-point/",
+    "/extraccion-y-recetas-espresso/los-10-mandamientos-para-extraer-un-espresso-perfecto-cada-dia/",
+    "/extraccion-y-recetas-espresso/como-leer-el-manometro-de-presion-de-la-casabrews-cm5418/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-preparar-un-cafe-de-olla-especiado-estilo-espresso-latte.webp"
 }

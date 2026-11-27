@@ -4,161 +4,124 @@
   "path": "/cafe-en-grano-y-agua/se-pueden-mezclar-dos-sobrantes-de-cafe-en-grano-tu-propio-blend/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "mezclar dos tipos de cafe en grano para espresso",
   "title": "Cómo Combinar los Últimos 8 g de Dos Bolsas de Café Distintas sin Arruinar el Shot",
-  "seoTitle": "Cómo Combinar los Últimos 8 g de Dos Bolsas de Café Distintas sin Arruinar el Shot | Guía Barista Compacta",
-  "metaDescription": "Cómo Combinar los Últimos 8 g de Dos Bolsas de Café Distintas sin Arruinar el Shot: Si tienen un nivel de tueste similar, ajusta el molino al punto intermedio entre lo que pedía cada bolsa por separado. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Si tienen un nivel de tueste similar, ajusta el molino al punto intermedio entre lo que pedía cada bolsa por separado.",
-  "quickAnswer": "Sobre mezclar dos tipos de cafe en grano para espresso: Si tienen un nivel de tueste similar, ajusta el molino al punto intermedio entre lo que pedía cada bolsa por separado. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Combinar los Últimos 8 g de Dos Bolsas de Café Distintas sin Arruinar el Shot | cafeteracompacta.com",
+  "metaDescription": "Aprende a mezclar dos sobrantes de café en grano sin arruinar el espresso: reglas de densidad, nivel de tueste, ajuste de molienda y homogeneización WDT.",
+  "excerpt": "Combinar los últimos gramos de dos bolsas distintas puede provocar canalización si mezclas densidades opuestas. Te mostramos qué orígenes maridan mejor y cómo calibrar el molino para un shot equilibrado.",
+  "quickAnswer": "Sí puedes combinar los últimos **8 a 9 g** de dos bolsas distintas para completar una dosis doble de **16 a 18 g**, siempre que ambos granos tengan **un máximo de 1 nivel de diferencia de tueste** (por ejemplo, tueste medio con medio-oscuro). Para evitar la canalización a **9 bares**, lo ideal es **moler cada fracción de 8 g en su propio número calibrado**, mezclarlas en seco durante **12 segundos con agujas WDT** y extraer a un **ratio 1:2**.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Si tienen un nivel de tueste similar, ajusta el molino al punto intermedio entre lo que pedía cada bolsa por separado., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Eye-level 35mm editorial documentary photograph: realistic scene illustrating 'Cómo Combinar los Últimos 8 g de Dos Bolsas de Café Distintas sin Arruinar el Shot' (mezclar dos tipos de cafe en grano para espresso) for cafeteracompacta.com, featuring equipment in arctic white with warm stone-gray details, on a light terrazzo surface in a contemporary living space, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Combinar los Últimos 8 g de Dos Bolsas de Café Distintas sin Arruinar el Shot"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **mezclar dos tipos de cafe en grano para espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Si tienen un nivel de tueste similar, ajusta el molino al punto intermedio entre lo que pedía cada bolsa por separado."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Cafe En Grano Y Agua](/cafe-en-grano-y-agua/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Es un clásico de fin de semana en cualquier rincón cafetero doméstico: vuelcas tu bolsa de origen colombiano en el vaso dosificador sobre la báscula y el visor se detiene en **8.2 g**, exactamente la mitad de los **16 g** que pide la cesta de **51 mm** de tu **De’Longhi Dedica Arte (EC885M)** o **CASABREWS CM5418** (o lejos de los **18 g** de los **54 mm** de la **Breville Bambino BES450**). La tentación inmediata es completar los **8 a 10 g restantes** con el principio de la bolsa nueva que acabas de comprar, pero mezclar dos granos al azar en la tolva suele terminar en un tiro esquizofrénico —simultáneamente agrio y amargo— con chorros laterales en el portafiltro. Para diseñar un *blend* casero de aprovechamiento que funcione a la primera, conviene aplicar las reglas de densidad y fractura de grano que detallamos en nuestro [hub de café en grano y agua](/cafe-en-grano-y-agua/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: mezclar dos tipos de cafe en grano para espresso"
+      "text": "Física de la Fractura en las Muelas: Por Qué No Debes Mezclar un Tueste Claro con uno Oscuro"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **mezclar dos tipos de cafe en grano para espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Dos granos de café con distinto nivel de tueste o altitud de cultivo no se rompen igual cuando atraviesan las muelas cónicas de tu molino a **400–600 RPM**. Un grano de tueste claro o medio-claro (como un Etiopía lavado de alta densidad) conserva una fibra celular compacta y dura que exige una molienda cerrada para extraerse, mientras que un grano de tueste oscuro (o un Brasil natural muy poroso) tiene una estructura cristalina frágil que se pulveriza generando una gran cantidad de **finos (*fines* menores de 100 micras)**. Si metes **8 g de cada uno** juntos al mismo ajuste de molienda, cuando el agua a **9 bares** entre al portafiltro ocurrirá una extracción desigual: la fracción porosa y oscura se sobreextraerá aportando amargor ceniciento, mientras que las partículas duras del grano claro quedarán subextraídas soltando acidez punzante. En cambio, cuando combinas orígenes de estructura compatible —como los que recomendamos al calcular [cuántos espressos dobles rinde una bolsa de 340 g o 1 kg](/cafe-en-grano-y-agua/cuantos-cafes-salen-de-una-bolsa-de-1-kilo-o-2-2-libras-de-grano/) o al seleccionar los [mejores orígenes de Brasil, Colombia y Guatemala para bebidas con leche](/cafe-en-grano-y-agua/mejores-origenes-de-cafe-para-beber-con-leche-brasil-y-colombia/)—, ambos cafés comparten ventana de solubilidad y se complementan en taza."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: mezclar dos tipos de cafe en grano para espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Combinación de Sobrantes (50 % / 50 %)",
+        "Diferencia de Densidad y Tueste",
+        "Comportamiento Hidráulico a 9 Bares",
+        "Veredicto y Ajuste Recomendado"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Si tienen un nivel de tueste similar, ajusta el molino al punto intermedio entre lo que pedía cada bolsa por separado.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Brasil Tueste Medio + Colombia Tueste Medio",
+          "Mínima (ambos densidad media, Agtron 55–60)",
+          "Flujo uniforme sin canalización; extracción simétrica en 26–30 s",
+          "Excelente: cuerpo de chocolate con leche y acidez suave a caramelo/frutos rojos"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Colombia Medio + Etiopía/Guatemala Medio-Claro",
+          "Moderada (1 nivel de tueste de diferencia)",
+          "El grano más denso drena ligeramente más rápido si no se ajusta el molino",
+          "Muy bueno si mueles cada mitad en su número propio y mezclas con WDT"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Tueste Claro Africano + Tueste Oscuro Italiano/Francés",
+          "Extrema (fibra dura compacta vs grano poroso carbonizado)",
+          "Bimodalidad severa: los finos del oscuro taponan y el claro queda crudo y ácido",
+          "Evitar en espresso; úsalos por separado o destínalos a prensa francesa/cold brew"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Arábica Medio Fresco + Sobrante de 5 semanas abierto",
+          "Diferencia alta de gas CO₂ interno y humedad",
+          "El café viejo acelera el caudal durante los primeros 10 segundos",
+          "Ajusta el molino al punto del grano más viejo/seco y extrae a ratio corto 1:1.8"
         ]
-      ]
+      ],
+      "caption": "Matriz de compatibilidad para mezclar dos sobrantes de café en grano (8 g + 8–10 g) en espresso"
+    },
+    {
+      "type": "h2",
+      "text": "El Secreto del Molinillo Single-Dose: Moler Cada Fracción de 8 g en su Propio Ajuste Calibrado"
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de barista sobre mezclar dos tipos de cafe en grano para espresso",
-      "text": "Si tienen un nivel de tueste similar, ajusta el molino al punto intermedio entre lo que pedía cada bolsa por separado. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "Si tienes un molino compacto de baja retención (*single-dose*) donde ya sabes que la Bolsa A se extrae perfecta en el **número 7** y la Bolsa B pide el **número 9**, no busques un número intermedio al azar. Pesa los **8 g de la Bolsa A**, muélelos en el **ajuste 7**, gira el dial al **ajuste 9** y muele encima los **8 a 10 g de la Bolsa B**. De este modo, cada variedad recibe exactamente la granulometría que iguala su resistencia hidráulica y su velocidad de disolución a **9 bares**. El único requisito obligatorio después de moler en dos pasos es no compactar directamente por capas: debes batir la harina en seco dentro del portafiltro para que no quede un estrato rápido arriba y uno lento abajo.",
+      "title": "Técnica Barista de Doble Molienda: Cada grano en su propio clic antes de mezclar"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar mezclar dos tipos de cafe en grano para espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Paso a Paso para Homogeneizar y Extraer tu Blend Casero de 16 g a 18 g sin Canalización"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Inspecciona los últimos gramos del fondo de la bolsa para retirar quakers o rotos",
+          "text": "Al volcar el fondo de una bolsa suelen caer fragmentos rotos, cáscaras y granos pálidos inmaduros (quakers). Retira cualquier grano defectuoso o extremadamente pálido antes de pesar tus 8 g para evitar que un solo grano defectuoso contamine el shot con sabor a cacahuete seco."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Mezcla en seco con agitador ciego (blind shaker) o WDT profundo de 0.35 mm durante 12 segundos",
+          "text": "Una vez molidas ambas mitades dentro del vaso dosificador o del portafiltro con embudo magnético, realiza círculos desde el fondo hasta la superficie con tu distribuidor de agujas WDT durante al menos 10 a 12 segundos. Si dejas una mitad a la izquierda y otra a la derecha de la cesta, el agua escapará por el lado menos denso."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Prensa a nivel y extrae a ratio 1:2.0 controlando el color del flujo en el segundo 15",
+          "text": "Compacta perfectamente horizontal, inserta el portafiltro en tu Bambino, Dedica o CASABREWS y apunta a un ratio estándar 1:2 (por ejemplo, 16 g de mezcla para obtener 32 g líquidos, o 18 g para 36 g líquidos en 25-29 segundos). Si notas un ligero desbalance ácido-amargo, intégralo en un flat white o latte de 150 ml."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con mezclar dos tipos de cafe en grano para espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Quieres equipar tu estación con un vaso dosificador compatible con 51 mm o 54 mm, una herramienta WDT de agujas finas y una báscula de precisión para clavar tus mezclas sin desperdiciar ni un gramo? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre mezclar dos tipos de cafe en grano para espresso?",
-      "a": "Si tienen un nivel de tueste similar, ajusta el molino al punto intermedio entre lo que pedía cada bolsa por separado. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Puedo mezclar 8 g de café normal con 8 g de café descafeinado para hacer un espresso Half-Caf?",
+      "a": "Sí, es la forma más precisa de controlar la cafeína en casa (por ejemplo, 9 g de Arábica normal + 9 g de descafeinado Swiss Water para un shot al 50 %). Solo recuerda que el grano descafeinado es mucho más poroso y produce más finos, por lo que requiere molerse 2 a 3 puntos más grueso que el grano con cafeína antes de homogeneizarlos con WDT."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Es mejor poner un café abajo y otro arriba en el portafiltro o mezclarlos por completo?",
+      "a": "Nunca compactes dos cafés distintos por capas horizontales sin mezclarlos. Si pones el café más fino abajo y el más grueso arriba (o viceversa), crearás un gradiente de permeabilidad brusco que favorece la migración de finos, fractura la pastilla bajo los 9 bares y produce canalización periférica. Homogeneiza siempre toda la harina con WDT."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cómo ajusto el molino si las dos bolsas tienen el mismo tueste pero distinta fecha de apertura?",
+      "a": "Ajusta siempre el molino un clic más cerca del requisito del grano más viejo o más poroso, ya que el café que lleva más días abierto ha perdido CO₂ y ofrece menos freno al agua. Además, acorta ligeramente el ratio final a 1:1.8 para no arrastrar notas secas de la fracción más antigua."
     }
   ],
   "related": [
-    "/cafe-en-grano-y-agua/",
-    "/cafe-en-grano-y-agua/cafe-con-notas-de-chocolate-y-nuez-como-se-consiguen-en-el-tueste/",
-    "/cafe-en-grano-y-agua/como-revivir-una-bolsa-de-cafe-en-grano-que-lleva-abierta-un-mes/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/cafe-en-grano-y-agua/como-afecta-el-cloro-del-agua-del-grifo-al-aroma-del-espresso/",
+    "/cafe-en-grano-y-agua/mejores-origenes-de-cafe-para-beber-con-leche-brasil-y-colombia/",
+    "/cafe-en-grano-y-agua/como-detectar-defectos-en-los-granos-de-cafe-quakers-y-granos-rotos/",
+    "/cafe-en-grano-y-agua/cuantos-cafes-salen-de-una-bolsa-de-1-kilo-o-2-2-libras-de-grano/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/se-pueden-mezclar-dos-sobrantes-de-cafe-en-grano-tu-propio-blend.webp"
 }

@@ -4,161 +4,111 @@
   "path": "/molinos-y-molienda/como-saber-si-has-molido-demasiado-grueso-efecto-catarata/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "molienda demasiado gruesa espresso sale muy rapido",
   "title": "Síntomas de Molienda Demasiado Gruesa ('Gusher'): Por Qué Sale un Chorro Claro en 10 Segundos",
-  "seoTitle": "Síntomas de Molienda Demasiado Gruesa ('Gusher') | Guía Barista Compacta",
-  "metaDescription": "Síntomas de Molienda Demasiado Gruesa ('Gusher'): Por Qué Sale un Chorro Claro en 10 Segundos: Si obtienes 36 g en menos de 15 segundos con crema pálida que desaparece rápido y sabor ácido, cierra 2 o 3 clics el molino. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Si obtienes 36 g en menos de 15 segundos con crema pálida que desaparece rápido y sabor ácido, cierra 2 o 3 clics el molino.",
-  "quickAnswer": "Sobre molienda demasiado gruesa espresso sale muy rapido: Si obtienes 36 g en menos de 15 segundos con crema pálida que desaparece rápido y sabor ácido, cierra 2 o 3 clics el molino. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Síntomas de Molienda Demasiado Gruesa ('Gusher'): Por Qué Sale un Chorro Claro en 10 Segundos | cafeteracompacta.com",
+  "metaDescription": "Descubre por qué tu espresso sale en 10 segundos ('gusher'), cómo cerrar el molino paso a paso y distinguir molienda gruesa de una canalización.",
+  "excerpt": "Si tu cafetera llena la taza en 10 segundos con un líquido rubio, ácido y sin crema, sufres el efecto catarata ('gusher'). Aprende cuántos clics cerrar tu molino y cómo frenar el caudal a 9 bares.",
+  "quickAnswer": "Un espresso que sale disparado en **8 a 12 segundos** con color rubio claro y espuma jabonosa (*gusher*) sufre una falta crítica de resistencia hidráulica porque las partículas superan las **400 micras**. Para corregirlo en cestas no presurizadas de **51 mm** o **54 mm**, mantén fija tu dosis en gramos y cierra el molino de **3 a 5 clics** hacia más fino hasta que los **36 g** líquidos tarden entre **25 y 30 segundos**.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Si obtienes 36 g en menos de 15 segundos con crema pálida que desaparece rápido y sabor ácido, cierra 2 o 3 clics el molino., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Three-quarter 50mm studio-natural close-up shot: realistic scene illustrating 'Síntomas de Molienda Demasiado Gruesa ('Gusher'): Por Qué Sale un Chorro Claro en 10 Segundos' (molienda demasiado gruesa espresso sale muy rapido) for cafeteracompacta.com, featuring equipment in sleek titanium silver with carbon-gray texture, in a bright family home interior with clean architectural lines, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Síntomas de Molienda Demasiado Gruesa ('Gusher'): Por Qué Sale un Chorro Claro en 10 Segundos"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **molienda demasiado gruesa espresso sale muy rapido** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Si obtienes 36 g en menos de 15 segundos con crema pálida que desaparece rápido y sabor ácido, cierra 2 o 3 clics el molino."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Encajas el portafiltro en tu **De’Longhi Dedica Arte (EC885M)** o en tu **Breville Bambino (BES450)**, pulsas el botón de taza doble y, apenas **3 segundos** después, un chorro grueso, turbulento y de color rubio pálido salpica las paredes de la taza. Antes de que el cronómetro llegue a los **10 o 12 segundos**, ya tienes más de **45 gramos** de un líquido acuoso coronado por una espuma jabonosa con burbujas grandes que desaparece al instante. Este síntoma clásico —llamado *gusher* o efecto catarata— indica una sub-extracción severa por falta de freno hidráulico, un escenario fundamental dentro de nuestra [sección especializada en molinos y molienda](/molinos-y-molienda/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: molienda demasiado gruesa espresso sale muy rapido"
+      "text": "Anatomía física del efecto catarata y por qué el café sabe ácido y aguado"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **molienda demasiado gruesa espresso sale muy rapido** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Para que la bomba de tu **CASABREWS CM5418** o el sistema **ThermoJet** de la **Breville Bambino** alcancen los **9 bares** de presión de extracción real, el lecho de café compactado debe oponerse al paso del agua. Cuando las partículas molidas superan las **450 a 500 micras** (el grosor propio de una cafetera italiana Moka o de filtro), quedan túneles anchos entre grano y grano por los que el agua se escapa a toda velocidad. Al durar solo **8 a 11 segundos**, el agua a **93 °C** únicamente disuelve los compuestos más solubles de la primera fase —los ácidos orgánicos y sales—, dejando atrás los azúcares caramelizados y aceites que se extraen a partir del segundo **18**. Si utilizas un molino doméstico básico de muelas planas pequeñas, te resultará clave aplicar nuestra [guía de ajuste para molinos económicos Shardor y OXO en filtros presurizados](/molinos-y-molienda/guia-de-molienda-para-shardor-y-oxo-en-filtros-presurizados/) y entender [cómo comparar el impacto de muelas de 38 mm, 40 mm, 54 mm y 64 mm](/molinos-y-molienda/tamano-de-muelas-38mm-vs-40mm-vs-54mm-vs-64mm/) en la retención del caudal."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: molienda demasiado gruesa espresso sale muy rapido",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Parámetro medido en extracción",
+        "Molienda demasiado gruesa ('Gusher')",
+        "Punto dulce de extracción (Ratio 1:2)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Si obtienes 36 g en menos de 15 segundos con crema pálida que desaparece rápido y sabor ácido, cierra 2 o 3 clics el molino.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Tiempo para obtener 36 g líquidos (con 18 g secos)",
+          "Entre 7 y 13 segundos con flujo descontrolado",
+          "Entre 25 y 30 segundos con caída laminar constante"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Lectura del manómetro (ej. CASABREWS CM5418)",
+          "La aguja apenas se despega de la zona baja de Pre-infusión (< 5 bares)",
+          "La aguja se mantiene firme en el centro del rango Espresso (9–11 bares)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Textura y color de la crema en taza",
+          "Beige muy claro, capa fina con burbujas grandes que se abre en el centro",
+          "Color avellana atigrado, micro-espuma sedosa que aguanta el azúcar 3 segundos"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Perfil sensorial y cuerpo en boca",
+          "Acidez punzante tipo limón verde, cuerpo aguado y postgusto vacío",
+          "Equilibrio entre acidez frutal, dulzor achocolatado y cuerpo siruposo"
         ]
+      ],
+      "caption": "Comparativa técnica entre un 'Gusher' (molienda gruesa) y un espresso calibrado"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo cerrar el molino por etapas para frenar el caudal a 25–30 segundos"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Corrección inicial agresiva: si tu extracción de 32 g a 36 g terminó en menos de 12 segundos, no avances de uno en uno; cierra de golpe entre 4 y 5 clics hacia el extremo fino en el rango espresso (posiciones 1 a 20) de tu Baratza Encore ESP o baja un número entero y dos marcas internas en el Fellow Opus.",
+        "Aproximación de precisión: una vez que el tiempo de caída alcance los 19 a 21 segundos, pasa a mover el dial de 1 en 1 clic (cada paso en un molino de espresso dedicado añade aproximadamente entre 3 y 4 segundos de retención hidráulica).",
+        "Compensación por desgasificación del grano: si la bolsa de café lleva abierta más de 3 semanas o tiene fecha de tueste superior a 45 días, el grano ha perdido el dióxido de carbono (CO2) que ayuda a frenar el agua y te obligará a moler 2 o 3 puntos más fino de lo habitual.",
+        "Verificación del tampeo perpendicular: asegúrate de ejercer una presión firme y totalmente horizontal con tu tamper metálico de 51 mm o 54 mm hasta sentir que la cama de café ya no se comprime más."
       ]
+    },
+    {
+      "type": "h2",
+      "text": "Diferencia entre molienda gruesa real y fractura de pastilla por canalización"
     },
     {
       "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre molienda demasiado gruesa espresso sale muy rapido",
-      "text": "Si obtienes 36 g en menos de 15 segundos con crema pálida que desaparece rápido y sabor ácido, cierra 2 o 3 clics el molino. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
-    },
-    {
-      "type": "h2",
-      "text": "Paso a paso para aplicar molienda demasiado gruesa espresso sale muy rapido hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
+      "variant": "fabricante",
+      "text": "Un error frecuente al usar un portafiltro sin fondo (*bottomless*) en la **Breville Bambino Plus (BES500)** o en la **De’Longhi Dedica Maestro Plus (EC950M)** es confundir la canalización severa con una molienda gruesa. Fíjate en los primeros **6 segundos**: si el café brota a chorros rubios por **toda la superficie de la cesta desde el segundo 3**, la molienda es realmente gruesa. En cambio, si las primeras gotas tardan **8 segundos** en salir oscuras y, de repente, se rompe un único chorro violento por un lateral que acelera el resto del tiro, tu grosor de molienda es correcto pero la pastilla se fracturó por falta de distribución con agujas (**WDT**) antes de tampear.",
+      "title": "Cómo distinguir en un portafiltro sin fondo si el problema es el molino o tu preparación"
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con molienda demasiado gruesa espresso sale muy rapido en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Tu cafetera sigue sacando el café en menos de 15 segundos aunque pongas el molino al mínimo? Pregunta a nuestro Asesor IA qué ajuste o calza necesita tu equipo o comprueba la disponibilidad de molinos cónicos para espresso en las tarjetas de Amazon de esta guía."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre molienda demasiado gruesa espresso sale muy rapido?",
-      "a": "Si obtienes 36 g en menos de 15 segundos con crema pálida que desaparece rápido y sabor ácido, cierra 2 o 3 clics el molino. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué me sale el café en 10 segundos si uso café molido de supermercado para espresso?",
+      "a": "Si usas café premolido comercial (que suele venir a unas 400–500 micras) en una cesta no presurizada de una sola pared, siempre saldrá en 10 segundos. Para usar café premolido sin que salga en catarata debes montar obligatoriamente la cesta presurizada de doble pared que incluye tu cafetera."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Qué hago si pongo mi Baratza Encore ESP en el número 5 y el café sigue saliendo muy rápido?",
+      "a": "En el Baratza Encore ESP, tras varios meses de uso o con cafés muy viejos, es normal acercarse a los clics 3 a 5. Si llegas al número 1 y el café sigue saliendo rápido en menos de 15 segundos, debes instalar una de las arandelas metálicas de calibración (shims) incluidas en la caja bajo la muela cónica."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Apretar mucho más fuerte con el tamper soluciona una molienda demasiado gruesa?",
+      "a": "No. Intentar frenar una molienda demasiado gruesa apretando el tamper con todo el peso del cuerpo apenas retrasa la extracción 1 o 2 segundos. Una vez que el aire sale de la pastilla al aplicar unos 10 a 15 kg de presión, el café no se comprime más; la única solución real es moler más fino."
     }
   ],
   "related": [
-    "/molinos-y-molienda/",
-    "/molinos-y-molienda/molinos-de-muelas-de-titanio-vs-acero-inoxidable/",
-    "/molinos-y-molienda/como-saber-si-has-molido-demasiado-fino-choking-the-machine/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/alineacion-de-muelas-planas-con-rotulador-pizarra-marker-test/",
+    "/molinos-y-molienda/tamano-de-muelas-38mm-vs-40mm-vs-54mm-vs-64mm/",
+    "/molinos-y-molienda/guia-de-molienda-para-shardor-y-oxo-en-filtros-presurizados/",
+    "/molinos-y-molienda/molienda-para-ristretto-1-1-como-ajustar-el-molino/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-saber-si-has-molido-demasiado-grueso-efecto-catarata.webp"
 }

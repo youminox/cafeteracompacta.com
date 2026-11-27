@@ -4,161 +4,128 @@
   "path": "/problemas-y-soluciones/la-cafetera-se-apaga-sola-a-los-15-o-20-minutos-auto-off/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cafetera espresso se apaga sola modo eco",
   "title": "Por Qué tu Cafetera Espresso Se Apaga Sola (Modo Eco Auto-Off) y Cuánto Tarda en Reactivarse",
-  "seoTitle": "Por Qué tu Cafetera Espresso Se Apaga Sola (Modo Eco Auto-Off) y Cuánto Tarda en Reactivarse | Guía Barista Compacta",
-  "metaDescription": "Por Qué tu Cafetera Espresso Se Apaga Sola (Modo Eco Auto-Off) y Cuánto Tarda en Reactivarse: Por normativa de ahorro energético se apagan tras 9–30 minutos de inactividad, pero al ser Thermoblock/ThermoJet vuelven a estar listas en segundos. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Por normativa de ahorro energético se apagan tras 9–30 minutos de inactividad, pero al ser Thermoblock/ThermoJet vuelven a estar listas en segundos.",
-  "quickAnswer": "Sobre cafetera espresso se apaga sola modo eco: Por normativa de ahorro energético se apagan tras 9–30 minutos de inactividad, pero al ser Thermoblock/ThermoJet vuelven a estar listas en segundos. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué tu Cafetera Espresso Se Apaga Sola (Modo Eco Auto-Off) y Cuánto Tarda en Reactivarse | cafeteracompacta.com",
+  "metaDescription": "¿Tu cafetera espresso se apaga sola a los 15 o 20 minutos? Entiende cómo funciona el modo Eco Auto-Off y cómo ajustar el tiempo en tu De’Longhi.",
+  "excerpt": "Descubre por qué las cafeteras compactas modernas cortan la corriente tras unos minutos de inactividad, cuánto tardan en recuperar los 93 °C sus termobloques y cómo reprogramar el temporizador.",
+  "quickAnswer": "Que tu cafetera espresso compacta se apague sola tras 9, 15 o 20 minutos sin tocar ningún botón no es un fallo de la fuente de alimentación, sino el temporizador de ahorro energético (Auto-Off) exigido por normativas de seguridad. En máquinas con bloque ThermoJet o termobloque de aluminio como la Breville Bambino, De’Longhi Dedica Arte o CASABREWS CM5418, basta pulsar cualquier botón frontal para reactivarla en entre 3 y 35 segundos.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Por normativa de ahorro energético se apagan tras 9–30 minutos de inactividad, pero al ser Thermoblock/ThermoJet vuelven a estar listas en segundos., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Low-angle dramatic hero perspective with soft background bokeh on 35mm lens: realistic scene illustrating 'Por Qué tu Cafetera Espresso Se Apaga Sola (Modo Eco Auto-Off) y Cuánto Tarda en Reactivarse' (cafetera espresso se apaga sola modo eco) for cafeteracompacta.com, featuring equipment in terracotta copper accent with matte slate body, on a solid oak workbench in a tidy modern home space, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué tu Cafetera Espresso Se Apaga Sola (Modo Eco Auto-Off) y Cuánto Tarda en Reactivarse"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cafetera espresso se apaga sola modo eco** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Por normativa de ahorro energético se apagan tras 9–30 minutos de inactividad, pero al ser Thermoblock/ThermoJet vuelven a estar listas en segundos."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Enciendes tu cafetera espresso por la mañana para que se vaya calentando mientras desayunas o atiendes una llamada, y cuando regresas a la cocina **15 o 20 minutos después**, descubres que **todas las luces del panel frontal están completamente apagadas**. Al ocurrir exactamente igual todos los días, es habitual sospechar de un falso contacto en el enchufe o un defecto en el fusible térmico interno, especialmente si hace poco tuviste que revisar [cómo restaurar de fábrica el volumen de los botones de 1 y 2 tazas](/problemas-y-soluciones/el-boton-de-1-taza-o-2-tazas-saca-muy-poco-o-demasiado-cafe/) o hiciste lavados largos para [quitar el sabor a quemado o goma en una cafetera recién comprada](/problemas-y-soluciones/sabor-a-quemado-o-goma-en-una-cafetera-espresso-recien-comprada/). Sin embargo, tu máquina funciona exactamente como fue diseñada."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cafetera espresso se apaga sola modo eco"
+      "text": "Por qué las cafeteras compactas modernas no deben quedarse encendidas durante horas"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cafetera espresso se apaga sola modo eco** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "En las cafeteras tradicionales de caldera de latón o acero de gran volumen (que tardan **20 a 30 minutos** en estabilizar su temperatura), mantener la máquina encendida toda la mañana tiene sentido térmico. En cambio, las cafeteras compactas modernas como la **Breville Bambino (BES450)**, la **Breville Bambino Plus (BES500)**, la **De’Longhi Dedica Arte (EC885M)** o la **CASABREWS CM5418** utilizan sistemas **ThermoJet** o **termobloques de aluminio** de baja inercia térmica que calientan el agua al paso en apenas **3 a 40 segundos**. Por normativa de eficiencia energética (directiva europea **ErP** y estándares de seguridad eléctrica en **Estados Unidos**), el microprocesador activa el **modo Eco Auto-Off** cortando la alimentación de la resistencia tras **9 a 20 minutos** de inactividad, evitando además que el calor estático reseque las juntas de silicona y evapore el agua interna. Puedes consultar más funciones del sistema en nuestro [repertorio de problemas y soluciones](/problemas-y-soluciones/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: cafetera espresso se apaga sola modo eco",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Cafetera espresso compacta",
+        "Tiempo Auto-Off de fábrica",
+        "¿Se puede cambiar el tiempo en el menú?",
+        "Tiempo real para volver a estar lista al tocar un botón"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Por normativa de ahorro energético se apagan tras 9–30 minutos de inactividad, pero al ser Thermoblock/ThermoJet vuelven a estar listas en segundos.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Breville Bambino (BES450) / Bambino Plus (BES500)",
+          "10 minutos de inactividad",
+          "No (fijo por firmware debido al encendido instantáneo ThermoJet)",
+          "3 segundos tras pulsar 1 Cup, 2 Cup o Steam"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "De’Longhi Dedica (EC685) / Dedica Arte (EC885M)",
+          "9 minutos de inactividad (valor por defecto)",
+          "Sí: programable en menú oculto a 9 min, 30 min o 3 horas",
+          "35 a 40 segundos tras pulsar cualquiera de los 3 botones superiores"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "De’Longhi Dedica Maestro Plus (EC950M)",
+          "15 minutos en modo reposo",
+          "Sí: configurable desde los ajustes de ahorro energético",
+          "25 a 30 segundos gracias al termobloque con control activo"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "CASABREWS CM5418 / 3700Essential",
+          "20 minutos sin pulsar ningún botón",
+          "No (temporizador de seguridad fijo a 20 minutos)",
+          "30 a 45 segundos tras pulsar de nuevo el botón Power (On/Off)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre cafetera espresso se apaga sola modo eco",
-      "text": "Por normativa de ahorro energético se apagan tras 9–30 minutos de inactividad, pero al ser Thermoblock/ThermoJet vuelven a estar listas en segundos. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Tiempos de apagado automático (Auto-Off) de fábrica y velocidad de reactivación por modelo"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar cafetera espresso se apaga sola modo eco hoy mismo en tu cocina"
+      "text": "El truco del tiro en vacío (blank shot) para no perder temperatura tras el apagado automático"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "callout",
+      "variant": "tip",
+      "text": "Aunque el bloque **ThermoJet** de la **Breville Bambino** alcanza **93 °C en 3 segundos** y el termobloque de la **CASABREWS CM5418** o **De’Longhi Dedica** se reactiva en **35 segundos**, tras **20 minutos apagada** tanto la ducha del grupo como el portafiltro metálico se han enfriado a temperatura ambiente (**20 °C**). Cuando reactives tu cafetera del modo **Auto-Off**, encaja el portafiltro vacío y **pulsa el botón de 1 taza durante 5 segundos** solo con agua caliente hacia tu taza antes de cargar el café molido: así recuperarás de golpe **+8 °C de estabilidad térmica** en el metal sin necesidad de tener la máquina encendida media hora antes.",
+      "title": "Cómo calentar el portafiltro en 10 segundos al despertar la cafetera del modo Eco"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo reprogramar el tiempo de apagado automático en la De’Longhi Dedica (9 min, 30 min o 3 horas)"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Entrar en el menú de programación manteniendo pulsado el botón de Vapor (10 s)",
+          "text": "Con la De’Longhi Dedica (EC685 o Dedica Arte EC885M) encendida y las luces fijas en espera, mantén presionado el tercer botón (icono de vapor) durante 10 segundos seguidos hasta que los tres botones del panel empiecen a parpadear en secuencia."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Pulsar el botón de 2 tazas (botón central) para abrir el ajuste de Auto-Off",
+          "text": "Dentro del menú de configuración, el botón de 1 taza ajusta la temperatura, el de 2 tazas ajusta el temporizador de apagado automático y el de vapor ajusta la dureza del agua. Pulsa una vez el botón central (2 tazas)."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Seleccionar 9 minutos, 30 minutos o 3 horas según la luz que prefieras",
+          "text": "Ahora pulsa uno de los tres botones según el tiempo que desees antes del apagado automático: pulsa el botón de 1 taza para 9 minutos, el botón de 2 tazas para 30 minutos, o el botón de vapor para 3 horas."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Esperar 15 segundos sin tocar nada para memorizar el cambio",
+          "text": "El botón que hayas elegido parpadeará rápido para confirmar la selección y la cafetera saldrá sola del modo programación, guardando tu nuevo tiempo de Auto-Off en la memoria interna incluso aunque la desenchufes."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con cafetera espresso se apaga sola modo eco en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Estás comparando entre la velocidad ThermoJet de 3 segundos de la Breville Bambino, la personalización de la De’Longhi Dedica Arte o el manómetro en vivo de la CASABREWS CM5418? Consulta a nuestro Asesor IA o revisa su disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cafetera espresso se apaga sola modo eco?",
-      "a": "Por normativa de ahorro energético se apagan tras 9–30 minutos de inactividad, pero al ser Thermoblock/ThermoJet vuelven a estar listas en segundos. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Tengo que apagar y volver a encender el botón lateral de la De’Longhi Dedica cuando entra en Auto-Off?",
+      "a": "No hace falta tocar el interruptor físico trasero o lateral. Aunque la De’Longhi Dedica parezca totalmente apagada tras cumplirse el tiempo Auto-Off, si el interruptor lateral sigue en la posición I (encendido), basta con pulsar cualquiera de los tres botones frontales para que despierte y caliente en 35 segundos."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Sirve un enchufe inteligente Wi-Fi para encender mi cafetera compacta desde la cama?",
+      "a": "No. Los enchufes inteligentes Wi-Fi solo dan corriente al cable de alimentación, pero en cafeteras con botonera electrónica digital como la Breville Bambino, la CASABREWS CM5418 o la De’Longhi Dedica es necesario pulsar físicamente un botón del panel para iniciar el calentamiento. Además, como calientan en 3 a 40 segundos, no hace falta precalentarlas a distancia."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cómo sé si mi cafetera se apaga por el modo Eco o por un fallo eléctrico real?",
+      "a": "Si tu cafetera se apaga de golpe en mitad de la extracción del café o mientras el compresor de vapor está funcionando, NO es el temporizador Eco Auto-Off (que solo cuenta minutos de inactividad total). Un apagón bajo carga indica un disparo del protector térmico interno o un enchufe con caída de tensión."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/mi-cafetera-tarda-mas-de-50-segundos-en-sacar-medio-vaso-goteando/",
+    "/problemas-y-soluciones/breville-bambino-plus-error-de-lanceta-bloqueada-tres-luces/",
     "/problemas-y-soluciones/sabor-a-quemado-o-goma-en-una-cafetera-espresso-recien-comprada/",
-    "/problemas-y-soluciones/el-portafiltro-se-suelta-o-gira-solo-durante-la-extraccion/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/el-boton-de-1-taza-o-2-tazas-saca-muy-poco-o-demasiado-cafe/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/la-cafetera-se-apaga-sola-a-los-15-o-20-minutos-auto-off.webp"
 }

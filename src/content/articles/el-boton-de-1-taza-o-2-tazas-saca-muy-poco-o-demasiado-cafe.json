@@ -4,161 +4,128 @@
   "path": "/problemas-y-soluciones/el-boton-de-1-taza-o-2-tazas-saca-muy-poco-o-demasiado-cafe/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "resetear volumen de fabrica cafetera espresso",
   "title": "Cómo Restaurar de Fábrica el Volumen de los Botones de 1 y 2 Tazas si Se Desprogramaron",
-  "seoTitle": "Cómo Restaurar de Fábrica el Volumen de los Botones de 1 y 2 Tazas si Se Desprogramaron | Guía Barista Compacta",
-  "metaDescription": "Cómo Restaurar de Fábrica el Volumen de los Botones de 1 y 2 Tazas si Se Desprogramaron: Si alguien mantuvo pulsado el botón por error cambió la memoria volumétrica: aprende a hacer el Factory Reset en 10 segundos. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Si alguien mantuvo pulsado el botón por error cambió la memoria volumétrica: aprende a hacer el Factory Reset en 10 segundos.",
-  "quickAnswer": "Sobre resetear volumen de fabrica cafetera espresso: Si alguien mantuvo pulsado el botón por error cambió la memoria volumétrica: aprende a hacer el Factory Reset en 10 segundos. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Restaurar de Fábrica el Volumen de los Botones de 1 y 2 Tazas si Se Desprogramaron | cafeteracompacta.com",
+  "metaDescription": "Aprende a resetear el volumen de fábrica de tu cafetera espresso CASABREWS, Breville Bambino o De’Longhi Dedica cuando los botones de 1 o 2 tazas fallan.",
+  "excerpt": "Comandos exactos de restauración de fábrica para recalibrar el caudalímetro en las principales cafeteras compactas del mercado y evitar extracciones cortas de 10 ml o tazas desbordadas.",
+  "quickAnswer": "Los botones de 1 y 2 tazas se desprograman al mantenerlos pulsados accidentalmente más de 3 segundos, lo que reescribe la memoria del caudalímetro interno. Para resetear el volumen de fábrica, mantén presionados los botones de 1 taza y 2 tazas en la Breville Bambino o CASABREWS CM5418 durante 5 segundos, o entra al menú de ajuste con el botón de vapor en la De’Longhi Dedica.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Si alguien mantuvo pulsado el botón por error cambió la memoria volumétrica: aprende a hacer el Factory Reset en 10 segundos., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Diagonal isometric product-in-use composition in modern home setting: realistic scene illustrating 'Cómo Restaurar de Fábrica el Volumen de los Botones de 1 y 2 Tazas si Se Desprogramaron' (resetear volumen de fabrica cafetera espresso) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, on a matte dark-gray technical mat with measuring tools nearby, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Restaurar de Fábrica el Volumen de los Botones de 1 y 2 Tazas si Se Desprogramaron"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **resetear volumen de fabrica cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Si alguien mantuvo pulsado el botón por error cambió la memoria volumétrica: aprende a hacer el Factory Reset en 10 segundos."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Pulsas el botón de **2 tazas** en tu **CASABREWS CM5418**, **Breville Bambino (BES450)** o **De’Longhi Dedica Arte (EC885M)** esperando tu espresso doble habitual de **36 a 40 gramos**, pero la bomba se detiene en seco a los cinco segundos dejando apenas unas gotas negras en el fondo, o bien sigue bombeando sin parar hasta desbordar la taza con **150 ml** de agua aguada. Tal como explicamos en nuestro [directorio de problemas y soluciones](/problemas-y-soluciones/), esto no es un fallo de la placa electrónica: has activado sin querer el modo de programación volumétrica y has sobrescrito la memoria del botón. Un volumen excesivo de agua, además, destruye la emulsión y provoca que [la crema del espresso desaparezca en 10 segundos](/problemas-y-soluciones/la-crema-del-espresso-desaparece-en-10-segundos/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: resetear volumen de fabrica cafetera espresso"
+      "text": "Por qué se desconfigura la memoria del caudalímetro sin que te des cuenta"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **resetear volumen de fabrica cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Las cafeteras compactas modernas no miden el tiempo con un reloj simple, sino que cuentan los impulsos de un **caudalímetro de turbina** situado entre el depósito y la bomba. En la mayoría de modelos, basta con mantener presionado el botón de **1 taza** o **2 tazas** durante más de **3 segundos** para que la máquina entre en modo grabación y memorice como nuevo estándar el momento en que vuelves a tocar el botón. Este accidente ocurre con muchísima frecuencia al hacer purgas largas de limpieza o al intentar [quitar el olor o sabor a nuevo en los primeros usos de la cafetera](/problemas-y-soluciones/sabor-a-quemado-o-goma-en-una-cafetera-espresso-recien-comprada/). Ten presente también que el caudalímetro contabiliza toda el agua que sale del tanque, incluyendo la que queda retenida en la pastilla de café y la que se libera al final del tiro cuando [cae un chorro de agua directo a la bandeja de goteo al terminar el café](/problemas-y-soluciones/sale-mucho-agua-a-la-bandeja-de-goteo-despues-de-cada-cafe/)."
+    },
+    {
+      "type": "h2",
+      "text": "Comandos de reseteo de fábrica según la marca y el modelo"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: resetear volumen de fabrica cafetera espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Modelo de cafetera compacta",
+        "Secuencia exacta de reseteo de fábrica",
+        "Confirmación visual o sonora",
+        "Volumen de fábrica en taza (1 taza / 2 tazas)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Si alguien mantuvo pulsado el botón por error cambió la memoria volumétrica: aprende a hacer el Factory Reset en 10 segundos.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Breville Bambino (BES450) y Bambino Plus (BES500)",
+          "Con la máquina en reposo, mantén pulsados a la vez los botones de 1 Taza y 2 Tazas durante 5 segundos",
+          "Los botones de 1 Taza y 2 Tazas parpadean 3 veces simultáneamente",
+          "Aprox. 30 ml (1 oz) / 60 ml (2 oz)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "CASABREWS CM5418 y 3700Essential",
+          "Con la cafetera encendida y precalentada, mantén presionados los botones de 1 Taza y 2 Tazas juntos durante 5 segundos",
+          "La máquina emite pitidos y todos los indicadores parpadean 3 a 5 veces",
+          "Aprox. 30–35 ml / 60–70 ml"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "De’Longhi Dedica (EC685) y Dedica Arte (EC885M)",
+          "Mantén pulsado el botón Vapor 10 s hasta que parpadeen las 3 luces; pulsa el botón del icono de vapor/ajuste según manual y confirma",
+          "Las 3 luces frontales parpadean rápido confirmando restauración de parámetros",
+          "Aprox. 40 ml / 80 ml (reprogramable manteniendo pulsado cada botón)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "De’Longhi Dedica Maestro Plus (EC950M)",
+          "Mantén presionados simultáneamente los botones de Temperatura de infusión y Nivel de espuma durante 5 segundos",
+          "Los indicadores del panel frontal parpadean y vuelven a estado fijo",
+          "Aprox. 35–40 ml / 75–80 ml"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre resetear volumen de fabrica cafetera espresso",
-      "text": "Si alguien mantuvo pulsado el botón por error cambió la memoria volumétrica: aprende a hacer el Factory Reset en 10 segundos. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Combinación de botones para restaurar el volumen de fábrica en cafeteras compactas"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar resetear volumen de fabrica cafetera espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Cómo reprogramar el volumen exacto usando una báscula en modo ratio 1:2"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Prepara una extracción real con café en el portafiltro",
+          "text": "Nunca programes el volumen con el portafiltro vacío. La pastilla de 18 gramos de café seco absorbe unos 35 ml de agua; si programas con agua libre, cuando pongas café real te saldrá menos de la mitad en la taza."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Coloca tu báscula tarada a cero bajo las boquillas",
+          "text": "Encaja el portafiltro cargado y compactado, pon la taza sobre la báscula y pulsa TARE para que marque 0.0 gramos."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Activa la grabación del botón de 1 o 2 tazas",
+          "text": "En la De’Longhi Dedica o CASABREWS CM5418, mantén pulsado el botón elegido hasta que empiece a salir café (o pulsa 1 Taza + 2 Tazas durante 2 segundos en la Breville Bambino y luego elige el botón a grabar)."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Detén el flujo 3 gramos antes de tu peso objetivo",
+          "text": "Pulsa de nuevo el botón cuando la báscula marque 33 gramos (para terminar en 36 gramos tras el goteo final). Las luces parpadearán guardando ese caudal exacto en la memoria EEPROM."
         }
       ]
     },
     {
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "El caudalímetro interno mide el agua fría que entra desde el depósito antes de pasar por la bomba. Si la válvula OPV desvía agua de retorno por exceso de presión debido a una molienda demasiado fina, el caudalímetro seguirá contando impulsos aunque caigan menos mililitros en tu taza. Por eso, tras el reseteo de fábrica, el volumen en taza siempre varía ligeramente según el punto de molienda.",
+      "title": "Por qué el caudalímetro cuenta el agua bombeada y no el líquido en la taza"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con resetear volumen de fabrica cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Quieres acompañar tu cafetera con una báscula con cronómetro automático para clavar tus extracciones de 36 gramos sin depender del botón automático? Consulta a nuestro Asesor IA o revisa la disponibilidad en las tarjetas de Amazon integradas."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre resetear volumen de fabrica cafetera espresso?",
-      "a": "Si alguien mantuvo pulsado el botón por error cambió la memoria volumétrica: aprende a hacer el Factory Reset en 10 segundos. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Si desenchufo la cafetera toda la noche se resetea sola el agua de las tazas?",
+      "a": "No. La configuración volumétrica personalizada se almacena en una memoria no volátil (EEPROM) de la placa de control. Desconectar el cable de corriente durante horas no borra el ajuste; es obligatorio ejecutar la combinación de botones de restauración de fábrica de cada modelo."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué después de resetear de fábrica sigue saliendo muy poco café?",
+      "a": "Si ya hiciste el reseteo de fábrica y con el portafiltro puesto sigue saliendo un hilo mínimo antes de cortarse, pero sin portafiltro sale el volumen completo, tu molienda es excesivamente fina o has puesto demasiados gramos: la válvula de sobrepresión desvía el agua y el caudalímetro cree que ya llenó la taza."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cuál es el volumen mínimo y máximo que puedo guardar en los botones?",
+      "a": "Todas estas cafeteras admiten un rango amplio: el botón de 1 taza suele permitir grabar desde 15 ml hasta unos 80 ml, mientras que el botón de 2 tazas admite desde 30 ml hasta 180–250 ml, ideal si prefieres programar un café tipo Lungo o Americano corto."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/sale-mucho-agua-a-la-bandeja-de-goteo-despues-de-cada-cafe/",
+    "/problemas-y-soluciones/sabor-a-quemado-o-goma-en-una-cafetera-espresso-recien-comprada/",
     "/problemas-y-soluciones/no-puedo-sacar-la-cesta-del-portafiltro-esta-muy-dura/",
-    "/problemas-y-soluciones/la-cafetera-vibra-mucho-y-las-tazas-se-mueven-solas-en-la-bandeja/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/la-crema-del-espresso-desaparece-en-10-segundos/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/el-boton-de-1-taza-o-2-tazas-saca-muy-poco-o-demasiado-cafe.webp"
 }

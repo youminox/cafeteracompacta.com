@@ -4,161 +4,128 @@
   "path": "/mantenimiento-y-descalcificacion/que-hacer-si-la-cafetera-estuvo-guardada-6-meses-sin-usarse/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "poner en marcha cafetera espresso guardada mucho tiempo",
   "title": "Protocolo de Puesta a Punto para Reactivar una Cafetera Espresso que Estuvo Meses Guardada",
-  "seoTitle": "Protocolo de Puesta a Punto para Reactivar una Cafetera Espresso que Estuvo Meses Guardada | Guía Barista Compacta",
-  "metaDescription": "Protocolo de Puesta a Punto para Reactivar una Cafetera Espresso que Estuvo Meses Guardada: Lavado de tanque, cebado de la bomba con jeringa si tiene aire, ciclo de EcoDecalk y cambio de cesta. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Lavado de tanque, cebado de la bomba con jeringa si tiene aire, ciclo de EcoDecalk y cambio de cesta.",
-  "quickAnswer": "Sobre poner en marcha cafetera espresso guardada mucho tiempo: Lavado de tanque, cebado de la bomba con jeringa si tiene aire, ciclo de EcoDecalk y cambio de cesta. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Protocolo de Puesta a Punto para Reactivar una Cafetera Espresso que Estuvo Meses Guardada | cafeteracompacta.com",
+  "metaDescription": "Guía paso a paso para poner en marcha una cafetera espresso guardada mucho tiempo: cómo cebar la bomba bloqueada por aire y sanitizar el circuito interno.",
+  "excerpt": "No enchufes ni pulses el botón de extracción a ciegas tras medio año de inactividad: aprende a desbloquear el circuito hidráulico, hidratar juntas resecas y purgar agua estancada.",
+  "quickAnswer": "Para poner en marcha una cafetera espresso guardada durante meses, primero lava el tanque con jabón neutro, llénalo con agua tibia a **35 °C** y ceba la bomba abriendo la válvula de vapor durante **15 segundos** para expulsar la burbuja de aire (*airlock*). Luego, realiza un ciclo de **500 ml** con solución descalcificadora suave para eliminar sales cristalizadas y biofilm del thermoblock antes de montar el portafiltro.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Lavado de tanque, cebado de la bomba con jeringa si tiene aire, ciclo de EcoDecalk y cambio de cesta., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating 'Protocolo de Puesta a Punto para Reactivar una Cafetera Espresso que Estuvo Meses Guardada' (poner en marcha cafetera espresso guardada mucho tiempo) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, in a clean modern garage or studio corner with slate flooring, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Protocolo de Puesta a Punto para Reactivar una Cafetera Espresso que Estuvo Meses Guardada"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **poner en marcha cafetera espresso guardada mucho tiempo** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Lavado de tanque, cebado de la bomba con jeringa si tiene aire, ciclo de EcoDecalk y cambio de cesta."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Rescatar del armario o de una mudanza una **De’Longhi Dedica Arte EC885M**, una **CASABREWS CM5418** o una **Breville Bambino BES450** que lleva **6 meses o más sin usarse** y pulsar directamente el botón de extracción es la receta perfecta para quemar la bomba o beber un café contaminado. Durante medio año de inactividad, el agua residual atrapada en los conductos internos de **3.5 mm** se evapora parcialmente, precipitando cristales de carbonato cálcico, pegando la válvula antirretorno de la bomba y creando una bolsa de aire (*airlock*) que impide la succión. Antes de calentar el grupo, aplica una puesta a punto higiénica empezando por [limpiar el tanque de agua para evitar biofilm y moho](/mantenimiento-y-descalcificacion/como-limpiar-el-tanque-de-agua-para-evitar-biofilm-y-moho/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: poner en marcha cafetera espresso guardada mucho tiempo"
-    },
-    {
-      "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **poner en marcha cafetera espresso guardada mucho tiempo** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Qué ocurre dentro del thermoblock y la bomba tras 6 meses de inactividad"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: poner en marcha cafetera espresso guardada mucho tiempo",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Componente interno",
+        "Estado físico tras 6 meses parada",
+        "Síntoma al encenderla",
+        "Intervención obligatoria"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Lavado de tanque, cebado de la bomba con jeringa si tiene aire, ciclo de EcoDecalk y cambio de cesta.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Bomba vibratoria (válvula NBR)",
+          "Bola de caucho adherida en seco al asiento y aire en cámara",
+          "Ruido fuerte de martilleo sin que baje agua del tanque",
+          "Cebado con agua tibia a 35 °C y apertura de válvula de vapor"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Serpentín del Thermoblock",
+          "Agua estancada evaporada con sales precipitadas y biofilm",
+          "Olor a humedad rancia y flujo inicial turbio o lento",
+          "Barrido de 500 ml con ácido láctico diluido y doble enjuague"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Junta de grupo (51 mm / 54 mm)",
+          "Goma reseca y contraída por falta de aceites e hidratación",
+          "Goteo perimetral por fuera del portafiltro al presurizar",
+          "Termohidratación con agua caliente sin café durante 3 ciclos"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Boquilla de lanceta de vapor",
+          "Restos microscópicos de leche cristalizados en el orificio",
+          "Vapor desviado o nulo al activar el modo espumador",
+          "Desmontaje y remojo alcalino de boquilla y junta tórica"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre poner en marcha cafetera espresso guardada mucho tiempo",
-      "text": "Lavado de tanque, cebado de la bomba con jeringa si tiene aire, ciclo de EcoDecalk y cambio de cesta. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Diagnóstico de componentes internos tras un almacenamiento prolongado"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar poner en marcha cafetera espresso guardada mucho tiempo hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Secuencia de 4 pasos para cebar la bomba y sanitizar el circuito hidráulico"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Higienización externa del depósito, ducha y bandeja",
+          "text": "Lava el tanque con agua tibia y jabón neutro sin perfume, retira el tornillo central de la ducha del grupo para frotar la malla metálica con un cepillo y desinfecta la base inferior."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Purga de la burbuja de aire (airlock) con agua tibia a 35 °C",
+          "text": "Llena el tanque al máximo con **agua tibia a 35 °C** (el calor ablanda la esfera de goma interna de la bomba). Enciende la cafetera y **abre el grifo de vapor** a nivel de agua caliente (sin activar la temperatura de vapor de 130 °C) en ráfagas de **10 segundos** hasta que salga un chorro continuo sin gorgoteos."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Lavado sanitario ácido-enzimático del bloque térmico",
+          "text": "Diluye **50 ml de descalcificador a base de ácido láctico** en **500 ml de agua**, haz pasar la mitad por el grupo de café sin portafiltro y la otra mitad por la lanceta, deja actuar **10 minutos** y enjuaga con un depósito entero de agua filtrada."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Rehidratación térmica de la junta del portafiltro",
+          "text": "Coloca el portafiltro vacío (con la cesta limpia puesta) y extrae **3 tazas de agua caliente de 60 ml**. El calor a **92 °C** devuelve la flexibilidad al elastómero de silicona del grupo antes de someterlo a **9 bares** con café molido."
         }
       ]
     },
     {
-      "type": "cta",
-      "text": "¿Tienes dudas con poner en marcha cafetera espresso guardada mucho tiempo en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
+      "type": "callout",
+      "variant": "tip",
+      "text": "Si tras **3 intentos de 15 segundos** la bomba sigue sonando hueca y el nivel del depósito no baja ni un milímetro, la válvula de entrada está bloqueada por tensión superficial. Llena una **jeringa limpia de 60 ml** (o una perilla de goma de cocina) con agua tibia, encájala sobre el orificio de admisión en la base donde asienta el tanque y empuja suavemente mientras activas el botón de café durante **5 segundos** para forzar el cebado.",
+      "title": "El truco de la jeringa de 60 ml cuando la bomba pierde el cebado por completo"
     },
     {
       "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Revisión de juntas tóricas, lanceta y configuración antes del primer espresso"
     },
     {
       "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Una vez restablecido el caudal continuo de **55 a 70 ml en 10 segundos** en vacío, dedica cinco minutos a los puntos periféricos donde suele proliferar suciedad invisible. Sigue nuestro protocolo de [mantenimiento mensual de la lanceta de vapor desmontando la boquilla](/mantenimiento-y-descalcificacion/como-limpiar-a-fondo-la-lanceta-de-vapor-desmontando-la-boquilla/) para verificar que los pequeños anillos de goma (*O-rings*) no se hayan agrietado durante el letargo. Finalmente, si la cafetera estuvo desconectada de la corriente tantos meses o cambiaste de domicilio, comprueba que no se haya reiniciado la memoria electrónica repasando cómo [programar la dureza del agua en el menú de De’Longhi Dedica](/mantenimiento-y-descalcificacion/como-programar-la-dureza-del-agua-en-el-menu-de-delonghi-dedica/) y la temperatura de infusión."
+    },
+    {
+      "type": "cta",
+      "text": "¿Necesitas juntas de silicona nuevas, líquido descalcificador bacteriostático o filtros de resina para renovar tu cafetera tras meses guardada? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre poner en marcha cafetera espresso guardada mucho tiempo?",
-      "a": "Lavado de tanque, cebado de la bomba con jeringa si tiene aire, ciclo de EcoDecalk y cambio de cesta. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Puedo reutilizar el filtro ablandador de agua que quedó puesto en el tanque?",
+      "a": "Bajo ningún concepto. El filtro de intercambio iónico contiene perlas de resina húmeda que, tras **6 meses** estancadas a oscuras, se convierten en un foco de proliferación bacteriana y moho. Debes desecharlo inmediatamente e instalar un cartucho nuevo previamente sumergido en agua durante **5 minutos**."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué la cafetera hace mucho ruido pero no aspira agua después de estar guardada?",
+      "a": "Se debe a una bolsa de aire (*airlock*) alojada entre la válvula del depósito y el pistón de la bomba vibratoria. Como el aire es compresible, el émbolo oscila sin lograr crear el vacío necesario para levantar la bola antirretorno hasta que cebas el conducto por la salida de vapor o con presión positiva."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cuánta agua debo tirar antes de beber el primer café con seguridad?",
+      "a": "Lo recomendable es desechar un mínimo de **1 litro de agua** (aproximadamente un depósito completo en modelos de **1.1 a 1.4 L**) repartido entre la ducha del grupo y la lanceta de vapor, además de tirar el primer espresso preparado con café real para volver a sazonar la malla metálica."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/como-limpiar-la-rejilla-calientatazas-superior-sin-que-entre-agua/",
-    "/mantenimiento-y-descalcificacion/vida-util-de-una-bomba-vibratoria-ulka-de-15-o-20-bares/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/como-programar-la-dureza-del-agua-en-el-menu-de-delonghi-dedica/",
+    "/mantenimiento-y-descalcificacion/como-limpiar-el-tanque-de-agua-para-evitar-biofilm-y-moho/",
+    "/mantenimiento-y-descalcificacion/como-limpiar-a-fondo-la-lanceta-de-vapor-desmontando-la-boquilla/",
+    "/mantenimiento-y-descalcificacion/como-limpiar-la-bandeja-de-goteo-y-el-flotador-rojo-indicador/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-hacer-si-la-cafetera-estuvo-guardada-6-meses-sin-usarse.webp"
 }

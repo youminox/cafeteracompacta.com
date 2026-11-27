@@ -4,161 +4,126 @@
   "path": "/cafe-en-grano-y-agua/como-interpretar-la-etiqueta-de-un-cafe-de-especialidad-puntuacion-sca/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como leer etiqueta de cafe de especialidad",
   "title": "Cómo Leer la Etiqueta de un Paquete de Café de Especialidad (Origen, Variedad, Proceso y Altitud)",
-  "seoTitle": "Cómo Leer la Etiqueta de un Paquete de Café de Especialidad (Origen, Variedad, Proceso y Altitud) | Guía Barista Compacta",
-  "metaDescription": "Cómo Leer la Etiqueta de un Paquete de Café de Especialidad (Origen, Variedad, Proceso y Altitud): Qué significan variedades como Bourbon, Caturra, Castillo o Heirloom y cómo te anticipan cómo calibrar tu máquina. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Qué significan variedades como Bourbon, Caturra, Castillo o Heirloom y cómo te anticipan cómo calibrar tu máquina.",
-  "quickAnswer": "Sobre como leer etiqueta de cafe de especialidad: Qué significan variedades como Bourbon, Caturra, Castillo o Heirloom y cómo te anticipan cómo calibrar tu máquina. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Cómo Leer la Etiqueta de un Paquete de Café de Especialidad (Origen, Variedad, Proceso y Altitud) | cafeteracompacta.com",
+  "metaDescription": "Aprende cómo leer la etiqueta de un café de especialidad: qué indican la altitud, el beneficio lavado o natural, la variedad botánica y los puntos SCA.",
+  "excerpt": "Manual técnico para interpretar cada dato impreso en tu bolsa de café de especialidad y ajustar la molienda, temperatura y ratio de extracción en tu cafetera espresso compacta.",
+  "quickAnswer": "Leer la etiqueta de un café de especialidad permite anticipar su densidad y solubilidad antes de moler: la altitud (1.200 a 2.100 msnm) indica la dureza celular del grano, el beneficio (lavado, natural o honey) define el dulzor y la generación de finos, y la puntuación SCA (mínimo 80 puntos) certifica cero defectos primarios. Con estos datos ajustas temperatura, molienda y ratio desde el primer espresso.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Qué significan variedades como Bourbon, Caturra, Castillo o Heirloom y cómo te anticipan cómo calibrar tu máquina., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Low-angle dramatic hero perspective with soft background bokeh on 35mm lens: realistic scene illustrating 'Cómo Leer la Etiqueta de un Paquete de Café de Especialidad (Origen, Variedad, Proceso y Altitud)' (como leer etiqueta de cafe de especialidad) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, in a well-organized domestic utility area with natural plants nearby, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Leer la Etiqueta de un Paquete de Café de Especialidad (Origen, Variedad, Proceso y Altitud)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como leer etiqueta de cafe de especialidad** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Qué significan variedades como Bourbon, Caturra, Castillo o Heirloom y cómo te anticipan cómo calibrar tu máquina."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Cafe En Grano Y Agua](/cafe-en-grano-y-agua/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Cuando sostienes una bolsa de **340 g (12 oz)** de un tostador artesanal frente a tu **Breville Bambino BES450** o tu **CASABREWS CM5418**, los datos impresos en la tarjeta frontal no son adornos de marketing: son instrucciones físicas de calibración. Mientras que un paquete industrial solo menciona un ambiguo nivel de intensidad, una etiqueta de especialidad detalla la trazabilidad agronómica que determina qué tan fino debes ajustar tu molino, cuántos grados centígrados necesita el agua y qué tan rápido fluirá el espresso por los agujeros de tu cesta no presurizada. Aprender a decodificar estos parámetros dentro de nuestro [centro técnico de café en grano y agua](/cafe-en-grano-y-agua/) evita desperdiciar media bolsa intentando adivinar por qué un lote fluye demasiado rápido o sabe excesivamente cítrico."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como leer etiqueta de cafe de especialidad"
+      "text": "Qué significa superar los 80 puntos SCA y la ausencia de defectos primarios"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como leer etiqueta de cafe de especialidad** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Para que un lote reciba legalmente la denominación de **café de especialidad**, un catador certificado (*Q-Grader*) debe evaluarlo bajo el protocolo de la **Specialty Coffee Association (SCA)** y otorgarle una calificación mínima de **80 puntos sobre 100**. Esta evaluación comienza antes del tueste, inspeccionando una muestra de **350 g de grano verde**: el estándar exige **cero defectos primarios** (granos negros completos, agrios o piedras) y un máximo de **5 defectos secundarios**. Además, tras el tueste no deben aparecer granos inmaduros incapaces de caramelizar; si notas sabores astringentes a madera o maní, revisa nuestra guía sobre [cómo detectar quakers y granos rotos en tu bolsa](/cafe-en-grano-y-agua/como-detectar-defectos-en-los-granos-de-cafe-quakers-y-granos-rotos/). Un lote de **82 a 84.5 puntos** suele ofrecer la mejor relación de estabilidad, dulzor achocolatado y cuerpo para espresso diario, mientras que los microlotes de **86 a 89 puntos** presentan perfiles florales o exóticos más delicados de extraer."
+    },
+    {
+      "type": "h2",
+      "text": "Altitud (msnm) y método de beneficio: el mapa de densidad celular y solubilidad"
+    },
+    {
+      "type": "p",
+      "text": "Dos coordenadas de la etiqueta dictan directamente la resistencia hidráulica de la pastilla: la **altitud expresada en metros sobre el nivel del mar (msnm o MASL)** y el **proceso post-cosecha (beneficio)**. A mayor altitud (**1.500 a 2.100 msnm**), las noches frías ralentizan la maduración de la cereza, creando una semilla con fisura central cerrada y altísima densidad celular. Estos granos duros son menos porosos y exigen temperaturas de extracción más elevadas (**93 °C a 95 °C** en cafeteras con control PID como la **De’Longhi Dedica Maestro Plus EC950M**) o ratios más largos (**1:2.2 a 1:2.5**) para disolver sus azúcares sin dejar acidez punzante. Por el contrario, el beneficio define cuánta pectina fermentó junto a la semilla, modificando radicalmente su porosidad bajo los **9 bares** de presión."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: como leer etiqueta de cafe de especialidad",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Dato en la etiqueta",
+        "Valor típico impreso",
+        "Comportamiento físico del grano",
+        "Ajuste en cafetera y molino"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Qué significan variedades como Bourbon, Caturra, Castillo o Heirloom y cómo te anticipan cómo calibrar tu máquina.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Altitud media-baja",
+          "900 – 1.300 msnm",
+          "Baja densidad, estructura porosa y alta solubilidad",
+          "Temperatura 90–92 °C, ratio corto 1:1.8 a 1:2, ideal con leche"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Altitud elevada (SHG/SHB)",
+          "1.600 – 2.100 msnm",
+          "Grano duro y compacto, difícil de extraer",
+          "Temperatura 93–95 °C, molienda más fina y ratio 1:2.2 a 1:2.5"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Proceso Lavado (Washed)",
+          "Despulpado y fermentado en agua",
+          "Alta claridad aromática, menor viscosidad y acidez limpia",
+          "Dosis estándar (18 g en 54 mm) y pre-infusión larga de 6–8 s"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Proceso Natural o Honey",
+          "Secado con pulpa o mucílago intacto",
+          "Abundantes azúcares simples, tueste que dora rápido y produce más finos",
+          "Molienda 1 o 2 clics más gruesa para evitar bloqueo y canalización"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre como leer etiqueta de cafe de especialidad",
-      "text": "Qué significan variedades como Bourbon, Caturra, Castillo o Heirloom y cómo te anticipan cómo calibrar tu máquina. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Traducción de los datos de la etiqueta del paquete a ajustes de tu cafetera y molino"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como leer etiqueta de cafe de especialidad hoy mismo en tu cocina"
+      "text": "Variedad botánica y fecha de tueste frente a fecha de caducidad"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "La **variedad botánica** (subespecie de *Coffea arabica*) funciona igual que las cepas de uva en el vino. Si buscas cappuccinos sedosos en tu **Breville Bambino Plus BES500**, prioriza etiquetas que declaren variedades clásicas como **Bourbon, Catuai, Mundo Novo o Caturra**, muy comunes entre los [mejores orígenes de café para beber con leche como Brasil y Colombia](/cafe-en-grano-y-agua/mejores-origenes-de-cafe-para-beber-con-leche-brasil-y-colombia/). Si prefieres beber el espresso solo y disfrutar notas a bergamota o jazmín, busca variedades **Heirloom etíopes, SL28 de Kenia o Geisha**. Finalmente, verifica siempre que el paquete lleve impresa la **fecha exacta de tueste (*Roasted On*)** y no solo una fecha genérica de consumo preferente: para espresso en cestas de pared simple de **51 mm o 54 mm**, la ventana óptima de desgasificación de dióxido de carbono se sitúa entre el **día 7 y el día 28 post-tueste**."
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Verifica la ventana de frescura real",
+          "text": "Comprueba el sello Roasted On: espera al menos 7 días desde el tueste para que el exceso de gas CO2 no desestabilice la cama de café y consúmelo antes de los 30 días."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Cruza altitud con temperatura o tiempo de pre-infusión",
+          "text": "Si la etiqueta marca más de 1.600 msnm y tueste medio-claro, programa una pre-infusión manual máxima en tu Breville Bambino o sube el PID a 94 °C en tu Dedica Maestro Plus."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Ajusta el molino según el beneficio declarado",
+          "text": "En tu Baratza Encore ESP o Turin SK40, abre la molienda medio punto al pasar de un grano Lavado a un grano Natural, ya que este último es más quebradizo y genera más micropartículas."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con como leer etiqueta de cafe de especialidad en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Tienes dudas sobre cómo calibrar los granos de una bolsa específica que acabas de comprar para tu cafetera compacta? Consulta a nuestro Asesor IA interactivo o revisa la disponibilidad actual de molinos y accesorios de precisión en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como leer etiqueta de cafe de especialidad?",
-      "a": "Qué significan variedades como Bourbon, Caturra, Castillo o Heirloom y cómo te anticipan cómo calibrar tu máquina. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Qué significa que una etiqueta diga 'Cooperativa' o 'Estación de Lavado' en lugar de una finca única?",
+      "a": "Indica que el café proviene de múltiples pequeñas parcelas vecinas (generalmente de menos de 2 hectáreas cada una) que entregan sus cerezas maduras a una misma estación central de lavado o cooperativa regional. Es habitual en Etiopía, Colombia y Ruanda, garantizando un perfil sensorial homogéneo y trazable por municipio."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Un café con 88 puntos SCA siempre dará mejor espresso en casa que uno de 83 puntos?",
+      "a": "No necesariamente. Los lotes de 88 a 90+ puntos suelen tostarse muy claros para preservar ésteres florales y ácidos orgánicos delicados orientados a métodos de filtro como V60. En cafeteras compactas de 51 mm o 54 mm, un grano de 83 a 86 puntos con tueste medio para espresso resulta mucho más dulce, denso y fácil de calibrar."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cuál es la diferencia en taza entre un proceso Yellow Honey y un Red o Black Honey?",
+      "a": "La miel blanca o amarilla (White/Yellow Honey) retira entre el 70 % y 80 % del mucílago antes del secado al sol, acercándose a la limpieza de un café lavado. El Red o Black Honey conserva casi el 100 % de la pulpa azucarada y seca lentamente bajo sombra, aportando mucho más cuerpo, notas a fruta madura y crema densa en espresso."
     }
   ],
   "related": [
-    "/cafe-en-grano-y-agua/",
-    "/cafe-en-grano-y-agua/diferencia-entre-blend-de-espresso-y-cafe-de-origen-unico-single-origin/",
-    "/cafe-en-grano-y-agua/peligro-de-los-granos-de-cafe-saborizados-con-jarabes-en-tu-molino/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/cafe-en-grano-y-agua/mejores-origenes-de-cafe-para-beber-con-leche-brasil-y-colombia/",
+    "/cafe-en-grano-y-agua/como-detectar-defectos-en-los-granos-de-cafe-quakers-y-granos-rotos/",
+    "/cafe-en-grano-y-agua/cuantos-cafes-salen-de-una-bolsa-de-1-kilo-o-2-2-libras-de-grano/",
+    "/cafe-en-grano-y-agua/monodosis-ese-pods-44mm-de-illy-y-lavazza-para-dias-con-prisa/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-interpretar-la-etiqueta-de-un-cafe-de-especialidad-puntuacion-sca.webp"
 }

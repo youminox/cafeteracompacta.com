@@ -4,161 +4,124 @@
   "path": "/extraccion-y-recetas-espresso/que-pasa-si-usas-cafe-molido-para-moka-o-filtro-en-un-portafiltro-bottomless/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "usar cafe premolido en portafiltro bottomless",
   "title": "Por Qué el Café Pre-Molido de Supermercado Sale a Chorros en un Portafiltro Bottomless",
-  "seoTitle": "Por Qué el Café Pre-Molido de Supermercado Sale a Chorros en un Portafiltro Bottomless | Guía Barista Compacta",
-  "metaDescription": "Por Qué el Café Pre-Molido de Supermercado Sale a Chorros en un Portafiltro Bottomless: El café pre-molido comercial viene calibrado para cafeteras italianas Moka (más grueso): en un Bottomless saldrá en 8 segundos salvo que uses molino propio. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "El café pre-molido comercial viene calibrado para cafeteras italianas Moka (más grueso): en un Bottomless saldrá en 8 segundos salvo que uses molino propio.",
-  "quickAnswer": "Sobre usar cafe premolido en portafiltro bottomless: El café pre-molido comercial viene calibrado para cafeteras italianas Moka (más grueso): en un Bottomless saldrá en 8 segundos salvo que uses molino propio. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué el Café Pre-Molido de Supermercado Sale a Chorros en un Portafiltro Bottomless | cafeteracompacta.com",
+  "metaDescription": "Entiende por qué al usar café premolido en un portafiltro bottomless el agua sale a chorros sin presión y qué granulometría exige una cesta sin fondo.",
+  "excerpt": "Radiografía hidráulica del canalizado extremo al combinar moliendas comerciales de moka o filtro con cestas no presurizadas y cómo corregirlo según tu equipo doméstico.",
+  "quickAnswer": "Al **usar café premolido en un portafiltro bottomless**, el agua sale a chorros en **5 a 10 segundos** y sin presión (**2–3 bares**) porque las cestas sin fondo no tienen válvula presurizada y exigen que el propio café frene los **9 bares** de la bomba. Como el café comercial se muele grueso (**350–600 micras**) y carece de $\\text{CO}_2$ fresco, el agua atraviesa la pastilla sin resistencia y provoca salpicaduras laterales (*spraying*).",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: El café pre-molido comercial viene calibrado para cafeteras italianas Moka (más grueso): en un Bottomless saldrá en 8 segundos salvo que uses molino propio., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Split comparison composition showing two complementary setups side by side: realistic scene illustrating 'Por Qué el Café Pre-Molido de Supermercado Sale a Chorros en un Portafiltro Bottomless' (usar cafe premolido en portafiltro bottomless) for cafeteracompacta.com, featuring equipment in graphite gray with subtle amber indicator details, beside a neat storage shelf in a sunlit modern room, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué el Café Pre-Molido de Supermercado Sale a Chorros en un Portafiltro Bottomless"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **usar cafe premolido en portafiltro bottomless** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. El café pre-molido comercial viene calibrado para cafeteras italianas Moka (más grueso): en un Bottomless saldrá en 8 segundos salvo que uses molino propio."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Comprar un portafiltro sin fondo (*naked* o *bottomless*) de **51 mm** para tu **CASABREWS CM5418** o **De’Longhi Dedica Arte (EC885M)**, o uno de **54 mm** para tu **Breville Bambino (BES450)**, es uno de los pasos más emocionantes para cualquier barista casero. Sin embargo, si intentas **usar café premolido en un portafiltro bottomless**, el resultado en el primer segundo de encender la bomba suele ser caótico: un chorro rubio y violento que llena la taza en **7 segundos**, salpicaduras laterales en toda la encimera y una aguja de presión que apenas despega del mínimo."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: usar cafe premolido en portafiltro bottomless"
+      "text": "Física de la cesta despresurizada: por qué desaparece toda la resistencia hidráulica"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **usar cafe premolido en portafiltro bottomless** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Un portafiltro bottomless incorpora siempre una **cesta no presurizada de pared simple** (*Single Wall*), cuya base tiene cientos de microperforaciones láser de **0.3 mm** abiertas directamente al aire. A diferencia del filtro de doble pared que explicamos en nuestra guía sobre [cómo sacar espresso con crema usando café premolido en filtro presurizado](/extraccion-y-recetas-espresso/como-preparar-un-espresso-con-crema-usando-cafe-premolido-de-supermercado/), aquí el metal no opone ninguna restricción artificial: **el 100 % de los 9 bares de presión debe generarlo la propia pastilla de café compactada**. Según la ley de Darcy para flujos en medios porosos, cuando usas café de supermercado molido para cafetera italiana Moka (**400–600 micras**) o para filtro de goteo (**700–900 micras**), los huecos interparticulares son hasta tres veces mayores que en una molienda real de espresso (**200–260 micras**). Además, al carecer de $\\text{CO}_2$ fresco que hinche la celulosa del grano al mojarse, el agua a presión atraviesa la cama sin freno alguno."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: usar cafe premolido en portafiltro bottomless",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Tipo de café empleado",
+        "Tamaño de partícula (µm)",
+        "Presión real alcanzada",
+        "Tiempo para 36 g en taza",
+        "Síntoma visual en el portafiltro sin fondo"
       ],
       "rows": [
         [
-          "Clave principal",
-          "El café pre-molido comercial viene calibrado para cafeteras italianas Moka (más grueso): en un Bottomless saldrá en 8 segundos salvo que uses molino propio.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Molido para filtro / goteo comercial",
+          "700–900 µm",
+          "1.0–2.0 bares",
+          "4–6 segundos",
+          "Cascada transparente e instantánea sin espuma; sabor agrio y vegetal"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Pre-molido comercial Moka / Universal",
+          "400–550 µm",
+          "2.0–3.5 bares",
+          "7–11 segundos",
+          "Chorros múltiples erráticos (spraying), espuma blanca que desaparece en 3 s"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Pre-molido fino (Illy Espresso / Bustelo)",
+          "300–360 µm",
+          "3.5–5.5 bares",
+          "11–15 segundos",
+          "Unión rápida pero flujo pálido, canalización lateral y cuerpo muy acuoso"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Grano fresco molido para espresso en casa",
+          "200–260 µm",
+          "8.5–9.5 bares",
+          "25–30 segundos",
+          "Cono central único color miel con rayas atigradas y crema espesa"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre usar cafe premolido en portafiltro bottomless",
-      "text": "El café pre-molido comercial viene calibrado para cafeteras italianas Moka (más grueso): en un Bottomless saldrá en 8 segundos salvo que uses molino propio. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Comportamiento hidrodinámico en portafiltro bottomless según el tipo de molienda"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar usar cafe premolido en portafiltro bottomless hoy mismo en tu cocina"
+      "text": "El fenómeno de los micro-chorros laterales (Spraying) en cafés envejecidos"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Incluso si compras el café comercial más fino del lineal y tratas de compensar metiendo más gramos según la [tabla de gramos, segundos y ratios de extracción](/extraccion-y-recetas-espresso/tabla-resumen-de-ratios-1-1-1-2-y-1-3-con-tiempos-y-gramos/), en un portafiltro sin fondo seguirás sufriendo *spraying* (finos dardos de café que disparan hacia los lados de la taza). Esto ocurre porque las cuchillas industriales de rodillos envasan partículas secas que, tras semanas en el paquete, se vuelven quebradizas e hidrofóbicas en superficie. Cuando la bomba de **15 o 20 bares** de tu cafetera compacta inyecta agua, la pastilla seca se fractura internamente formando grietas microscópicas; el agua escapa a alta velocidad por esos canales de baja resistencia, dejando el resto del café subextraído e impidiendo lograr la crema densa necesaria para bebidas del [hub de extracción y recetas espresso](/extraccion-y-recetas-espresso/)."
     },
     {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con usar cafe premolido en portafiltro bottomless en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "No intentes solucionar una molienda comercial gruesa en un bottomless colgándote del tamper con 25 o 30 kg de fuerza. A partir de unos 12–15 kg de presión manual, el café molido alcanza su límite físico de compresión; apretar más fuerte no reduce el tamaño de los poros entre granos gruesos y solo aumentará el riesgo de fracturar la pastilla contra la pared de la cesta.",
+      "title": "Por qué prensar el doble de fuerte no frena el chorro en un bottomless"
     },
     {
       "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Qué hacer si ya compraste un portafiltro bottomless pero aún no tienes molino espresso"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Intercambia la cesta dentro de tu portafiltro bottomless:** Puedes sacar la cesta no presurizada del portafiltro sin fondo e insertar dentro la **cesta presurizada original de 51 mm o 54 mm** de tu cafetera. Así conservarás la estética del mango nuevo, ganarás altura libre para tazas altas y tendrás un único chorro central limpio sin salpicaduras.",
+        "**Pide molienda específica para cesta no presurizada en una cafetería de especialidad local:** Si compras una bolsa de grano con menos de **15 días de tueste** y pides que te la muelan en un molino comercial al punto exacto de espresso (no para cafetera doméstica presurizada), funcionará en tu bottomless durante los primeros **3 a 4 días** antes de desgasificarse.",
+        "**Incorpora un molino con micro-ajustes para espresso:** Para exprimir de verdad una cesta sin fondo en una **Breville Bambino**, **Dedica Arte** o **CASABREWS CM5418**, necesitas ajustar la molienda en pasos de pocas micras día a día según la humedad y la edad del grano."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "¿Listo para dar el salto a un molino compacto apto para portafiltro bottomless o necesitas cestas compatibles de 51 mm y 54 mm? Consulta la disponibilidad actual en las tarjetas de Amazon de esta página o pide consejo personalizado a nuestro Asesor IA."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre usar cafe premolido en portafiltro bottomless?",
-      "a": "El café pre-molido comercial viene calibrado para cafeteras italianas Moka (más grueso): en un Bottomless saldrá en 8 segundos salvo que uses molino propio. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué mi cafetera salpica toda la cocina desde que puse un portafiltro sin fondo?",
+      "a": "Porque la cesta no presurizada que trae el portafiltro sin fondo requiere café recién molido a 200–260 micras. Mientras sigas usando café premolido comercial, saca la cesta original de doble pared de tu portafiltro de fábrica y colócala dentro del aro del portafiltro bottomless: el problema desaparecerá al instante."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿El café Illy en lata con molienda Espresso sirve para un portafiltro bottomless?",
+      "a": "En los primeros 2 a 3 días tras abrir la lata, si subes la dosis al máximo que admita la cesta (por ejemplo, 15.5 g en 51 mm o 19 g en 54 mm), lograrás un flujo algo más lento de 12–15 segundos, pero seguirá estando subextraído y con canalización comparado con grano fresco molido al momento."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué el manómetro de mi cafetera no sube de 2 bares cuando uso el portafiltro bottomless?",
+      "a": "No es un defecto del portafiltro ni de la bomba de tu CASABREWS CM5418. El manómetro mide la contrapresión que opone el café al paso del agua; si la molienda es gruesa o vieja, el agua escapa libremente sin encontrar resistencia y la aguja no puede subir a la zona óptima de 9 bares."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/como-hacer-cafe-cubano-cafecito-con-espumita-de-azucar-en-tu-cafetera/",
     "/extraccion-y-recetas-espresso/como-preparar-un-espresso-con-crema-usando-cafe-premolido-de-supermercado/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/receta-de-espresso-martini-con-crema-natural-de-tu-cafetera/",
+    "/extraccion-y-recetas-espresso/diferencia-entre-espresso-italiano-7g-y-espresso-moderno-de-especialidad-18g/",
+    "/extraccion-y-recetas-espresso/tabla-resumen-de-ratios-1-1-1-2-y-1-3-con-tiempos-y-gramos/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-pasa-si-usas-cafe-molido-para-moka-o-filtro-en-un-portafiltro-bottomless.webp"
 }

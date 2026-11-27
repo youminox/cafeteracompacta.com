@@ -4,161 +4,132 @@
   "path": "/mantenimiento-y-descalcificacion/como-limpiar-cestas-ims-con-bicarbonato-y-agua-caliente-si-no-tienes-cafiza/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "limpiar filtro portafiltro con bicarbonato",
   "title": "Alternativa Casera de Emergencia con Percarbonato o Bicarbonato para Limpiar Cestas de Acero",
-  "seoTitle": "Alternativa Casera de Emergencia con Percarbonato o Bicarbonato para Limpiar Cestas de Acero | Guía Barista Compacta",
-  "metaDescription": "Alternativa Casera de Emergencia con Percarbonato o Bicarbonato para Limpiar Cestas de Acero: Cómo desengrasar los filtros de acero inoxidable 304 cuando se te han terminado los sobres de Urnex Cafiza. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Cómo desengrasar los filtros de acero inoxidable 304 cuando se te han terminado los sobres de Urnex Cafiza.",
-  "quickAnswer": "Sobre limpiar filtro portafiltro con bicarbonato: Cómo desengrasar los filtros de acero inoxidable 304 cuando se te han terminado los sobres de Urnex Cafiza. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Alternativa Casera de Emergencia con Percarbonato o Bicarbonato para Limpiar Cestas de Acero | cafeteracompacta.com",
+  "metaDescription": "Cómo limpiar cestas de acero inoxidable y filtros IMS obstruidos usando percarbonato o bicarbonato sódico en agua caliente cuando no tienes Urnex Cafiza.",
+  "excerpt": "Entiende la reacción química entre el percarbonato sódico, el bicarbonato hervido y los lípidos rancios del café para destapar las microperforaciones de tus cestas de acero AISI 304 sin dañar el aluminio.",
+  "quickAnswer": "Para limpiar una cesta de acero inoxidable (**IMS** o de serie) sin **Urnex Cafiza**, retírala del portafiltro y hiérvela durante **12 a 15 minutos** en **500 ml** de agua con **2 cucharadas (25 g) de bicarbonato sódico** (el calor a **100 °C** lo convierte en carbonato alcalino desengrasante), o sumérgela **20 minutos** en agua a **80 °C** con **15 g de percarbonato sódico puro sin perfume**. Nunca sumerjas portafiltros de aluminio en estas soluciones.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Cómo desengrasar los filtros de acero inoxidable 304 cuando se te han terminado los sobres de Urnex Cafiza., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Dynamic action-ready placement on clean counter surface with subtle reflections: realistic scene illustrating 'Alternativa Casera de Emergencia con Percarbonato o Bicarbonato para Limpiar Cestas de Acero' (limpiar filtro portafiltro con bicarbonato) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, in a clean modern garage or studio corner with slate flooring, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Alternativa Casera de Emergencia con Percarbonato o Bicarbonato para Limpiar Cestas de Acero"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **limpiar filtro portafiltro con bicarbonato** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Cómo desengrasar los filtros de acero inoxidable 304 cuando se te han terminado los sobres de Urnex Cafiza."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Miras a contraluz tu cesta despresurizada de precisión **IMS** de **51 mm**, **54 mm** o **58 mm** —o el filtro original de una sola pared de tu **Breville Bambino** o **De’Longhi Dedica Arte**— y descubres que casi un tercio de sus microperforaciones de **0.30 mm** están cegadas por una película translúcida de color ámbar oscuro. Esa barrera de lípidos de café polimerizados desvía los chorros durante la extracción, provocando *channeling* severo y disparos ácidos, pero al abrir el armario compruebas que te has quedado sin detergente específico **Urnex Cafiza**. Antes de recurrir a estropajos metálicos que rayarían el acero, puedes preparar un baño alcalino casero de emergencia, recordando siempre por qué existe una [alerta técnica para no poner un disco ciego de backflush en cafeteras sin válvula solenoide](/mantenimiento-y-descalcificacion/se-puede-hacer-backflush-en-casabrews-cm5418-o-delonghi-dedica/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: limpiar filtro portafiltro con bicarbonato"
+      "text": "Química real: por qué el percarbonato sódico y el bicarbonato hervido disuelven los aceites del café"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **limpiar filtro portafiltro con bicarbonato** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: limpiar filtro portafiltro con bicarbonato",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "Cómo desengrasar los filtros de acero inoxidable 304 cuando se te han terminado los sobres de Urnex Cafiza.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "Si lees la ficha de datos de seguridad (*SDS*) de los detergentes profesionales para espresso como **Urnex Cafiza** o **Puly Caff**, comprobarás que su ingrediente activo principal (**>30 %** de la fórmula) es el **percarbonato de sodio (`2Na2CO3 · 3H2O2`)** combinado con **carbonato sódico (`Na2CO3`)**. Al disolverse en agua muy caliente (**75–85 °C**), el percarbonato libera oxígeno activo efervescente y eleva el **`pH` a ~10.5**, saponificando las grasas rancias del café sin atacar el acero inoxidable **AISI 304**. Si solo tienes **bicarbonato de sodio (`NaHCO3`)** de cocina, su alcalinidad en agua tibia es demasiado suave (**`pH 8.3`**) para despegar aceites viejos; el truco químico consiste en **hervir la cesta en agua con bicarbonato durante 10 a 15 minutos a 98–100 °C**, ya que por encima de **80 °C** el bicarbonato se descompone térmicamente liberando `CO2` y transformándose en **carbonato de sodio**, mucho más potente como desengrasante. Combina este rescate puntual con los [4 gestos de 30 segundos después de cada espresso](/mantenimiento-y-descalcificacion/rutina-de-limpieza-diaria-de-30-segundos-despues-de-cada-cafe/) y mantén impecable el chasis siguiendo nuestra guía sobre [cómo dejar brillante el acero inoxidable cepillado sin dejar marcas](/mantenimiento-y-descalcificacion/como-limpiar-el-exterior-de-acero-inoxidable-cepillado-sin-dejar-marcas/)."
     },
     {
       "type": "callout",
       "variant": "aviso",
-      "title": "Precaución técnica sobre limpiar filtro portafiltro con bicarbonato",
-      "text": "Cómo desengrasar los filtros de acero inoxidable 304 cuando se te han terminado los sobres de Urnex Cafiza. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "Sumerge en la solución alcalina caliente **únicamente las cestas sueltas de acero inoxidable AISI 304** (o la cabeza de un portafiltro *bottomless* que sea **100 % acero inoxidable macizo**). **PROHIBIDO** sumergir el portafiltro original de aluminio de la **CASABREWS CM5418**, **De’Longhi Dedica** o **Breville Bambino** en percarbonato o bicarbonato hirviendo: el medio alcalino reacciona violentamente con el aluminio, destruyendo su acabado brillante en minutos y dejándolo gris oscuro mate.",
+      "title": "Alerta metalúrgica: saca la cesta del portafiltro antes del remojo alcalino"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar limpiar filtro portafiltro con bicarbonato hoy mismo en tu cocina"
+      "text": "Comparativa de eficacia entre Urnex Cafiza, percarbonato y bicarbonato sódico"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "table",
+      "headers": [
+        "Agente limpiador",
+        "Nivel de pH y temperatura óptima",
+        "Tiempo de acción requerido",
+        "Capacidad para destapar microagujeros de 0.30 mm"
+      ],
+      "rows": [
+        [
+          "Urnex Cafiza / Puly Caff (Referencia profesional)",
+          "pH 10.8 - 11.2 en agua a 75-80 °C",
+          "10 a 15 minutos en remojo estático",
+          "100 % (contiene tensioactivos y quelantes que evitan residuos calcáreos)"
+        ],
+        [
+          "Percarbonato de sodio puro (sin perfume)",
+          "pH ~10.5 en agua a 75-85 °C",
+          "15 a 20 minutos con efervescencia activa",
+          "90 % (excelente liberación de oxígeno activo; requiere cepillado final)"
+        ],
+        [
+          "Bicarbonato de sodio activado por ebullición",
+          "pH ~9.8 al hervir en cazo a 98-100 °C",
+          "12 a 15 minutos de hervor suave + cepillado",
+          "80 % (la conversión térmica a carbonato ablanda la resina de café)"
+        ],
+        [
+          "Bicarbonato de sodio en agua tibia del grifo",
+          "pH 8.3 a 45 °C",
+          "Más de 60 minutos (poco efectivo en remojo)",
+          "35 % (solo funciona como abrasivo mecánico suave frotando en pasta)"
+        ]
+      ],
+      "caption": "Rendimiento desengrasante en cestas de acero inoxidable (IMS, VST y filtros de serie)"
+    },
+    {
+      "type": "h2",
+      "text": "Paso a paso para destapar las microperforaciones de tu cesta de acero en casa"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Extracción de la cesta de acero inoxidable del portafiltro",
+          "text": "Usa la pestaña de una cuchara o una herramienta extractora de cestas para desencajar el filtro de **51 mm**, **54 mm** o **58 mm** del portafiltro, dejando el mango y la cabeza de aluminio fuera de todo contacto con el baño químico."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Opción A con Percarbonato (sin fuego): baño efervescente a 80 °C",
+          "text": "Si tienes **percarbonato sódico puro** (asegúrate en la etiqueta de que sea **100 % percarbonato de sodio sin perfumes ni blanqueadores ópticos**), disuelve **1 cucharada sopera (15 g)** en un bol de vidrio o cerámica con **400 ml** de agua recién calentada a **80 °C** y sumerge las cestas durante **15 a 20 minutos**."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Opción B con Bicarbonato de cocina: ebullición térmica en cazo de acero",
+          "text": "Si solo dispones de **bicarbonato de sodio alimentario**, coloca las cestas de acero en un cazo pequeño con **500 ml** de agua, añade **2 cucharadas soperas (25 g)** de bicarbonato y mantenlo en ebullición suave a fuego medio durante **12 a 15 minutos** para activar su transformación en carbonato alcalino."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Frotado mecánico a contraluz con cepillo de cerdas duras",
+          "text": "Retira la cesta con unas pinzas, pásala bajo el chorro de agua caliente y frota ambas caras de la malla perforada con un cepillo de nailon rígido y una gota de lavavajillas líquido. Si algún poro rebelde sigue oscuro, aplica una pizca de bicarbonato húmedo directamente sobre la malla y frota en círculos."
+        },
+        {
+          "name": "Enjuague triple y verificación óptica de los 500+ microagujeros",
+          "text": "Aclara abundantemente con agua caliente para eliminar cualquier rastro salino que pudiera alterar el sabor del café, seca con microfibra y sostén la cesta frente a una lámpara o la linterna del móvil para comprobar que el **100 % de la retícula de agujeros** deja pasar la luz con diámetro uniforme."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con limpiar filtro portafiltro con bicarbonato en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Prefieres tener siempre a mano un bote de **Urnex Cafiza** en polvo o pastillas, o buscas una cesta de precisión **IMS** de **51 mm**, **54 mm** o **58 mm** para mejorar tus extracciones? Consulta la disponibilidad actual en las tarjetas de Amazon de esta página o pregunta a nuestro Asesor IA."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre limpiar filtro portafiltro con bicarbonato?",
-      "a": "Cómo desengrasar los filtros de acero inoxidable 304 cuando se te han terminado los sobres de Urnex Cafiza. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Sirve el método del bicarbonato hervido para destapar un filtro presurizado de doble pared?",
+      "a": "Sí, pero solo para filtros presurizados de doble pared cuyo fondo no se puede desmontar. Al hervir la cesta de doble pared en agua con 2 cucharadas de bicarbonato durante 15 minutos y luego pasar agua a presión por el grupo sin café, la espuma alcalina disuelve la grasa atrapada entre las dos chapas."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Puedo usar cualquier percarbonato de supermercado para limpiar las cestas de mi cafetera?",
+      "a": "Solo si la etiqueta de composición indica exclusivamente 100 % percarbonato de sodio sin fragancias, suavizantes ni tensioactivos catiónicos. Los quitamanchas comerciales perfumados dejan residuos aromáticos persistentes en el acero inoxidable que arruinarán el sabor de tus próximos espressos."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué el bicarbonato limpia las cestas de café pero NO sirve para descalcificar el tanque y la caldera?",
+      "a": "Porque el bicarbonato de sodio es una sustancia alcalina (pH > 8) diseñada para saponificar grasas y aceites orgánicos, mientras que la cal del agua (carbonato cálcico) también es alcalina y solo se disuelve mediante una reacción ácida (pH < 3.5) como la del ácido láctico o cítrico."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/cuantos-litros-de-agua-usar-en-el-enjuague-post-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/como-lubricar-con-grasa-de-silicona-alimentaria-molykote-111/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/se-puede-hacer-backflush-en-casabrews-cm5418-o-delonghi-dedica/",
+    "/mantenimiento-y-descalcificacion/cada-cuanto-tiempo-hay-que-descalcificar-segun-la-dureza-del-agua/",
+    "/mantenimiento-y-descalcificacion/rutina-de-limpieza-diaria-de-30-segundos-despues-de-cada-cafe/",
+    "/mantenimiento-y-descalcificacion/como-limpiar-el-exterior-de-acero-inoxidable-cepillado-sin-dejar-marcas/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-limpiar-cestas-ims-con-bicarbonato-y-agua-caliente-si-no-tienes-cafiza.webp"
 }

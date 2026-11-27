@@ -4,161 +4,116 @@
   "path": "/cafe-en-grano-y-agua/cuantos-cafes-salen-de-una-bolsa-de-1-kilo-o-2-2-libras-de-grano/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cuantos cafes salen de 1 kilo de cafe en grano",
   "title": "Calculadora de Rendimiento: Cuántos Espressos Dobles Salen de una Bolsa de 12 oz (340 g) y de 2.2 lb (1 kg)",
-  "seoTitle": "Calculadora de Rendimiento | Guía Barista Compacta",
-  "metaDescription": "Calculadora de Rendimiento: Cuántos Espressos Dobles Salen de una Bolsa de 12 oz (340 g) y de 2.2 lb (1 kg): Con dosis de 18 g obtienes 18 espressos dobles por bolsa de 340 g y 55 espressos dobles por bolsa de 1 kilogramo. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Con dosis de 18 g obtienes 18 espressos dobles por bolsa de 340 g y 55 espressos dobles por bolsa de 1 kilogramo.",
-  "quickAnswer": "Sobre cuantos cafes salen de 1 kilo de cafe en grano: Con dosis de 18 g obtienes 18 espressos dobles por bolsa de 340 g y 55 espressos dobles por bolsa de 1 kilogramo. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Calculadora de Rendimiento: Cuántos Espressos Dobles Salen de una Bolsa de 12 oz (340 g) y de 2.2 lb (1 kg) | cafeteracompacta.com",
+  "metaDescription": "Calcula cuántos cafés salen de 1 kilo de café en grano o de una bolsa de 12 oz (340 g) según el portafiltro de 51 mm, 54 mm o 58 mm y la purga diaria.",
+  "excerpt": "Tabla exacta de rendimiento real para bolsas de 340 g y 1 kg descontando la retención del molino y el ajuste de molienda en cestas dobles de CASABREWS, De’Longhi Dedica y Breville Bambino.",
+  "quickAnswer": "De una bolsa de **1 kilo (2.2 lb / 1.000 g)** de café en grano salen entre **52 y 53 espressos dobles reales** en una **Breville Bambino** de **54 mm** (**18 g** por dosis) y entre **60 y 68 espressos dobles** en una **De’Longhi Dedica** o **CASABREWS** de **51 mm** (**14–16 g** por dosis), descontando ya la merma de calibración. De una bolsa de **12 oz (340 g)** obtendrás entre **17 y 23 espressos dobles** según tu portafiltro.",
+  "readingMinutes": 5,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Con dosis de 18 g obtienes 18 espressos dobles por bolsa de 340 g y 55 espressos dobles por bolsa de 1 kilogramo., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Macro texture and build-quality detail shot with shallow depth of field: realistic scene illustrating 'Calculadora de Rendimiento: Cuántos Espressos Dobles Salen de una Bolsa de 12 oz (340 g) y de 2.2 lb (1 kg)' (cuantos cafes salen de 1 kilo de cafe en grano) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, on a clean stone countertop with neatly arranged accessories, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Calculadora de Rendimiento: Cuántos Espressos Dobles Salen de una Bolsa de 12 oz (340 g) y de 2.2 lb (1 kg)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cuantos cafes salen de 1 kilo de cafe en grano** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Con dosis de 18 g obtienes 18 espressos dobles por bolsa de 340 g y 55 espressos dobles por bolsa de 1 kilogramo."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Cafe En Grano Y Agua](/cafe-en-grano-y-agua/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Al comparar bolsas de café en grano en Amazon Estados Unidos y España, te encontrarás con dos formatos dominantes: el paquete estándar norteamericano de **12 onzas (340 gramos)** de los tostadores de especialidad y el formato económico europeo o profesional de **2.2 libras (1 kilogramo / 1.000 gramos)**. Calcular cuántos espressos reales obtendrás de cada bolsa no consiste simplemente en dividir el peso total entre la dosis de tu cesta: debes descontar la purga del molino, la retención estática y los tiros de calibración (*dial-in*), factores que explicamos al detalle dentro de nuestro portal de [café en grano y agua](/cafe-en-grano-y-agua/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cuantos cafes salen de 1 kilo de cafe en grano"
+      "text": "Matemática Real en Casa: ElTamaño de Tu Portafiltro (51 mm vs 54 mm vs 58 mm) Cambia el Rendimiento"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cuantos cafes salen de 1 kilo de cafe en grano** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "El número de tazas por bolsa depende directamente del diámetro y profundidad de la cesta que utilices a diario. En una **CASABREWS CM5418** o **De’Longhi Dedica Arte (EC885M)** con portafiltro de **51 mm**, la cesta doble presurizada de fábrica admite entre **13 g y 14 g**, mientras que una cesta doble no presurizada (*bottomless*) trabaja de forma óptima con **15 g a 16 g**. Si tienes una **Breville Bambino (BES450)** o **Bambino Plus (BES500)** con portafiltro de **54 mm**, tu dosis estándar por espresso doble sube a **17 g – 18 g**; y en máquinas con grupo comercial de **58 mm**, la dosis habitual oscila entre **18 g y 20 g**. Además, cada vez que abres una bolsa nueva o notas cómo evoluciona la desgasificación a través de la [válvula unidireccional de las bolsas de café](/cafe-en-grano-y-agua/para-que-sirve-la-valvula-redonda-de-las-bolsas-de-cafe/), gastarás entre **1 y 2 dosis (15–36 g)** ajustando el punto exacto de molienda, especialmente si alternas según la [diferencia de cafeína y densidad entre grano Arábica y Robusta](/cafe-en-grano-y-agua/diferencia-de-cafeina-entre-grano-arabica-y-grano-robusta/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: cuantos cafes salen de 1 kilo de cafe en grano",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Cafetera y Diámetro de Cesta",
+        "Dosis por Espresso Doble",
+        "Espressos Reales en Bolsa 12 oz (340 g)",
+        "Espressos Reales en Bolsa 2.2 lb (1.000 g)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Con dosis de 18 g obtienes 18 espressos dobles por bolsa de 340 g y 55 espressos dobles por bolsa de 1 kilogramo.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Cesta 51 mm Presurizada (Dedica / CASABREWS)",
+          "14.0 g",
+          "23 a 24 espressos dobles",
+          "68 a 70 espressos dobles"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Cesta 51 mm No Presurizada (Bottomless)",
+          "16.0 g",
+          "19 a 20 espressos dobles (descontando 1 ajuste)",
+          "59 a 60 espressos dobles (descontando 2 ajustes)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Cesta 54 mm Estándar (Breville Bambino / Plus)",
+          "18.0 g",
+          "17 a 18 espressos dobles (descontando 1 ajuste)",
+          "52 a 53 espressos dobles (descontando 2 ajustes)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Cesta 58 mm Comercial (Gaggia / Rancilio / Profitec)",
+          "19.0 g a 20.0 g",
+          "15 a 16 espressos dobles (descontando 1 ajuste)",
+          "47 a 49 espressos dobles (descontando 2 ajustes)"
         ]
-      ]
+      ],
+      "caption": "Rendimiento teórico vs rendimiento real (descontando calibración y retención de 0.3 g/tiro) por formato de bolsa"
+    },
+    {
+      "type": "h2",
+      "text": "El Coste Oculto de la Retención y el 'Dial-In': Por Qué Pierdes hasta 40 g por Bolsa"
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de barista sobre cuantos cafes salen de 1 kilo de cafe en grano",
-      "text": "Con dosis de 18 g obtienes 18 espressos dobles por bolsa de 340 g y 55 espressos dobles por bolsa de 1 kilogramo. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "Si llenas la tolva superior del molino y mueles por tiempo sin pesar cada dosis individual (*Single Dosing*), las cámaras de molienda tradicionales retienen entre **1.5 g y 3.0 g** de café rancio del día anterior que muchos usuarios purgan a la basura cada mañana. En una bolsa de **340 g (12 oz)**, purgar **2 g** diarios supone desperdiciar **36 g (dos espressos dobles completos)** antes de terminar el paquete.",
+      "title": "Por Qué el Single Dosing con Fuelle Ahorra 2 Cafés por Cada Bolsa de 12 oz"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar cuantos cafes salen de 1 kilo de cafe en grano hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con cuantos cafes salen de 1 kilo de cafe en grano en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "¿Qué Tamaño de Bolsa Te Conviene Comprar Según Tu Consumo Diario en Casa?"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Si tomas 1 espresso doble al día (16–18 g/día)**: compra exclusivamente bolsas de **12 oz (340 g)** o **250 g**. Te durarán exactamente entre **18 y 21 días**, manteniéndose dentro de la ventana óptima de frescura sin que tengas que reajustar drásticamente el molino cada tres días.",
+        "**Si en casa se toman 2 a 3 espressos dobles al día (36–54 g/día)**: una bolsa de **12 oz (340 g)** se agotará en apenas **6 a 9 días**. En este escenario, comprar formatos de **2 lb o 2.2 lb (1 kg)** es mucho más rentable y terminarás el kilo en **18 a 25 días** con crema abundante.",
+        "**El truco de dividir la bolsa de 1 kg (2.2 lb) al recibirla**: si vives solo pero compras bolsas de **1 kg** de Lavazza, Illy o tostadores locales por ahorro, reparte el contenido el primer día en **3 bolsas o botes de unos 330 g**; deja uno en uso y guarda los otros dos cerrados al vacío en el congelador.",
+        "**Usa técnica RDT (una pulverización mínima de agua) al pesar tu dosis**: eliminar la electricidad estática reduce la retención interna de tu molino a menos de **0.1 g**, aprovechando hasta el último gramo de la bolsa."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "Revisa las tarjetas de producto de Amazon integradas en esta página para comparar la disponibilidad actual en formatos de 12 oz (340 g) y 2.2 lb (1 kg), o consulta a nuestro Asesor IA para calcular tu consumo mensual exacto."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cuantos cafes salen de 1 kilo de cafe en grano?",
-      "a": "Con dosis de 18 g obtienes 18 espressos dobles por bolsa de 340 g y 55 espressos dobles por bolsa de 1 kilogramo. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Salen el doble de cafés si uso la cesta individual de 1 taza (7 a 9 gramos)?",
+      "a": "La cesta individual (1 taza) tiene paredes cónicas en embudo que provocan canalización desigual y obligan a cambiar el ajuste del molino respecto a la cesta doble. Aunque uses 9 g por tiro, desperdicias más café calibrando la molienda entre ambas cestas que preparando siempre tiros dobles de 16–18 g."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué los últimos cafés de una bolsa de 1 kilo salen más rápido y con menos crema?",
+      "a": "Porque conforme los granos liberan CO2 tras abrir la bolsa, ofrecen menos resistencia al paso del agua a 9 bar. En una bolsa de 1 kg abierta durante tres semanas tendrás que cerrar el molino 1 clic cada 5 a 7 días para mantener el tiempo de extracción en 28 segundos."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cuántas bolsas de 12 oz (340 g) o de 1 kg necesito al mes para 2 cafés diarios?",
+      "a": "Con 2 cafés dobles diarios (unos 36 g por día en total en una Breville Bambino de 54 mm), consumirás aproximadamente 1.080 gramos al mes. Eso equivale exactamente a una bolsa de 2.2 lb (1 kg) o a tres bolsas de 12 oz (340 g) cada 30 días."
     }
   ],
   "related": [
-    "/cafe-en-grano-y-agua/",
-    "/cafe-en-grano-y-agua/cafe-molido-para-cesta-presurizada-cafe-bustelo-vs-lavazza-vs-illy/",
-    "/cafe-en-grano-y-agua/como-afecta-la-temperatura-del-agua-del-tanque-a-la-extraccion/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/cafe-en-grano-y-agua/para-que-sirve-la-valvula-redonda-de-las-bolsas-de-cafe/",
+    "/cafe-en-grano-y-agua/dureza-ideal-del-agua-en-ppm-y-tds-para-cafeteras-espresso-50-a-100-ppm/",
+    "/cafe-en-grano-y-agua/como-hacer-tu-propia-agua-barista-rpavlis-water-o-third-wave-water/",
+    "/cafe-en-grano-y-agua/diferencia-de-cafeina-entre-grano-arabica-y-grano-robusta/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/cuantos-cafes-salen-de-una-bolsa-de-1-kilo-o-2-2-libras-de-grano.webp"
 }

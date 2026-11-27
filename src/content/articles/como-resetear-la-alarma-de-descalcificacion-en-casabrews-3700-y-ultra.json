@@ -4,161 +4,131 @@
   "path": "/mantenimiento-y-descalcificacion/como-resetear-la-alarma-de-descalcificacion-en-casabrews-3700-y-ultra/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "apagar luz descalcificacion casabrews",
   "title": "Cómo Quitar la Alarma de Limpieza en CASABREWS 3700Essential, CM5418 y CASABREWS Ultra",
-  "seoTitle": "Cómo Quitar la Alarma de Limpieza en CASABREWS 3700Essential, CM5418 y CASABREWS Ultra | Guía Barista Compacta",
-  "metaDescription": "Cómo Quitar la Alarma de Limpieza en CASABREWS 3700Essential, CM5418 y CASABREWS Ultra: Combinación exacta de botones para reiniciar el contador interno una vez completados los dos tanques de agua limpia. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Combinación exacta de botones para reiniciar el contador interno una vez completados los dos tanques de agua limpia.",
-  "quickAnswer": "Sobre apagar luz descalcificacion casabrews: Combinación exacta de botones para reiniciar el contador interno una vez completados los dos tanques de agua limpia. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Quitar la Alarma de Limpieza en CASABREWS 3700Essential, CM5418 y CASABREWS Ultra | cafeteracompacta.com",
+  "metaDescription": "Guía práctica para apagar la luz de descalcificación en cafeteras CASABREWS CM5418, 3700Essential y Ultra: combinación de botones tras los 500 ciclos.",
+  "excerpt": "Cuando tu cafetera CASABREWS alcanza los 500 ciclos de extracción, el panel frontal parpadea pidiendo mantenimiento. Aprende el comando exacto de botones para borrar la alarma en la memoria EEPROM.",
+  "quickAnswer": "Para apagar la luz o alarma de descalcificación en una **CASABREWS CM5418** o **3700Essential** tras alcanzar los **500 ciclos**, enciende la cafetera y mantén presionados al mismo tiempo los botones **1-Cup, 2-Cup y Vapor (Steam)** durante **3 a 5 segundos** (o **1-Cup + 2-Cup** por **5 segundos** en revisiones recientes). Escucharás un pitido de confirmación y los indicadores LED dejarán de parpadear, reiniciando el contador interno a cero.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Combinación exacta de botones para reiniciar el contador interno una vez completados los dos tanques de agua limpia., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Top-down flat-lay knolling arrangement with accessories: realistic scene illustrating 'Cómo Quitar la Alarma de Limpieza en CASABREWS 3700Essential, CM5418 y CASABREWS Ultra' (apagar luz descalcificacion casabrews) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, beside a neat storage shelf in a sunlit modern room, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Quitar la Alarma de Limpieza en CASABREWS 3700Essential, CM5418 y CASABREWS Ultra"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **apagar luz descalcificacion casabrews** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Combinación exacta de botones para reiniciar el contador interno una vez completados los dos tanques de agua limpia."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Estás a punto de preparar tu espresso matutino en tu **CASABREWS CM5418**, **CASABREWS 3700Essential (o 3700Gense)** o **CASABREWS Ultra** y de pronto todos los botones del panel frontal comienzan a **parpadear de forma simultánea e incesante** tras el precalentamiento, o bien se ilumina el icono de alerta de limpieza. A diferencia del parpadeo rápido de enfriamiento que ocurre cuando dejas el vapor encendido por error (sobrecalentamiento del thermoblock a **135 °C**), esta alarma sincronizada indica que el contador interno de la placa electrónica ha alcanzado exactamente **500 ciclos acumulados** de extracción y vaporización. En nuestro [centro de mantenimiento y descalcificación de cafeteras compactas](/mantenimiento-y-descalcificacion/) te mostramos las combinaciones de botones exactas para borrar la alerta en la memoria EEPROM de cada serie CASABREWS y cómo distinguirla del aviso térmico."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: apagar luz descalcificacion casabrews"
+      "text": "Por Qué Parpadean las Luces en CASABREWS: Contador de 500 Ciclos vs Alerta de Sobrecalentamiento"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **apagar luz descalcificacion casabrews** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Antes de aplicar el comando de reseteo, es fundamental identificar cuál de los dos diagnósticos está emitiendo tu máquina. Si acabas de espumar leche a **125–135 °C** con la lanceta articulada y al intentar pulsar **1-Cup o 2-Cup** esas dos luces parpadean rápidamente, el sensor NTC del thermoblock está bloqueando la extracción para no quemar el café; en ese caso basta con abrir la perilla lateral de agua caliente/vapor durante **5 a 8 segundos** para enfriar el bloque a **92 °C**. En cambio, si el parpadeo salta nada más encender la cafetera en frío tras alcanzar las **500 operaciones**, se trata del recordatorio de descalcificación. Cuando este aviso se activa, te recomendamos aprovechar para pasar una solución de ácido cítrico o láctico al **2 %** —entendiendo siempre la [diferencia entre descalcificar sarro del agua y limpiar aceites de café con Cafiza](/mantenimiento-y-descalcificacion/diferencia-entre-descalcificar-cal-y-desengrasar-con-cafiza/)— y [desatornillar y limpiar la ducha del grupo en cafeteras CASABREWS y De’Longhi Dedica](/mantenimiento-y-descalcificacion/como-desatornillar-y-limpiar-la-ducha-del-grupo-en-delonghi-dedica-y-casabrews/) antes de borrar la alarma luminosa."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: apagar luz descalcificacion casabrews",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Modelo CASABREWS",
+        "Umbral del Contador Interno",
+        "Señal Luminosa en el Panel Frontal",
+        "Comando Exacto para Resetear / Apagar la Alarma"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Combinación exacta de botones para reiniciar el contador interno una vez completados los dos tanques de agua limpia.",
-          "Mejora la consistencia y evita errores de extracción"
+          "CASABREWS CM5418 (Revisión estándar)",
+          "500 ciclos acumulados",
+          "Botones 1-Cup, 2-Cup y Vapor parpadean simultáneamente al terminar de calentar",
+          "Mantener presionados al mismo tiempo 1-Cup + 2-Cup + Vapor durante 3 a 5 segundos hasta oír el pitido"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "CASABREWS CM5418 (Revisión PCB reciente) y 3700Essential / 3700Gense",
+          "500 ciclos acumulados",
+          "Parpadeo continuo de los indicadores de extracción o luz de alerta de limpieza",
+          "Mantener presionados 1-Cup + 2-Cup simultáneamente durante 5 segundos (o pulsar 1-Cup + Vapor 5 s)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "CASABREWS Ultra (Portafiltro 58 mm con pantalla/LEDs)",
+          "500 ciclos / Volumen programado",
+          "Indicador LED de Descale / Clean iluminado o parpadeante en el panel superior",
+          "Mantener pulsados los botones de función Descale (o 1-Cup + 2-Cup) durante 5 s para completar o reiniciar el contador"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Cualquier modelo CASABREWS tras usar la lanceta de vapor",
+          "Temperatura > 100 °C en thermoblock",
+          "1-Cup y 2-Cup parpadean rápido al pulsarlos tras espumar leche",
+          "No es alarma de cal: abrir perilla de vapor/agua caliente 8 s con una taza debajo para bajar a 92 °C"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre apagar luz descalcificacion casabrews",
-      "text": "Combinación exacta de botones para reiniciar el contador interno una vez completados los dos tanques de agua limpia. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Combinaciones de botones para quitar la alarma de limpieza (500 ciclos) según el modelo y revisión de CASABREWS"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar apagar luz descalcificacion casabrews hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Procedimiento Paso a Paso para Borrar la Alarma de Descalcificación en la Memoria EEPROM"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Encendido y estabilización térmica del thermoblock",
+          "text": "Asegúrate de que el depósito trasero (1.1 L en la CM5418 o 1.3 L en la 3700Essential) tenga agua por encima del mínimo, que la perilla lateral de vapor esté totalmente cerrada en posición horizontal/OFF y enciende la cafetera con el botón Power."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Descalcificación rápida del circuito si usas agua de red (>100 ppm)",
+          "text": "Si no has descalcificado en los últimos 2 o 3 meses, disuelve 15 g de ácido cítrico grado alimenticio en 1 litro de agua tibia en el tanque, haz circular medio tanque por el grupo de 51 mm y la mitad restante por la lanceta de vapor, y enjuaga con un tanque completo de agua limpia."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Pulsación simultánea de 3 a 5 segundos para resetear los 500 ciclos",
+          "text": "Con la máquina encendida y las luces parpadeando en modo de aviso, coloca tres dedos sobre los botones 1-Cup, 2-Cup y Vapor (Steam) y mantenlos presionados al mismo tiempo de forma firme durante 3 a 5 segundos sin soltarlos."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Alternativa de 2 botones en placas PCB de nueva generación",
+          "text": "Si tu unidad pertenece a un lote reciente donde el comando de 3 botones no emite pitido, suelta todo, espera 3 segundos y mantén presionados únicamente los botones 1-Cup + 2-Cup simultáneamente durante 5 segundos completos."
+        },
+        {
+          "name": "Verificación de luces fijas listas para extraer",
+          "text": "La placa electrónica emitirá un pitido (beep) de confirmación y los indicadores LED de 1-Cup, 2-Cup y Vapor pasarán de parpadear a quedar iluminados de forma fija, confirmando que el contador interno volvió a 0 de 500."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Cómo Evitar que tu CASABREWS Se Bloquee por Error al Resetear los Botones"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Un fallo habitual al intentar apagar la luz de descalcificación en la **CASABREWS CM5418** o **3700Essential** es mantener pulsado un solo botón de taza (**1-Cup** o **2-Cup**) durante varios segundos en lugar de presionar la combinación simultánea. Si mantienes pulsado únicamente el botón **1-Cup** o **2-Cup**, entrarás por accidente en el **modo de programación de volumen de café**, lo que puede alterar la dosis de fábrica (**30 ml y 60 ml**) y hacer que tu próximo espresso se corte a los **5 segundos** o llene toda la taza. Si esto te ocurre, puedes devolver los volúmenes de agua a su ajuste original de fábrica manteniendo presionados **1-Cup y 2-Cup juntos durante 3 a 5 segundos** hasta que la cafetera pite y parpadee, un sistema electrónico muy similar al que detallamos al explicar [cómo descalcificar la De’Longhi Dedica Arte y apagar su luz naranja o roja](/mantenimiento-y-descalcificacion/como-descalcificar-delonghi-dedica-arte-ec885-y-ec685/)."
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con apagar luz descalcificacion casabrews en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Necesitas sobres de descalcificador seguro para el thermoblock de aluminio de tu CASABREWS o juntas de silicona de repuesto de 51 mm? Pregunta a nuestro Asesor IA o consulta la disponibilidad actual en las tarjetas de Amazon integradas en esta guía."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre apagar luz descalcificacion casabrews?",
-      "a": "Combinación exacta de botones para reiniciar el contador interno una vez completados los dos tanques de agua limpia. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué siguen parpadeando los botones de 1 y 2 tazas en mi CASABREWS justo después de espumar leche?",
+      "a": "Cuando las luces 1-Cup y 2-Cup parpadean inmediatamente después de usar el vaporizador, no es la alarma de los 500 ciclos, sino la protección de sobrecalentamiento (Overheating Protection). Coloca una jarra bajo la lanceta y gira la perilla lateral a la posición de agua caliente durante 5 a 10 segundos hasta que las luces queden fijas."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Qué significa si los cuatro botones de mi CASABREWS CM5418 parpadean y suena un pitido continuo?",
+      "a": "También parpadean todos los botones con una alarma acústica cuando la perilla lateral de vapor se ha quedado ligeramente abierta al encender la máquina o cuando el caudalímetro detecta que el tanque trasero de agua está vacío. Cierra la perilla a la posición OFF y verifica que el depósito esté bien encajado."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Puedo apagar la luz de los 500 ciclos en mi CASABREWS si uso agua filtrada y aún no quiero descalcificar?",
+      "a": "Sí, el comando de botones reinicia el contador digital de la placa electrónica a cero en cualquier momento. Sin embargo, si utilizas agua del grifo sin filtrar, te recomendamos pasar al menos una solución descalcificadora de ácido cítrico o láctico cada 500 ciclos para evitar que el sarro reduzca la presión real del manómetro."
     }
   ],
   "related": [
     "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/como-resetear-la-luz-naranja-de-descalcificacion-en-delonghi-stilosa-y-linea/",
-    "/mantenimiento-y-descalcificacion/como-resetear-el-aviso-de-limpieza-de-200-ciclos-en-breville-bambino/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/como-descalcificar-delonghi-dedica-arte-ec885-y-ec685/",
+    "/mantenimiento-y-descalcificacion/diferencia-entre-descalcificar-cal-y-desengrasar-con-cafiza/",
+    "/mantenimiento-y-descalcificacion/como-desatornillar-y-limpiar-la-ducha-del-grupo-en-delonghi-dedica-y-casabrews/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-resetear-la-alarma-de-descalcificacion-en-casabrews-3700-y-ultra.webp"
 }

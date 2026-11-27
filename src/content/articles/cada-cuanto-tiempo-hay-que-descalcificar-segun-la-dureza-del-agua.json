@@ -4,161 +4,116 @@
   "path": "/mantenimiento-y-descalcificacion/cada-cuanto-tiempo-hay-que-descalcificar-segun-la-dureza-del-agua/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cada cuanto descalcificar cafetera espresso",
   "title": "Calendario de Descalcificación según la Dureza del Agua de tu Ciudad (Blanda, Media o Dura)",
-  "seoTitle": "Calendario de Descalcificación según la Dureza del Agua de tu Ciudad (Blanda, Media o Dura) | Guía Barista Compacta",
-  "metaDescription": "Calendario de Descalcificación según la Dureza del Agua de tu Ciudad (Blanda, Media o Dura): Cada 4 meses con agua filtrada blanda (<60 ppm), cada 2 meses con agua media y cada 30–40 días en zonas de agua calcárea. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Cada 4 meses con agua filtrada blanda (<60 ppm), cada 2 meses con agua media y cada 30–40 días en zonas de agua calcárea.",
-  "quickAnswer": "Sobre cada cuanto descalcificar cafetera espresso: Cada 4 meses con agua filtrada blanda (<60 ppm), cada 2 meses con agua media y cada 30–40 días en zonas de agua calcárea. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Calendario de Descalcificación según la Dureza del Agua de tu Ciudad (Blanda, Media o Dura) | cafeteracompacta.com",
+  "metaDescription": "Descubre cada cuánto descalcificar tu cafetera espresso según los ppm o grados dH del agua de tu ciudad y cómo reprogramar el aviso en Breville y De'Longhi.",
+  "excerpt": "Esperar a que parpadee la luz de alerta con la configuración de fábrica puede calcificar tu termobloque en zonas de agua dura. Calcula tu frecuencia exacta por litros consumidos y dureza en ppm de CaCO3.",
+  "quickAnswer": "La frecuencia exacta para descalcificar una cafetera espresso depende de la concentración de carbonato cálcico (**ppm de CaCO3**) y de los litros erogados, no solo del calendario. Con **agua blanda (menos de 70 ppm)** basta descalcificar cada **4 a 6 meses** (**120 litros**); con **agua media (70–150 ppm)** cada **2 a 3 meses** (**60 litros**); y en zonas de **agua dura (más de 150 ppm)** cada **30 a 45 días**.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Cada 4 meses con agua filtrada blanda (<60 ppm), cada 2 meses con agua media y cada 30–40 días en zonas de agua calcárea., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Low-angle dramatic hero perspective with soft background bokeh on 35mm lens: realistic scene illustrating 'Calendario de Descalcificación según la Dureza del Agua de tu Ciudad (Blanda, Media o Dura)' (cada cuanto descalcificar cafetera espresso) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, in a well-organized domestic utility area with natural plants nearby, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Calendario de Descalcificación según la Dureza del Agua de tu Ciudad (Blanda, Media o Dura)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cada cuanto descalcificar cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Cada 4 meses con agua filtrada blanda (<60 ppm), cada 2 meses con agua media y cada 30–40 días en zonas de agua calcárea."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Confiar ciegamente en que tu cafetera te avisará justo a tiempo para descalcificar es una trampa frecuente si no has configurado antes el nivel de dureza del agua en su memoria electrónica. De fábrica, modelos como la **De’Longhi Dedica Arte (EC885M)** o la **CASABREWS CM5418** vienen preajustados en un nivel de dureza intermedio o miden simplemente un número fijo de ciclos de bomba (por ejemplo, **200 a 500 extracciones**). Si vives en una ciudad costera o mediterránea con agua dura de **más de 200 ppm de carbonato cálcico** y usas agua del grifo sin filtrar, el termobloque se calcificará mucho antes de que se encienda el piloto luminoso. Consulta en nuestro [hub de mantenimiento y descalcificación](/mantenimiento-y-descalcificacion/) cómo adaptar el cuidado preventivo a la química real de tu agua."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cada cuanto descalcificar cafetera espresso"
+      "text": "Tabla de frecuencia de descalcificación por dureza en ppm, grados alemanes y litros consumidos"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cada cuanto descalcificar cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Para saber con exactitud cada cuántas semanas debes ejecutar el ciclo antical, solo necesitas medir el agua que viertes en el tanque con una tira reactiva colorimétrica (incluida en la caja de las cafeteras **De’Longhi** y **Breville**) o un medidor digital **TDS**. Recuerda que tampoco debes irte al extremo opuesto de mineralización cero: conviene leer [si es seguro usar agua 100 % destilada o de ósmosis inversa (0 ppm)](/mantenimiento-y-descalcificacion/es-seguro-usar-agua-de-osmosis-inversa-para-no-descalcificar-nunca/) para evitar problemas de corrosión y falta de cuerpo en la extracción. Asimismo, si tienes una máquina suiza con filtro de resina en el tanque, revisa [cómo hacer el ciclo de limpieza y descalcificación en la Solis Barista Perfetta Plus](/mantenimiento-y-descalcificacion/como-descalcificar-solis-barista-perfetta-plus-paso-a-paso/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: cada cuanto descalcificar cafetera espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Clasificación del agua",
+        "Dureza en ppm (mg/L CaCO3) y grados °dH",
+        "Litros máximos antes de descalcificar",
+        "Frecuencia recomendada (para 2–4 cafés al día)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Cada 4 meses con agua filtrada blanda (<60 ppm), cada 2 meses con agua media y cada 30–40 días en zonas de agua calcárea.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Agua Blanda (Nivel 1)",
+          "35 a 70 ppm (2 a 4 °dH) — Ej. Madrid, Bogotá, Nueva York o agua embotellada de mineralización débil",
+          "100 a 120 litros de agua erogados",
+          "Cada 4 a 6 meses"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Agua Media (Nivel 2)",
+          "70 a 140 ppm (4 a 8 °dH) — Ej. agua de grifo pasada por jarra filtrante con cartucho fresco",
+          "50 a 70 litros de agua erogados",
+          "Cada 2 a 3 meses (60–90 días)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Agua Dura (Nivel 3)",
+          "140 a 250 ppm (8 a 14 °dH) — Ej. Miami, Los Ángeles, Lima, Ciudad de México o Valencia filtrada",
+          "25 a 35 litros de agua erogados",
+          "Cada 30 a 45 días"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Agua Muy Dura (Nivel 4)",
+          "Más de 250 ppm (> 14 °dH) — Ej. Barcelona, Palma de Mallorca, Phoenix o Texas directo del grifo",
+          "12 a 15 litros (No recomendado usar sin filtro)",
+          "Cada 2 a 3 semanas (imprescindible usar jarra filtrante o agua embotellada blanda)"
         ]
-      ]
+      ],
+      "caption": "Calendario técnico de descalcificación según la dureza del agua (ppm CaCO3 / °dH) y un consumo doméstico de 3 cafés diarios (incluyendo purgas y vapor)"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo reprogramar el aviso de dureza de agua en tu De’Longhi Dedica para que alerte a tiempo"
     },
     {
       "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre cada cuanto descalcificar cafetera espresso",
-      "text": "Cada 4 meses con agua filtrada blanda (<60 ppm), cada 2 meses con agua media y cada 30–40 días en zonas de agua calcárea. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "fabricante",
+      "text": "En la **De’Longhi Dedica (EC685 / EC885M)** puedes ajustar cuándo saltará la alarma naranja entrando al menú oculto de programación: mantén pulsado el botón de ** Vapor durante 10 segundos** hasta que los tres botones parpadeen, pulsa el botón de ** Vapor** y luego selecciona el botón de **1 taza (agua blanda)**, **2 tazas (agua media)** o **Vapor (agua dura)** según el resultado de tu tira reactiva. Así el contador electrónico de litros avisará exactamente cuando corresponda a tu ciudad.",
+      "title": "Ajuste del contador electrónico de litros en De’Longhi Dedica"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar cada cuanto descalcificar cafetera espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con cada cuanto descalcificar cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Estrategias prácticas para espaciar las descalcificaciones y proteger el termobloque"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Usa agua embotellada de mineralización débil (residuo seco entre 50 y 100 mg/L y bicarbonatos menores de 60 mg/L):** cumple el estándar de la **Specialty Coffee Association (SCA)**, realza las notas dulces del grano y reduce la necesidad de descalcificar a solo **2 o 3 veces al año**.",
+        "**Cambia el cartucho de resina de intercambio iónico cada 30 a 45 días:** si utilizas una jarra filtrante (tipo **Brita Maxtra Pro Limescale Expert** o **BWT con magnesio**) o un filtro dentro del tanque de una **Breville Bambino**, recuerda que la resina captadora de calcio se satura al mes aunque el filtro de carbón activo siga quitando el olor a cloro.",
+        "**Cuenta las purgas de calentamiento y el vapor en tu cálculo de litros:** preparar tres capuchinos diarios gasta apenas **120 ml** de agua en las tazas, pero entre las purgas previas para calentar el portafiltro, el vaporizado de la leche y el enjuague de la ducha, tu cafetera consume cerca de **0.8 a 1 litro diario**.",
+        "**Descalcifica antes si notas pérdida de presión en la lanceta de vapor:** el conducto generador de vapor trabaja a **125–135 °C**, temperatura a la que el carbonato cálcico precipita tres veces más rápido que a los **93 °C** de extracción del café."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "¿Quieres medir la dureza exacta del agua de tu cocina o adquirir cartuchos ablandadores y descalcificador EcoDecalk? Revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página o pregunta a nuestro Asesor IA qué intervalo de descalcificación corresponde a tu ciudad y modelo de cafetera."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cada cuanto descalcificar cafetera espresso?",
-      "a": "Cada 4 meses con agua filtrada blanda (<60 ppm), cada 2 meses con agua media y cada 30–40 días en zonas de agua calcárea. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Tengo que descalcificar mi cafetera si solo uso agua embotellada de mineralización débil?",
+      "a": "Sí, aunque con mucha menor frecuencia. Incluso el agua embotellada de mineralización muy débil (**40 a 60 ppm**) contiene calcio y magnesio necesarios para extraer los compuestos aromáticos del café. Al evaporarse agua a **130 °C** cuando usas la lanceta de vapor, esos minerales se depositan gradualmente, por lo que debes descalcificar cada **5 a 6 meses**."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿El agua filtrada por una jarra normal o por el dispensador del refrigerador evita la cal?",
+      "a": "Las jarras con filtro estándar de **carbón activado** eliminan principalmente cloro, pesticidas y sabores extraños, pero apenas reducen un **15 % a 25 %** la dureza temporal de carbonatos. Para ablandar agua dura necesitas cartuchos que combinen carbón activo con **resina de intercambio iónico** específica contra la cal."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cada cuántos ciclos se enciende la alerta de descalcificación en la CASABREWS CM5418?",
+      "a": "En la **CASABREWS CM5418**, los botones parpadean para recordar la descalcificación tras alcanzar **500 ciclos acumulados** (contando tanto extracciones de café como usos de la función de vapor). Si en tu ciudad el agua supera los **150 ppm**, no esperes a los 500 ciclos y ejecuta la limpieza cada **150 a 200 usos**."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/como-programar-la-dureza-del-agua-en-el-menu-de-delonghi-dedica/",
-    "/mantenimiento-y-descalcificacion/como-destapar-los-microagujeros-de-un-filtro-presurizado-obstruido/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/es-seguro-usar-agua-de-osmosis-inversa-para-no-descalcificar-nunca/",
+    "/mantenimiento-y-descalcificacion/mantenimiento-de-la-bascula-digital-calibracion-con-pesa-de-100g/",
+    "/mantenimiento-y-descalcificacion/que-repuestos-originales-tener-en-casa-para-tu-cafetera-compacta/",
+    "/mantenimiento-y-descalcificacion/como-descalcificar-solis-barista-perfetta-plus-paso-a-paso/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/cada-cuanto-tiempo-hay-que-descalcificar-segun-la-dureza-del-agua.webp"
 }

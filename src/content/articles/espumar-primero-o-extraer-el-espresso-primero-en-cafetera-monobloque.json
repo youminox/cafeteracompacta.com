@@ -4,161 +4,135 @@
   "path": "/espumadores-y-latte-art/espumar-primero-o-extraer-el-espresso-primero-en-cafetera-monobloque/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "hacer primero el espresso o espumar la leche",
   "title": "¿Qué Se Hace Primero en una Cafetera Compacta de 1 Thermoblock: el Espresso o la Leche?",
-  "seoTitle": "¿Qué Se Hace Primero en una Cafetera Compacta de 1 Thermoblock | Guía Barista Compacta",
-  "metaDescription": "¿Qué Se Hace Primero en una Cafetera Compacta de 1 Thermoblock: el Espresso o la Leche?: Extrae siempre primero el espresso y pasa enseguida a vapor; si vaporizas primero, el bloque queda a 130 °C y quemará el café si no purgas agua. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Extrae siempre primero el espresso y pasa enseguida a vapor; si vaporizas primero, el bloque queda a 130 °C y quemará el café si no purgas agua.",
-  "quickAnswer": "Sobre hacer primero el espresso o espumar la leche: Extrae siempre primero el espresso y pasa enseguida a vapor; si vaporizas primero, el bloque queda a 130 °C y quemará el café si no purgas agua. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "¿Qué Se Hace Primero en una Cafetera Compacta de 1 Thermoblock: el Espresso o la Leche? | cafeteracompacta.com",
+  "metaDescription": "Descubre si conviene hacer primero el espresso o espumar la leche en cafeteras compactas de 1 thermoblock como Breville Bambino, Dedica Arte y CASABREWS.",
+  "excerpt": "Analizamos la física térmica de las cafeteras monobloque entre 93 °C y 135 °C y la estabilidad de la microespuma frente a la crema para definir el orden exacto de trabajo.",
+  "quickAnswer": "En cualquier cafetera espresso compacta de un solo bloque térmico (thermoblock o ThermoJet), debes **hacer primero el espresso y espumar la leche después**. La crema del espresso soporta perfectamente **60 a 90 segundos** de espera con solo agitarla en círculos antes del vertido, mientras que la microespuma de leche se separa en menos de **20 segundos** y subir de **93 °C** a **135 °C** es mucho más rápido que enfriar la caldera.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Extrae siempre primero el espresso y pasa enseguida a vapor; si vaporizas primero, el bloque queda a 130 °C y quemará el café si no purgas agua., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating '¿Qué Se Hace Primero en una Cafetera Compacta de 1 Thermoblock: el Espresso o la Leche?' (hacer primero el espresso o espumar la leche) for cafeteracompacta.com, featuring equipment in terracotta copper accent with matte slate body, on a light terrazzo surface in a contemporary living space, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "¿Qué Se Hace Primero en una Cafetera Compacta de 1 Thermoblock: el Espresso o la Leche?"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **hacer primero el espresso o espumar la leche** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Extrae siempre primero el espresso y pasa enseguida a vapor; si vaporizas primero, el bloque queda a 130 °C y quemará el café si no purgas agua."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Espumadores Y Latte Art](/espumadores-y-latte-art/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Preparar un cappuccino en una cocina con una **De’Longhi Dedica Arte (EC885M)**, una **CASABREWS CM5418** o una **Breville Bambino (BES450)** plantea siempre el mismo dilema frente a la encimera: como la máquina dispone de un único circuito térmico para calentar tanto el agua de infusión a **92–93 °C** como el vapor a **130–140 °C**, es físicamente imposible realizar ambas tareas al mismo tiempo. Elegir el orden equivocado arruina la textura de la bebida antes de que la jarra toque la taza."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: hacer primero el espresso o espumar la leche"
+      "text": "Por qué debes extraer siempre el espresso antes de vaporizar la leche"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **hacer primero el espresso o espumar la leche** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "La regla técnica en cualquier cafetera compacta de **1 thermoblock** o **1 ThermoJet** es innegociable: **extrae primero el espresso y espuma la leche inmediatamente después**. La razón reside en la velocidad de degradación coloidal de ambos líquidos. Un espresso doble de **36 g** recién extraído a **9 bares** conserva su emulsión de aceites y su crema elástica intactas durante más de **90 segundos** a temperatura ambiente, mientras que la microespuma de leche empieza a sufrir drenaje gravitacional —separándose en líquido caliente abajo y espuma seca arriba— apenas **15 a 20 segundos** después de detener el vórtice. Si quieres profundizar en la física de la emulsión láctea, revisa nuestras guías en el [centro de espumadores y latte art](/espumadores-y-latte-art/)."
+    },
+    {
+      "type": "p",
+      "text": "Además, la transición térmica de subida es mucho más rápida y limpia que la de bajada. Pasar de los **93 °C** de extracción a los **135 °C** de vapor toma apenas **3 segundos** en el sistema **ThermoJet** de la **Breville Bambino (BES450)** y entre **15 y 22 segundos** en el bloque de aluminio de la **CASABREWS CM5418** o la **Dedica Arte**. En cambio, si vaporizas primero, tendrás que invertir entre **30 y 45 segundos** purgando agua y esperando a que el bloque descienda de **135 °C** a **93 °C**, tiempo durante el cual tu leche perderá su brillo de pintura húmeda."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: hacer primero el espresso o espumar la leche",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Variable crítica",
+        "1.º Espresso y 2.º Leche (Recomendado)",
+        "1.º Leche y 2.º Espresso (Desaconsejado)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Extrae siempre primero el espresso y pasa enseguida a vapor; si vaporizas primero, el bloque queda a 130 °C y quemará el café si no purgas agua.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Transición del thermoblock",
+          "Subida rápida de 93 °C a 135 °C (3 a 22 s)",
+          "Bajada lenta de 135 °C a 93 °C con purga (25 a 45 s)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Espera de la leche antes de verter",
+          "0 segundos (vertido inmediato al apagar vapor)",
+          "55 a 75 segundos (mientras purgas y extraes el café)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Estado de la microespuma al dibujar",
+          "Emulsión homogénea y brillante para latte art",
+          "Separación de fases: burbuja rígida arriba y suero abajo"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Riesgo térmico en el café molido",
+          "Nulo: extracción a 92–93 °C estables",
+          "Alto: riesgo de quemar la pastilla si no purgas bien"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre hacer primero el espresso o espumar la leche",
-      "text": "Extrae siempre primero el espresso y pasa enseguida a vapor; si vaporizas primero, el bloque queda a 130 °C y quemará el café si no purgas agua. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Comparativa de tiempos térmicos y estabilidad según el orden de preparación en cafeteras monobloque"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar hacer primero el espresso o espumar la leche hoy mismo en tu cocina"
+      "text": "Cómo mantener viva la crema del espresso mientras calienta el vapor"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Muchos principiantes temen que el espresso se enfríe o que la crema se vuelva rígida mientras purgan la lanceta y texturizan **150 ml** de leche, proceso que suma unos **40 a 50 segundos** en total. Para evitarlo, extrae el café directamente sobre una taza de porcelana gruesa precalentada a **45–50 °C**. Si estás empezando y controlas la temperatura con un [termómetro de clip digital o analógico en tu jarra](/espumadores-y-latte-art/termometros-de-clip-para-jarra-de-leche-digital-vs-analogico/), coloca la taza sobre la bandeja calientatazas superior de tu **CASABREWS CM5418** o **Dedica Arte** mientras espumas. Justo antes de verter la leche, imprime dos giros circulares a la taza (*swirl*) para romper la tensión superficial de la crema y devolverle su fluidez sedosa."
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Prepara la jarra fría antes de tocar el portafiltro",
+          "text": "Vierte 150 ml de leche entera a 4 °C en tu jarra de acero y déjala lista junto a la cafetera (o en la puerta de la nevera) antes de encender la bomba de café."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Extrae el espresso doble en taza precalentada",
+          "text": "Encaja el portafiltro con 16–18 g de café molido, extrae tus 32–36 g de líquido en 25–30 segundos y retira la taza para que no le caigan gotas residuales."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Activa el vapor y purga la condensación inicial",
+          "text": "Pulsa el botón de vapor; cuando alcance temperatura, abre la válvula 2 segundos hacia la bandeja de goteo para expulsar el agua condensada antes de sumergir la lanceta."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Texturiza, gira el espresso y vierte sin pausa",
+          "text": "Vaporiza la leche hasta 60–65 °C, limpia y purga la lanceta, da un giro circular simultáneo a la taza con una mano y a la jarra con la otra, y dibuja de inmediato."
         }
       ]
     },
     {
-      "type": "cta",
-      "text": "¿Tienes dudas con hacer primero el espresso o espumar la leche en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
       "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "La única excepción técnica: preparar dos bebidas con leche seguidas"
     },
     {
       "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "El único escenario donde el flujo cambia parcialmente es cuando debes servir dos cappuccinos o dos flat whites consecutivos en una máquina compacta. En ese caso, lo más eficiente es **extraer los dos espressos consecutivos primero** (mientras el thermoblock sigue estabilizado a **93 °C**) y, a continuación, pasar a modo vapor una sola vez para texturizar una jarra de **300 a 350 ml** de leche y repartirla entre ambas tazas. Asimismo, en modelos automatizados conviene mantener los conductos impecables; aquí puedes ver [cómo desbloquear y limpiar los 4 orificios de la lanceta en la Breville Bambino Plus](/espumadores-y-latte-art/por-que-la-lanceta-de-la-bambino-plus-pide-limpieza-y-como-desbloquearla/) para no perder presión entre tandas."
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Si vaporizas la leche primero y colocas el portafiltro cargado inmediatamente después sin realizar una purga de enfriamiento, el agua residual a más de 115 °C del thermoblock escaldará los aceites del café molido, generando un sabor amargo a caucho quemado.",
+      "title": "Peligro de sobretemperatura en la pastilla de café"
+    },
+    {
+      "type": "cta",
+      "text": "¿Dudas entre el calentamiento instantáneo ThermoJet de 3 segundos de las Breville Bambino o el bloque térmico clásico de las De’Longhi Dedica y CASABREWS? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre hacer primero el espresso o espumar la leche?",
-      "a": "Extrae siempre primero el espresso y pasa enseguida a vapor; si vaporizas primero, el bloque queda a 130 °C y quemará el café si no purgas agua. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿No se enfría demasiado el espresso si espero 40 segundos mientras espumo la leche?",
+      "a": "No se arruina si extraes sobre una taza precalentada. Un espresso pierde apenas 4 a 5 °C en un minuto, lo cual es ideal porque al mezclarse con leche a 62 °C la bebida final queda a unos 58–60 °C perfectos para beber de inmediato."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué la espuma de leche se estropea más rápido que la crema del café?",
+      "a": "La microespuma es una espuma coloidal inestable: al detener el remolino de vapor, el líquido drena hacia el fondo por gravedad y las microburbujas suben, uniéndose entre sí en menos de 30 segundos y formando una costra rígida imposible de verter en latte art."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué debo girar la taza de espresso en círculos justo antes de verter la leche?",
+      "a": "Cuando la crema reposa 30 o 40 segundos, los lípidos y melanoidinas suben a la superficie formando una película más densa; si viertes encima sin girar antes la taza, el chorro de leche perfora un agujero rígido en vez de deslizarse y mezclar el lienzo."
     }
   ],
   "related": [
-    "/espumadores-y-latte-art/",
-    "/espumadores-y-latte-art/como-enfriar-el-thermoblock-despues-de-espumar-temperatura-surfing/",
-    "/espumadores-y-latte-art/como-desatascar-la-boquilla-de-la-lanceta-de-vapor-con-aguja/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/espumadores-y-latte-art/termometros-de-clip-para-jarra-de-leche-digital-vs-analogico/",
+    "/espumadores-y-latte-art/por-que-la-lanceta-de-la-bambino-plus-pide-limpieza-y-como-desbloquearla/",
+    "/espumadores-y-latte-art/como-hacer-un-matcha-latte-con-la-lanceta-de-vapor-de-tu-cafetera/",
+    "/espumadores-y-latte-art/como-cuidar-jarras-de-leche-con-recubrimiento-de-teflon-o-color/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/espumar-primero-o-extraer-el-espresso-primero-en-cafetera-monobloque.webp"
 }

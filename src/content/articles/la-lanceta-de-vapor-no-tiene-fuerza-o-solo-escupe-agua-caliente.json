@@ -4,161 +4,128 @@
   "path": "/problemas-y-soluciones/la-lanceta-de-vapor-no-tiene-fuerza-o-solo-escupe-agua-caliente/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "vaporizador cafetera espresso sin fuerza solo sale agua",
   "title": "Solución si el Vaporizador de tu Cafetera Compacta Pierde Presión o Solo Saca Agua Caliente",
-  "seoTitle": "Solución si el Vaporizador de tu Cafetera Compacta Pierde Presión o Solo Saca Agua Caliente | Guía Barista Compacta",
-  "metaDescription": "Solución si el Vaporizador de tu Cafetera Compacta Pierde Presión o Solo Saca Agua Caliente: Primero desentapona el orificio de la punta con la aguja incluida y, si persiste, realiza un ciclo de descalcificación del Thermoblock. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Primero desentapona el orificio de la punta con la aguja incluida y, si persiste, realiza un ciclo de descalcificación del Thermoblock.",
-  "quickAnswer": "Sobre vaporizador cafetera espresso sin fuerza solo sale agua: Primero desentapona el orificio de la punta con la aguja incluida y, si persiste, realiza un ciclo de descalcificación del Thermoblock. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Solución si el Vaporizador de tu Cafetera Compacta Pierde Presión o Solo Saca Agua Caliente | cafeteracompacta.com",
+  "metaDescription": "¿Tienes el vaporizador de tu cafetera espresso sin fuerza o solo sale agua? Aprende a desatascar la boquilla de leche calcificada y recuperar la presión.",
+  "excerpt": "Guía práctica para restaurar la potencia de vapor en sistemas Thermoblock y ThermoJet: desobstrucción con aguja de 0.8 mm, purga previa de condensación y descalcificación profunda del circuito térmico.",
+  "quickAnswer": "Un **vaporizador de cafetera espresso sin fuerza o donde solo sale agua** suele estar obstruido por proteínas de leche caramelizadas en la boquilla de **1 mm** o por sarro en el *Thermoblock*. Además, olvidar la purga inicial de **4 segundos** inyecta agua condensada directamente en la jarra. Desenroscar la punta metálica, destaparla con aguja de acero y descalcificar el circuito restaura el vapor seco a **130 °C**.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Primero desentapona el orificio de la punta con la aguja incluida y, si persiste, realiza un ciclo de descalcificación del Thermoblock., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Macro texture and build-quality detail shot with shallow depth of field: realistic scene illustrating 'Solución si el Vaporizador de tu Cafetera Compacta Pierde Presión o Solo Saca Agua Caliente' (vaporizador cafetera espresso sin fuerza solo sale agua) for cafeteracompacta.com, featuring equipment in terracotta copper accent with matte slate body, on a clean stone countertop with neatly arranged accessories, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Solución si el Vaporizador de tu Cafetera Compacta Pierde Presión o Solo Saca Agua Caliente"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **vaporizador cafetera espresso sin fuerza solo sale agua** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Primero desentapona el orificio de la punta con la aguja incluida y, si persiste, realiza un ciclo de descalcificación del Thermoblock."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Tienes la jarra de acero con leche fría a **4 °C** lista para texturizar tu *latte*, pulsas el icono de vapor en tu **CASABREWS CM5418**, **De’Longhi Dedica Arte EC885M** o **Breville Bambino**, abres la válvula y, en lugar de un chorro potente y constante de gas seco, la boquilla apenas sopla sin fuerza o escupe chorros intermitentes de agua hirviendo que aguan la leche sin crear ni una burbuja de microespuma. Cuando te enfrentas a un **vaporizador de cafetera espresso sin fuerza o donde solo sale agua**, la máquina no está logrando evaporar el caudal que envía la bomba o tiene un tapón físico en la punta de **1 mm**. Si además has notado últimamente que [el espresso sale frío o tibio en tu cafetera compacta](/problemas-y-soluciones/el-espresso-sale-frio-o-tibio-en-mi-cafetera-compacta/), ambos síntomas apuntan directamente a incrustaciones calcáreas dentro del calentador *Thermoblock* o *ThermoJet*."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: vaporizador cafetera espresso sin fuerza solo sale agua"
+      "text": "Qué frena el vapor en un sistema Thermoblock o ThermoJet: leche seca, condensación y cal"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **vaporizador cafetera espresso sin fuerza solo sale agua** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "A diferencia de una caldera tradicional que almacena vapor a presión, las cafeteras compactas modernas inyectan pequeños pulsos de agua (escucharás un *clac-clac-clac* rítmico de la bomba) dentro de un serpentín de aluminio y acero inoxidable calentado a **125–135 °C**, donde cada gota se transforma instantáneamente en vapor seco. Este sistema falla por tres motivos concretos: primero, cuando no purgas ni limpias la lanceta tras espumar, el vacío térmico que se produce al enfriarse el tubo aspira unas gotas de leche hacia adentro, donde la lactosa y las proteínas se hornean formando un cemento duro en el orificio de **0.8 a 1.2 mm**. Segundo, los primeros **3 a 5 segundos** de salida siempre arrastran el agua líquida fría estancada en la tubería; si metes la lanceta en la leche sin purgar antes, solo inyectarás agua caliente. Y tercero, el sarro acumulado en el serpentín aísla las paredes metálicas e impide que el agua alcance el punto de vaporización, un fallo tan frecuente como cuando [la cafetera gotea agua por los lados del portafiltro](/problemas-y-soluciones/cafetera-espresso-gotea-agua-por-los-lados-del-portafiltro/) y que abordamos a fondo en nuestro [hub de problemas y soluciones para cafeteras compactas](/problemas-y-soluciones/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: vaporizador cafetera espresso sin fuerza solo sale agua",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Comportamiento de la lanceta",
+        "Origen del problema",
+        "Sonido de la bomba de impulsos",
+        "Solución definitiva"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Primero desentapona el orificio de la punta con la aguja incluida y, si persiste, realiza un ciclo de descalcificación del Thermoblock.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Soplido muy débil o nulo aunque la bomba golpea",
+          "Orificio de la punta obstruido por leche caramelizada",
+          "Golpeteo sordo que se frena por contrapresión",
+          "Desenroscar la punta, remojar en agua caliente y pasar aguja de 0.8 mm"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Sale un chorro de agua los primeros segundos y luego vapor débil",
+          "Falta de purga previa o selección de agua caliente en vez de vapor",
+          "Continuo o pulsos lentos antes de llegar a 130 °C",
+          "Esperar luz fija de vapor, purgar 5 segundos en un trapo y luego espumar"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Solo escupe agua caliente con salpicaduras todo el tiempo",
+          "Thermoblock calcificado que no alcanza temperatura de evaporación (125 °C+)",
+          "Pulsos normales pero sin transición a gas seco",
+          "Ejecutar ciclo completo de descalcificación con ácido cítrico o láctico pasando por la lanceta"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "El vapor escapa por la rótula superior o quema el dedo",
+          "Junta tórica interna de la punta rota o tubo Panarello mal encajado",
+          "Normal",
+          "Reemplazar el pequeño O-ring de silicona de la rosca de la boquilla"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre vaporizador cafetera espresso sin fuerza solo sale agua",
-      "text": "Primero desentapona el orificio de la punta con la aguja incluida y, si persiste, realiza un ciclo de descalcificación del Thermoblock. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Diagnóstico técnico de fallos en la lanceta de vapor de cafeteras compactas"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar vaporizador cafetera espresso sin fuerza solo sale agua hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Procedimiento para desatascar la boquilla y recuperar el 100 % de potencia de vapor"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Desmontaje y baño térmico de la punta de la lanceta",
+          "text": "Con el tubo frío, desenrosca en sentido antihorario la puntera metálica (en la **Breville Bambino** la llave está en la herramienta bajo el tanque; en **CASABREWS CM5418** y **De’Longhi Dedica Arte** sale a mano o con un paño) y sumérgela **15 minutos** en agua muy caliente con una pizca de detergente para cafeteras."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Desobstrucción con la aguja de acero desde adentro hacia afuera",
+          "text": "Introduce el pin metálico de limpieza tanto por el orificio frontal como desde la rosca interior para expulsar cualquier costra de caseína seca; en modelos con tubo *Panarello*, limpia también el pequeño agujero superior de entrada de aire."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Purga en abierto sin la boquilla puesta",
+          "text": "Antes de volver a enroscar la punta, activa el vapor durante **5 segundos** apuntando a una jarra vacía para que el caudal libre expulse posibles escamas de cal desprendidas del tubo interior."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Descalcificación dirigida por el conducto de vapor",
+          "text": "Si el chorro sigue húmedo con la boquilla limpia, disuelve descalcificador específico para espresso en el tanque y haz pasar al menos **400 ml** de la solución a través de la lanceta en modo agua caliente y modo vapor, dejando actuar el líquido **10 minutos** a mitad del proceso."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "El hábito barista de 4 segundos que evita que tu lanceta vuelva a taponarse"
+    },
+    {
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "Las proteínas de la leche se solidifican en menos de **15 segundos** sobre el acero caliente de una lanceta a **130 °C**. Adopta siempre esta rutina innegociable: **purga 4 segundos antes de meter el tubo en la jarra** hasta ver solo vapor seco, y **apenas retires la jarra, limpia el exterior con una bayeta húmeda dedicada y abre el vapor 2 segundos al aire** para escupir cualquier gota de leche que haya entrado por succión en la punta.",
+      "title": "Purga antes y después: el secreto de una lanceta impecable"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con vaporizador cafetera espresso sin fuerza solo sale agua en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Si necesitas líquido descalcificador oficial para circuitos *Thermoblock* y *ThermoJet*, agujas desincrustantes de precisión o una jarra de leche de acero inoxidable con termómetro, consulta al Asesor IA del portal o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre vaporizador cafetera espresso sin fuerza solo sale agua?",
-      "a": "Primero desentapona el orificio de la punta con la aguja incluida y, si persiste, realiza un ciclo de descalcificación del Thermoblock. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué mi CASABREWS o De’Longhi saca solo agua caliente al abrir la rueda lateral?",
+      "a": "Sí, es el error más común. Si giras la perilla lateral antes de haber pulsado el botón de vapor y esperado a que su indicador deje de parpadear (unos 15 a 25 segundos en Thermoblock), la cafetera entiende que quieres agua para té a 90 °C en lugar de vapor a 130 °C."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Puedo usar un palillo de madera si perdí la aguja metálica de limpieza?",
+      "a": "No. Jamás uses palillos de madera ni mondadientes de bambú para destapar una lanceta de vapor: la punta fina de madera se hincha con la humedad y se parte fácilmente dentro del orificio de 1 mm, dejando un tapón orgánico mucho más difícil de extraer que la propia leche seca."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué hago si la lanceta de la Breville Bambino deja de funcionar de golpe y parpadean las luces?",
+      "a": "Cuando la Breville Bambino o Bambino Plus detecta un bloqueo severo en la lanceta o supera los 200 ciclos sin descalcificar, reduce o corta la salida de vapor y hace parpadear los indicadores LED. Desenroscar la punta con la herramienta alojada bajo el depósito de agua suele destaparla al instante."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/manometro-casabrews-marca-sobrepresion-y-no-sale-cafe/",
+    "/problemas-y-soluciones/cafetera-espresso-gotea-agua-por-los-lados-del-portafiltro/",
     "/problemas-y-soluciones/el-espresso-sale-frio-o-tibio-en-mi-cafetera-compacta/",
-    "/problemas-y-soluciones/pastilla-de-cafe-aguada-o-con-charco-de-agua-encima-es-un-defecto/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/el-cafe-sale-solo-por-uno-de-los-dos-picos-del-portafiltro/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/la-lanceta-de-vapor-no-tiene-fuerza-o-solo-escupe-agua-caliente.webp"
 }

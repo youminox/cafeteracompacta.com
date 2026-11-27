@@ -4,161 +4,122 @@
   "path": "/problemas-y-soluciones/mi-espresso-sale-en-8-segundos-como-agua-sucia-sin-crema/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "espresso sale muy rapido y sin crema",
   "title": "Diagnóstico Rápido: Tu Espresso Sale Como un Chorro en Menos de 10 Segundos y sin Crema",
-  "seoTitle": "Diagnóstico Rápido | Guía Barista Compacta",
-  "metaDescription": "Diagnóstico Rápido: Tu Espresso Sale Como un Chorro en Menos de 10 Segundos y sin Crema: El agua no encuentra resistencia: si usas café pre-molido pon la cesta presurizada; si usas portafiltro Bottomless, necesitas moler mucho más fino. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "El agua no encuentra resistencia: si usas café pre-molido pon la cesta presurizada; si usas portafiltro Bottomless, necesitas moler mucho más fino.",
-  "quickAnswer": "Sobre espresso sale muy rapido y sin crema: El agua no encuentra resistencia: si usas café pre-molido pon la cesta presurizada; si usas portafiltro Bottomless, necesitas moler mucho más fino. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Diagnóstico Rápido: Tu Espresso Sale Como un Chorro en Menos de 10 Segundos y sin Crema | cafeteracompacta.com",
+  "metaDescription": "¿Tu espresso sale en 8 segundos aguado y sin crema? Aprende a ajustar molienda, dosis en gramos y cesta en cafeteras de 51 y 54 mm paso a paso.",
+  "excerpt": "Guía práctica de diagnóstico cuando el café cae como un chorro turbulento en menos de 10 segundos: cómo elegir entre filtro presurizado o de pared simple, calibrar el molino y medir la dosis exacta.",
+  "quickAnswer": "Cuando el espresso cae en menos de 10 segundos con aspecto acuoso y sin crema, el agua atraviesa la pastilla sin encontrar resistencia hidráulica suficiente (subextracción). Esto ocurre por usar café premolido grueso en una cesta no presurizada, dosificar menos de 14 gramos en portafiltros de 51 mm o 17 gramos en 54 mm, o emplear grano tostado hace más de 60 días que ya perdió su gas CO2.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: El agua no encuentra resistencia: si usas café pre-molido pon la cesta presurizada; si usas portafiltro Bottomless, necesitas moler mucho más fino., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Dynamic action-ready placement on clean counter surface with subtle reflections: realistic scene illustrating 'Diagnóstico Rápido: Tu Espresso Sale Como un Chorro en Menos de 10 Segundos y sin Crema' (espresso sale muy rapido y sin crema) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, on a light terrazzo surface in a contemporary living space, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Diagnóstico Rápido: Tu Espresso Sale Como un Chorro en Menos de 10 Segundos y sin Crema"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **espresso sale muy rapido y sin crema** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. El agua no encuentra resistencia: si usas café pre-molido pon la cesta presurizada; si usas portafiltro Bottomless, necesitas moler mucho más fino."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Colocas tu taza precalentada bajo los picos de una **Breville Bambino (BES450)**, una **De’Longhi Dedica Arte (EC885M)** o una **CASABREWS CM5418**, pulsas el botón de extracción doble y en apenas **6 a 8 segundos** el flujo termina. En lugar de un hilo denso color avellana con textura de miel tibia, obtienes un chorro turbulento, salpicaduras oscuras en las paredes de la taza y una bebida ácida, plana y coronada por una fina espuma blanca que se disipa en segundos. Además, al desenroscar el portafiltro es habitual notar que [queda un charquito de agua encima de la pastilla](/problemas-y-soluciones/pastilla-de-cafe-aguada-o-con-charco-de-agua-encima-es-un-defecto/) porque el café molido no ofreció la densidad necesaria para compactarse bajo la ducha del grupo."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: espresso sale muy rapido y sin crema"
+      "text": "Por qué una bomba de 15 o 20 bares no genera crema si la pastilla no frena el agua"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **espresso sale muy rapido y sin crema** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Un error frecuente al estrenar cafetera compacta es creer que la bomba vibratoria ULKA de **15 bares** o **20 bares** fabrica la presión por sí sola. En realidad, la bomba solo impulsa caudal de agua; la presión real de **9 bares** necesaria para emulsionar los aceites del café se genera únicamente cuando el lecho de café molido actúa como una barrera física. Si pasas de la cesta presurizada original (de doble pared con un único micro-orificio inferior) a una cesta despresurizada de pared simple (con cientos de agujeros abiertos) pero sigues usando café premolido de supermercado, el agua se escapa a más de **5 ml por segundo**. Si al cerrar el molino te pasas al extremo opuesto y [la cafetera solo gotea muy lento](/problemas-y-soluciones/mi-cafetera-tarda-mas-de-50-segundos-en-sacar-medio-vaso-goteando/), habrás bloqueado la malla. Puedes consultar más ajustes de flujo en nuestra [sección de problemas y soluciones](/problemas-y-soluciones/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: espresso sale muy rapido y sin crema",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Síntoma en taza y tiempo",
+        "Lectura en manómetro (ej. CM5418)",
+        "Causa técnica principal",
+        "Ajuste correctivo inmediato"
       ],
       "rows": [
         [
-          "Clave principal",
-          "El agua no encuentra resistencia: si usas café pre-molido pon la cesta presurizada; si usas portafiltro Bottomless, necesitas moler mucho más fino.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Chorro turbulento en 5–8 s, líquido translúcido sin crema",
+          "La aguja no sube de la zona Pre-Infusion (< 4 bares)",
+          "Café premolido grueso usado en cesta de pared simple no presurizada",
+          "Moler en rango espresso fino o volver a la cesta presurizada de doble pared"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Sale en 9–12 s con espuma blanca de burbujas grandes que desaparece",
+          "Sube a zona Espresso pero cae brusco a los 4 segundos",
+          "Grano oxidado (> 60 días de tueste) o canalización por falta de gramaje",
+          "Usar grano con 10–35 días de tueste y subir dosis a 14–15 g (51 mm) o 17–18 g (54 mm)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Empieza lento 3 s y de golpe rompe en chorro rubio en 10 s",
+          "Pico inicial normal y caída repentina a mitad del tiro",
+          "Tampeo torcido o grieta lateral en la pastilla (channeling severo)",
+          "Distribuir con aguja WDT de 0.4 mm y compactar recto con tamper calibrado"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre espresso sale muy rapido y sin crema",
-      "text": "El agua no encuentra resistencia: si usas café pre-molido pon la cesta presurizada; si usas portafiltro Bottomless, necesitas moler mucho más fino. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Diagnóstico del flujo rápido según el tipo de filtro, gramaje y comportamiento del manómetro"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar espresso sale muy rapido y sin crema hoy mismo en tu cocina"
+      "text": "Dosis crítica según el diámetro del portafiltro: 51 mm frente a 54 mm y 58 mm"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "callout",
+      "variant": "tip",
+      "text": "La ventana de tueste óptima para espresso se sitúa entre los **7 y 35 días** posteriores a la fecha impresa en la bolsa. La crema auténtica se forma cuando el agua a **92–94 °C** sometida a **9 bares** disuelve el gas **CO2** atrapado en la fibra celular del grano recién tostado y lo libera al caer a presión atmosférica en la taza. Un café en grano abierto hace tres meses o un paquete premolido al vacío ya ha perdido más del **85 % de su CO2**, por lo que jamás producirá crema persistente aunque ajustes el tiempo a **28 segundos**.",
+      "title": "La regla del CO2: sin tueste fresco no existe emulsión de crema"
+    },
+    {
+      "type": "h2",
+      "text": "Protocolo en 4 pasos para pasar de un chorro de 8 segundos a una extracción de 27 segundos"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Emparejar el tipo de cesta con tu molienda actual",
+          "text": "Si todavía no tienes un molino de muelas cónicas para espresso, instala la cesta presurizada (Dual Wall) en tu Breville Bambino, De’Longhi Dedica Arte o CASABREWS CM5418. Si usas cesta no presurizada (Single Wall), es obligatorio moler grano fresco al momento."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Pesar la dosis exacta con báscula de 0.1 gramos",
+          "text": "No midas por cucharadas. Carga entre 14.0 y 15.0 gramos en portafiltros de 51 mm (Dedica EC885M y CASABREWS CM5418) o entre 17.5 y 18.5 gramos en portafiltros de 54 mm (Breville Bambino BES450 y Bambino Plus BES500). Un déficit de solo 2 gramos reduce la resistencia hidráulica a la mitad."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Cerrar la granulometría de forma escalonada",
+          "text": "En tu molino de espresso, reduce entre 3 y 4 clics hacia el ajuste más fino. Al tocar el café molido con las yemas de los dedos, debe sentirse suave como harina fina y mantener su huella al presionarlo, sin textura arenosa como azúcar."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Distribuir y compactar con presión uniforme de 13 a 15 kg",
+          "text": "Rompe los grumos con un distribuidor de agujas WDT y presiona completamente perpendicular con un tamper metálico ajustado (51 mm o 53.3 mm) hasta sentir que el lecho de café deja de ceder, logrando extraer el doble del peso en líquido (30 a 36 g) en 25 a 30 segundos."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con espresso sale muy rapido y sin crema en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Necesitas ayuda para elegir una báscula con temporizador de 0.1 g, un tamper calibrado o un molino compatible con tu cafetera? Consulta a nuestro Asesor IA o revisa la disponibilidad actual de accesorios en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre espresso sale muy rapido y sin crema?",
-      "a": "El agua no encuentra resistencia: si usas café pre-molido pon la cesta presurizada; si usas portafiltro Bottomless, necesitas moler mucho más fino. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué mi café sale en 7 segundos si el paquete dice molido para espresso?",
+      "a": "Los paquetes de café molido comercial están calibrados con una molienda media-gruesa pensada para cafeteras italianas moka, filtro de goteo o cestas presurizadas. En una cesta no presurizada de pared simple, esas partículas grandes dejan canales abiertos por donde el agua a 9 bares escapa en menos de 8 segundos sin extraer sólidos solubles."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cuántos gramos de café debo poner en el portafiltro de 51 mm para que no salga aguado?",
+      "a": "En una cesta doble de 51 mm como la de la De’Longhi Dedica Arte (EC885M) o la CASABREWS CM5418, la dosis óptima es de 14 a 15 gramos para tuestes medios y hasta 16 gramos en tuestes claros. Si pones solo una cuchara dosificadora rasa (unos 9 gramos), el agua atravesará la pastilla sin resistencia."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cómo distingo la crema real de la espuma falsa de un café que sale muy rápido?",
+      "a": "La crema real tiene color avellana oscuro o atigrado, microburbujas invisibles a simple vista, textura elástica que sostiene el azúcar un par de segundos y dura varios minutos. La espuma de un café rápido y subextraído es beige pálida, con burbujas grandes tipo jabón que se abren por el centro en menos de 15 segundos."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/pastilla-de-cafe-aguada-o-con-charco-de-agua-encima-es-un-defecto/",
+    "/problemas-y-soluciones/el-portafiltro-esta-muy-duro-y-no-gira-hasta-el-centro/",
     "/problemas-y-soluciones/mi-cafetera-tarda-mas-de-50-segundos-en-sacar-medio-vaso-goteando/",
-    "/problemas-y-soluciones/el-cafe-sale-solo-por-uno-de-los-dos-picos-del-portafiltro/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/breville-bambino-plus-error-de-lanceta-bloqueada-tres-luces/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/mi-espresso-sale-en-8-segundos-como-agua-sucia-sin-crema.webp"
 }

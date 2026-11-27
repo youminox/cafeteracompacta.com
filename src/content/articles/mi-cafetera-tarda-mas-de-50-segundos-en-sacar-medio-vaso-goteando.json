@@ -4,161 +4,116 @@
   "path": "/problemas-y-soluciones/mi-cafetera-tarda-mas-de-50-segundos-en-sacar-medio-vaso-goteando/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cafetera espresso gotea muy lento casi no sale",
   "title": "Diagnóstico Rápido: Tu Cafetera Solo Gotea Muy Lento y Tarda 1 Minuto en Sacar el Café",
-  "seoTitle": "Diagnóstico Rápido | Guía Barista Compacta",
-  "metaDescription": "Diagnóstico Rápido: Tu Cafetera Solo Gotea Muy Lento y Tarda 1 Minuto en Sacar el Café: Has taponado el flujo: abre 2 o 3 clics el molino, reduce 1 gramo la dosis o limpia el micro-orificio inferior si usas cesta presurizada. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Has taponado el flujo: abre 2 o 3 clics el molino, reduce 1 gramo la dosis o limpia el micro-orificio inferior si usas cesta presurizada.",
-  "quickAnswer": "Sobre cafetera espresso gotea muy lento casi no sale: Has taponado el flujo: abre 2 o 3 clics el molino, reduce 1 gramo la dosis o limpia el micro-orificio inferior si usas cesta presurizada. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Diagnóstico Rápido: Tu Cafetera Solo Gotea Muy Lento y Tarda 1 Minuto en Sacar el Café | cafeteracompacta.com",
+  "metaDescription": "¿Tu cafetera espresso solo gotea muy lento o no saca café? Identifica si la cesta está saturada por molienda extra fina o exceso de gramos.",
+  "excerpt": "Soluciona el bloqueo hidráulico en cafeteras compactas de 15 y 20 bares: cómo diferenciar un taponamiento por molienda tipo talco de un filtro presurizado obstruido o falta de descalcificación.",
+  "quickAnswer": "Si tu cafetera tarda más de 50 segundos en extraer media taza y apenas gotea, estás ante un bloqueo hidráulico de la pastilla (choking). La causa principal es usar una molienda demasiado fina o superar la capacidad en gramos del filtro, especialmente en cestas presurizadas de doble pared de 51 mm o 54 mm cuyo único micro-orificio inferior se tapona con finos de café o aceites rancios.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Has taponado el flujo: abre 2 o 3 clics el molino, reduce 1 gramo la dosis o limpia el micro-orificio inferior si usas cesta presurizada., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Close inspection angle highlighting materials, latches and finish: realistic scene illustrating 'Diagnóstico Rápido: Tu Cafetera Solo Gotea Muy Lento y Tarda 1 Minuto en Sacar el Café' (cafetera espresso gotea muy lento casi no sale) for cafeteracompacta.com, featuring equipment in arctic white with warm stone-gray details, on a warm walnut table beside a sunlit window, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Diagnóstico Rápido: Tu Cafetera Solo Gotea Muy Lento y Tarda 1 Minuto en Sacar el Café"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cafetera espresso gotea muy lento casi no sale** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Has taponado el flujo: abre 2 o 3 clics el molino, reduce 1 gramo la dosis o limpia el micro-orificio inferior si usas cesta presurizada."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Encajas el portafiltro, pulsas el botón de extracción y el sonido vibrante de la bomba cambia en pocos segundos a un zumbido sordo y amortiguado. Pasan **15, 25, 45 segundos** y por las boquillas apenas asoman gotas negras aisladas, densas y con olor a tostado amargo, hasta que la cafetera corta el ciclo dejando menos de **15 ml** en el fondo de la taza. Además, al retirar el mango tras este bloqueo hidráulico (conocido en barismo como *choking*), es muy frecuente que exista un vacío de presión y [la cesta metálica se queda pegada a la ducha del grupo](/problemas-y-soluciones/la-cesta-se-queda-pegada-a-la-ducha-del-grupo-al-quitar-el-portafiltro/) o salpique barro caliente al desenroscarlo rápido."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cafetera espresso gotea muy lento casi no sale"
+      "text": "Cómo distinguir una pastilla ahogada por molienda fina de un filtro presurizado taponado"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cafetera espresso gotea muy lento casi no sale** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Para saber en menos de **30 segundos** si la culpa es del café o de la máquina, retira el portafiltro, saca la cesta metálica y pulsa el botón de **1 taza** en vacío. Si por la ducha superior de tu **Breville Bambino (BES450)**, **De’Longhi Dedica Arte (EC885M)** o **CASABREWS CM5418** cae una cortina uniforme de agua a buen caudal, la bomba y el termobloque están intactos: el tapón está en tu cesta o en tu molienda. En cambio, si sin portafiltro tampoco cae agua y además notas que [la lanceta de vapor pierde fuerza o escupe agua](/problemas-y-soluciones/la-lanceta-de-vapor-no-tiene-fuerza-o-solo-escupe-agua-caliente/), existe calcificación interna. También ten presente que forzar 3 o 4 intentos seguidos con el filtro bloqueado recalienta el circuito y puede hacer que [parpadean todos los botones al mismo tiempo en la CASABREWS CM5418](/problemas-y-soluciones/casabrews-cm5418-parpadean-todos-los-botones-al-mismo-tiempo/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: cafetera espresso gotea muy lento casi no sale",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Prueba de diagnóstico",
+        "Resultado observado",
+        "Componente responsable",
+        "Solución técnica definitiva"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Has taponado el flujo: abre 2 o 3 clics el molino, reduce 1 gramo la dosis o limpia el micro-orificio inferior si usas cesta presurizada.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Tirar agua sin el portafiltro puesto",
+          "Cae una lluvia uniforme y continua por la ducha del grupo",
+          "Bomba y caldera sanas; el bloqueo está en la molienda o en la cesta",
+          "Engrosar molienda 2–4 puntos o destapar el filtro presurizado"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Tirar agua con el portafiltro puesto y la cesta vacía (sin café)",
+          "El agua se acumula dentro de la cesta y apenas gotea por debajo",
+          "El micro-orificio único de la cesta presurizada de doble pared está obstruido",
+          "Hervir la cesta 10 min con detergente Cafiza o vinagre y desatascar con aguja de 0.3 mm"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Mirar la pastilla húmeda tras intentar extraer café",
+          "Se ve la marca del tornillo o la rejilla de la ducha hundida en el café",
+          "Sobredosis de gramos: el café seco se hinchó y selló la salida de agua",
+          "Reducir la dosis en 1.5 a 2.0 gramos para dejar 2 mm de espacio libre superior"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Tirar agua sin portafiltro ni cesta",
+          "Solo gotea débilmente y la bomba suena muy forzada o silenciosa",
+          "Obstrucción por sarro de calcio en el termobloque o bolsa de aire en la bomba",
+          "Ejecutar ciclo completo de descalcificación ácida o cebar el tanque de agua"
         ]
-      ]
+      ],
+      "caption": "Pruebas rápidas para localizar el origen del goteo lento en tu cafetera compacta"
+    },
+    {
+      "type": "h2",
+      "text": "El error de usar molienda fina de espresso dentro de una cesta presurizada de doble pared"
     },
     {
       "type": "callout",
       "variant": "aviso",
-      "title": "Precaución técnica sobre cafetera espresso gotea muy lento casi no sale",
-      "text": "Has taponado el flujo: abre 2 o 3 clics el molino, reduce 1 gramo la dosis o limpia el micro-orificio inferior si usas cesta presurizada. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "Las cestas presurizadas que incluyen de serie la **CASABREWS CM5418**, la **CASABREWS 3700Essential**, la **De’Longhi Dedica** y la **Breville Bambino** poseen un doble fondo sellado donde todo el líquido debe salir por **1 solo agujero central** del grosor de un alfiler. Si compras un molino eléctrico profesional o pides en una cafetería de especialidad que te muelan el grano \"fino para espresso\", esas micropartículas atraviesan la primera malla y cementan la cámara interna del doble fondo en el primer segundo de presión. Con molienda fina de molino dedicado debes usar siempre una **cesta no presurizada de pared simple**.",
+      "title": "Advertencia técnica: nunca combines molienda tipo talco con filtro de doble pared"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar cafetera espresso gotea muy lento casi no sale hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con cafetera espresso gotea muy lento casi no sale en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Lista de verificación para destapar el flujo y volver al rango de 25 a 30 segundos"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Verificación a contraluz de la cesta:** Sostén el filtro limpio frente a una lámpara; si es de doble pared y no ves un punto de luz nítido en el centro, introduce la aguja limpiadora (incluida bajo el tanque en Breville y CASABREWS) desde la cara exterior hacia adentro.",
+        "**Prueba de la moneda para el espacio de cabeza (headspace):** Tras compactar el café en seco, debe quedar al menos **2 mm de margen** entre la superficie de la pastilla y la ducha del grupo para que el café pueda expandirse al hidratarse sin taponar los poros de salida de agua.",
+        "**Ajuste del molino al cambiar de grano:** Los cafés de tueste oscuro o descafeinados son más porosos y quebradizos, generando muchos más finos que obstruyen el filtro; abre **2 o 3 clics más grueso** tu molino respecto a un tueste medio.",
+        "**Limpieza de la ducha superior del grupo:** Pasa un cepillo de cerdas rígidas por la rejilla metálica superior de la cafetera cada semana, o retira su tornillo central (en modelos **De’Longhi Dedica** y **CASABREWS**) para eliminar aceites polimerizados que frenan la salida del agua."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "¿Tu filtro presurizado original ya no recupera el flujo o quieres dar el salto a un portafiltro sin fondo con cesta de pared simple de 51 mm o 54 mm? Pregunta a nuestro Asesor IA qué medida exacta usa tu modelo o comprueba la disponibilidad actual en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cafetera espresso gotea muy lento casi no sale?",
-      "a": "Has taponado el flujo: abre 2 o 3 clics el molino, reduce 1 gramo la dosis o limpia el micro-orificio inferior si usas cesta presurizada. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué el manómetro de mi CASABREWS CM5418 sube al máximo de la zona roja y no sale café?",
+      "a": "Cuando la aguja del manómetro de la CASABREWS CM5418 se clava al final de la zona roja (Overpressure) y apenas gotea café, significa que la bomba está trabajando contra un tapón hermético a su presión máxima de alivio. La pastilla es impermeable porque moliste demasiado fino, pusiste exceso de gramos o la cesta presurizada está obstruida."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cómo se destapa una cesta presurizada de doble pared cuando ni siquiera pasa el agua sola?",
+      "a": "En algunas cestas presurizadas de De’Longhi Dedica puedes retirar el inserto plástico o desenroscar la base para limpiar la cámara interna, pero en los filtros sellados por estampación de CASABREWS o Breville lo más eficaz es sumergirlos 20 minutos en agua hirviendo con media cucharadita de percarbonato sódico o detergente Cafiza para disolver los aceites sólidos."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Apretar demasiado fuerte con el tamper puede hacer que el café no salga?",
+      "a": "La fuerza con la que presionas el tamper tiene un impacto menor de lo que se cree: a partir de los 13 o 15 kg de presión vertical, el aire entre partículas ya fue expulsado y el café no se comprime más. Si tu cafetera se bloquea, no es por apretar fuerte, sino por grosor de molienda o exceso de gramos."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/la-lanceta-de-vapor-no-tiene-fuerza-o-solo-escupe-agua-caliente/",
+    "/problemas-y-soluciones/la-cesta-se-queda-pegada-a-la-ducha-del-grupo-al-quitar-el-portafiltro/",
     "/problemas-y-soluciones/casabrews-cm5418-parpadean-todos-los-botones-al-mismo-tiempo/",
-    "/problemas-y-soluciones/mi-espresso-sale-en-8-segundos-como-agua-sucia-sin-crema/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/sale-mucho-agua-a-la-bandeja-de-goteo-despues-de-cada-cafe/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/mi-cafetera-tarda-mas-de-50-segundos-en-sacar-medio-vaso-goteando.webp"
 }

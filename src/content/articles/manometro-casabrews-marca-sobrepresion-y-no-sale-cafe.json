@@ -4,161 +4,118 @@
   "path": "/problemas-y-soluciones/manometro-casabrews-marca-sobrepresion-y-no-sale-cafe/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "manometro casabrews marca sobrepresion y no sale cafe",
   "title": "Qué Hacer si el Manómetro de la CASABREWS CM5418 Pasa a la Zona Roja (Over-Pressure) y Solo Gotea",
-  "seoTitle": "Qué Hacer si el Manómetro de la CASABREWS CM5418 Pasa a la Zona Roja (Over-Pressure) y Solo Gotea | Guía Barista Compacta",
-  "metaDescription": "Qué Hacer si el Manómetro de la CASABREWS CM5418 Pasa a la Zona Roja (Over-Pressure) y Solo Gotea: Has bloqueado la cesta ('choking') por moler demasiado fino o poner demasiados gramos en el filtro presurizado: abre 2 clics el molino. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Has bloqueado la cesta ('choking') por moler demasiado fino o poner demasiados gramos en el filtro presurizado: abre 2 clics el molino.",
-  "quickAnswer": "Sobre manometro casabrews marca sobrepresion y no sale cafe: Has bloqueado la cesta ('choking') por moler demasiado fino o poner demasiados gramos en el filtro presurizado: abre 2 clics el molino. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Qué Hacer si el Manómetro de la CASABREWS CM5418 Pasa a la Zona Roja (Over-Pressure) y Solo Gotea | cafeteracompacta.com",
+  "metaDescription": "Soluciona el bloqueo por sobrepresión en la CASABREWS CM5418 cuando el manómetro entra en la zona roja y no sale café. Desatasca el filtro de 51 mm seguro.",
+  "excerpt": "Cuando la aguja de tu CASABREWS CM5418 se clava en la zona roja y el café apenas gotea, el circuito está bloqueado a más de 12 bares. Aprende a despresurizar sin quemarte y desatascar el filtro.",
+  "quickAnswer": "Cuando el manómetro de la **CASABREWS CM5418** se clava en la zona roja (**Over-Pressure**) y no sale café, el paso del agua está bloqueado por una molienda excesivamente fina, una dosis superior a **14.5 gramos** en el filtro de **51 mm** o el micro-orificio de la cesta presurizada taponado. Detén el botón de extracción, espera **60 segundos** hasta que la aguja baje a cero antes de soltar el portafiltro y desatasca la cesta.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Has bloqueado la cesta ('choking') por moler demasiado fino o poner demasiados gramos en el filtro presurizado: abre 2 clics el molino., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Eye-level 35mm editorial documentary photograph: realistic scene illustrating 'Qué Hacer si el Manómetro de la CASABREWS CM5418 Pasa a la Zona Roja (Over-Pressure) y Solo Gotea' (manometro casabrews marca sobrepresion y no sale cafe) for cafeteracompacta.com, featuring equipment in graphite gray with subtle amber indicator details, in a clean modern garage or studio corner with slate flooring, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Qué Hacer si el Manómetro de la CASABREWS CM5418 Pasa a la Zona Roja (Over-Pressure) y Solo Gotea"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **manometro casabrews marca sobrepresion y no sale cafe** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Has bloqueado la cesta ('choking') por moler demasiado fino o poner demasiados gramos en el filtro presurizado: abre 2 clics el molino."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Pulsas el botón de **2 tazas** en tu **CASABREWS CM5418**, la bomba vibratoria arranca con su zumbido característico y, a los **4 segundos**, el sonido se vuelve sordo y ahogado mientras la aguja del manómetro frontal se dispara hacia el extremo derecho —la franja roja de **OVER-PRESSURE** por encima de **12 a 15 bares**— sin que caiga ni una sola gota de café por los picos del portafiltro. Este fenómeno se conoce en jerga técnica como **ahogar el grupo (*choking*)** y ocurre cuando la resistencia en la cesta de **51 mm** supera la fuerza máxima de empuje de la bomba, creando un tapón hidráulico hermético. En nuestro catálogo de [problemas y soluciones para cafeteras espresso compactas](/problemas-y-soluciones/), esta alerta exige una maniobra de seguridad inmediata antes de tocar el mango del portafiltro."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: manometro casabrews marca sobrepresion y no sale cafe"
+      "text": "Peligro de explosión de posos: por qué debes esperar 60 segundos antes de desenroscar el portafiltro"
+    },
+    {
+      "type": "h2",
+      "text": "Las 3 causas de sobrepresión en el filtro de 51 mm (incluso sin poner café) y cómo diagnosticarlas"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **manometro casabrews marca sobrepresion y no sale cafe** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Una vez que la aguja ha bajado a cero y has retirado el portafiltro con un charco de agua caliente atrapado sobre el café, debes identificar si el bloqueo lo causó la molienda o la propia cesta metálica, siguiendo nuestra [tabla maestra de diagnóstico barista en 10 segundos](/problemas-y-soluciones/tabla-maestra-de-diagnostico-barista-sintoma-causa-y-solucion-en-10-segundos/). El caso más desconcertante ocurre cuando pruebas la cafetera **con el portafiltro puesto pero sin café** y el manómetro vuelve a clavarse en la zona roja sin soltar agua: eso confirma al **100 %** que el único micro-orificio inferior (**0.3 mm**) de la cesta presurizada de doble pared (**Dual Wall**) está taponado por una partícula fina de café cristalizada con grasa. La segunda causa más frecuente es moler demasiado fino (como para cesta profesional despresurizada) pero introducir ese polvo fino dentro de la cesta presurizada **Dual Wall**, sumando dos barreras que bloquean el flujo. Por último, cargar más de **15 gramos** en la cesta de **51 mm** o [levantar el borde de la pastilla al retirar el embudo magnético](/problemas-y-soluciones/como-evitar-que-el-embudo-magnetico-levante-el-cafe-al-quitarlo/) hace que el café hinchado tape la malla de la ducha superior."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: manometro casabrews marca sobrepresion y no sale cafe",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Prueba rápida",
+        "Comportamiento del manómetro y caudal",
+        "Causa raíz exacta",
+        "Solución definitiva"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Has bloqueado la cesta ('choking') por moler demasiado fino o poner demasiados gramos en el filtro presurizado: abre 2 clics el molino.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Accionar 1 taza SIN portafiltro puesto",
+          "Sale lluvia abundante por la ducha y la aguja queda en 0 bares",
+          "El termobloque y la bomba funcionan bien; el tapón está en el portafiltro",
+          "Pasar a revisar la cesta de 51 mm y el grosor de molienda"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Accionar con portafiltro y cesta Dual Wall VACÍA (sin café)",
+          "La aguja sube a la zona roja y no sale agua (o sale un hilo fino)",
+          "El micro-orificio único (0.3 mm) del doble fondo de la cesta está obstruido",
+          "Hervir la cesta 15 min con 3 g de Urnex Cafiza y desatascar el poro a contraluz con aguja fina"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Accionar con café usando cesta Dual Wall limpia",
+          "La aguja pasa a zona roja y solo caen gotas negras amargas a los 20 s",
+          "Molienda tipo harina (demasiado fina para filtro presurizado) o dosis > 15 g",
+          "Engrosar 3-4 puntos la molienda o reducir la dosis a 13.5-14 g exactos"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Accionar SIN portafiltro y la aguja sube a zona roja sin salir agua",
+          "Zumbido ahogado y cero agua por la ducha ni por la lanceta",
+          "Obstrucción calcárea interna en la salida del termobloque o ducha taponada",
+          "Desmontar tornillo central de la ducha del grupo y realizar descalcificación ácida"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre manometro casabrews marca sobrepresion y no sale cafe",
-      "text": "Has bloqueado la cesta ('choking') por moler demasiado fino o poner demasiados gramos en el filtro presurizado: abre 2 clics el molino. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Diagnóstico diferencial cuando el manómetro de la CASABREWS CM5418 entra en zona roja (Over-Pressure)"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar manometro casabrews marca sobrepresion y no sale cafe hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Paso a paso para desatascar el micro-poro de la cesta presurizada de 51 mm"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Verificar el bloqueo a contraluz",
+          "text": "Saca la cesta **Dual Wall** del portafiltro y mírala frente a la linterna del móvil: en el centro exacto de la cara exterior verás un único punto diminuto de **0.3 mm**. Si no pasa un haz nítido de luz, hay posos y aceites atrapados entre las dos paredes de acero."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Baño térmico alcalino e inversión en el grupo",
+          "text": "Sumerge la cesta durante **20 minutos** en un tazón con **300 ml de agua hirviendo** y **3 gramos de Urnex Cafiza** (o percarbonato sódico) para disolver el tapón interno de grasa; después, atraviesa suavemente el micro-orificio desde fuera hacia dentro con la aguja fina de limpieza incluida en la caja de tu **CASABREWS**."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Purga invertida a presión bajo la ducha",
+          "text": "Coloca la cesta limpia **boca abajo** encima de la rejilla de la bandeja de goteo o sujétala invertida en el portafiltro sin encajar del todo y lanza un chorro de agua caliente del grupo durante **5 segundos** para expulsar las micropartículas sueltas desde el orificio exterior hacia el interior amplio del filtro."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con manometro casabrews marca sobrepresion y no sale cafe en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Tu cesta presurizada original de **51 mm** sigue obstruida o quieres dar el salto a un portafiltro sin fondo (*bottomless*) con cesta despresurizada **IMS de 51 mm** y polvo **Urnex Cafiza**? Consulta la disponibilidad actual en las tarjetas de Amazon integradas en esta página o pregunta a nuestro Asesor IA qué accesorios encajan con las **3 orejetas** de tu **CASABREWS CM5418**."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre manometro casabrews marca sobrepresion y no sale cafe?",
-      "a": "Has bloqueado la cesta ('choking') por moler demasiado fino o poner demasiados gramos en el filtro presurizado: abre 2 clics el molino. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cómo libero la presión de forma segura cuando la aguja se queda clavada en la zona roja?",
+      "a": "Apaga de inmediato la extracción pulsando el botón que esté iluminado (**1 Cup o 2 Cup**) y **no toques el mango del portafiltro**. Espera entre **45 y 60 segundos** mirando el reloj frontal hasta que la presión acumulada se libere lentamente y la aguja descienda por completo al extremo izquierdo."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Se puede romper la bomba de 20 bares de la CASABREWS CM5418 si entra en Over-Pressure?",
+      "a": "Un bloqueo puntual de **10 a 15 segundos** no rompe la bomba vibratoria Ulka porque el circuito cuenta con una válvula interna de seguridad de alivio térmico e hidráulico. Sin embargo, insistir repetidamente con el filtro taponado recalienta la bobina electromagnética de la bomba y deforma la junta de silicona del grupo."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cómo sé si estoy poniendo demasiada cantidad de café en el filtro de 51 mm?",
+      "a": "Comprueba que la moneda de café seca deje al menos **2 milímetros de margen libre** respecto a la ducha superior. Si al poner **14.5 gramos** y colocar el portafiltro en la máquina (y sacarlo sin encenderla) ves la marca del tornillo central hundida en el café seco, estás sobredosificando y taponando la salida de agua."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/como-evitar-que-el-embudo-magnetico-levante-el-cafe-al-quitarlo/",
+    "/problemas-y-soluciones/tabla-maestra-de-diagnostico-barista-sintoma-causa-y-solucion-en-10-segundos/",
     "/problemas-y-soluciones/breville-bambino-dos-luces-parpadeando-alternativamente-o-fijas/",
-    "/problemas-y-soluciones/manometro-casabrews-cm5418-no-sube-de-presion-causas-y-solucion/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/la-bomba-hace-ruido-fuerte-pero-no-sale-agua-como-cebar-airlock/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/manometro-casabrews-marca-sobrepresion-y-no-sale-cafe.webp"
 }

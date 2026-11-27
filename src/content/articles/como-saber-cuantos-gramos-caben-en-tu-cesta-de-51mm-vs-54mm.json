@@ -3,162 +3,134 @@
   "pillar": "extraccion-y-recetas-espresso",
   "path": "/extraccion-y-recetas-espresso/como-saber-cuantos-gramos-caben-en-tu-cesta-de-51mm-vs-54mm/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "cuantos gramos de cafe lleva un portafiltro de 51mm y 54mm",
   "title": "Cuántos Gramos de Café Poner en un Portafiltro de 51 mm (14–16 g) vs 54 mm (17–19 g) vs 58 mm (18–20 g)",
-  "seoTitle": "Cuántos Gramos de Café Poner en un Portafiltro de 51 mm (14–16 g) vs 54 mm (17–19 g) vs 58 mm (18–20 g) | Guía Barista Compacta",
-  "metaDescription": "Cuántos Gramos de Café Poner en un Portafiltro de 51 mm (14–16 g) vs 54 mm (17–19 g) vs 58 mm (18–20 g): Forzar 19 g en una cesta original de 51 mm bloquea la ducha; usa 14–15 g en la cesta de fábrica de 51 mm o 16–18 g en una cesta profunda Bottomless. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Forzar 19 g en una cesta original de 51 mm bloquea la ducha; usa 14–15 g en la cesta de fábrica de 51 mm o 16–18 g en una cesta profunda Bottomless.",
-  "quickAnswer": "Sobre cuantos gramos de cafe lleva un portafiltro de 51mm y 54mm: Forzar 19 g en una cesta original de 51 mm bloquea la ducha; usa 14–15 g en la cesta de fábrica de 51 mm o 16–18 g en una cesta profunda Bottomless. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Cuántos Gramos de Café Poner en un Portafiltro de 51 mm (14–16 g) vs 54 mm (17–19 g) vs 58 mm (18–20 g) | cafeteracompacta.com",
+  "metaDescription": "Guía técnica con los gramos exactos de café para portafiltros de 51 mm, 54 mm y 58 mm según el tipo de cesta y cómo aplicar el test de la moneda en casa.",
+  "excerpt": "Analizamos la capacidad real en gramos de las cestas presurizadas y no presurizadas de 51 mm, 54 mm y 58 mm, cómo influye el tueste en la densidad del grano y cuánto espacio libre dejar bajo la ducha.",
+  "quickAnswer": "Una cesta doble de 51 mm (como en la De’Longhi Dedica o CASABREWS CM5418) admite entre 14 y 16 g de café molido; un portafiltro de 54 mm (Breville Bambino BES450/BES500) rinde de forma óptima con 17 a 19 g, mientras que el estándar comercial de 58 mm carga de 18 a 20 g. Siempre debes respetar un margen libre de 1.5 a 2 mm entre la pastilla compactada y la ducha del grupo.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Forzar 19 g en una cesta original de 51 mm bloquea la ducha; usa 14–15 g en la cesta de fábrica de 51 mm o 16–18 g en una cesta profunda Bottomless., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Wide environmental domestic interior shot on 24mm lens: realistic scene illustrating 'Cuántos Gramos de Café Poner en un Portafiltro de 51 mm (14–16 g) vs 54 mm (17–19 g) vs 58 mm (18–20 g)' (cuantos gramos de cafe lleva un portafiltro de 51mm y 54mm) for cafeteracompacta.com, featuring equipment in arctic white with warm stone-gray details, in a clean modern garage or studio corner with slate flooring, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cuántos Gramos de Café Poner en un Portafiltro de 51 mm (14–16 g) vs 54 mm (17–19 g) vs 58 mm (18–20 g)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cuantos gramos de cafe lleva un portafiltro de 51mm y 54mm** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Forzar 19 g en una cesta original de 51 mm bloquea la ducha; usa 14–15 g en la cesta de fábrica de 51 mm o 16–18 g en una cesta profunda Bottomless."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Intentar replicar al pie de la letra una receta de cafetería de especialidad cargando **18 gramos** de café en la cesta original de una **De’Longhi Dedica Arte EC885M** o de una **CASABREWS CM5418** termina siempre con el mismo desastre: el portafiltro apenas gira hasta la mitad del recorrido, la pastilla choca contra el tornillo de la ducha y el agua se bloquea por completo. La razón es puramente geométrica: a menor diámetro de cesta (**51 mm** frente a **54 mm** o **58 mm**), la misma masa de café forma una columna mucho más alta que altera la resistencia hidráulica. Antes de ajustar tu molino o [precalentar el portafiltro con un disparo en vacío](/extraccion-y-recetas-espresso/por-que-es-imprescindible-precalentar-el-portafiltro-con-un-disparo-en-vacio/), necesitas ajustar el gramaje en seco al volumen cilíndrico real de tu filtro."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cuantos gramos de cafe lleva un portafiltro de 51mm y 54mm"
-    },
-    {
-      "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cuantos gramos de cafe lleva un portafiltro de 51mm y 54mm** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Tabla técnica de dosificación en gramos para cestas de 51 mm, 54 mm y 58 mm según el nivel de tueste"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: cuantos gramos de cafe lleva un portafiltro de 51mm y 54mm",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Diámetro y Cafeteras Compatibles",
+        "Tipo de Cesta Doble",
+        "Dosis Tueste Oscuro / Medio-Oscuro",
+        "Dosis Tueste Medio / Claro",
+        "Líquido Objetivo en Taza (Ratio 1:2)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Forzar 19 g en una cesta original de 51 mm bloquea la ducha; usa 14–15 g en la cesta de fábrica de 51 mm o 16–18 g en una cesta profunda Bottomless.",
-          "Mejora la consistencia y evita errores de extracción"
+          "51 mm (CASABREWS CM5418 / 3700Essential, De’Longhi Dedica EC885M / EC950M)",
+          "Presurizada original de fábrica",
+          "13.0 – 14.0 g",
+          "14.0 – 15.0 g",
+          "28 – 30 g de espresso en 22–26 s"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "51 mm (Cesta IMS / Despresurizada para Bottomless)",
+          "No presurizada pared recta (altura 24–26 mm)",
+          "14.5 – 15.5 g",
+          "15.5 – 16.5 g",
+          "30 – 33 g de espresso en 25–30 s"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "54 mm (Breville Bambino BES450 / Bambino Plus BES500)",
+          "No presurizada simple pared de serie",
+          "16.5 – 17.5 g",
+          "17.5 – 19.0 g",
+          "34 – 38 g de espresso en 26–30 s"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "58 mm (Cabezal comercial E61 / Lelit / Gaggia / IMS B70)",
+          "Comercial estándar 18 g de precisión",
+          "17.5 – 18.5 g",
+          "18.5 – 20.0 g",
+          "36 – 40 g de espresso en 27–32 s"
         ]
-      ]
+      ],
+      "caption": "Capacidad real en gramos y rendimiento líquido (ratio 1:2) por diámetro de portafiltro y tipo de filtro"
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de barista sobre cuantos gramos de cafe lleva un portafiltro de 51mm y 54mm",
-      "text": "Forzar 19 g en una cesta original de 51 mm bloquea la ducha; usa 14–15 g en la cesta de fábrica de 51 mm o 16–18 g en una cesta profunda Bottomless. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "Un grano de tueste oscuro ha perdido más humedad y celulosa durante la pirólisis, por lo que es menos denso y ocupa hasta un **15 % más de volumen** a igualdad de peso que un grano de tueste claro etíope o colombiano. Si cambias de un blend italiano oscuro a un café de especialidad de tueste medio en tu **Breville Bambino de 54 mm**, deberás subir la dosis de **17 g a 18.5 g** para mantener el mismo nivel de llenado y evitar que quede una piscina de agua fangosa sobre la pastilla.",
+      "title": "Por qué 16 gramos de tueste oscuro ocupan más espacio que 16 gramos de tueste claro"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar cuantos gramos de cafe lleva un portafiltro de 51mm y 54mm hoy mismo en tu cocina"
+      "text": "Geometría del lecho de café y por qué las cestas estrechas requieren una molienda ligeramente más gruesa"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Al comparar una cesta de **51 mm** con una comercial de **58 mm**, el área transversal se reduce un **22.7 %** (de **26.4 cm²** a **20.4 cm²**). Esto significa que, incluso reduciendo la carga a **15 gramos** en una **CASABREWS CM5418** o **De’Longhi Dedica Maestro Plus EC950M**, la pastilla de café tiene mayor profundidad vertical que una dosis de **18 gramos** extendida en **58 mm**. Como el agua presurizada a **9 bares** debe atravesar un camino vertical más largo, si utilizas el mismo grosor de molienda que en una máquina comercial ahogarás la bomba. Por ello, nuestro [repertorio de extracción y recetas espresso](/extraccion-y-recetas-espresso/) recomienda calibrar el molino un punto más abierto en portafiltros de **51 mm**, especialmente cuando busques caudales restringidos como en la [receta del flat white australiano con doble ristretto](/extraccion-y-recetas-espresso/receta-de-flat-white-autentico-australiano-en-cafetera-compacta/)."
+    },
+    {
+      "type": "h2",
+      "text": "Cómo hacer el 'Test de la Moneda' (Nickel Test) para encontrar el gramaje exacto de tu cesta"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Pesar y compactar tu dosis inicial en seco",
+          "text": "Muele en tu báscula de precisión 15 g (para 51 mm) o 18 g (para 54 mm), distribuye con aguja WDT y aplica un prensado firme y nivelado con el tamper."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Colocar una moneda limpia de 1.8 a 2 mm de grosor",
+          "text": "Deposita una moneda pequeña higienizada justo en el centro de la pastilla de café seca y compactada."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Acoplar el portafiltro al grupo apagado y retirarlo",
+          "text": "Inserta el portafiltro en la cafetera hasta su posición habitual de bloqueo sin encender la bomba, y desbloquéalo de inmediato con suavidad."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Evaluar la huella sobre la superficie del café",
+          "text": "Si la moneda se hundió dejando una marca profunda, resta 0.5 a 1 g de café; si apenas rozó la superficie o no dejó huella, tu espacio libre de expansión (headspace) de 2 mm es perfecto."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con cuantos gramos de cafe lleva un portafiltro de 51mm y 54mm en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Explora las cestas de precisión IMS de 51 mm y 54 mm, básculas de espresso con resolución de 0.1 g y embudos dosificadores en las tarjetas de Amazon de esta página, o consulta a nuestro Asesor IA para verificar la compatibilidad exacta con tu cafetera compacta."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cuantos gramos de cafe lleva un portafiltro de 51mm y 54mm?",
-      "a": "Forzar 19 g en una cesta original de 51 mm bloquea la ducha; usa 14–15 g en la cesta de fábrica de 51 mm o 16–18 g en una cesta profunda Bottomless. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué la pastilla de café sale húmeda o con barro encima al quitar el portafiltro?",
+      "a": "Eso ocurre cuando hay exceso de espacio libre (headspace) entre el café y la ducha, o porque la cafetera carece de válvula solenoide de 3 vías (como la Breville Bambino estándar BES450 o la De’Longhi Dedica EC885M). Si el sabor y el tiempo de 25 a 30 segundos son correctos, una pastilla húmeda no es un defecto de extracción."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cuántos gramos debo poner en la cesta individual de 1 taza?",
+      "a": "Las cestas simples tienen paredes cónicas tipo embudo que provocan extracciones muy desiguales y canalización. Incluso si quieres una bebida corta o suave, los baristas recomiendan usar siempre la cesta doble cargada con su gramaje óptimo (15 g en 51 mm o 18 g en 54 mm) y dividir el tiro por las dos boquillas."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Un embudo dosificador magnético ayuda a meter los gramos exactos sin derramar café?",
+      "a": "Sí, por completo. Sin un embudo magnético (dosing ring), meter 15 g en 51 mm o 18 g en 54 mm desborda una montaña de café esponjoso antes de prensar, haciéndote perder hasta 1.5 g en la encimera. El embudo permite aplicar WDT cómodamente y dar un golpe seco vertical para asentar el polvo antes de compactar."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/que-es-el-salami-shot-el-experimento-para-entender-las-3-fases-del-espresso/",
     "/extraccion-y-recetas-espresso/por-que-es-imprescindible-precalentar-el-portafiltro-con-un-disparo-en-vacio/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/receta-de-flat-white-autentico-australiano-en-cafetera-compacta/",
+    "/extraccion-y-recetas-espresso/receta-de-iced-latte-y-iced-americano-de-verano/",
+    "/extraccion-y-recetas-espresso/receta-de-espresso-macchiato-tradicional-manchado-con-espuma/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-saber-cuantos-gramos-caben-en-tu-cesta-de-51mm-vs-54mm.webp"
 }

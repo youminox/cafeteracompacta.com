@@ -4,161 +4,128 @@
   "path": "/extraccion-y-recetas-espresso/receta-de-flat-white-autentico-australiano-en-cafetera-compacta/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "receta flat white en cafetera espresso",
   "title": "Cómo Preparar un Flat White Auténtico en Casa (Doble Ristretto + 120 ml de Microespuma Fina)",
-  "seoTitle": "Cómo Preparar un Flat White Auténtico en Casa (Doble Ristretto + 120 ml de Microespuma Fina) | Guía Barista Compacta",
-  "metaDescription": "Cómo Preparar un Flat White Auténtico en Casa (Doble Ristretto + 120 ml de Microespuma Fina): La bebida favorita de las cafeterías de especialidad: intenso sabor a café con una capa de solo 5 mm de leche sedosa a 62 °C. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "La bebida favorita de las cafeterías de especialidad: intenso sabor a café con una capa de solo 5 mm de leche sedosa a 62 °C.",
-  "quickAnswer": "Sobre receta flat white en cafetera espresso: La bebida favorita de las cafeterías de especialidad: intenso sabor a café con una capa de solo 5 mm de leche sedosa a 62 °C. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Cómo Preparar un Flat White Auténtico en Casa (Doble Ristretto + 120 ml de Microespuma Fina) | cafeteracompacta.com",
+  "metaDescription": "Receta técnica de flat white en cafetera espresso compacta: doble ristretto de 28 g, 120 ml de leche texturizada a 60 °C y microespuma sedosa de solo 5 mm.",
+  "excerpt": "Aprende a ejecutar el auténtico Flat White australiano en tu cafetera compacta: desde cómo cortar un doble ristretto intenso hasta cómo emulsionar una capa de microespuma fina de medio centímetro sin burbujas.",
+  "quickAnswer": "El auténtico Flat White de estilo australiano se elabora en una taza cerámica de 150 a 160 ml combinando una base de doble ristretto (18 g de café molido para extraer 27 a 30 g de líquido en 24 segundos) con 120 ml de leche entera vaporizada a 58–62 °C. Su sello distintivo es una capa de microespuma elástica de apenas 5 mm de grosor que se integra desde el primer sorbo.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: La bebida favorita de las cafeterías de especialidad: intenso sabor a café con una capa de solo 5 mm de leche sedosa a 62 °C., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Wide environmental domestic interior shot on 24mm lens: realistic scene illustrating 'Cómo Preparar un Flat White Auténtico en Casa (Doble Ristretto + 120 ml de Microespuma Fina)' (receta flat white en cafetera espresso) for cafeteracompacta.com, featuring equipment in warm sand beige with matte black hardware, in a bright family home interior with clean architectural lines, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Preparar un Flat White Auténtico en Casa (Doble Ristretto + 120 ml de Microespuma Fina)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **receta flat white en cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. La bebida favorita de las cafeterías de especialidad: intenso sabor a café con una capa de solo 5 mm de leche sedosa a 62 °C."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Pedir un Flat White en muchas cafeterías comerciales y recibir un vaso gigante de **300 ml** lleno de leche hirviendo o coronado por una montaña rígida de espuma seca de dos dedos es una traición total a la receta nacida en Sídney y Wellington. El verdadero **Flat White** fue diseñado para quienes buscan la textura sedosa y láctea de la microespuma sin que el volumen de leche ahogue el carácter del grano de origen. En una cafetera compacta como la **Breville Bambino BES450/BES500**, la **De’Longhi Dedica Arte EC885M** o la **CASABREWS CM5418**, lograr ese equilibrio exige dos ajustes milimétricos que lo separan de otras bebidas como las [diferencias entre espresso macchiato tradicional y latte macchiato](/extraccion-y-recetas-espresso/receta-de-espresso-macchiato-tradicional-manchado-con-espuma/): concentrar la base en un **doble ristretto** y limitar la capa superior de espuma a solo **5 milímetros**."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: receta flat white en cafetera espresso"
+      "text": "La anatomía del Flat White auténtico: por qué se sirve en taza de 150–160 ml con base de doble ristretto"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **receta flat white en cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Para que el sabor a café tostado atraviese la grasa láctea con intensidad pero sin amargor, la escuela australiana sustituye el espresso estándar (ratio **1:2**) por un **doble ristretto** extraído en ratio **1:1.5**. Si utilizas el portafiltro de **54 mm de la Breville Bambino**, cargas **18 gramos** de café molido fino y detienes la bomba al alcanzar **27 a 28 gramos** de líquido en unos **23 a 25 segundos**; si trabajas con el portafiltro de **51 mm de la CASABREWS CM5418 o la De’Longhi Dedica**, dosificas **15.5 gramos** para cortar el tiro en **23 a 24 gramos**. Esta extracción temprana captura todo el cuerpo viscoso y el dulzor caramelizado del grano, evitando las colas acuosas que arruinarían la densidad de una taza pequeña de **150 a 160 ml** (de forma análoga a cómo concentramos el tiro al [preparar un iced latte de verano sin aguar el café](/extraccion-y-recetas-espresso/receta-de-iced-latte-y-iced-americano-de-verano/) o al calibrar la [proporción exacta para un café americano o long black](/extraccion-y-recetas-espresso/como-hacer-un-americano-perfecto-en-casa-proporcion-agua-y-espresso/))."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: receta flat white en cafetera espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Parámetro Barista",
+        "Flat White Auténtico",
+        "Cappuccino de Especialidad",
+        "Caffè Latte Clásico"
       ],
       "rows": [
         [
-          "Clave principal",
-          "La bebida favorita de las cafeterías de especialidad: intenso sabor a café con una capa de solo 5 mm de leche sedosa a 62 °C.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Volumen de la taza cerámica",
+          "150 – 160 ml (5 – 5.5 oz)",
+          "180 ml (6 oz)",
+          "240 – 250 ml (8 – 8.5 oz)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Base de café recomendada",
+          "Doble Ristretto (24 – 28 g líquidos)",
+          "Espresso Doble (34 – 36 g) o Simple (18 g)",
+          "Espresso Doble (36 – 40 g líquidos)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Leche fría vertida en la jarra",
+          "115 – 125 ml (incremento de volumen +15 %)",
+          "130 – 140 ml (incremento de volumen +35 %)",
+          "190 – 200 ml (incremento de volumen +20 %)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Grosor de la capa de microespuma",
+          "5 mm (superficie plana 'wet paint')",
+          "12 – 15 mm (cúpula elástica y cremosa)",
+          "8 – 10 mm (textura fluida para latte art)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre receta flat white en cafetera espresso",
-      "text": "La bebida favorita de las cafeterías de especialidad: intenso sabor a café con una capa de solo 5 mm de leche sedosa a 62 °C. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Comparativa técnica entre Flat White, Cappuccino de especialidad y Caffè Latte"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar receta flat white en cafetera espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Cómo vaporizar 120 ml de leche en una lanceta doméstica sin pasarte de aireación"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Dosificar 120 ml de leche entera a 4 °C en jarra de 350 ml",
+          "text": "Vierte leche fría recién sacada del refrigerador justo hasta la base interna del pico vertedor de una jarra pequeña de 350 ml (12 oz) para que la punta de vapor tenga profundidad suficiente."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Airear solo de 2 a 3 segundos al inicio (fase de estiramiento)",
+          "text": "Con la lanceta MyLatte Art de la Dedica Arte, la CASABREWS CM5418 o la Bambino, introduce aire con un suave siseo de papel rasgado durante apenas 2 a 3 segundos hasta que el volumen suba solo un 15 %."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Sumergir la punta 1 cm para crear el vórtice de pulido (texturizado)",
+          "text": "Inclina la jarra para generar un remolino silencioso que rompa cualquier burbuja visible hasta alcanzar los 58–62 °C (cuando la pared metálica quema la palma tras 1 segundo de contacto)."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Golpear, girar y verter alto antes de dibujar a ras de taza",
+          "text": "Purga la lanceta, gira la leche hasta que brille como pintura fresca, vierte a 8 cm de altura para integrar la crema marrón y baja el pico en los últimos 30 ml para sellar con una rosetta o corazón plano."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Ajuste automático MilQ y AutoLatte para Flat White en Breville Bambino Plus y Dedica Maestro Plus"
+    },
+    {
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "Si utilizas una cafetera compacta con vaporización asistida por sensor térmico, como la **Breville Bambino Plus (BES500)** o la **De’Longhi Dedica Maestro Plus (EC950M)**, el error más común es seleccionar el nivel medio o alto de espuma pensado para capuchino. Para lograr los **5 mm** exactos de microespuma del Flat White, selecciona siempre el **Nivel 1 de espuma (mínima aireación)** combinado con el **Nivel 2 de temperatura (~60 °C)**, y retira la jarra para girarla en círculos en cuanto el ciclo se detenga.",
+      "title": "Configuración exacta en vaporizadores automáticos con sensor de base o infrarrojo"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con receta flat white en cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Revisa en las tarjetas de Amazon integradas en esta página la disponibilidad actual de tazas de cerámica de 150 ml, jarras baristas de acero inoxidable de 350 ml y termómetros de respuesta rápida, o consulta a nuestro Asesor IA cómo mejorar tu técnica de microespuma."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre receta flat white en cafetera espresso?",
-      "a": "La bebida favorita de las cafeterías de especialidad: intenso sabor a café con una capa de solo 5 mm de leche sedosa a 62 °C. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué es obligatorio usar una jarra pequeña de 350 ml (12 oz) para hacer un solo Flat White?",
+      "a": "Al trabajar con apenas 120 ml de leche fría, una jarra grande de 600 ml deja un nivel de líquido tan bajo que la boquilla de vapor queda al descubierto y salpica burbujas gigantes. Una jarra compacta de 350 ml (como la que incluye de serie la De’Longhi Dedica Arte EC885M) da la columna de líquido perfecta para formar el vórtice."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Se puede lograr la microespuma plana de 5 mm del Flat White con leche de avena?",
+      "a": "Sí, siempre que utilices una bebida de avena formulación Barista (con un contenido graso de al menos 2.8 a 3 g por cada 100 ml). Enfríala a 4 °C, introduce aire durante 3 segundos y detén el vapor a 58 °C para conseguir la textura brillante de pintura húmeda sin que se separe en la taza."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿En qué se diferencia exactamente un Flat White de un Café Cortado?",
+      "a": "El Cortado usa una proporción 1:1 en un vaso de 120 a 130 ml (unos 36 ml de espresso y 40 ml de leche casi sin espuma), mientras que el Flat White lleva una proporción cercana a 1:4 (doble ristretto de 28 g + 120 ml de leche con 5 mm de microespuma sedosa integrada para latte art) en taza cerámica de 150–160 ml."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/receta-de-cafe-cortado-y-gibraltar-proporcion-1-a-1-con-leche/",
     "/extraccion-y-recetas-espresso/como-hacer-un-americano-perfecto-en-casa-proporcion-agua-y-espresso/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/receta-de-iced-latte-y-iced-americano-de-verano/",
+    "/extraccion-y-recetas-espresso/receta-de-espresso-macchiato-tradicional-manchado-con-espuma/",
+    "/extraccion-y-recetas-espresso/receta-de-shakerato-italiano-espresso-agitado-con-hielo/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/receta-de-flat-white-autentico-australiano-en-cafetera-compacta.webp"
 }

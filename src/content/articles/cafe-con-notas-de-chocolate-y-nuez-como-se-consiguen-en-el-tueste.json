@@ -4,161 +4,115 @@
   "path": "/cafe-en-grano-y-agua/cafe-con-notas-de-chocolate-y-nuez-como-se-consiguen-en-el-tueste/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como conseguir sabor a chocolate y avellana en espresso",
   "title": "De Dónde Salen las Notas a Chocolate, Avellana y Caramelo en el Café (Reacción de Maillard)",
-  "seoTitle": "De Dónde Salen las Notas a Chocolate, Avellana y Caramelo en el Café (Reacción de Maillard) | Guía Barista Compacta",
-  "metaDescription": "De Dónde Salen las Notas a Chocolate, Avellana y Caramelo en el Café (Reacción de Maillard): No son saborizantes artificiales: son compuestos aromáticos reales creados entre 160 °C y 205 °C durante el primer crack del tostado. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "No son saborizantes artificiales: son compuestos aromáticos reales creados entre 160 °C y 205 °C durante el primer crack del tostado.",
-  "quickAnswer": "Sobre como conseguir sabor a chocolate y avellana en espresso: No son saborizantes artificiales: son compuestos aromáticos reales creados entre 160 °C y 205 °C durante el primer crack del tostado. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "De Dónde Salen las Notas a Chocolate, Avellana y Caramelo en el Café (Reacción de Maillard) | cafeteracompacta.com",
+  "metaDescription": "Descubre cómo la reacción de Maillard y la caramelización crean notas reales a chocolate, avellana y caramelo en el grano y cómo extraerlas a 92 °C.",
+  "excerpt": "Las notas a cacao y frutos secos en un café 100 % puro nacen de las pirazinas y melanoidinas durante el tueste. Aprende a identificarlas en la etiqueta y a configurar tu ratio 1:2 para potenciar su cuerpo.",
+  "quickAnswer": "Las notas reales a **chocolate, avellana y caramelo** en un café **100 % puro** (sin jarabes) se forman durante el tueste entre **140 °C y 205 °C**: la **Reacción de Maillard** une aminoácidos y azúcares para crear **pirazinas** (aroma a avellana tostada) y **melanoidinas** (cacao y cuerpo), mientras la **caramelización de la sacarosa** genera **furanos** dulces (toffee). Para extraerlas en tu cafetera compacta, elige **tuestes medios (Agtron 50–58)** de **Brasil o Colombia** y extrae a **91–92 °C** con un **ratio 1:1.8 a 1:2.0** en **26–30 segundos**.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: No son saborizantes artificiales: son compuestos aromáticos reales creados entre 160 °C y 205 °C durante el primer crack del tostado., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "High-angle 45-degree workbench/tabletop perspective on 28mm lens: realistic scene illustrating 'De Dónde Salen las Notas a Chocolate, Avellana y Caramelo en el Café (Reacción de Maillard)' (como conseguir sabor a chocolate y avellana en espresso) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, in a clean modern garage or studio corner with slate flooring, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "De Dónde Salen las Notas a Chocolate, Avellana y Caramelo en el Café (Reacción de Maillard)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como conseguir sabor a chocolate y avellana en espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. No son saborizantes artificiales: son compuestos aromáticos reales creados entre 160 °C y 205 °C durante el primer crack del tostado."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Cafe En Grano Y Agua](/cafe-en-grano-y-agua/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Quienes dan el salto del café comercial de supermercado al espresso en grano recién tostado suelen hacerse la misma pregunta al leer la etiqueta de un paquete de especialidad que promete **«notas a chocolate negro 70 %, avellana tostada y caramelo toffee»**: ¿le han añadido cacao o esencia de frutos secos en la tostadora? La respuesta técnica es rotundamente no: en un grano **100 % puro** sin aditivos, esos aromas nacen de dos cascadas termoquímicas precisas —la **Reacción de Maillard** y la **caramelización de la sacarosa**— que ocurren entre los **140 °C y los 205 °C** dentro del tambor de tueste y que puedes amplificar o arruinar según cómo ajustes tu cafetera compacta, tal como explicamos en nuestro [centro técnico de café en grano y agua](/cafe-en-grano-y-agua/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como conseguir sabor a chocolate y avellana en espresso"
+      "text": "Química del Tambor (140 °C–205 °C): Pirazinas de Avellana, Furanos de Caramelo y Melanoidinas de Cacao"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como conseguir sabor a chocolate y avellana en espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "El grano de café verde crudo no huele a café ni a chocolate; huele a guisante fresco o hierba seca, pero almacena en sus células aminoácidos libres, proteínas y hasta un **8 % a 10 % de sacarosa** (especialmente abundante en [granos de estricta altura SHG y SHB cultivados por encima de 1.500 metros](/cafe-en-grano-y-agua/altitud-de-cultivo-shg-y-shb-por-que-los-granos-de-altura-son-mas-densos/), donde la maduración lenta concentra azúcares). Cuando el tostador eleva la temperatura interna del grano a **140 °C–165 °C**, arranca la **Reacción de Maillard**: los grupos amino de los aminoácidos reaccionan con los azúcares reductores creando cientos de compuestos heterocíclicos. De ahí surgen las **pirazinas** (responsables directas del aroma real a avellana tostada, almendra y maní), los **furanos y furanonas** (notas a caramelo, mantequilla dorada y azúcar moreno) y las **melanoidinas** (polímeros marrones de alto peso molecular que aportan color, viscosidad en boca y sabor a cacao amargo). Si el tueste se detiene demasiado pronto tras el primer *crack* (**196 °C**), predominarán los ácidos florales y cítricos típicos de los [orígenes de Etiopía y Kenia para espresso solo](/cafe-en-grano-y-agua/mejores-origenes-de-cafe-para-beber-solo-o-americano-etiopia-y-kenia/); si se desarrolla un **18 % a 22 % del tiempo total** tras el primer *crack* (tueste medio a medio-oscuro, **Agtron 50–58**), las pirazinas y melanoidinas alcanzan su pico máximo de chocolate y praliné."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: como conseguir sabor a chocolate y avellana en espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Nota Sensorial en Taza",
+        "Familia Química Responsable",
+        "Ventana Térmica en el Tostador",
+        "Receta de Extracción en Cafetera Compacta"
       ],
       "rows": [
         [
-          "Clave principal",
-          "No son saborizantes artificiales: son compuestos aromáticos reales creados entre 160 °C y 205 °C durante el primer crack del tostado.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Avellana tostada, almendra y praliné",
+          "Alquilpirazinas (Reacción de Maillard temprana-media)",
+          "150 °C a 185 °C (Desarrollo medio, Agtron 58–62)",
+          "Ratio 1:2.0 (18 g → 36 g) a 92 °C en 25–27 segundos; orígenes Brasil Cerrado o El Salvador"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Caramelo toffee, panela y azúcar tostado",
+          "Furanos, maltol y pirólisis de sacarosa (Caramelización)",
+          "170 °C a 198 °C (Entrando y saliendo del Primer Crack)",
+          "Ratio 1:1.9 a 1:2.1 a 92–93 °C en 27–29 segundos; orígenes Colombia Huila o Guatemala Antigua"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Chocolate con leche y cacao negro 70 %",
+          "Melanoidinas pesadas y fenoles suaves de desarrollo post-crack",
+          "198 °C a 206 °C (DTR 18–22 % tras Primer Crack, Agtron 48–55)",
+          "Ratio corto-medio 1:1.7 a 1:1.9 (18 g → 31–34 g) a 91–92 °C para maximizar textura siruposa"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Ceniza, carbón y caucho quemado (Defecto)",
+          "Pirólisis destructiva de celulosa (Segundo Crack > 215 °C)",
+          "> 215 °C (Tueste francés/torrefacto aceitoso, Agtron < 38)",
+          "El exceso de calor destruye los azúcares y pirazinas; bajar temperatura a 89–90 °C y ratio 1:1.5"
         ]
-      ]
+      ],
+      "caption": "Mapa termoquímico del tueste y parámetros de extracción para notas a chocolate, nuez y caramelo"
+    },
+    {
+      "type": "h2",
+      "text": "El Error del Tueste Carbonizado: Por Qué un Grano Negro y Aceitoso No Sabe a Chocolate sino a Ceniza"
     },
     {
       "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre como conseguir sabor a chocolate y avellana en espresso",
-      "text": "No son saborizantes artificiales: son compuestos aromáticos reales creados entre 160 °C y 205 °C durante el primer crack del tostado. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "etiqueta",
+      "text": "Un mito muy extendido al comprar café en grano en Amazon es pensar que cuanto más oscuro y brillante sea el grano, más intenso será su sabor a chocolate. En realidad, cuando el tostador supera los **212 °C–215 °C** y entra en el **Segundo Crack**, las moléculas de sacarosa caramelizada y las pirazinas de avellana se queman por pirólisis destructiva, mientras las paredes celulares estallan expulsando aceites a la superficie que se oxidan en pocos días. Para obtener auténtico chocolate con leche y avellana en tu **Breville Bambino (BES450)**, **De’Longhi Dedica Arte (EC885M)** o **CASABREWS CM5418**, busca siempre etiquetas que especifiquen **Tueste Medio (*Medium Roast*) o Medio-Oscuro (*Medium-Dark / Full City*)**, con superficie mate y seca (sin charcos de aceite) y orígenes de **Brasil (proceso Natural o Pulped Natural)**, **Colombia**, **Guatemala** o **Perú**.",
+      "title": "Criterio de compra: Busca granos color chocolate con leche y superficie mate (sin aceite exterior)"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como conseguir sabor a chocolate y avellana en espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con como conseguir sabor a chocolate y avellana en espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Cómo Ajustar Temperatura y Ratio en tu Cafetera Compacta para Potenciar el Cacao y la Avellana"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Fija la temperatura de extracción entre 91 °C y 92.5 °C**: Las pirazinas (avellana) y melanoidinas (chocolate) de los tuestes medios se disuelven con facilidad. Si tu **De’Longhi Dedica Arte** o **Dedica Maestro Plus (EC950M)** está configurada en el perfil Alto (**95–96 °C**), extraerás compuestos amargos de madera seca que taparán el dulzor del caramelo; selecciona el perfil **Medio o Bajo (91–92 °C)**.",
+        "**Usa un ratio de extracción ligeramente concentrado de 1:1.8 a 1:2.0**: Para **18 g** de café seco en el portafiltro de **54 mm** de la **Breville Bambino** (o **16 g** en los **51 mm** de la **CASABREWS CM5418**), corta la bomba al alcanzar **32 g a 36 g de líquido en taza** (o **29 a 32 g** para **16 g** de dosis) entre **26 y 30 segundos**. Este ratio maximiza los lípidos emulsionados donde viaja la sensación cremosa a bombón de avellana.",
+        "**Texturiza la leche entre 58 °C y 62 °C (nunca por encima de 70 °C)**: Si preparas un cappuccino o latte con la lanceta **MyLatte Art** o el sistema **MilQ**, detener el vapor a **60 °C** desdobla la lactosa en azúcares más perceptibles que se funden con las melanoidinas del espresso creando el efecto exacto de chocolate caliente con leche."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "¿Quieres encontrar los granos de tueste medio con perfil natural a chocolate y avellana mejor valorados o necesitas un termómetro y báscula para clavar tus extracciones a 92 °C? Consulta a nuestro Asesor IA o revisa el stock y disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como conseguir sabor a chocolate y avellana en espresso?",
-      "a": "No son saborizantes artificiales: son compuestos aromáticos reales creados entre 160 °C y 205 °C durante el primer crack del tostado. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué los cafés de Brasil con proceso Natural saben tanto a chocolate y frutos secos?",
+      "a": "Los granos de Brasil procesados por vía Natural (secados al sol con la cereza entera adherida al grano) o Pulped Natural (Honey) absorben azúcares del mucílago durante el secado y se cultivan a altitudes moderadas (900–1.250 m), lo que reduce la acidez cítrica y multiplica los precursores de pirazinas de avellana y chocolate durante la reacción de Maillard."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cómo distingo en la etiqueta un café con notas naturales a avellana de uno saborizado con jarabe?",
+      "a": "Un grano 100 % puro con notas naturales de tueste declara en sus ingredientes únicamente «100 % café tostado en grano» junto al origen, altitud y proceso (Lavado, Natural, Honey). Los cafés saborizados artificialmente incluyen en letra pequeña «aromas naturales y artificiales» y desprenden un olor químico dulzón exagerado nada más abrir la bolsa."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué mi café con notas declaradas a chocolate me sale ácido en la cafetera?",
+      "a": "En un grano con notas naturales de Maillard a chocolate y caramelo, si el tiro sale ácido y líquido significa que está subextraído: la extracción se detuvo antes de disolver las melanoidinas y azúcares pesados que salen después de los ácidos iniciales. Cierra la molienda 1 o 2 puntos para alargar el tiempo a 27-30 segundos."
     }
   ],
   "related": [
-    "/cafe-en-grano-y-agua/",
-    "/cafe-en-grano-y-agua/peligro-de-los-granos-de-cafe-saborizados-con-jarabes-en-tu-molino/",
-    "/cafe-en-grano-y-agua/se-pueden-mezclar-dos-sobrantes-de-cafe-en-grano-tu-propio-blend/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/cafe-en-grano-y-agua/tiras-reactivas-de-dureza-del-agua-como-leer-los-cuadraditos-rojos/",
+    "/cafe-en-grano-y-agua/mejores-origenes-de-cafe-para-beber-solo-o-americano-etiopia-y-kenia/",
+    "/cafe-en-grano-y-agua/altitud-de-cultivo-shg-y-shb-por-que-los-granos-de-altura-son-mas-densos/",
+    "/cafe-en-grano-y-agua/cafe-molido-para-cesta-presurizada-cafe-bustelo-vs-lavazza-vs-illy/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/cafe-con-notas-de-chocolate-y-nuez-como-se-consiguen-en-el-tueste.webp"
 }

@@ -3,162 +3,117 @@
   "pillar": "molinos-y-molienda",
   "path": "/molinos-y-molienda/como-moler-para-cestas-de-alta-extraccion-ims-y-vst/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "ajustar molino para cesta ims precision",
   "title": "Por Qué al Cambiar a una Cesta de Precisión IMS o VST Debes Cerrar 2 o 3 Clics tu Molino",
-  "seoTitle": "Por Qué al Cambiar a una Cesta de Precisión IMS o VST Debes Cerrar 2 o 3 Clics tu Molino | Guía Barista Compacta",
-  "metaDescription": "Por Qué al Cambiar a una Cesta de Precisión IMS o VST Debes Cerrar 2 o 3 Clics tu Molino: Los agujeros cortados por láser de una cesta IMS tienen mayor caudal libre que la cesta original de fábrica, exigiendo molienda más fina. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Los agujeros cortados por láser de una cesta IMS tienen mayor caudal libre que la cesta original de fábrica, exigiendo molienda más fina.",
-  "quickAnswer": "Sobre ajustar molino para cesta ims precision: Los agujeros cortados por láser de una cesta IMS tienen mayor caudal libre que la cesta original de fábrica, exigiendo molienda más fina. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Por Qué al Cambiar a una Cesta de Precisión IMS o VST Debes Cerrar 2 o 3 Clics tu Molino | cafeteracompacta.com",
+  "metaDescription": "Descubre por qué al instalar una cesta de precisión IMS o VST en tu portafiltro de 51 mm o 54 mm debes cerrar 2 o 3 clics tu molino de espresso.",
+  "excerpt": "Al montar una cesta de competición IMS o VST, sus más de 640 micro-orificios electropulidos reducen la restricción del metal. Descubre cuántos clics cerrar tu molino para alcanzar una extracción superior.",
+  "quickAnswer": "Al cambiar la cesta de fábrica de tu cafetera por una **cesta de precisión IMS o VST**, debes **cerrar tu molino entre 2 y 3 clics hacia más fino** (unas **30 a 50 micras**). Sus paredes cilíndricas electropulidas y sus más de **640 micro-orificios** perforados hasta el borde ofrecen mucho menor freno hidráulico, exigiendo que el café molido más fino genere los **9 bares** de presión.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Los agujeros cortados por láser de una cesta IMS tienen mayor caudal libre que la cesta original de fábrica, exigiendo molienda más fina., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Side-profile technical detail shot on 85mm prime lens: realistic scene illustrating 'Por Qué al Cambiar a una Cesta de Precisión IMS o VST Debes Cerrar 2 o 3 Clics tu Molino' (ajustar molino para cesta ims precision) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, on a matte dark-gray technical mat with measuring tools nearby, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué al Cambiar a una Cesta de Precisión IMS o VST Debes Cerrar 2 o 3 Clics tu Molino"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **ajustar molino para cesta ims precision** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Los agujeros cortados por láser de una cesta IMS tienen mayor caudal libre que la cesta original de fábrica, exigiendo molienda más fina."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Acabas de dar uno de los saltos de calidad más recomendados para una **Breville Bambino (BES450)**, una **Breville Bambino Plus (BES500)** (**54 mm**) o una **De’Longhi Dedica Arte (EC885M)** y **CASABREWS CM5418** (**51 mm**): retirar la cesta de fábrica e instalar una cesta de alta extracción **IMS Precision** (como la serie **B62.52TH24E** para Breville o **DL2TH24E** para De’Longhi) o una **VST** en portafiltros de **58 mm**. Cargas tus habituales **18.0 gramos**, usas exactamente el mismo número del molino con el que ayer sacaste un espresso perfecto en **28 segundos** y, al encender la bomba, el café cae a toda velocidad en **15 segundos**. Como explicamos en nuestra [guía de referencia sobre molinos y molienda](/molinos-y-molienda/), esto demuestra que tu nueva cesta funciona: su altísimo caudal exige **cerrar entre 2 y 3 clics tu molino**."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: ajustar molino para cesta ims precision"
+      "text": "Ingeniería de los micro-orificios IMS y VST frente a las cestas estándar de fábrica"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **ajustar molino para cesta ims precision** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Para entender por qué el agua corre mucho más rápido, basta observar ambas cestas a contraluz. Incluso las cestas no presurizadas (de una sola pared) que vienen de serie con la **Breville Bambino** presentan una pared ligeramente troncocónica hacia la base y orificios troquelados mecánicamente que dejan micro-rebabas internas y un área perforada reducida en el centro. En cambio, una cesta de competición **IMS** o **VST** posee paredes cilíndricas rectas, un acabado interior electropulido que elimina la fricción y entre **641 y 715 micro-orificios** circulares de **300 micras** abiertos con precisión micrométrica hasta el mismo borde exterior. Al desaparecer el \"freno artificial\" de la chapa de fábrica, toda la contrapresión para sostener los **9 bares** recae sobre el café. Por eso resulta imprescindible dominar [por qué debes pesar 18.0 g en grano y volver a pesar en el portafiltro](/molinos-y-molienda/como-pesar-los-granos-antes-y-despues-de-moler-control-de-retencion/) y llevar un control estricto de tus ajustes aprendiendo [cómo anotar tu receta de molienda, dosis y segundos por cada bolsa de café](/molinos-y-molienda/como-guardar-tu-receta-de-molienda-por-cada-bolsa-de-cafe/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: ajustar molino para cesta ims precision",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Característica técnica",
+        "Cesta presurizada (doble pared)",
+        "Cesta 1 pared estándar (de fábrica)",
+        "Cesta de alta extracción IMS / VST"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Los agujeros cortados por láser de una cesta IMS tienen mayor caudal libre que la cesta original de fábrica, exigiendo molienda más fina.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Geometría y salida inferior",
+          "Doble fondo con 1 solo micro-orificio de salida",
+          "Pared ligeramente inclinada; ~400–500 agujeros centrales",
+          "Pared recta cilíndrica; 641 a 715 agujeros electropulidos hasta el borde"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Quién genera la presión de 9 bares",
+          "La válvula mecánica del filtro (el café casi no frena)",
+          "75 % el café molido y 25 % la restricción de la chapa estándar",
+          "100 % la cama de café molido más fino y bien distribuido"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Ajuste requerido en el molino",
+          "Molienda media-fina (330–450 µm); tolera café premolido",
+          "Molienda fina de espresso (250–320 µm)",
+          "Molienda extrafina (200–270 µm): de 2 a 4 clics más cerrado"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Rendimiento de extracción (EY %) y sabor",
+          "Crema espumosa artificial y cuerpo plano (15–17 % EY)",
+          "Cuerpo clásico y dulzor medio (18–20 % EY)",
+          "Claridad superior, dulzor intenso y mayor extracción (21–23 % EY)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre ajustar molino para cesta ims precision",
-      "text": "Los agujeros cortados por láser de una cesta IMS tienen mayor caudal libre que la cesta original de fábrica, exigiendo molienda más fina. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Comparativa técnica: Cesta presurizada vs Cesta de 1 pared de serie vs Cesta IMS Precisión"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar ajustar molino para cesta ims precision hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con ajustar molino para cesta ims precision en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Ajustes obligatorios en tu molino al estrenar una cesta de precisión"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "Cierra de 2 a 4 pasos antes de tu primera extracción: en un Baratza Encore ESP, si tu receta en la cesta original de Breville estaba en el clic 13, baja directamente al clic 10 o 9; en un Fellow Opus, reduce un número principal y dos divisiones del anillo interno Bevel; en un 1Zpresso J-Ultra, cierra entre 30 y 45 micras.",
+        "Aplica distribución WDT hasta los bordes laterales: al tener perforaciones abiertas hasta el perímetro de la base, si dejas menor densidad de café junto a la pared metálica de la cesta IMS se producirá canalización anular (donut extraction).",
+        "Usa un tamper calibrado de diámetro exacto (51.5 mm, 53.3 mm o 58.5 mm): el tamper de plástico de serie deja hasta 1.5 mm de holgura perimetral; una cesta IMS de paredes rectas pide un tamper metálico ajustado que compacte el 100 % de la superficie.",
+        "Empareja la dosis con la altura nominal grabada en la cesta (H22, H24, H26, H28): una cesta IMS H24 de 54 mm trabaja en su punto óptimo con 16.5 a 18.0 g de tueste medio, mientras que una H28 exige de 19.0 a 21.0 g para no dejar un charco superior."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Por qué no debes instalar una cesta IMS si aún usas un molino sin micro-ajustes"
     },
     {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Las cestas de alta extracción **IMS** y **VST** actúan como una lupa sobre las virtudes y defectos de tu molino. Si utilizas un molino eléctrico doméstico básico de solo **12 a 16 niveles totales** (pensado para filtro o cestas presurizadas), cada salto mueve las muelas más de **50 micras**. En una cesta **IMS** montada en tu **CASABREWS CM5418** o **De’Longhi Dedica Arte (EC885M)**, ese salto grande hará que un clic te dé un chorro de **14 segundos** y el clic inmediatamente inferior agriete la pastilla por exceso de finos. Instala una cesta **IMS** únicamente cuando la acompañes de un molino específico para espresso con pasos menores de **20 micras**.",
+      "title": "La advertencia técnica sobre molinos básicos de saltos grandes y cestas IMS"
+    },
+    {
+      "type": "cta",
+      "text": "¿No sabes qué código exacto de cesta IMS (H24, H26 o H28) corresponde al portafiltro de 51 mm o 54 mm de tu cafetera? Pregunta a nuestro Asesor IA o consulta los modelos compatibles y su disponibilidad en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre ajustar molino para cesta ims precision?",
-      "a": "Los agujeros cortados por láser de una cesta IMS tienen mayor caudal libre que la cesta original de fábrica, exigiendo molienda más fina. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Qué gano en sabor al tener que moler más fino con una cesta IMS respecto a la cesta original?",
+      "a": "Al moler entre 2 y 3 clics más fino para compensar el mayor flujo de la cesta IMS, expones mucha más superficie celular del grano al agua a 9 bares. Esto permite extraer un 2 % a 3 % más de sólidos solubles dulces sin caer en el amargor por canalización que sufrirías en una cesta común."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Qué medida de cesta IMS debo elegir para mi Breville Bambino de 54 mm: H24, H26 o H28?",
+      "a": "Para el 90 % de los usuarios de Breville Bambino (BES450) y Bambino Plus (BES500) que usan dosis estándar de 17.0 a 18.5 gramos de tueste medio, el modelo ideal es la IMS B62.52TH24E (altura H24). La versión H26 o H28 solo conviene si usas tuestes muy oscuros voluminosos o dosis de 20 gramos."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Necesito un portafiltro sin fondo para instalar una cesta IMS de 51 mm en mi Dedica o CASABREWS?",
+      "a": "Sí, casi siempre. Las cestas IMS tienen paredes completamente rectas y una altura de 24 a 28 mm que choca con el inserto de plástico interior de los portafiltros originales de la De’Longhi Dedica (EC885M) o CASABREWS CM5418, por lo que están diseñadas para montarse en un portafiltro sin fondo (bottomless) de 51 mm."
     }
   ],
   "related": [
-    "/molinos-y-molienda/",
-    "/molinos-y-molienda/uso-de-tamices-kruve-para-medir-micras-en-molienda-espresso/",
-    "/molinos-y-molienda/como-colocar-el-molino-junto-a-la-cafetera-flujo-de-izquierda-a-derecha/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/como-reducir-el-efecto-popcorning-de-los-granos-al-terminar-de-moler/",
+    "/molinos-y-molienda/como-pesar-los-granos-antes-y-despues-de-moler-control-de-retencion/",
+    "/molinos-y-molienda/como-afecta-el-origen-del-cafe-etiopia-vs-brasil-al-molino/",
+    "/molinos-y-molienda/como-guardar-tu-receta-de-molienda-por-cada-bolsa-de-cafe/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-moler-para-cestas-de-alta-extraccion-ims-y-vst.webp"
 }

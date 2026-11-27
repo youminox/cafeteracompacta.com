@@ -4,161 +4,131 @@
   "path": "/mantenimiento-y-descalcificacion/como-vaciar-las-calderas-y-el-thermoblock-antes-de-guardar-o-mudar-la-cafetera/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "vaciar agua interna cafetera espresso antes de guardar",
   "title": "Cómo Vaciar el Agua Interna del Thermoblock (Steam-Out) Antes de una Mudanza o Viaje Largo",
-  "seoTitle": "Cómo Vaciar el Agua Interna del Thermoblock (Steam-Out) Antes de una Mudanza o Viaje Largo | Guía Barista Compacta",
-  "metaDescription": "Cómo Vaciar el Agua Interna del Thermoblock (Steam-Out) Antes de una Mudanza o Viaje Largo: Quitar el tanque y dejar correr la bomba unos segundos en modo vapor expulsa el agua residual para que no se estanque ni se congele en invierno. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Quitar el tanque y dejar correr la bomba unos segundos en modo vapor expulsa el agua residual para que no se estanque ni se congele en invierno.",
-  "quickAnswer": "Sobre vaciar agua interna cafetera espresso antes de guardar: Quitar el tanque y dejar correr la bomba unos segundos en modo vapor expulsa el agua residual para que no se estanque ni se congele en invierno. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Vaciar el Agua Interna del Thermoblock (Steam-Out) Antes de una Mudanza o Viaje Largo | cafeteracompacta.com",
+  "metaDescription": "Aprende a vaciar el agua interna del thermoblock y bomba Ulka de tu cafetera espresso antes de mudarte o viajar para evitar fisuras por heladas y moho.",
+  "excerpt": "Retirar el depósito trasero no vacía el circuito hidráulico: descubre cómo aplicar la purga por vapor (Steam-Out) en cafeteras Breville, De’Longhi y CASABREWS antes de guardarlas.",
+  "quickAnswer": "Para vaciar el agua interna de una cafetera espresso antes de guardarla o mudarte, retira el depósito trasero y ejecuta una purga por vapor (**Steam-Out**) durante **8 a 12 segundos** hasta que la lanceta expulse solo aire seco. Este procedimiento desaloja los **35 a 60 ml** retenidos en el **thermoblock** y la **bomba vibratoria Ulka**, evitando que el hielo agriete los conductos en mudanzas invernales o que proliferen bacterias.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Quitar el tanque y dejar correr la bomba unos segundos en modo vapor expulsa el agua residual para que no se estanque ni se congele en invierno., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Close inspection angle highlighting materials, latches and finish: realistic scene illustrating 'Cómo Vaciar el Agua Interna del Thermoblock (Steam-Out) Antes de una Mudanza o Viaje Largo' (vaciar agua interna cafetera espresso antes de guardar) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, on a warm walnut table beside a sunlit window, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Vaciar el Agua Interna del Thermoblock (Steam-Out) Antes de una Mudanza o Viaje Largo"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **vaciar agua interna cafetera espresso antes de guardar** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Quitar el tanque y dejar correr la bomba unos segundos en modo vapor expulsa el agua residual para que no se estanque ni se congele en invierno."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Empacar una **De’Longhi Dedica Arte (EC885M)**, una **CASABREWS CM5418** o una **Breville Bambino (BES450)** en su caja original con solo vaciar el tanque trasero es la causa número uno de fugas internas tras una mudanza. Aunque retires el depósito de agua y seques la bandeja recolectora, el circuito hidráulico cerrado retiene entre **35 ml y 60 ml de agua residual** repartidos entre la **bomba vibratoria Ulka (48W–65W)**, los tubos de PTFE de alta presión y el serpentín del **thermoblock** o **ThermoJet**. Si el camión de mudanzas atraviesa temperaturas bajo cero o guardas el equipo en un trastero durante más de dos semanas, ese líquido estancado puede arruinar la máquina. Dentro de nuestro [centro de mantenimiento y descalcificación de cafeteras compactas](/mantenimiento-y-descalcificacion/), el vaciado térmico por vapor (**Steam-Out**) es el protocolo obligatorio antes de cualquier traslado o inactividad prolongada."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: vaciar agua interna cafetera espresso antes de guardar"
+      "text": "Por Qué el Agua Retenida en el Thermoblock Destruye Sellos y Tuberías en Mudanzas"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **vaciar agua interna cafetera espresso antes de guardar** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "El aluminio fundido y el acero inoxidable que conforman los bloques térmicos de **1300W a 1560W** poseen conductos capilares de apenas **3 mm a 4 mm de diámetro interno**. Cuando el agua atrapada se congela a **0 °C (32 °F)** en la bodega de un vehículo o garaje invernal, su volumen se expande aproximadamente un **9 %**, ejerciendo una presión radial capaz de fisurar el cuerpo del thermoblock, reventar los racores de nailon o deformar las juntas tóricas de silicona (**O-rings**). Por otro lado, si guardas la cafetera en un armario cálido a **22–28 °C** durante tus vacaciones, esos **45 ml** estancados sin cloro activo desarrollan **biopelícula bacteriana (biofilm)** y precipitados calcáreos que obstruyen el caudalímetro. Antes de ejecutar la purga en seco, te recomendamos revisar las [pautas de seguridad eléctrica para enchufes de 1350W en cocinas de 120V](/mantenimiento-y-descalcificacion/cuidado-del-cable-y-enchufe-de-1350w-en-cocinas-de-estados-unidos/) y, si notas pérdida previa de caudal, realizar antes el [ciclo completo de descalcificación en la De’Longhi Dedica Arte EC885M](/mantenimiento-y-descalcificacion/como-descalcificar-delonghi-dedica-arte-ec885-y-ec685/) o el [proceso de limpieza interna en modelos como la Solis Barista Perfetta Plus](/mantenimiento-y-descalcificacion/como-descalcificar-solis-barista-perfetta-plus-paso-a-paso/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: vaciar agua interna cafetera espresso antes de guardar",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Modelo de Cafetera",
+        "Sistema Térmico",
+        "Agua Residual Estimada",
+        "Método de Purga en Seco (Steam-Out)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Quitar el tanque y dejar correr la bomba unos segundos en modo vapor expulsa el agua residual para que no se estanque ni se congele en invierno.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Breville Bambino (BES450) / Plus (BES500)",
+          "ThermoJet de acero inoxidable (3 s)",
+          "30 ml – 40 ml",
+          "Sin tanque, activar vapor manual por 10 s hasta oír cavitación seca de la bomba"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "De’Longhi Dedica Arte (EC885M / EC685M)",
+          "Thermoblock de aluminio y acero",
+          "40 ml – 55 ml",
+          "Retirar tanque, pulsar botón de vapor y abrir válvula durante 8 a 10 s hasta expulsar solo aire"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "CASABREWS CM5418 / 3700Essential",
+          "Thermoblock 20 Bar con manómetro",
+          "45 ml – 60 ml",
+          "Quitar tanque de 1.1–1.3 L, girar selector a vapor por 8 s y luego purgar grupo 3 s"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "De’Longhi Stilosa (EC260BK)",
+          "Caldera de acero inoxidable (~150 ml)",
+          "120 ml – 150 ml",
+          "Vaciar por gravedad/bombeo en frío sin tanque y vaporizar remanente 12 s con válvula abierta"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre vaciar agua interna cafetera espresso antes de guardar",
-      "text": "Quitar el tanque y dejar correr la bomba unos segundos en modo vapor expulsa el agua residual para que no se estanque ni se congele en invierno. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Volumen residual y método de vaciado (Steam-Out) según la arquitectura térmica de cada cafetera compacta"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar vaciar agua interna cafetera espresso antes de guardar hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Protocolo Paso a Paso para Hacer el Steam-Out sin Quemar la Bomba Vibratoria"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Retirada del depósito y secado de la válvula de admisión",
+          "text": "Con la cafetera fría y apagada, extrae el tanque trasero de agua, vacíalo y seca con papel absorbente el receptáculo inferior donde asienta el muelle de la válvula antirretorno para que no aspire ni una gota adicional."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Calentamiento a temperatura de vaporización (125–135 °C)",
+          "text": "Coloca una jarra metálica vacía bajo la lanceta de vapor y una taza bajo el grupo sin el portafiltro puesto. Enciende la máquina y pulsa el botón de vapor hasta que el indicador luminoso quede fijo."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Evaporación controlada del circuito (máximo 10–12 segundos)",
+          "text": "Abre la perilla o activa el botón de vapor. La bomba vibratoria Ulka impulsará el agua atrapada hacia el bloque caliente, transformándola en un chorro de vapor húmedo que arrastrará las gotas de las tuberías."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Corte inmediato al detectar cambio de tono por cavitación",
+          "text": "En cuanto la lanceta deje de escupir vapor blanco y el zumbido de la bomba cambie a un tableteo agudo y rápido (cavitación en vacío), cierra el vapor y apaga el interruptor principal de inmediato."
+        },
+        {
+          "name": "Enfriamiento con portafiltro desmontado durante 45 minutos",
+          "text": "Desenchufa el cable de alimentación, deja la válvula de vapor abierta unos segundos para liberar presión remanente y espera 45 minutos con los accesorios sueltos antes de envolver la cafetera en plástico de burbujas."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Regla de Protección de la Bomba Ulka y qué Hacer al Reinstalar la Cafetera"
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Una **bomba vibratoria electromagnética Ulka EP5 o EX5** utiliza el propio flujo de agua fría como lubricante del pistón interno y refrigerante de su bobina. Jamás permitas que la bomba trabaje totalmente en seco durante más de **15 segundos continuos**, ya que la fricción térmica puede deformar el sello de nitrilo o fundir el fusible térmico integrado. Cuando llegues a tu nuevo hogar o saques la cafetera del armario tras meses guardada, será necesario **cebar la bomba** antes del primer café: llena el depósito al máximo, coloca un recipiente bajo la lanceta de vapor abierta y acciona la bomba en modo agua caliente durante **15 a 20 segundos** para expulsar la bolsa de aire del circuito antes de intentar presurizar a **9 bares**."
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con vaciar agua interna cafetera espresso antes de guardar en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Necesitas transportadores acolchados, tapas ciegas de silicona o repuestos para dejar tu estación lista antes de viajar? Consulta con nuestro Asesor IA o verifica la disponibilidad actual de accesorios compatibles en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre vaciar agua interna cafetera espresso antes de guardar?",
-      "a": "Quitar el tanque y dejar correr la bomba unos segundos en modo vapor expulsa el agua residual para que no se estanque ni se congele en invierno. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Es necesario vaciar el thermoblock si voy a guardar la cafetera en un armario sin frío?",
+      "a": "Sí, es imprescindible si guardas la máquina más de 15 días. Aunque no exista riesgo de congelación, los 40 a 60 ml atrapados en oscuridad dentro de las mangueras de silicona y el thermoblock pierden el cloro residual y generan biopelícula bacteriana, moho y mal olor que contaminarán tus próximas extracciones."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué mi cafetera hace mucho ruido y no saca agua al volver a usarla tras una mudanza?",
+      "a": "Significa que se formó una bolsa de aire (airlock) en la cámara del pistón de la bomba vibratoria Ulka al secarse por completo. Para cebarla, llena el tanque al máximo, abre la válvula o lanceta de vapor para eliminar la contrapresión y acciona el bombeo en breves pulsos de 5 segundos hasta que el flujo de agua sea continuo."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Puedo usar algún líquido anticongelante dentro del depósito para transportar la cafetera en invierno?",
+      "a": "Jamás debes usar anticongelante automotriz ni alcohol en el circuito de una cafetera espresso, ya que son tóxicos y atacan los sellos de EPDM y silicona. El vaciado térmico por vapor (Steam-Out) durante 10 segundos es suficiente para desalojar el agua libre de los conductos capilares y evitar roturas por expansión de hielo."
     }
   ],
   "related": [
+    "/mantenimiento-y-descalcificacion/como-descalcificar-solis-barista-perfetta-plus-paso-a-paso/",
+    "/mantenimiento-y-descalcificacion/cuidado-del-cable-y-enchufe-de-1350w-en-cocinas-de-estados-unidos/",
     "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/como-limpiar-la-bandeja-de-goteo-y-el-flotador-rojo-indicador/",
-    "/mantenimiento-y-descalcificacion/por-que-no-debes-dejar-la-pastilla-de-cafe-mojada-puesta-todo-el-dia/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/como-descalcificar-delonghi-dedica-arte-ec885-y-ec685/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-vaciar-las-calderas-y-el-thermoblock-antes-de-guardar-o-mudar-la-cafetera.webp"
 }

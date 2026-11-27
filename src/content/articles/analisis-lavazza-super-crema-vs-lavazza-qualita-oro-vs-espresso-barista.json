@@ -3,162 +3,131 @@
   "pillar": "cafe-en-grano-y-agua",
   "path": "/cafe-en-grano-y-agua/analisis-lavazza-super-crema-vs-lavazza-qualita-oro-vs-espresso-barista/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "lavazza super crema vs qualita oro para espresso",
   "title": "Lavazza Super Crema vs Qualità Oro vs Gran Crema en Amazon EE. UU.: Cuál Elegir para tu Cafetera",
-  "seoTitle": "Lavazza Super Crema vs Qualità Oro vs Gran Crema en Amazon EE. UU. | Guía Barista Compacta",
-  "metaDescription": "Lavazza Super Crema vs Qualità Oro vs Gran Crema en Amazon EE. UU.: Cuál Elegir para tu Cafetera: Por qué el paquete azul de Lavazza Super Crema es el n.º 1 en Amazon US para portafiltros de 51 mm y 54 mm. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Por qué el paquete azul de Lavazza Super Crema es el n.º 1 en Amazon US para portafiltros de 51 mm y 54 mm.",
-  "quickAnswer": "Sobre lavazza super crema vs qualita oro para espresso: Por qué el paquete azul de Lavazza Super Crema es el n.º 1 en Amazon US para portafiltros de 51 mm y 54 mm. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Lavazza Super Crema vs Qualità Oro vs Gran Crema en Amazon EE. UU.: Cuál Elegir para tu Cafetera | cafeteracompacta.com",
+  "metaDescription": "Comparativa técnica Lavazza Super Crema vs Qualità Oro vs Gran Crema: mezcla Arábica/Robusta, molienda y crema en cafeteras espresso compactas.",
+  "excerpt": "Analizamos las diferencias de tueste, porcentaje de Robusta, retención de crema y calibración de molienda entre Lavazza Super Crema, Qualità Oro y Gran Crema para sacar tiros consistentes en casa.",
+  "quickAnswer": "Para el 90% de las cafeteras espresso compactas domésticas, **Lavazza Super Crema** es la mejor elección gracias a su mezcla **60% Arábica y 40% Robusta lavado** de tueste medio seco, que facilita calibrar la molienda y produce una crema espesa con notas a avellana. Elige **Qualità Oro (100% Arábica)** solo si buscas un perfil aromático y floral más ligero, o **Gran Crema** si preparas exclusivamente lattes y cappuccinos con abundante leche.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Por qué el paquete azul de Lavazza Super Crema es el n.º 1 en Amazon US para portafiltros de 51 mm y 54 mm., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Side-profile technical detail shot on 85mm prime lens: realistic scene illustrating 'Lavazza Super Crema vs Qualità Oro vs Gran Crema en Amazon EE. UU.: Cuál Elegir para tu Cafetera' (lavazza super crema vs qualita oro para espresso) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, in a well-organized domestic utility area with natural plants nearby, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Lavazza Super Crema vs Qualità Oro vs Gran Crema en Amazon EE. UU.: Cuál Elegir para tu Cafetera"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **lavazza super crema vs qualita oro para espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Por qué el paquete azul de Lavazza Super Crema es el n.º 1 en Amazon US para portafiltros de 51 mm y 54 mm."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Cafe En Grano Y Agua](/cafe-en-grano-y-agua/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Cuando compras tu primer paquete de un kilo en Amazon Estados Unidos para estrenar una **CASABREWS CM5418**, una **De’Longhi Dedica Arte EC885M** o una **Breville Bambino BES450**, es muy común frustrarse al ver que el espresso sale demasiado ácido o sin cuerpo aunque ajustes el molino. La causa rara vez es la máquina: casi siempre radica en haber elegido una mezcla diseñada para cafeteras italianas moka o filtro en lugar de un tueste formulado para emulsionar aceites bajo **9 a 15 bares** de presión. Antes de decidir entre las tres bolsas más vendidas de Lavazza, conviene entender la [diferencia entre un blend de espresso y un café de origen único](/cafe-en-grano-y-agua/diferencia-entre-blend-de-espresso-y-cafe-de-origen-unico-single-origin/), ya que la proporción exacta entre granos **Arábica** y **Robusta lavado** determina tanto el grosor de la crema avellana como la ventana de tolerancia de tu molienda."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: lavazza super crema vs qualita oro para espresso"
+      "text": "Anatomía técnica de los tres blends de Lavazza: proporción de Robusta y perfil de tueste"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **lavazza super crema vs qualita oro para espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Aunque los tres paquetes vienen en formato de **1 kg (2.2 lb)** con válvula unidireccional, su comportamiento físico dentro de un portafiltro de **51 mm** o **54 mm** es radicalmente distinto. **Lavazza Super Crema** combina un **60% de Arábica** (Brasil, Colombia e India) con un **40% de Robusta lavado** de Indonesia y Vietnam en un tueste medio suave; ese porcentaje de Robusta aporta casi el doble de sólidos solubles y polisacáridos que atrapan el gas **CO2**, creando una crema densa y elástica sin amargor agresivo. En cambio, **Lavazza Qualità Oro** es **100% Arábica** centro y sudamericano con notas florales y de malta, lo que produce una cama de café menos resistente al paso del agua y exige una molienda mucho más fina en un **Baratza Encore ESP**. Por su parte, **Lavazza Gran Crema** (también comercializado como **Espresso Barista Gran Crema**) eleva la intensidad del tambor de tueste para potenciar cómo se desarrollan las [notas a chocolate, avellana y caramelo en el tueste](/cafe-en-grano-y-agua/cafe-con-notas-de-chocolate-y-nuez-como-se-consiguen-en-el-tueste/), ofreciendo el mayor impacto en bebidas con leche."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: lavazza super crema vs qualita oro para espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Parámetro Técnico",
+        "Lavazza Super Crema",
+        "Lavazza Qualità Oro",
+        "Lavazza Gran Crema"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Por qué el paquete azul de Lavazza Super Crema es el n.º 1 en Amazon US para portafiltros de 51 mm y 54 mm.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Composición del blend",
+          "60% Arábica / 40% Robusta lavado",
+          "100% Arábica (Centro y Sudamérica)",
+          "40% Arábica / 60% Robusta seleccionado"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Nivel de tueste y color",
+          "Medio (Agtron ~55, seco sin aceite)",
+          "Medio-claro aromático (Agtron ~60)",
+          "Medio-oscuro intenso (Agtron ~45)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Notas dominantes en taza",
+          "Avellana tostada, miel y azúcar moreno",
+          "Flores blancas, fruta madura y malta",
+          "Cacao amargo, especias y madera tostada"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "Ajuste orientativo Baratza Encore ESP",
+          "Pasos 14 a 17 (tolerancia alta)",
+          "Pasos 10 a 13 (exige molienda fina)",
+          "Pasos 16 a 19 (flujo muy restrictivo)"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Uso ideal en cafetera compacta",
+          "Espresso solo, americano y cortado diario",
+          "Espresso largo o paladares que buscan acidez fina",
+          "Cappuccino y latte con 150-200 ml de leche"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre lavazza super crema vs qualita oro para espresso",
-      "text": "Por qué el paquete azul de Lavazza Super Crema es el n.º 1 en Amazon US para portafiltros de 51 mm y 54 mm. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Comparativa técnica de rendimiento en espresso para los tres blends principales de Lavazza en grano"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar lavazza super crema vs qualita oro para espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Cómo calibrar cada bolsa según tu cafetera y tipo de portafiltro"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "1. Calibración de Lavazza Super Crema (El estándar todoterreno)",
+          "text": "Dosifica **16 g** en cestas de **51 mm** (Dedica Arte o CASABREWS CM5418) o **18 g** en cestas de **54 mm** (Breville Bambino). Apunta a un ratio **1:2** (**32 g a 36 g** en taza) extraído en **25 a 28 segundos**. Su **40% de Robusta** perdona pequeñas desviaciones en el prensado y frena la canalización."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "2. Calibración de Lavazza Qualità Oro (Para amantes del 100% Arábica)",
+          "text": "Al carecer de Robusta, ofrece menor resistencia hidráulica. Cierra tu molino **2 a 3 clics más fino** que con Super Crema y alarga el ratio a **1:2.2** (**18 g de dosis para 40 g líquidos**) en **28 a 32 segundos** a **93 °C** para equilibrar su acidez frutal natural."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "3. Calibración de Lavazza Gran Crema (Para cortar leche vaporizada)",
+          "text": "Su tueste más desarrollado es más poroso y soluble. Utiliza un ratio corto de **1:1.7** (**18 g de entrada para 30 g en taza**) en **23 a 25 segundos** y evita superar los **91 °C** en cafeteras con PID como la **De’Longhi Dedica Maestro Plus EC950M** para no extraer notas astringentes o ceniza."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Qué paquete elegir si usas filtros presurizados vs cestas desnudas (Bottomless)"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Si todavía utilizas las cestas presurizadas de doble pared que vienen de serie en la **CASABREWS 3700Essential** o la **De’Longhi Dedica Arte**, **Lavazza Qualità Oro** funciona de maravilla porque la válvula mecánica del filtro genera la espuma artificialmente sin quemar sus notas florales. Sin embargo, en cuanto das el salto a un portafiltro sin fondo (*bottomless*) de pared simple y un molino de muelas cónicas como el **Fellow Opus**, **Lavazza Super Crema** es el ganador indiscutible de nuestra guía de [mejor café en grano, tuestes y agua filtrada para cafeteras compactas](/cafe-en-grano-y-agua/): ninguno de sus granos presenta aceites pegajosos en la superficie que atasquen el conducto antiestático del molino, y su viscosidad forma ese flujo atigrado (*tiger striping*) desde el segundo intento.",
+      "title": "Regla de compatibilidad con tu molino eléctrico y tipo de cesta"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con lavazza super crema vs qualita oro para espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿No tienes claro cuál de las tres bolsas de Lavazza se adapta mejor al modelo exacto de tu cafetera y a tu molino actual? Pregúntale a nuestro Asesor IA o comprueba la disponibilidad y fecha de lote actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre lavazza super crema vs qualita oro para espresso?",
-      "a": "Por qué el paquete azul de Lavazza Super Crema es el n.º 1 en Amazon US para portafiltros de 51 mm y 54 mm. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Lavazza Super Crema es un grano aceitoso que pueda atascar mi molino eléctrico?",
+      "a": "No. Lavazza Super Crema tiene un tueste medio de acabado mate y seco, sin lípidos oxidados en la corteza exterior del grano. Por ello fluye limpiamente por la tolva y los conductos de molinos como el Baratza Encore ESP o el Fellow Opus sin apelmazarse ni recalentar las muelas cónicas."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué Lavazza Qualità Oro me sale ácido en mi cafetera compacta?",
+      "a": "Lavazza Qualità Oro es 100% Arábica de tueste medio-claro, un grano más denso y menos soluble que requiere temperaturas cercanas a 93 °C y una molienda bastante más fina. Si el agua pasa en menos de 22 segundos por la pastilla, predominan los ácidos orgánicos cítricos y florales sin que lleguen a extraerse los azúcares caramelizados."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cuál de los tres cafés Lavazza tiene más cafeína por taza de espresso?",
+      "a": "Lavazza Gran Crema contiene la mayor proporción de Robusta de los tres blends. Como la especie Coffea canephora (Robusta) posee aproximadamente entre un 1.8% y un 2.5% de cafeína frente al 1.1% a 1.5% del Arábica, Gran Crema entrega el mayor estímulo energético por cada dosis de 18 gramos, seguido por Super Crema y finalmente Qualità Oro."
     }
   ],
   "related": [
-    "/cafe-en-grano-y-agua/",
-    "/cafe-en-grano-y-agua/analisis-illy-classico-vs-illy-intenso-en-grano-lata-presurizada/",
-    "/cafe-en-grano-y-agua/arabica-100-vs-blend-80-20-con-robusta-lavado-para-crema-de-espresso/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/cafe-en-grano-y-agua/cafe-con-notas-de-chocolate-y-nuez-como-se-consiguen-en-el-tueste/",
+    "/cafe-en-grano-y-agua/diferencia-entre-blend-de-espresso-y-cafe-de-origen-unico-single-origin/",
+    "/cafe-en-grano-y-agua/agua-blanda-en-ciudades-como-nueva-york-o-seattle-vs-agua-dura-en-miami-o-la/",
+    "/cafe-en-grano-y-agua/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/analisis-lavazza-super-crema-vs-lavazza-qualita-oro-vs-espresso-barista.webp"
 }

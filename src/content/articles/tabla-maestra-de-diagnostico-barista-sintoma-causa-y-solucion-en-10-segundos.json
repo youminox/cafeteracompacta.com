@@ -4,161 +4,140 @@
   "path": "/problemas-y-soluciones/tabla-maestra-de-diagnostico-barista-sintoma-causa-y-solucion-en-10-segundos/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "tabla problemas y soluciones cafetera espresso",
   "title": "Tabla Maestra de Solución de Problemas: 20 Fallos de Cafeteras Espresso Compactas Resueltos en 10 Segundos",
-  "seoTitle": "Tabla Maestra de Solución de Problemas | Guía Barista Compacta",
-  "metaDescription": "Tabla Maestra de Solución de Problemas: 20 Fallos de Cafeteras Espresso Compactas Resueltos en 10 Segundos: Guía rápida de bolsillo para identificar cualquier síntoma de presión, temperatura, molienda, luces o vapor. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Guía rápida de bolsillo para identificar cualquier síntoma de presión, temperatura, molienda, luces o vapor.",
-  "quickAnswer": "Sobre tabla problemas y soluciones cafetera espresso: Guía rápida de bolsillo para identificar cualquier síntoma de presión, temperatura, molienda, luces o vapor. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Tabla Maestra de Solución de Problemas: 20 Fallos de Cafeteras Espresso Compactas Resueltos en 10 Segundos | cafeteracompacta.com",
+  "metaDescription": "Tabla maestra de diagnóstico para cafeteras espresso compactas: identifica en 10 segundos el síntoma, la causa técnica y la solución exacta paso a paso.",
+  "excerpt": "Manual de consulta rápida para resolver los 20 fallos hidráulicos, térmicos y de extracción más frecuentes en cafeteras compactas de 51, 54 y 58 mm sin desperdiciar café ni desajustar tu molino.",
+  "quickAnswer": "Para diagnosticar cualquier fallo en una cafetera espresso compacta en 10 segundos, divide el síntoma en tres ejes: si sin portafiltro el caudal y la temperatura (90–93 °C) son normales, el problema está en la pastilla (molienda, dosis de 16–18 g o distribución WDT); si el caudal falla sin portafiltro, hay aire en la bomba (air-lock) o cal en el circuito.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Guía rápida de bolsillo para identificar cualquier síntoma de presión, temperatura, molienda, luces o vapor., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Macro texture and build-quality detail shot with shallow depth of field: realistic scene illustrating 'Tabla Maestra de Solución de Problemas: 20 Fallos de Cafeteras Espresso Compactas Resueltos en 10 Segundos' (tabla problemas y soluciones cafetera espresso) for cafeteracompacta.com, featuring equipment in arctic white with warm stone-gray details, on a matte dark-gray technical mat with measuring tools nearby, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Tabla Maestra de Solución de Problemas: 20 Fallos de Cafeteras Espresso Compactas Resueltos en 10 Segundos"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **tabla problemas y soluciones cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Guía rápida de bolsillo para identificar cualquier síntoma de presión, temperatura, molienda, luces o vapor."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Cuando un espresso sale ácido en **12 segundos**, el manómetro de tu **CASABREWS CM5418** no se mueve o las luces de tu **Breville Bambino (BES450)** empiezan a destellar a mitad de la mañana, el peor error es cambiar al mismo tiempo el punto de molienda, los gramos de café y la fuerza de prensado. Un diagnóstico barista profesional aísla una sola variable observando qué ocurre en los primeros **10 segundos** desde que se activa la bomba. Hemos condensado en esta guía de referencia rápida los fallos más recurrentes de nuestro [hub central de problemas y soluciones para cafeteras compactas](/problemas-y-soluciones/) para que identifiques de un vistazo si estás ante una desviación hidráulica, un bloqueo térmico o un defecto de preparación de la pastilla en cestas de **51 mm**, **54 mm** o **58 mm**."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: tabla problemas y soluciones cafetera espresso"
-    },
-    {
-      "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **tabla problemas y soluciones cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Matriz de Diagnóstico Rápido: Síntoma, Causa Técnica y Solución en 10 Segundos"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: tabla problemas y soluciones cafetera espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Síntoma observado en los primeros 10 s",
+        "Lectura de tiempo / presión / LED",
+        "Causa raíz más probable (90 % de casos)",
+        "Acción correctiva inmediata"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Guía rápida de bolsillo para identificar cualquier síntoma de presión, temperatura, molienda, luces o vapor.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Chorro rubio aguado y sin crema (Gusher)",
+          "36 g caen en < 14 segundos; aguja < 4 bares",
+          "Molienda demasiado gruesa, café viejo (> 60 días) o dosis baja en cesta no presurizada",
+          "Cerrar el molino 3 a 4 clics más fino o usar la cesta presurizada si es café pre-molido"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Solo caen gotas oscuras o se corta el flujo (Choke)",
+          "< 10 g en 35 s; manómetro en zona roja (> 15 bar)",
+          "Molienda excesivamente fina o cámara superior de la cesta pegada al difusor (sobredosis)",
+          "Engrosar la molienda 2 clics y bajar la dosis 1 gramo (dejar 2 mm de espacio libre)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Chorros laterales y sabor áspero que seca la boca",
+          "Extracción irregular con salpicaduras en portafiltro sin fondo",
+          "Canalización (Channeling) por grumos o fisura al retirar el embudo magnético",
+          "Distribuir con agujas WDT de 0.35 mm y prensar totalmente nivelado a 90°"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "Agua rebosa por encima del borde del portafiltro",
+          "Goteo exterior alrededor del collarín del grupo",
+          "Restos de café molido en el ala de la cesta o junta de silicona del grupo reseca/sucia",
+          "Limpiar el borde de la cesta con el dedo antes de encajar y cepillar la junta de goma del grupo"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Bomba zumba fuerte pero no sale ni una gota de agua",
+          "Tanque lleno pero caudal 0 ml/s incluso sin portafiltro",
+          "Burbuja de aire atrapada en la bomba ULKA (Air-Lock) tras vaciarse el depósito",
+          "Retirar y encajar firme el tanque y abrir la válvula de vapor 10 s para cebar la tubería"
+        ],
+        [
+          "Panel encendido y bomba activa pero el agua sale fría",
+          "Temperatura en taza de 20–22 °C en vez de 90–93 °C",
+          "Fusible térmico TCO (167–192 °C) abierto tras sobrecalentamiento o resistencia cortada",
+          "Medir continuidad del circuito térmico o tramitar garantía si tiene menos de 1-2 años"
+        ],
+        [
+          "Vapor débil o solo escupe chorros de agua caliente",
+          "Pulsos lentos > 25 s sin formar vórtice en la leche",
+          "Orificio de 1.0 mm de la boquilla obstruido por proteína de leche seca o cal en el bloque",
+          "Desenroscar la punta de la lanceta, pasar la aguja metálica y remojar en agua caliente 15 min"
+        ],
+        [
+          "Pastilla de café termina cubierta de barro líquido",
+          "Charco de agua sobre la cesta al quitar el portafiltro",
+          "Cafetera sin válvula solenoide de 3 vías o dosis demasiado baja para el tamaño de la cesta",
+          "Esperar 12 segundos antes de desenroscar el portafiltro o colocar un Puck Screen de 1.7 mm"
         ]
-      ]
+      ],
+      "caption": "Tabla maestra de resolución rápida para cafeteras CASABREWS, Breville Bambino, De’Longhi Dedica y Gaggia Classic"
     },
     {
       "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre tabla problemas y soluciones cafetera espresso",
-      "text": "Guía rápida de bolsillo para identificar cualquier síntoma de presión, temperatura, molienda, luces o vapor. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "tip",
+      "text": "Antes de tocar el molino cuando un café sale mal, verifica en tu báscula que **la dosis en seco no haya variado más de 0.2 gramos** respecto a tu tiro anterior. Un solo gramo extra de café en una cesta estrecha de **51 mm** (como la de la **CASABREWS CM5418** o **De’Longhi Dedica Arte EC885M**) aumenta la altura de la columna de café casi un **8 %**, lo que equivale a cerrar el molino dos puntos enteros.",
+      "title": "La regla de una sola variable en cestas compactas de 51 y 54 mm"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar tabla problemas y soluciones cafetera espresso hoy mismo en tu cocina"
+      "text": "Cómo Interpretar las Alertas Visuales y Defectos de Preparación Sin Perder Café"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con tabla problemas y soluciones cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
+      "text": "Los sistemas electrónicos modernos avisan con códigos lumínicos antes de sufrir un daño mayor: por ejemplo, si tu máquina bloquea los botones de extracción para exigir limpieza tras **200 ciclos**, consulta nuestra guía dedicada a cuando la [Breville Bambino tiene dos luces parpadeando alternativamente o fijas](/problemas-y-soluciones/breville-bambino-dos-luces-parpadeando-alternativamente-o-fijas/) para ejecutar el comando de descalcificación o reseteo en menos de un minuto. Por otro lado, si el manómetro marca **9 bares** pero el flujo arranca torcido por los bordes del filtro, el fallo casi siempre ocurre antes de encajar el portafiltro en el grupo: revisa nuestra técnica sobre [cómo evitar que el embudo magnético levante el café al quitarlo](/problemas-y-soluciones/como-evitar-que-el-embudo-magnetico-levante-el-cafe-al-quitarlo/) para eliminar las microfisuras perimetrales que arruinan la extracción."
     },
     {
       "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Los 4 Parámetros Base para Calibrar Cualquier Cafetera Compacta Desde Cero"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Ratio de extracción estándar 1:2 en báscula**: Para una cesta doble de **51 mm** carga **14 a 16 gramos** de café en seco para obtener **28 a 32 gramos** de líquido en taza; para una cesta de **54 mm** (**Breville Bambino BES450/BES500**) carga **17 a 18 gramos** para extraer **34 a 36 gramos** en taza.",
+        "**Ventana de tiempo de 25 a 30 segundos reales**: Empieza a contar desde que pulsas el botón de extracción (incluyendo los **4 a 8 segundos** de pre-infusión a baja presión). Si llegas al peso objetivo en menos de **20 segundos**, muele más fino; si superas los **35 segundos**, muele más grueso.",
+        "**Espacio libre bajo la ducha (Prueba de la moneda de 1.5–2 mm)**: Tras prensar la pastilla, debe quedar un margen libre de **1.5 a 2 mm** entre la superficie del café y la rejilla difusora del grupo para que la pastilla pueda expandirse al hidratarse sin chocar contra el metal.",
+        "**Purga térmica en vacío de 4 segundos antes del primer café (Blank Shot)**: En cafeteras compactas como la **CASABREWS CM5418**, **Dedica Arte (EC885M)** o **Bambino**, deja correr agua caliente durante **4 segundos** con el portafiltro vacío puesto antes de secar y cargar el café; así estabilizas el grupo a **92–93 °C** desde la primera taza del día."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "¿Tienes un síntoma específico en tu cafetera que quieres diagnosticar al instante o buscas las herramientas de precisión (báscula, WDT, Puck Screen y tamper calibrado) para clavar tus extracciones? Consulta ahora a nuestro Asesor IA o revisa los accesorios compatibles en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre tabla problemas y soluciones cafetera espresso?",
-      "a": "Guía rápida de bolsillo para identificar cualquier síntoma de presión, temperatura, molienda, luces o vapor. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "Si mi café sale muy rápido o muy lento, ¿cambio primero los gramos o la molienda?",
+      "a": "Mantenlo exactamente igual en la misma dosis (con precisión de 0.1 g en báscula) y ajusta únicamente el grosor de la molienda en tu molino. Cambiar gramos y molienda al mismo tiempo te impedirá saber cuál de los dos factores corrigió o empeoró el tiempo de extracción."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cómo sé en 5 segundos si el problema es de mi cafetera o del café que estoy usando?",
+      "a": "Extrae agua durante 5 segundos sin el portafiltro puesto: si sale una lluvia uniforme por la ducha del grupo y los problemas solo aparecen al poner el café, la cafetera funciona perfectamente y el fallo está en la molienda, la dosis o el tipo de cesta (presurizada vs. no presurizada)."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Con qué frecuencia debo descalcificar mi cafetera compacta para evitar estos fallos?",
+      "a": "Cada 150 a 200 extracciones (o cada 2 a 3 meses con agua filtrada de dureza media). Además de descalcificar el circuito interno con ácido cítrico o láctico, es fundamental desenroscar o cepillar la ducha del grupo cada semana para retirar los aceites de café oxidados."
     }
   ],
   "related": [
+    "/problemas-y-soluciones/como-contactar-con-la-garantia-de-casabrews-breville-y-delonghi-en-amazon-usa/",
+    "/problemas-y-soluciones/como-evitar-que-el-embudo-magnetico-levante-el-cafe-al-quitarlo/",
     "/problemas-y-soluciones/",
-    "/problemas-y-soluciones/manometro-casabrews-cm5418-no-sube-de-presion-causas-y-solucion/",
-    "/problemas-y-soluciones/como-solucionar-el-goteo-de-la-lanceta-mientras-haces-el-espresso/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/breville-bambino-dos-luces-parpadeando-alternativamente-o-fijas/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/tabla-maestra-de-diagnostico-barista-sintoma-causa-y-solucion-en-10-segundos.webp"
 }

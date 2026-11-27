@@ -4,161 +4,110 @@
   "path": "/extraccion-y-recetas-espresso/como-saber-si-la-pastilla-de-cafe-usada-puck-indica-una-buena-extraccion/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "analizar pastilla de cafe usada puck espresso",
   "title": "Puckología Barista: Qué Te Dice la Pastilla de Café Usada al Golpearla en el Knock Box",
-  "seoTitle": "Puckología Barista | Guía Barista Compacta",
-  "metaDescription": "Puckología Barista: Qué Te Dice la Pastilla de Café Usada al Golpearla en el Knock Box: Por qué un agujero profundo en un lado indica channeling, mientras que una pastilla ligeramente húmeda arriba en máquinas sin solenoide es totalmente normal. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Por qué un agujero profundo en un lado indica channeling, mientras que una pastilla ligeramente húmeda arriba en máquinas sin solenoide es totalmente normal.",
-  "quickAnswer": "Sobre analizar pastilla de cafe usada puck espresso: Por qué un agujero profundo en un lado indica channeling, mientras que una pastilla ligeramente húmeda arriba en máquinas sin solenoide es totalmente normal. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Puckología Barista: Qué Te Dice la Pastilla de Café Usada al Golpearla en el Knock Box | cafeteracompacta.com",
+  "metaDescription": "Guía de puckología barista para analizar la pastilla de café usada en el knock box: qué indican los agujeros, bordes rotos y el charco superior.",
+  "excerpt": "Aprende a diagnosticar canalizaciones, errores de dosificación y fallos de compactación inspeccionando la pastilla húmeda de tu portafiltro tras cada extracción.",
+  "quickAnswer": "En la puckología barista, los agujeros finos o cráteres en la superficie de la pastilla usada indican canalización por grumos, un surco erosionado en el borde revela un tamper demasiado pequeño o inclinado, y una marca hundida de la rejilla superior señala exceso de dosis en la cesta. En cafeteras compactas sin válvula solenoide de 3 vías (como CASABREWS CM5418 o Breville Bambino BES450), una capa húmeda superior es normal y no indica mala extracción.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Por qué un agujero profundo en un lado indica channeling, mientras que una pastilla ligeramente húmeda arriba en máquinas sin solenoide es totalmente normal., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Diagonal isometric product-in-use composition in modern home setting: realistic scene illustrating 'Puckología Barista: Qué Te Dice la Pastilla de Café Usada al Golpearla en el Knock Box' (analizar pastilla de cafe usada puck espresso) for cafeteracompacta.com, featuring equipment in sleek titanium silver with carbon-gray texture, on a clean stone countertop with neatly arranged accessories, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Puckología Barista: Qué Te Dice la Pastilla de Café Usada al Golpearla en el Knock Box"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **analizar pastilla de cafe usada puck espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Por qué un agujero profundo en un lado indica channeling, mientras que una pastilla ligeramente húmeda arriba en máquinas sin solenoide es totalmente normal."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Golpear el portafiltro contra la barra de goma del *knock box* sin mirar antes la superficie de la pastilla usada es desperdiciar la radiografía hidráulica más honesta de tu extracción. Aunque el sabor en taza manda siempre, los cráteres del tamaño de un alfiler, las grietas laterales o una base central seca en el bloque de café revelan con exactitud quirúrgica dónde falló la preparación en tu **Breville Bambino BES450**, **De’Longhi Dedica Arte EC885M** o **CASABREWS CM5418**, un método de diagnóstico que forma parte esencial de nuestro [compendio de extracción y recetas espresso](/extraccion-y-recetas-espresso/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: analizar pastilla de cafe usada puck espresso"
+      "text": "El Mito de la Pastilla Fangosa: Válvula Solenoide de 3 Vías vs Espacio Libre"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **analizar pastilla de cafe usada puck espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "La consulta número uno de quienes estrenan una **CASABREWS CM5418**, una **De’Longhi Dedica Arte EC885M** o la **Breville Bambino estándar (BES450)** es por qué queda una capa de barro líquido sobre la pastilla al retirar el portafiltro, mientras que en la **Breville Bambino Plus (BES500)** el bloque sale seco como una galleta compacta. La diferencia no es una mala molienda: la **Bambino Plus BES500** incorpora una **válvula solenoide de 3 vías** que succiona de golpe la presión y el agua sobrante hacia la bandeja de goteo al cortar el tiro; en cafeteras sin solenoide, ese centímetro cúbico de agua presurizada sobre el café debe drenar por gravedad. Si además usas granos porosos —como analizamos al ajustar la [extracción de café descafeinado para lograr crema espesa](/extraccion-y-recetas-espresso/extraccion-de-cafe-descafeinado-como-lograr-crema-espesa/)— o bajas la dosis dejando más de **3 mm** de espacio libre (*headspace*) respecto a la ducha tras aplicar la regla de [encajar el portafiltro y extraer en menos de 5 segundos](/extraccion-y-recetas-espresso/por-que-nunca-debes-dejar-el-portafiltro-con-cafe-puesto-antes-de-extraer/), siempre verás agua superficial sin que eso signifique un mal espresso."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: analizar pastilla de cafe usada puck espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Huella Visual en la Pastilla (Puck)",
+        "Diagnóstico Hidráulico Real",
+        "Solución Técnica para el Siguiente Tiro"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Por qué un agujero profundo en un lado indica channeling, mientras que una pastilla ligeramente húmeda arriba en máquinas sin solenoide es totalmente normal.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Agujeros finos ('pinholes') o cráteres profundos arriba",
+          "Canalización localizada por grumos densos o impacto violento del chorro de la ducha",
+          "Romper grumos con distribuidor de agujas WDT (0.35 mm) y añadir malla Puck Screen"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Surco erosionado en todo el anillo exterior del borde",
+          "Tamper pequeño que no sella la pared (ej. tamper de 50 mm en cesta de 51 mm)",
+          "Cambiar a tamper calibrado de precisión (51 mm exactos o 53.3 mm en cestas Breville de 54 mm)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Marca del tornillo o rejilla de la ducha clavada en seco",
+          "Sobredosis en la cesta: el café hinchado chocó contra el cabezal bloqueando el flujo",
+          "Bajar la dosis entre 1 g y 1.5 g (hacer la prueba de la moneda antes de extraer)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Manchas oscuras o centro seco al partir el puck en dos",
+          "Sub-extracción severa por molienda excesivamente fina o pre-infusión insuficiente",
+          "Abrir el molino 1–2 puntos y alargar la pre-infusión a 6–8 segundos"
         ]
-      ]
+      ],
+      "caption": "Tabla forense de Puckología: qué significa cada marca en la pastilla de café usada"
+    },
+    {
+      "type": "h2",
+      "text": "Por Qué Nunca Debes Juzgar un Espresso Solo por un Puck Húmedo"
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de barista sobre analizar pastilla de cafe usada puck espresso",
-      "text": "Por qué un agujero profundo en un lado indica channeling, mientras que una pastilla ligeramente húmeda arriba en máquinas sin solenoide es totalmente normal. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "En una cafetera sin válvula solenoide de 3 vías, retirar el portafiltro inmediatamente después de apagar la bomba provoca un efecto ventosa que rompe y enfanga la superficie de la pastilla aunque la extracción haya sido perfecta. Espera **20 a 30 segundos** antes de desenroscar el mango o coloca un **Puck Screen de 1.7 mm** encima del café prensado: la malla metálica ocupa el espacio libre sobrante y permite sacar un disco limpio y entero al primer golpe en el *knock box*.",
+      "title": "No desenrosques el portafiltro al instante en máquinas sin solenoide"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar analizar pastilla de cafe usada puck espresso hoy mismo en tu cocina"
+      "text": "Cómo Hacer la Autopsia de la Pastilla en 3 Pasos tras el Knock Box"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
+      "type": "ol",
       "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
+        "**Inspecciona la cara superior bajo luz oblicua antes de golpear**: Busca micro-cráteres de **1 a 2 mm** o erosiones en media luna junto a la pared del filtro, que delatan que apoyaste el tamper inclinado hacia ese flanco.",
+        "**Observa cómo se desprende al golpear en la barra del Knock Box**: Un puck bien extraído y dosificado cae en un solo cilindro cohesivo con un golpe seco; si se queda pegado como engrudo o se desmorona en polvo seco, la dosis es incorrecta para el volumen de tu cesta.",
+        "**Parte el disco por la mitad con los dedos cuando se temple**: El color marrón debe ser completamente homogéneo desde la corteza superior hasta la base; si ves vetas casi negras en el núcleo inferior, el agua bordeó el centro sin extraerlo."
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con analizar pastilla de cafe usada puck espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Revisa en nuestro Asesor IA qué knock box compacto con barra amortiguada, aguja WDT y tamper calibrado corresponden al diámetro de tu portafiltro, o consulta su disponibilidad en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre analizar pastilla de cafe usada puck espresso?",
-      "a": "Por qué un agujero profundo en un lado indica channeling, mientras que una pastilla ligeramente húmeda arriba en máquinas sin solenoide es totalmente normal. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cómo sé cuántos gramos exactos caben en mi cesta sin que la pastilla choque contra la ducha?",
+      "a": "Coloca una moneda limpia de 1.8 a 2 mm de grosor sobre el café ya prensado, encaja el portafiltro en la cafetera apagada y sácalo: si la moneda se hundió levemente sin clavarse por completo, tienes el espacio libre perfecto de 2 mm para que el café se hinche al mojarse."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué la pastilla usada se queda pegada arriba en la ducha de la cafetera al quitar el portafiltro?",
+      "a": "Es señal de que el espacio libre superior (headspace) es mínimo o de que no purgaste ni secaste la ducha antes de encajar; colocar un filtro de papel o una malla Puck Screen sobre el café elimina por completo este problema y mantiene el grupo impecable."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué significa una grieta recta que cruza toda la pastilla de lado a lado?",
+      "a": "Sí. Un corte transversal que atraviesa la pastilla de lado a lado suele ocurrir cuando golpeas el lateral del portafiltro con el mango del tamper después de prensar para limpiar restos de café, despegando el bloque de las paredes de acero."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/temperatura-del-agua-90-vs-93-vs-96-grados-efectos-en-el-sabor/",
     "/extraccion-y-recetas-espresso/por-que-nunca-debes-dejar-el-portafiltro-con-cafe-puesto-antes-de-extraer/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/extraccion-de-cafe-descafeinado-como-lograr-crema-espesa/",
+    "/extraccion-y-recetas-espresso/receta-de-spanish-latte-con-leche-fresca-y-un-toque-de-condensada/",
+    "/extraccion-y-recetas-espresso/receta-de-vanilla-sweet-cream-cold-brew-y-espresso-shaken/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-saber-si-la-pastilla-de-cafe-usada-puck-indica-una-buena-extraccion.webp"
 }

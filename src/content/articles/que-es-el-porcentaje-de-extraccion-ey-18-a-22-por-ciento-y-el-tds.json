@@ -4,161 +4,110 @@
   "path": "/ciencia-y-tecnologia-espresso/que-es-el-porcentaje-de-extraccion-ey-18-a-22-por-ciento-y-el-tds/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "que es porcentaje de extraccion y tds en espresso",
   "title": "Ciencia SCA del Espresso: Qué Significa Extraer entre el 18% y el 22% del Peso del Grano (Extraction Yield)",
-  "seoTitle": "Ciencia SCA del Espresso | Guía Barista Compacta",
-  "metaDescription": "Ciencia SCA del Espresso: Qué Significa Extraer entre el 18% y el 22% del Peso del Grano (Extraction Yield): Solo el 30% de un grano de café tostado es soluble en agua; el equilibrio perfecto de dulzor y cuerpo se logra disolviendo el 20%. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Solo el 30% de un grano de café tostado es soluble en agua; el equilibrio perfecto de dulzor y cuerpo se logra disolviendo el 20%.",
-  "quickAnswer": "Sobre que es porcentaje de extraccion y tds en espresso: Solo el 30% de un grano de café tostado es soluble en agua; el equilibrio perfecto de dulzor y cuerpo se logra disolviendo el 20%. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Ciencia SCA del Espresso: Qué Significa Extraer entre el 18% y el 22% del Peso del Grano (Extraction Yield) | cafeteracompacta.com",
+  "metaDescription": "Aprende qué es el porcentaje de extracción (18% a 22% EY) y el TDS en espresso según la SCA para equilibrar acidez, dulzor y cuerpo en tu cafetera.",
+  "excerpt": "Guía técnica sobre sólidos disueltos totales (TDS) y rendimiento de extracción (EY): cómo calcular qué fracción soluble del grano pasa a tu taza y cómo evitar sabores agrios o astringentes.",
+  "quickAnswer": "El **Porcentaje de Extracción (Extraction Yield o EY)** indica qué fracción del peso seco del café molido se ha disuelto en tu taza, siendo el rango óptimo de la SCA entre el **18 % y el 22 %** (del **30 %** máximo soluble que posee el grano). Por su parte, el **TDS (Total Dissolved Solids)** mide la concentración o fuerza de la bebida final, que en un espresso equilibrado oscila entre el **9 % y el 11 %**.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Solo el 30% de un grano de café tostado es soluble en agua; el equilibrio perfecto de dulzor y cuerpo se logra disolviendo el 20%., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Over-the-shoulder hands-on demonstration perspective in natural light: realistic scene illustrating 'Ciencia SCA del Espresso: Qué Significa Extraer entre el 18% y el 22% del Peso del Grano (Extraction Yield)' (que es porcentaje de extraccion y tds en espresso) for cafeteracompacta.com, featuring equipment in sleek titanium silver with carbon-gray texture, on a warm walnut table beside a sunlit window, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Ciencia SCA del Espresso: Qué Significa Extraer entre el 18% y el 22% del Peso del Grano (Extraction Yield)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **que es porcentaje de extraccion y tds en espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Solo el 30% de un grano de café tostado es soluble en agua; el equilibrio perfecto de dulzor y cuerpo se logra disolviendo el 20%."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Ciencia Y Tecnologia Espresso](/ciencia-y-tecnologia-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Pesar **18.0 gramos** de café en seco y detener tu **Breville Bambino (BES450)** cuando la báscula marca **36.0 gramos** en taza garantiza que has cumplido un ratio **1:2**, pero no te dice cuánto café real hay disuelto en ese líquido ni qué porcentaje del grano lograste aprovechar. Dos espressos de **36 gramos** extraídos en **28 segundos** pueden saber diametralmente opuestos: uno punzante y salado; el otro dulce, achocolatado y redondo. La diferencia reside en dos métricas cuantificables con refractómetro óptico que gobiernan el estándar de la Specialty Coffee Association (SCA) y que puedes dominar consultando nuestro [diccionario técnico barista](/ciencia-y-tecnologia-espresso/glosario-barista-en-espanol-e-ingles-50-terminos-explicados-para-principiantes/): la concentración (**TDS**) y el rendimiento de extracción (**Extraction Yield o EY**)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: que es porcentaje de extraccion y tds en espresso"
+      "text": "El Límite Biológico del 30 % Soluble y la Ventana de Oro del 18 % al 22 %"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **que es porcentaje de extraccion y tds en espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Un grano de café tostado está compuesto en un **70 % por celulosa y fibras insolubles** que jamás deben pasar a la taza, y solo en un **30 % por compuestos hidrosolubles**. Sin embargo, extraer ese **30 %** completo arruinaría la bebida: las moléculas se disuelven en orden cronológico según su polaridad y peso molecular. Durante los primeros segundos salen la cafeína, los ácidos orgánicos frutales y los lípidos; en la fase intermedia se disuelven los azúcares caramelizados y productos de Maillard; al final se arrastran taninos vegetales, lactonas de ácido clorogénico y fenoles leñosos. Mantener una presión regulada mediante [9 bares reales de extracción](/ciencia-y-tecnologia-espresso/la-verdad-sobre-los-15-y-20-bares-frente-a-los-9-bares-reales-de-extraccion/) junto con la estabilidad térmica de un [controlador digital PID grado a grado](/ciencia-y-tecnologia-espresso/que-es-el-control-pid-en-una-cafetera-espresso-y-por-que-importa-un-grado/) permite detener el disparo justo cuando has disuelto entre el **18 % y el 22 %** de la masa seca total del grano."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: que es porcentaje de extraccion y tds en espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Rango de Extracción (EY)",
+        "TDS Típico (Ratio 1:2)",
+        "Compuestos Dominantes en Taza",
+        "Perfil Sensorial y Diagnóstico"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Solo el 30% de un grano de café tostado es soluble en agua; el equilibrio perfecto de dulzor y cuerpo se logra disolviendo el 20%.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Menos del 18 % (Subextraído)",
+          "7.5 % – 8.8 %",
+          "Ácidos cítrico, málico y fosfórico; sales minerales",
+          "Acidez agresiva, sensación salada, cuerpo acuoso y postgusto fugaz"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "18 % a 22 % (Equilibrio SCA)",
+          "9.0 % – 11.0 %",
+          "Sacarosa caramelizada, melanoidinas dulces, lípidos emulsionados",
+          "Dulzor complejo, acidez integrada, cuerpo siruposo y retrogusto limpio"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Más del 22 % (Sobreextraído)",
+          "11.2 % – 13.0 % (o ratios largos)",
+          "Fenoles, quinina, lactonas astringentes y fibras degradadas",
+          "Amargor seco y ceniciento, sequedad áspera en lengua (astringencia)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre que es porcentaje de extraccion y tds en espresso",
-      "text": "Solo el 30% de un grano de café tostado es soluble en agua; el equilibrio perfecto de dulzor y cuerpo se logra disolviendo el 20%. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Mapa sensorial y químico según el Porcentaje de Extracción (EY) en espresso"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar que es porcentaje de extraccion y tds en espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con que es porcentaje de extraccion y tds en espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Ecuación Práctica: Cómo se Relacionan el TDS, el Ratio y el Extraction Yield"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**TDS (Total Dissolved Solids):** Es el porcentaje de la bebida final que corresponde a sólidos de café y no a agua. Un espresso clásico de especialidad mide entre **9 % y 11 % de TDS** (el **89 % a 91 %** restante es agua), frente al **1.2 % – 1.5 % de TDS** de un café de filtro V60.",
+        "**Fórmula exacta del Extraction Yield:** Se calcula multiplicando el peso de la bebida por el TDS y dividiendo entre la dosis seca: `EY (%) = (Peso Bebida en g × TDS %) / Dosis Seca en g`.",
+        "**Ejemplo real en tu Breville Bambino o CASABREWS CM5418:** Si cargas **18 g** en el portafiltro, extraes **36 g** de espresso y un refractómetro marca **10.0 % de TDS**, has disuelto **3.6 g** de materia sólida del café: `(36 × 10) / 18 = 20.0 % de EY`, justo en el centro del estándar SCA.",
+        "**Diferencia entre fuerza (TDS) y extracción (EY):** Un ristretto **1:1.5** (**18 g a 27 g**) puede tener un **TDS altísimo del 12 %** (muy denso e intenso en boca) y, sin embargo, estar subextraído con solo un **18 % de EY** (`27 × 12 / 18 = 18 %`)."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Por Qué el Channeling Produce Subextracción y Sobreextracción al Mismo Tiempo"
     },
     {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Cuando se abre un canal en la pastilla de tu **De’Longhi Dedica Arte (EC885M)** o **CASABREWS CM5418**, el **80 %** del caudal de agua pasa por esa grieta extrayendo más del **26 % de EY** (arrastrando amargor y astringencia), mientras el resto del bloque compacto apenas alcanza un **14 % de EY** (aportando acidez agria). El refractómetro puede promediar un engañoso **19.5 % de EY**, pero tu paladar detectará la mezcla discordante de acidez punzante y sequedad final.",
+      "title": "La trampa del promedio en extracciones con canalización"
+    },
+    {
+      "type": "cta",
+      "text": "¿Buscas una báscula de precisión de **0.1 g** con temporizador y una cafetera con control PID para clavar tu ratio y porcentaje de extracción? Pregunta al Asesor IA del sitio o consulta las opciones disponibles en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre que es porcentaje de extraccion y tds en espresso?",
-      "a": "Solo el 30% de un grano de café tostado es soluble en agua; el equilibrio perfecto de dulzor y cuerpo se logra disolviendo el 20%. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Necesito comprar un refractómetro digital para ajustar mi cafetera espresso compacta?",
+      "a": "No es obligatorio para casa; tu lengua es capaz de detectar variaciones de 0.5 % en EY. Si empleas una báscula con precisión de 0.1 gramos para fijar tu dosis y el peso final en taza, puedes usar el tiempo de extracción y la brújula de sabor (ácido = subextraído, astringente = sobreextraído) para situarte entre el 18 % y el 22 %."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cómo cambia el porcentaje de extracción si alargo el ratio de 1:2 a 1:2.5?",
+      "a": "En cafés de tueste claro (alta densidad y menor porosidad), alargar el ratio de 1:2 (36 g) a 1:2.5 (45 g) incorpora agua limpia solvente que eleva el Extraction Yield de un 17 % ácido hasta un 20.5 % dulce, reduciendo ligeramente el TDS del 10 % al 8.2 % pero mejorando drásticamente el equilibrio sensorial."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cómo influye la temperatura del agua en el Extraction Yield?",
+      "a": "Una temperatura baja (88 °C) reduce la energía cinética del agua y deja el EY por debajo del 18 %, resaltando acidez vegetal. Una temperatura excesiva (96 °C) acelera la disolución de compuestos fenólicos amargos y dispara el EY por encima del 22 % en tuestes medios u oscuros."
     }
   ],
   "related": [
-    "/ciencia-y-tecnologia-espresso/",
-    "/ciencia-y-tecnologia-espresso/como-se-forma-la-crema-del-espresso-emulsion-de-co2-aceites-y-melanoidinas/",
-    "/ciencia-y-tecnologia-espresso/por-que-una-pastilla-de-51mm-es-mas-alta-que-una-de-58mm-con-18-gramos/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/ciencia-y-tecnologia-espresso/que-es-el-fines-migration-migracion-de-finos-durante-el-shot/",
+    "/ciencia-y-tecnologia-espresso/glosario-barista-en-espanol-e-ingles-50-terminos-explicados-para-principiantes/",
+    "/ciencia-y-tecnologia-espresso/la-verdad-sobre-los-15-y-20-bares-frente-a-los-9-bares-reales-de-extraccion/",
+    "/ciencia-y-tecnologia-espresso/que-es-el-control-pid-en-una-cafetera-espresso-y-por-que-importa-un-grado/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-es-el-porcentaje-de-extraccion-ey-18-a-22-por-ciento-y-el-tds.webp"
 }

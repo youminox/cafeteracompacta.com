@@ -4,161 +4,128 @@
   "path": "/espumadores-y-latte-art/como-hacer-el-tulipan-de-3-capas-en-latte-art/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como hacer un tulipan en latte art",
   "title": "Cómo Hacer un Tulipán de Latte Art (Técnica Push-Pour de Empujar Capas de Microespuma)",
-  "seoTitle": "Cómo Hacer un Tulipán de Latte Art (Técnica Push-Pour de Empujar Capas de Microespuma) | Guía Barista Compacta",
-  "metaDescription": "Cómo Hacer un Tulipán de Latte Art (Técnica Push-Pour de Empujar Capas de Microespuma): Una vez dominado el corazón, aprende a depositar 2 o 3 pequeñas esferas blancas empujando una dentro de otra antes del trazo final. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Una vez dominado el corazón, aprende a depositar 2 o 3 pequeñas esferas blancas empujando una dentro de otra antes del trazo final.",
-  "quickAnswer": "Sobre como hacer un tulipan en latte art: Una vez dominado el corazón, aprende a depositar 2 o 3 pequeñas esferas blancas empujando una dentro de otra antes del trazo final. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Cómo Hacer un Tulipán de Latte Art (Técnica Push-Pour de Empujar Capas de Microespuma) | cafeteracompacta.com",
+  "metaDescription": "Aprende cómo hacer un tulipán en latte art de 3 capas con la técnica push-pour: alturas de vertido, textura de microespuma a 60 °C y corte final limpio.",
+  "excerpt": "Guía práctica sobre la mecánica push-pour para apilar tres pétalos simétricos de microespuma en tu cafetera compacta sin que las capas se mezclen ni pierdan contraste.",
+  "quickAnswer": "Para saber cómo hacer un tulipán en latte art de 3 capas debes dominar el movimiento push-pour con leche texturizada a 58–62 °C y un aumento de volumen del 20–25 %. Tras llenar la mitad de la taza desde 5 cm de altura, baja el pico a menos de 0.5 cm de la crema, vierte empujando 1.5 cm hacia adelante para encajar cada bulbo dentro del anterior y corta las tres capas elevando el chorro.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Una vez dominado el corazón, aprende a depositar 2 o 3 pequeñas esferas blancas empujando una dentro de otra antes del trazo final., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Side-profile technical detail shot on 85mm prime lens: realistic scene illustrating 'Cómo Hacer un Tulipán de Latte Art (Técnica Push-Pour de Empujar Capas de Microespuma)' (como hacer un tulipan en latte art) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, on a light terrazzo surface in a contemporary living space, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Hacer un Tulipán de Latte Art (Técnica Push-Pour de Empujar Capas de Microespuma)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como hacer un tulipan en latte art** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Una vez dominado el corazón, aprende a depositar 2 o 3 pequeñas esferas blancas empujando una dentro de otra antes del trazo final."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Espumadores Y Latte Art](/espumadores-y-latte-art/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Dominar el corazón sólido suele darte confianza frente a tu **Breville Bambino (BES450)** o tu **De’Longhi Dedica Arte (EC885M)**, hasta que intentas apilar una segunda figura y el dibujo termina convertido en una mancha blanca ovalada sin separación entre pétalos. Ese fallo ocurre porque mantienes el pico de la jarra estático en el mismo punto de la taza en lugar de aprovechar la tensión superficial de la crema. Para entender **como hacer un tulipán en latte art** de tres capas definidas necesitas ejecutar la técnica *push-pour*: verter un bulbo de microespuma, empujarlo suavemente hacia el fondo para que se abra en forma de media luna, cortar el chorro por completo y encajar la siguiente esfera justo en su base dentro de nuestra [sección de espumadores y latte art](/espumadores-y-latte-art/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como hacer un tulipan en latte art"
+      "text": "Física del Push-Pour: Por Qué Debes Empujar Cada Bulbo Hacia el Centro"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como hacer un tulipan en latte art** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Cuando viertes leche texturizada a **58–62 °C** a menos de **0.5 cm** de la superficie del espresso, la velocidad horizontal del chorro empuja la crema marrón hacia adelante. Si avanzas la muñeca entre **1.5 y 2 cm** hacia la pared frontal de la taza mientras aumentas ligeramente el caudal, los extremos del círculo blanco chocan contra el borde curvo del recipiente y se curvan hacia atrás, envolviendo el espacio donde depositarás la segunda capa. Para que los tres pétalos no se fundan entre sí, la microespuma debe tener una expansión del **20 al 25 %** (unos **3 a 4 segundos** de aireación inicial), ligeramente más fluida que la de un [cappuccino italiano tradicional de regla 1/3](/espumadores-y-latte-art/como-hacer-un-cappuccino-italiano-tradicional-regla-1-3/). Además, controlar la rotación del vórtice resulta mucho más predecible si conoces cómo responde una [boquilla de vapor de 1 orificio frente a 2 o 3 orificios](/espumadores-y-latte-art/lanceta-de-1-agujero-vs-2-o-4-agujeros-en-cafeteras-compactas/) en máquinas de **15 cm** de ancho como la **CASABREWS CM5418**."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: como hacer un tulipan en latte art",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Fase del Vertido",
+        "Altura del Pico sobre la Crema",
+        "Inclinación de la Taza",
+        "Acción Mecánica de la Jarra"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Una vez dominado el corazón, aprende a depositar 2 o 3 pequeñas esferas blancas empujando una dentro de otra antes del trazo final.",
-          "Mejora la consistencia y evita errores de extracción"
+          "1. Lienzo base (0 a 50 % del volumen)",
+          "4.5 a 5.5 cm",
+          "40° a 45° hacia la jarra",
+          "Chorro fino de grosor de un lápiz perforando el centro sin manchar de blanco"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "2. Primer bulbo (pétalo inferior)",
+          "0.3 a 0.5 cm",
+          "30° a 35°",
+          "Aterrizar a 2 cm del fondo, verter y empujar 1.5 cm hacia adelante; cortar chorro"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "3. Segundo bulbo (pétalo central)",
+          "0.3 a 0.4 cm",
+          "15° a 20°",
+          "Pausa de 0.5 s, apoyar pico detrás del primer bulbo y empujar 1 cm hacia su centro"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "4. Tercer bulbo y corte final",
+          "0.3 cm subiendo a 4.0 cm",
+          "0° (taza nivelada)",
+          "Depositar corazón superior, elevar la jarra a 4 cm y trazar línea recta hacia ti"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre como hacer un tulipan en latte art",
-      "text": "Una vez dominado el corazón, aprende a depositar 2 o 3 pequeñas esferas blancas empujando una dentro de otra antes del trazo final. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Parámetros técnicos por fase para construir un tulipán de 3 capas en taza de 200 ml"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como hacer un tulipan en latte art hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Secuencia Paso a Paso para Encajar las 3 Capas sin Desbordar la Taza"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Prepara el lienzo a 5 cm de altura hasta la mitad de la taza",
+          "text": "Extrae un espresso doble de 36 g en una taza semiesférica de 180 a 220 ml. Inclina la taza a 45° y vierte leche desde 5 cm de altura en círculos lentos hasta cubrir el 50 % de la capacidad, creando una base densa y homogénea."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Empuja el primer pétalo en la zona profunda de la taza",
+          "text": "Acerca la punta de tu jarra de 350 ml o 450 ml a menos de 0.5 cm de la crema. Aumenta el caudal para que brote la mancha blanca y desliza la jarra 1.5 cm hacia el frente para abrir las alas de la primera media luna. Levanta la muñeca y detén el vertido por completo."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Anida el segundo y tercer bulbo retrocediendo hacia el borde",
+          "text": "A medida que enderezas la taza, coloca el pico 1 cm más cerca de ti que en el paso anterior. Vierte y empuja suavemente hacia el interior de la primera capa para curvarla aún más; corta el flujo y deposita un tercer punto blanco pequeño en la parte superior."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Eleva a 4 cm y corta el tallo con un hilo fino",
+          "text": "Sin detenerte en el tercer pétalo, sube la jarra en vertical hasta unos 3.5 a 4 cm para adelgazar el chorro y cruza el centro de las tres capas de arriba abajo, plegando las hojas simétricamente."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Errores de Sincronización que Deforman la Simetría de los Pétalos"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "El fallo más habitual al practicar el tulipán en una **Breville Bambino Plus (BES500)** o **CASABREWS CM5418** es realizar el corte final a ras de la superficie (**menos de 1 cm** de altura). Si no elevas la jarra a **3.5–4 cm** antes de atravesar las capas, el chorro grueso arrastrará toda la espuma acumulada hacia el borde de la taza, deformando las tres medias lunas en una sola mancha alargada. Del mismo modo, si llenas el lienzo inicial por encima del **55 %** de la taza antes de empezar a dibujar, te quedarás sin margen para inclinar la jarra en el tercer pétalo y la leche rebosará antes de poder cerrarlo.",
+      "title": "No arrastres el pico por la espuma durante el corte final"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con como hacer un tulipan en latte art en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Revisa en las tarjetas de Amazon integradas en esta página la disponibilidad actual de jarras baristas de acero inoxidable y tazas de base curva compatibles con tu cafetera compacta, o consulta a nuestro Asesor IA para afinar tu rutina de vaporización."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como hacer un tulipan en latte art?",
-      "a": "Una vez dominado el corazón, aprende a depositar 2 o 3 pequeñas esferas blancas empujando una dentro de otra antes del trazo final. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué el primer pétalo de mi tulipán se hunde y desaparece en el café?",
+      "a": "Ocurre por dos causas técnicas: o bien la punta de la jarra está a más de 1 cm de la superficie del café y la leche perfora la crema, o bien tu microespuma tiene menos del 15 % de aireación y carece de flotabilidad para sostenerse sobre el espresso."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Qué capacidad de taza facilita más aprender el tulipán de 3 capas?",
+      "a": "Para un tulipán de 3 capas, una taza ancha de cappuccino o flat white de entre 180 ml y 220 ml con fondo semiesférico y boca de 9.5 a 10.5 cm de diámetro ofrece la superficie óptima para empujar cada bulbo sin chocar con las paredes."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué mis tres capas quedan pegadas como un solo círculo grande?",
+      "a": "Sucede cuando no detienes por completo el vertido entre una capa y la siguiente, o cuando depositas el segundo bulbo exactamente encima del centro del primero en vez de iniciar 1 cm más atrás y empujarlo hacia adentro."
     }
   ],
   "related": [
-    "/espumadores-y-latte-art/",
-    "/espumadores-y-latte-art/como-hacer-la-rosetta-hoja-de-helecho-en-latte-art/",
-    "/espumadores-y-latte-art/como-hacer-tu-primer-corazon-de-latte-art-paso-a-paso/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/espumadores-y-latte-art/lanceta-de-1-agujero-vs-2-o-4-agujeros-en-cafeteras-compactas/",
+    "/espumadores-y-latte-art/como-espumar-poca-cantidad-de-leche-100ml-para-un-cortado-o-macchiato/",
+    "/espumadores-y-latte-art/como-hacer-un-cappuccino-italiano-tradicional-regla-1-3/",
+    "/espumadores-y-latte-art/como-espumar-leche-sin-lactosa-y-desnatada-en-breville-bambino/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-hacer-el-tulipan-de-3-capas-en-latte-art.webp"
 }

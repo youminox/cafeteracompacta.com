@@ -4,161 +4,133 @@
   "path": "/extraccion-y-recetas-espresso/receta-de-red-eye-y-black-eye-cafe-de-filtro-con-shot-de-espresso/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "que es un cafe red eye filtro con espresso",
   "title": "Qué Es un 'Red Eye' (Café de Filtro + 1 Shot de Espresso) y Cómo Prepararlo en Días de Mucho Trabajo",
-  "seoTitle": "Qué Es un 'Red Eye' (Café de Filtro + 1 Shot de Espresso) y Cómo Prepararlo en Días de Mucho Trabajo | Guía Barista Compacta",
-  "metaDescription": "Qué Es un 'Red Eye' (Café de Filtro + 1 Shot de Espresso) y Cómo Prepararlo en Días de Mucho Trabajo: El clásico americano de alta cafeína: una taza de café filtrado suave potenciada con la intensidad y cuerpo de un espresso recién extraído. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "El clásico americano de alta cafeína: una taza de café filtrado suave potenciada con la intensidad y cuerpo de un espresso recién extraído.",
-  "quickAnswer": "Sobre que es un cafe red eye filtro con espresso: El clásico americano de alta cafeína: una taza de café filtrado suave potenciada con la intensidad y cuerpo de un espresso recién extraído. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Qué Es un 'Red Eye' (Café de Filtro + 1 Shot de Espresso) y Cómo Prepararlo en Días de Mucho Trabajo | cafeteracompacta.com",
+  "metaDescription": "Descubre qué es un café Red Eye, cuánta cafeína suma al mezclar filtro con espresso y cómo equilibrar su acidez y cuerpo sin amargar la taza.",
+  "excerpt": "Guía técnica para preparar un Red Eye, Black Eye o Dead Eye en casa combinando café filtrado V60 o prensa francesa con un shot extraído en tu cafetera compacta sin quemar los aromas.",
+  "quickAnswer": "Un café **Red Eye** consiste en una base de **180 a 220 ml** de café filtrado (preparado en V60, Chemex o goteo) a la que se incorpora **1 shot simple de espresso (25–30 g)**. Entrega entre **200 y 235 mg de cafeína** total, combinando la limpieza aromática del filtro con el cuerpo denso y los lípidos emulsionados a **9 bares**.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: El clásico americano de alta cafeína: una taza de café filtrado suave potenciada con la intensidad y cuerpo de un espresso recién extraído., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Top-down flat-lay knolling arrangement with accessories: realistic scene illustrating 'Qué Es un 'Red Eye' (Café de Filtro + 1 Shot de Espresso) y Cómo Prepararlo en Días de Mucho Trabajo' (que es un cafe red eye filtro con espresso) for cafeteracompacta.com, featuring equipment in warm sand beige with matte black hardware, inside a bright contemporary apartment with minimalist decor, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Qué Es un 'Red Eye' (Café de Filtro + 1 Shot de Espresso) y Cómo Prepararlo en Días de Mucho Trabajo"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **que es un cafe red eye filtro con espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. El clásico americano de alta cafeína: una taza de café filtrado suave potenciada con la intensidad y cuerpo de un espresso recién extraído."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Cuando te enfrentas a una jornada intensa frente al ordenador y un café filtrado tradicional se queda corto de empuje, pero un espresso corto desaparece en dos sorbos, entra en juego una de las combinaciones más efectivas de la cultura de cafetería norteamericana: el **Red Eye**. Nacida para mantener despiertos a los pasajeros de los vuelos nocturnos entre la costa oeste y la costa este de Estados Unidos, esta bebida fusiona una taza de café de filtro recién infusionado con la intensidad lipídica de un shot extraído a **9 bares**. En [nuestro repertorio de extracción y recetas espresso](/extraccion-y-recetas-espresso/) analizamos cómo ensamblar ambas preparaciones en tu cocina usando una cafetera compacta como la **Breville Bambino (BES450)** o la **CASABREWS CM5418** sin convertir la taza en un líquido astringente o quemado."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: que es un cafe red eye filtro con espresso"
+      "text": "Diferencias Técnicas y de Cafeína: Red Eye, Black Eye y Dead Eye"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **que es un cafe red eye filtro con espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "A diferencia del café Americano —que simplemente diluye un espresso doble en agua caliente—, el **Red Eye** utiliza como vehículo líquido entre **180 y 220 ml** de café filtrado preparado en **V60**, **Chemex**, **AeroPress** o cafetera de goteo a un ratio estándar de **1:16**. Sobre esa base aromática se incorpora **1 shot simple de espresso (25 a 30 g de líquido)**. Si utilizas un grano de tueste medio-claro para la combinación, puedes [aplicar una pausa de blooming espresso tras la preinfusión](/extraccion-y-recetas-espresso/que-es-el-blooming-espresso-pausa-despues-de-la-preinfusion/) para resaltar las notas dulces antes de unir ambas bebidas, o incluso [extraer un shot con crema usando café pre-molido en filtro presurizado](/extraccion-y-recetas-espresso/como-preparar-un-espresso-con-crema-usando-cafe-premolido-de-supermercado/) si buscas una preparación rápida antes de salir de casa."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: que es un cafe red eye filtro con espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Denominación",
+        "Base de Café Filtrado",
+        "Dosis de Espresso Añadida",
+        "Cafeína Total Estimada",
+        "Perfil Sensorial en Taza"
       ],
       "rows": [
         [
-          "Clave principal",
-          "El clásico americano de alta cafeína: una taza de café filtrado suave potenciada con la intensidad y cuerpo de un espresso recién extraído.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Red Eye (Shot in the Dark)",
+          "180–220 ml (ratio 1:16)",
+          "1 shot simple (25–30 g)",
+          "200–235 mg",
+          "Acidez brillante con cuerpo medio y final persistente"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Black Eye",
+          "180–220 ml (ratio 1:16)",
+          "1 shot doble (36–40 g)",
+          "270–310 mg",
+          "Textura densa, notas intensas de cacao y crema visible"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Dead Eye (Green Eye)",
+          "200–240 ml (ratio 1:16)",
+          "3 shots (54–60 g)",
+          "345–390 mg",
+          "Concentración extrema, solo apta para alta tolerancia"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Americano Clásico (Referencia)",
+          "180 ml de agua a 80 °C (sin café)",
+          "1 shot doble (36–40 g)",
+          "125–150 mg",
+          "Limpio y ligero, menor concentración de sólidos solubles"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre que es un cafe red eye filtro con espresso",
-      "text": "El clásico americano de alta cafeína: una taza de café filtrado suave potenciada con la intensidad y cuerpo de un espresso recién extraído. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Comparativa de variantes de café filtrado reforzado con shots de espresso y su carga estimada de cafeína"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar que es un cafe red eye filtro con espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Protocolo Paso a Paso para Ensamblar un Red Eye sin Quemar los Aromas"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Infusiona primero la base de filtro a 92–94 °C",
+          "text": "Prepara **200 ml** de café filtrado usando **12.5 g** de grano con molienda media. Al terminar el goteo, deja que la jarra o taza repose durante **90 segundos** para que la temperatura descienda hacia los **72–75 °C**, evitando así escaldar los compuestos volátiles del espresso."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Empareja orígenes compatibles entre filtro y portafiltro",
+          "text": "Evita mezclar un filtro etíope floral muy ácido con un espresso torrefacto o con alto porcentaje de Robusta. La combinación más armónica une un café lavado centroamericano en el filtro con un Brasil o Colombia de tueste medio en el portafiltro de **54 mm** o **51 mm**."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Extrae el shot corto en un vaso medidor precalentado",
+          "text": "En lugar de colocar la taza llena de filtro directamente bajo las boquillas del portafiltro (donde las salpicaduras rompen la crema), extrae **25 a 30 g** de espresso en un **shot glass** aparte durante **25–28 segundos** en tu **De’Longhi Dedica Arte (EC885M)** o **Breville Bambino**."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Integra el espresso deslizando por la pared interior",
+          "text": "Vierte el shot suavemente por el borde interno de la taza de café filtrado. De este modo, los aceites emulsionados y la microespuma de **CO2** flotan parcialmente en la superficie mientras el corazón del espresso se homogeniza con el filtro."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Control de Tuestes y Límites Fisiológicos de Cafeína Diaria"
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "La Autoridad Europea de Seguridad Alimentaria (EFSA) y la FDA sitúan en **400 mg diarios** el techo seguro de cafeína para un adulto sano, con un máximo recomendado de **200 mg en una sola toma**. Un **Red Eye** bien medido se mantiene justo en esa frontera ergogénica ideal para potenciar la concentración cognitiva, mientras que un **Black Eye** o un **Dead Eye** superan el umbral de dosis única y deben consumirse de forma espaciada a lo largo de **2 a 3 horas** junto con buena hidratación.",
+      "title": "Precaución con la absorción gástrica en ayunas"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con que es un cafe red eye filtro con espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Quieres saber qué molino compacto te permite alternar entre molienda para filtro V60 y espresso en segundos? Consulta a nuestro Asesor IA o revisa la disponibilidad en tiempo real de cafeteras y molinos en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre que es un cafe red eye filtro con espresso?",
-      "a": "El clásico americano de alta cafeína: una taza de café filtrado suave potenciada con la intensidad y cuerpo de un espresso recién extraído. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Es mejor extraer el espresso directamente sobre la taza de filtro o en un vaso aparte?",
+      "a": "Extraer el espresso directamente sobre la taza de filtro suele generar salpicaduras debido a la distancia con el portafiltro y, si el shot se canaliza o sale sobreextraído, arruinarás también los 200 ml de café filtrado. Extraerlo en un vaso pequeño aparte garantiza control total del peso en gramos."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Puedo hacer un Red Eye usando café de prensa francesa en lugar de filtro de papel?",
+      "a": "Sí, la prensa francesa funciona excelente como base para un Red Eye, pero aporta más lípidos y sedimentos insolubles en suspensión que un filtro de papel V60. Si usas prensa francesa, decanta el líquido con suavidad tras 4 minutos de infusión para que la taza final no resulte terrosa."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Con qué otros nombres se pide un café Red Eye en las cafeterías de especialidad?",
+      "a": "En la costa oeste de Estados Unidos se conoce popularmente como 'Shot in the Dark', en Alaska suele pedirse como 'Sludge Cup', y cadenas comerciales como Starbucks lo sirven al pedir un café del día con un 'add shot' de espresso recién extraído."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/como-catar-tu-propio-espresso-por-que-es-obligatorio-remover-la-crema-con-cuchara/",
     "/extraccion-y-recetas-espresso/receta-de-cafe-viennese-espresso-con-nata-montada-y-chocolate/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/que-es-el-blooming-espresso-pausa-despues-de-la-preinfusion/",
+    "/extraccion-y-recetas-espresso/por-que-no-debes-dar-golpes-laterales-al-portafiltro-con-el-tamper-knocks/",
+    "/extraccion-y-recetas-espresso/como-preparar-un-espresso-con-crema-usando-cafe-premolido-de-supermercado/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/receta-de-red-eye-y-black-eye-cafe-de-filtro-con-shot-de-espresso.webp"
 }

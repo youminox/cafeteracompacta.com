@@ -4,161 +4,123 @@
   "path": "/extraccion-y-recetas-espresso/receta-de-caramel-macchiato-casero-estilo-starbucks/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "receta caramel macchiato casero con cafetera espresso",
   "title": "Cómo Hacer un Caramel Macchiato Casero (Frio o Caliente) Ahorrando $5 Dólares por Vaso",
-  "seoTitle": "Cómo Hacer un Caramel Macchiato Casero (Frio o Caliente) Ahorrando $5 Dólares por Vaso | Guía Barista Compacta",
-  "metaDescription": "Cómo Hacer un Caramel Macchiato Casero (Frio o Caliente) Ahorrando $5 Dólares por Vaso: Sirope de vainilla en el fondo, leche texturizada, el espresso vertido en el centro atravesando la espuma y rejilla de caramelo encima. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Sirope de vainilla en el fondo, leche texturizada, el espresso vertido en el centro atravesando la espuma y rejilla de caramelo encima.",
-  "quickAnswer": "Sobre receta caramel macchiato casero con cafetera espresso: Sirope de vainilla en el fondo, leche texturizada, el espresso vertido en el centro atravesando la espuma y rejilla de caramelo encima. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Cómo Hacer un Caramel Macchiato Casero (Frio o Caliente) Ahorrando $5 Dólares por Vaso | cafeteracompacta.com",
+  "metaDescription": "Prepara la receta de caramel macchiato casero con cafetera espresso frío o caliente: dosis de vainilla, microespuma y rejilla de caramelo espeso.",
+  "excerpt": "Replica la estructura real del Caramel Macchiato de cafetería en casa con tu máquina compacta: base aromatizada con vainilla, leche texturizada a 60 °C y sellado con salsa de caramelo.",
+  "quickAnswer": "La auténtica receta de caramel macchiato casero con cafetera espresso no lleva sirope de caramelo mezclado en el fondo, sino **15 ml** de sirope de vainilla integrados con **180 ml** de leche vaporizada a **60–62 °C** (o fría con hielo). Sobre esa base láctea se vierten **36 g** de espresso recién extraído en tu **De’Longhi Dedica Arte** o **Breville Bambino** y se dibuja una rejilla superior con **12 g** de salsa densa de caramelo.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Sirope de vainilla en el fondo, leche texturizada, el espresso vertido en el centro atravesando la espuma y rejilla de caramelo encima., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Close inspection angle highlighting materials, latches and finish: realistic scene illustrating 'Cómo Hacer un Caramel Macchiato Casero (Frio o Caliente) Ahorrando $5 Dólares por Vaso' (receta caramel macchiato casero con cafetera espresso) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, in a well-organized domestic utility area with natural plants nearby, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Hacer un Caramel Macchiato Casero (Frio o Caliente) Ahorrando $5 Dólares por Vaso"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **receta caramel macchiato casero con cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Sirope de vainilla en el fondo, leche texturizada, el espresso vertido en el centro atravesando la espuma y rejilla de caramelo encima."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Quienes intentan reproducir en casa el famoso Caramel Macchiato de las cadenas estadounidenses suelen cometer un fallo de formulación que arruina el perfil de la bebida: mezclar salsa o sirope de caramelo en el fondo del vaso con el espresso. Cuando pruebas esa versión improvisada, el dulzor resulta plano y empalagoso desde el primer sorbo, perdiendo el contraste aromático original. La verdadera arquitectura de la **receta caramel macchiato casero con cafetera espresso** —detallada paso a paso dentro de nuestra [guía de bebidas con cafetera espresso](/extraccion-y-recetas-espresso/)— se construye sobre una base láctea aromatizada exclusivamente con **sirope de vainilla**, un cuerpo de leche texturizada (o fría con hielo), un tiro de espresso vertido por encima para manchar la corona y una rejilla final de **salsa espesa de caramelo** (*caramel drizzle*) que flota sobre la espuma."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: receta caramel macchiato casero con cafetera espresso"
+      "text": "El secreto de la receta original: base de vainilla debajo y salsa densa de caramelo arriba"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **receta caramel macchiato casero con cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: receta caramel macchiato casero con cafetera espresso",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "Sirope de vainilla en el fondo, leche texturizada, el espresso vertido en el centro atravesando la espuma y rejilla de caramelo encima.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "Si ya conoces las [diferencias técnicas entre espresso macchiato y latte macchiato](/extraccion-y-recetas-espresso/receta-de-espresso-macchiato-tradicional-manchado-con-espuma/), entenderás por qué esta bebida es, técnicamente, un *Vanilla Latte Macchiato* coronado con caramelo. Al depositar entre **15 y 20 ml** de sirope líquido de vainilla en la base del vaso e integrarlo con **180 a 200 ml** de leche vaporizada en tu **Breville Bambino Plus (BES500)**, **De’Longhi Dedica Arte (EC885M)** o **CASABREWS 3700Essential**, creas un colchón dulce pero ligero. Luego, para que el café que viertes por encima tenga todo el cuerpo achocolatado y una crema elástica capaz de sostener el dibujo superior sin notas a quemado, asegúrate de [encajar el portafiltro y extraer en menos de 5 segundos](/extraccion-y-recetas-espresso/por-que-nunca-debes-dejar-el-portafiltro-con-cafe-puesto-antes-de-extraer/). El golpe maestro ocurre en la superficie: debes usar **salsa de caramelo con mantequilla o nata** (de alta viscosidad), nunca sirope líquido transparente, porque solo la salsa densa se mantiene suspendida sobre la microespuma o los hielos sin hundirse al fondo."
     },
     {
       "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre receta caramel macchiato casero con cafetera espresso",
-      "text": "Sirope de vainilla en el fondo, leche texturizada, el espresso vertido en el centro atravesando la espuma y rejilla de caramelo encima. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "aviso",
+      "text": "En el mercado existen dos productos distintos: el 'Caramel Syrup' (líquido acuoso pensado para disolverse) y la 'Caramel Sauce' (densa y opaca). Si usas sirope líquido para decorar la parte superior, atravesará la espuma en dos segundos y desaparecerá. Usa siempre sirope de vainilla para el fondo y salsa espesa de caramelo en biberón de boquilla fina para la rejilla superior.",
+      "title": "No confundas sirope líquido de caramelo con salsa de caramelo (Caramel Sauce)"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar receta caramel macchiato casero con cafetera espresso hoy mismo en tu cocina"
+      "text": "Fórmulas exactas para preparar tu Caramel Macchiato Caliente e Iced en casa"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "table",
+      "headers": [
+        "Componente de la receta",
+        "Caramel Macchiato Caliente (350 ml)",
+        "Iced Caramel Macchiato con Hielo (400 ml)"
+      ],
+      "rows": [
+        [
+          "Base aromática inferior",
+          "15 ml (2 bombas) de sirope líquido de vainilla",
+          "15 a 20 ml de sirope líquido de vainilla"
+        ],
+        [
+          "Fase láctea intermedia",
+          "200 ml de leche vaporizada a 60–62 °C con 1.5 cm de espuma",
+          "160 ml de leche fría a 4 °C + 100 g de hielo en cubos"
+        ],
+        [
+          "Mancha de café superior",
+          "36 g de espresso doble (18 g en cesta → 27 s)",
+          "36 g de espresso doble vertido lento sobre los hielos"
+        ],
+        [
+          "Rejilla decorativa (Crosshatch)",
+          "12 g de salsa espesa de caramelo sobre la espuma",
+          "15 g de salsa de caramelo en las paredes y sobre el hielo"
+        ]
+      ],
+      "caption": "Dosificación por gramos y mililitros para vaso Grande de 350 a 400 ml"
+    },
+    {
+      "type": "h2",
+      "text": "Paso a paso para ensamblar las capas y trazar la rejilla clásica (Crosshatch)"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "1. Aromatización del fondo con sirope de vainilla",
+          "text": "Vierte **15 ml** de sirope de vainilla en el fondo de tu taza o vaso térmico de **350 a 400 ml**. Si vas a preparar la versión **Iced**, aprovecha este momento para trazar también un par de anillos interiores con salsa de caramelo por la pared del vaso transparente."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "2. Incorporación de la leche texturizada o fría con hielo",
+          "text": "En la versión **caliente**, vaporiza **200 ml** de leche entera o bebida de avena barista hasta **62 °C** creando una microespuma densa y viértela sobre la vainilla dejando **2 cm** libres hasta el borde. En la versión **fría**, añade los **160 ml** de leche fría, remueve con la vainilla y completa con cubos de hielo grandes hasta casi el borde."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "3. Vertido puntual del espresso doble en el centro",
+          "text": "Extrae **36 g** de espresso con un grano de tueste medio o medio-oscuro en tu cafetera compacta. Viértelo despacio justo en el centro del vaso durante **5 segundos** para que deje un círculo marrón oscuro en la espuma caliente o forme una franja flotante sobre los hielos."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "4. Trazado de la rejilla de caramelo (7x7 más círculo)",
+          "text": "Con un biberón de repostería cargado con salsa densa de caramelo a temperatura ambiente, dibuja **5 a 7 líneas paralelas** en una dirección, gíralo **90 grados** para trazar otras **5 a 7 líneas** cruzadas y cierra el perímetro con **dos círculos concéntricos** junto al borde."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con receta caramel macchiato casero con cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Quieres equipar tu rincón del café con dosificadores de sirope, vasos de vidrio con tapa o una cafetera compacta con vaporizador potente? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre receta caramel macchiato casero con cafetera espresso?",
-      "a": "Sirope de vainilla en el fondo, leche texturizada, el espresso vertido en el centro atravesando la espuma y rejilla de caramelo encima. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cómo evito que la salsa de caramelo se hunda en el Iced Caramel Macchiato frío?",
+      "a": "En la versión fría (**Iced Caramel Macchiato**) no hay microespuma de leche caliente para sostener toda la salsa. El truco consiste en llenar el vaso con abundante hielo hasta **1 cm** del borde para que los cubos superiores sobresalgan ligeramente del líquido y actúen como plataforma física para la rejilla de caramelo."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cómo puedo hacer salsa espesa de caramelo casera que flote sobre la espuma?",
+      "a": "Para lograr la misma viscosidad que en cafetería sin que cristalice al enfriarse, funde **100 g** de azúcar blanco hasta obtener un caramelo ámbar, retira del fuego e incorpora **60 g** de mantequilla con sal y **80 ml** de nata líquida para montar (**35 % M.G.**) caliente, batiendo hasta lograr una emulsión brillante."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué tipo de café funciona mejor para el Caramel Macchiato casero?",
+      "a": "Los granos de tueste medio-oscuro de origen latinoamericano (Colombia, Brasil o Guatemala) con notas naturales de cacao, nuez y panela son los más indicados. Resaltan a través del dulzor de la vainilla y la leche sin aportar una acidez frutal que desentone con el caramelo."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/receta-de-cafe-bombon-con-leche-condensada-y-espresso/",
     "/extraccion-y-recetas-espresso/receta-de-espresso-macchiato-tradicional-manchado-con-espuma/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/receta-de-dirty-chai-latte-con-un-shot-de-espresso/",
+    "/extraccion-y-recetas-espresso/como-influye-el-tiempo-de-preinfusion-en-el-cuerpo-del-espresso/",
+    "/extraccion-y-recetas-espresso/por-que-nunca-debes-dejar-el-portafiltro-con-cafe-puesto-antes-de-extraer/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/receta-de-caramel-macchiato-casero-estilo-starbucks.webp"
 }

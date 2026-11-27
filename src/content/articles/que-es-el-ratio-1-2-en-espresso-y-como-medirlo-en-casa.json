@@ -4,161 +4,128 @@
   "path": "/extraccion-y-recetas-espresso/que-es-el-ratio-1-2-en-espresso-y-como-medirlo-en-casa/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "que es el ratio 1 2 en cafe espresso",
   "title": "La Fórmula del Ratio 1:2 en Espresso: Cómo Pasar de 18 g de Café Seco a 36 g en Taza en 27 Segundos",
-  "seoTitle": "La Fórmula del Ratio 1 | Guía Barista Compacta",
-  "metaDescription": "La Fórmula del Ratio 1:2 en Espresso: Cómo Pasar de 18 g de Café Seco a 36 g en Taza en 27 Segundos: El estándar universal de las cafeterías de especialidad explicado paso a paso para reproducirlo en cualquier cafetera compacta. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "El estándar universal de las cafeterías de especialidad explicado paso a paso para reproducirlo en cualquier cafetera compacta.",
-  "quickAnswer": "Sobre que es el ratio 1 2 en cafe espresso: El estándar universal de las cafeterías de especialidad explicado paso a paso para reproducirlo en cualquier cafetera compacta. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "La Fórmula del Ratio 1:2 en Espresso: Cómo Pasar de 18 g de Café Seco a 36 g en Taza en 27 Segundos | cafeteracompacta.com",
+  "metaDescription": "Aprende a aplicar la fórmula del ratio 1:2 en espresso: cómo transformar 18 g de café molido en 36 g de bebida en taza en 27 segundos con báscula digital.",
+  "excerpt": "Olvida medir tu espresso en mililitros donde la crema engaña a la vista: domina la proporción gravimétrica 1:2 entre café seco y líquido extraído para lograr dulzor, cuerpo y balance constante.",
+  "quickAnswer": "El **ratio 1:2** en espresso es la proporción en peso entre la dosis de café seco molido que entra en el portafiltro y la masa de bebida líquida extraída en la taza. Para aplicarlo en una cesta de **54 mm** como la **Breville Bambino**, debes dosificar **18.0 g** en seco y detener la bomba al alcanzar **36.0 g** de espresso en una ventana temporal de **25 a 30 segundos**.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: El estándar universal de las cafeterías de especialidad explicado paso a paso para reproducirlo en cualquier cafetera compacta., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Dynamic action-ready placement on clean counter surface with subtle reflections: realistic scene illustrating 'La Fórmula del Ratio 1:2 en Espresso: Cómo Pasar de 18 g de Café Seco a 36 g en Taza en 27 Segundos' (que es el ratio 1 2 en cafe espresso) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, on a light terrazzo surface in a contemporary living space, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "La Fórmula del Ratio 1:2 en Espresso: Cómo Pasar de 18 g de Café Seco a 36 g en Taza en 27 Segundos"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **que es el ratio 1 2 en cafe espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. El estándar universal de las cafeterías de especialidad explicado paso a paso para reproducirlo en cualquier cafetera compacta."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Guiarte por las líneas en mililitros de un vasito medidor o por el corte automático de fábrica de tu cafetera es la razón principal por la que un espresso te sale excelente un martes y terriblemente aguado o ácido el miércoles. La crema del café está compuesta por burbujas de dióxido de carbono atrapadas en lípidos: un grano recién tostado hace **7 días** puede ocupar **60 ml** de volumen en vaso pesando apenas **30 gramos**, mientras que un café con **4 semanas** de tueste apenas levantará espuma para el mismo peso líquido. En nuestras guías de [extracción perfecta del espresso y recetas en casa](/extraccion-y-recetas-espresso/) sustituimos siempre el volumen por la masa gravimétrica usando una báscula con precisión de **0.1 g** y cronómetro integrado: la fórmula maestra del **ratio 1:2** consiste en extraer exactamente el doble de peso en bebida líquida respecto a los gramos de café seco depositados en la cesta en un tiempo total de **25 a 30 segundos** (con **27 segundos** como centro estadístico ideal)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: que es el ratio 1 2 en cafe espresso"
-    },
-    {
-      "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **que es el ratio 1 2 en cafe espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Tabla de Equivalencias del Ratio 1:2 según el Diámetro de tu Cesta y Estilo de Disparo"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: que es el ratio 1 2 en cafe espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Estilo de Extracción (Ratio)",
+        "Cesta 51 mm (Dosis 15.0 g) — Dedica / CASABREWS",
+        "Cesta 54 mm (Dosis 18.0 g) — Breville Bambino",
+        "Tiempo Objetivo y Perfil de Tueste Ideal"
       ],
       "rows": [
         [
-          "Clave principal",
-          "El estándar universal de las cafeterías de especialidad explicado paso a paso para reproducirlo en cualquier cafetera compacta.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Ristretto (Ratio 1:1.5)",
+          "15.0 g en seco → 22.5 g en taza",
+          "18.0 g en seco → 27.0 g en taza",
+          "22 – 26 s (Tuestes oscuros o italianos intensos)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Espresso Normale (Ratio 1:2)",
+          "15.0 g en seco → 30.0 g en taza",
+          "18.0 g en seco → 36.0 g en taza",
+          "25 – 30 s / 27 s ideal (Tuestes medios y blends espresso)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Espresso Extendido (Ratio 1:2.2)",
+          "15.0 g en seco → 33.0 g en taza",
+          "18.0 g en seco → 39.6 g en taza",
+          "27 – 32 s (Orígenes únicos de tueste medio-claro)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Lungo de Especialidad (Ratio 1:2.5)",
+          "15.0 g en seco → 37.5 g en taza",
+          "18.0 g en seco → 45.0 g en taza",
+          "28 – 34 s (Tuestes ligeros de alta densidad y acidez frutal)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre que es el ratio 1 2 en cafe espresso",
-      "text": "El estándar universal de las cafeterías de especialidad explicado paso a paso para reproducirlo en cualquier cafetera compacta. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Pesos objetivo en taza y ventanas de tiempo para cestas despresurizadas de 51 mm, 54 mm y 58 mm"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar que es el ratio 1 2 en cafe espresso hoy mismo en tu cocina"
+      "text": "Cómo Clavar 36 Gramos en 27 Segundos Ajustando el Molino y la Temperatura"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "En esta ecuación de tres variables, **la dosis en seco (18.0 g en 54 mm o 15.0 g en 51 mm) y el rendimiento en taza (36.0 g o 30.0 g) se mantienen fijos**, mientras que el grosor de molienda actúa como el acelerador o freno del tiempo. Si alcanzas los **36.0 g** en apenas **18 segundos**, el flujo fue demasiado veloz porque la molienda está gruesa o sufriste grietas en la pastilla —revisa cómo detectar y [eliminar al 100 % el channeling o canalización en el espresso](/extraccion-y-recetas-espresso/que-es-el-channeling-canalizacion-en-el-espresso-y-como-eliminarlo/)—. Si por el contrario a los **27 segundos** solo han caído **20 g**, debes abrir el dial del molino uno o dos clics hacia más grueso. Para comprender por qué cortar exactamente en el **ratio 1:2** equilibra la acidez inicial con la dulzura media antes de que aparezcan los taninos secos, te recomendamos realizar [el experimento del Salami Shot dividiendo tu espresso en 5 vasos](/extraccion-y-recetas-espresso/que-es-el-salami-shot-el-experimento-para-entender-las-3-fases-del-espresso/) y, si utilizas granos de tueste medio en una compacta de 15 cm, verificar [cómo ajustar las 3 temperaturas en el menú oculto de la De’Longhi Dedica Arte](/extraccion-y-recetas-espresso/como-ajustar-las-3-temperaturas-y-el-volumen-en-la-delonghi-dedica-arte/)."
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Pesa la dosis en seco al décimo de gramo",
+          "text": "Coloca el portafiltro limpio y seco (o el vaso dosificador de tu molino) sobre la báscula, pulsa TARE y pesa exactamente **18.0 g** para la cesta doble de **54 mm** de la **Breville Bambino** (o **15.0 g** para una cesta despresurizada de **51 mm**). Distribuye con agujas WDT y compacta nivelado."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Tara la taza precalentada bajo el grupo",
+          "text": "Encaja el portafiltro en la cafetera, sitúa tu báscula compacta sobre la bandeja de goteo, pon encima la taza previamente calentada con agua y presiona TARE para dejar la pantalla en **0.0 g**."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Inicia el cronómetro al pulsar el botón de bomba",
+          "text": "Activa el cronómetro en el instante exacto en que presionas el botón de extracción (**t = 0 s**). Las primeras gotas oscuras deben asomar por la base del filtro entre los **segundos 5 y 8** tras la fase de pre-infusión."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Detén la bomba 2 gramos antes de tu meta",
+          "text": "Vigila el visor de gramos: para clavar **36.0 g** finales, pulsa el botón para cortar la bomba cuando la pantalla marque **33.5 g a 34.0 g** entre los **segundos 26 y 28**, dejando que el goteo residual complete los **36.0 g**."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Cómo Compensar la Inercia de Goteo en Cafeteras sin Válvula Solenoide de 3 Vías"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "En cafeteras equipadas con **válvula solenoide de 3 vías** (como la **Breville Bambino Plus BES500**), al pulsar el botón de parada se libera de golpe la presión residual hacia la bandeja de goteo y apenas cae **0.5 a 1.0 g** extra en tu taza. En cambio, en modelos sin electroválvula de descarga como la **Breville Bambino estándar (BES450)**, la **De’Longhi Dedica Arte (EC885M)** o la **CASABREWS CM5418**, el agua presurizada atrapada sobre la pastilla sigue drenando por las boquillas durante **3 a 4 segundos** tras apagar la bomba, sumando entre **2.5 g y 3.5 g** adicionales. Corta siempre la bomba unos **2.5 g antes** de tu peso objetivo o retira la taza junto con la báscula justo al ver **36.0 g**.",
+      "title": "El truco de cortar 2.5 gramos antes en máquinas sin válvula solenoide"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con que es el ratio 1 2 en cafe espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Necesitas elegir una mini báscula espresso impermeable que quepa en la estrecha bandeja de tu De’Longhi Dedica, CASABREWS o Breville Bambino? Pregunta a nuestro Asesor IA o consulta los modelos compatibles y su disponibilidad actual en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre que es el ratio 1 2 en cafe espresso?",
-      "a": "El estándar universal de las cafeterías de especialidad explicado paso a paso para reproducirlo en cualquier cafetera compacta. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Son 36 gramos de espresso equivalentes a 36 mililitros en un vaso medidor?",
+      "a": "El agua tiene una densidad de **1 g por cada 1 ml**, pero la crema del espresso contiene mucho gas atrapado y tiene una densidad menor (**0.6 a 0.8 g/ml**). Por ello, **36 gramos** de espresso recién extraído con un café fresco suelen ocupar entre **45 ml y 55 ml** visuales en un vaso medidor hasta que la espuma se asienta."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿El tiempo de 27 segundos se cuenta desde que pulso el botón o desde la primera gota?",
+      "a": "En la comunidad barista internacional, el estándar más consistente es arrancar el cronómetro **en el momento exacto en que pulsas el botón de extracción** y el agua entra en contacto con el café seco. En cafeteras compactas como la **Breville Bambino** o la **CASABREWS CM5418**, el rango óptimo de **25 a 30 segundos** ya incluye los **4 a 7 segundos** iniciales de pre-infusión."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cómo adapto la receta de 18 g a 36 g si mi cafetera tiene portafiltro de 51 mm?",
+      "a": "Las cestas de **51 mm** tienen menor diámetro que las de **54 mm**, por lo que meter **18 g** obligaría a usar una cesta extraprofunda que genera una pastilla demasiado gruesa y difícil de atravesar uniformemente. En **51 mm**, la dosis óptima es de **14.0 g a 16.0 g**, lo que en un **ratio 1:2** equivale a extraer entre **28.0 g y 32.0 g** de líquido en los mismos **27 segundos**."
     }
   ],
   "related": [
     "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/como-leer-el-manometro-de-presion-de-la-casabrews-cm5418/",
-    "/extraccion-y-recetas-espresso/los-10-mandamientos-para-extraer-un-espresso-perfecto-cada-dia/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/que-es-el-channeling-canalizacion-en-el-espresso-y-como-eliminarlo/",
+    "/extraccion-y-recetas-espresso/como-ajustar-las-3-temperaturas-y-el-volumen-en-la-delonghi-dedica-arte/",
+    "/extraccion-y-recetas-espresso/que-es-el-salami-shot-el-experimento-para-entender-las-3-fases-del-espresso/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-es-el-ratio-1-2-en-espresso-y-como-medirlo-en-casa.webp"
 }

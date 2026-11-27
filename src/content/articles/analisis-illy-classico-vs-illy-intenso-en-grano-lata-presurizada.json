@@ -3,162 +3,116 @@
   "pillar": "cafe-en-grano-y-agua",
   "path": "/cafe-en-grano-y-agua/analisis-illy-classico-vs-illy-intenso-en-grano-lata-presurizada/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "illy classico vs intenso en grano para espresso",
   "title": "Café en Grano Illy Classico vs Intenso en Lata Presurizada con Nitrógeno:Cómo Conserva el Aroma",
-  "seoTitle": "Café en Grano Illy Classico vs Intenso en Lata Presurizada con Nitrógeno | Guía Barista Compacta",
-  "metaDescription": "Café en Grano Illy Classico vs Intenso en Lata Presurizada con Nitrógeno:Cómo Conserva el Aroma: El envasado bajo presión de gas inerte en lata metálica mantiene los aceites intactos hasta el día en que abres la anilla. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "El envasado bajo presión de gas inerte en lata metálica mantiene los aceites intactos hasta el día en que abres la anilla.",
-  "quickAnswer": "Sobre illy classico vs intenso en grano para espresso: El envasado bajo presión de gas inerte en lata metálica mantiene los aceites intactos hasta el día en que abres la anilla. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Café en Grano Illy Classico vs Intenso en Lata Presurizada con Nitrógeno:Cómo Conserva el Aroma | cafeteracompacta.com",
+  "metaDescription": "Diferencias entre Illy Classico e Intenso en grano: cómo funciona su lata presurizada con nitrógeno, ajuste de molienda y perfil de sabor en tu cafetera.",
+  "excerpt": "Descubre la física detrás de la lata presurizada de Illy y qué versión elegir entre Classico e Intenso según el sistema de calentamiento de tu cafetera compacta y tu preferencia de tueste.",
+  "quickAnswer": "**Illy Classico** e **Illy Intenso** comparten exactamente el mismo blend **100% Arábica** envasado en latas de **250 g** presurizadas con nitrógeno para frenar la oxidación, pero difieren en la curva térmica del tueste. **Classico** (tueste medio) entrega notas dulces de caramelo y flor de azahar ideales para espresso puro a ratio **1:2**, mientras que **Intenso** (tueste medio-oscuro) prioriza notas de cacao profundo y menor acidez para brillar con leche vaporizada.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: El envasado bajo presión de gas inerte en lata metálica mantiene los aceites intactos hasta el día en que abres la anilla., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Side-profile technical detail shot on 85mm prime lens: realistic scene illustrating 'Café en Grano Illy Classico vs Intenso en Lata Presurizada con Nitrógeno:Cómo Conserva el Aroma' (illy classico vs intenso en grano para espresso) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, on a clean stone countertop with neatly arranged accessories, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Café en Grano Illy Classico vs Intenso en Lata Presurizada con Nitrógeno:Cómo Conserva el Aroma"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **illy classico vs intenso en grano para espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. El envasado bajo presión de gas inerte en lata metálica mantiene los aceites intactos hasta el día en que abres la anilla."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Cafe En Grano Y Agua](/cafe-en-grano-y-agua/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Al tirar de la anilla metálica de una lata de **250 gramos (8.8 oz)** de Illy por primera vez, escuchas un silbido seco muy parecido al de abrir un refresco o un bote de pelotas de tenis nuevas. Ese sonido no es un simple cierre al vacío: es el escape de nitrógeno a presión positiva que la firma de Trieste inyecta en fábrica para blindar su blend de **9 orígenes 100% Arábica**. Cuando revisas [cómo elegir café en grano para espresso en Amazon Estados Unidos](/cafe-en-grano-y-agua/como-elegir-cafe-en-grano-para-espresso-en-amazon-estados-unidos/), entender cómo actúa esta presurización y en qué se diferencian las latas de **Illy Classico** (banda roja) e **Illy Intenso** (banda granate) te ahorrará desperdiciar media lata ajustando tu molino a ciegas."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: illy classico vs intenso en grano para espresso"
-    },
-    {
-      "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **illy classico vs intenso en grano para espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Illy Classico vs Illy Intenso: diferencias físicas en el grano y comportamiento en el portafiltro"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: illy classico vs intenso en grano para espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Especificación Técnica",
+        "Illy Classico (Banda Roja)",
+        "Illy Intenso (Banda Granate)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "El envasado bajo presión de gas inerte en lata metálica mantiene los aceites intactos hasta el día en que abres la anilla.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Composición del grano",
+          "100% Arábica (blend de 9 orígenes)",
+          "100% Arábica (mismo blend, mayor desarrollo)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Grado de tueste y superficie",
+          "Tueste medio uniforme, corteza seca y densa",
+          "Tueste medio-oscuro (Bold Roast), ligera micro-sudoración"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Perfil sensorial en espresso",
+          "Caramelo, flor de azahar, jazmín y almendra dulce",
+          "Cacao puro, pan tostado y frutos secos tostados"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "Receta óptima en Breville Bambino / Dedica",
+          "18 g in → 36 g out (Ratio 1:2) en 27–30 s",
+          "18 g in → 28-32 g out (Ratio 1:1.6) en 24–27 s"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Temperatura de infusión recomendada",
+          "92 °C a 93 °C (alta solubilidad aromática)",
+          "90 °C a 91 °C (evita extraer amargor pirógeno)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre illy classico vs intenso en grano para espresso",
-      "text": "El envasado bajo presión de gas inerte en lata metálica mantiene los aceites intactos hasta el día en que abres la anilla. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Comparativa técnica entre Illy Classico e Illy Intenso en lata presurizada de 250 g"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar illy classico vs intenso en grano para espresso hoy mismo en tu cocina"
+      "text": "La ciencia de la presurización con nitrógeno: por qué cambia tu molienda tras abrir la lata"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "A diferencia de las bolsas flexibles con válvula, Illy introduce los granos recién tostados en un cilindro de acero y sustituye el aire atmosférico por **nitrógeno gaseoso inerte** a una sobrepresión aproximada de **1.4 a 1.5 atmósferas**, reduciendo el oxígeno residual por debajo del **1%**. Esta presión cumple una doble función física: impide la oxidación de los lípidos durante hasta **24 meses** y obliga a los ésteres aromáticos volátiles y al **CO2** a permanecer atrapados dentro de las paredes celulares de celulosa, proceso que incluso altera [cuántos gramos de agua retiene la pastilla de café](/cafe-en-grano-y-agua/cuantos-gramos-de-agua-retiene-la-pastilla-de-cafe-absorcion-2x/) durante la pre-infusión. Sin embargo, en el instante en que abres la lata en tu cocina, la presión cae a **1 atm** y el grano comienza a desgasificar de forma acelerada durante los siguientes **5 a 8 días**."
     },
     {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con illy classico vs intenso en grano para espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "Durante las primeras **48 horas** tras desprecintar la lata de **Illy Classico** o **Intenso**, notarás mucha resistencia en el portafiltro de tu **Breville Bambino BES450** o **CASABREWS CM5418** por el gas retenido bajo presión. Hacia el cuarto o quinto día de uso, la pastilla perderá presión interna y el tiro empezará a caer **4 o 5 segundos más rápido**; en ese momento debes cerrar tu **Baratza Encore ESP** o **Fellow Opus** entre **1 y 2 micro-ajustes más fino** para recuperar los **28 segundos** de extracción.",
+      "title": "Compensación obligatoria del molino al cuarto día de abrir la lata"
     },
     {
       "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Guía de decisión: qué lata comprar según tu cafetera compacta y bebida favorita"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Elige Illy Classico (Banda Roja)** si tienes una **Breville Bambino**, **Bambino Plus BES500** o **De’Longhi Dedica Arte EC885M**, tomas el espresso solo o en americano y disfrutas un dulzor limpio a caramelo con retrogusto floral sin rastro de carbón.",
+        "**Elige Illy Intenso (Banda Granate)** si preparas cappuccinos o flat whites a diario: sus compuestos de melanoidinas más desarrollados atraviesan **150 ml de leche texturizada** con un sabor nítido a chocolate negro.",
+        "**Haz la prueba comparativa en casa**: como el formato es de solo **250 g** (unos **14 cafés dobles de 18 g**), resulta ideal para aplicar nuestra [guía de cata doméstica comparando dos tazas lado a lado](/cafe-en-grano-y-agua/guia-de-cata-domestica-como-entrenar-tu-paladar-con-dos-tazas/) y descubrir cómo el mismo blend cambia radicalmente solo con los minutos finales de tueste."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "¿Quieres saber qué punto exacto de molienda usar con Illy en tu modelo de molino o comprobar packs de ahorro? Consulta a nuestro Asesor IA o revisa la disponibilidad actual de las latas en grano en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre illy classico vs intenso en grano para espresso?",
-      "a": "El envasado bajo presión de gas inerte en lata metálica mantiene los aceites intactos hasta el día en que abres la anilla. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cómo distingo en Amazon la lata de Illy en grano de la versión ya molida?",
+      "a": "Asegúrate siempre de que en el frontal metálico figure la inscripción 'Whole Bean / Café en Grano'. Las latas de Illy molido tienen exactamente las mismas dimensiones de 250 g, pero vienen calibradas para cafeteras moka o filtros presurizados y suelen resultar demasiado gruesas o inconsistentes para cestas no presurizadas de 51 mm y 54 mm."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cuánto dura fresco el café Illy después de abrir la lata presurizada?",
+      "a": "Una vez roto el sello metálico, la sobrepresión de nitrógeno desaparece por completo. Si mantienes la tapa plástica puesta en una alacena fresca o trasvasas los 250 g a un bote al vacío como el Fellow Atmos, conservarás una extracción excelente durante 10 a 14 días, tiempo suficiente para consumir las 13 o 14 dosis dobles del envase."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Illy Intenso tiene más cafeína que Illy Classico?",
+      "a": "Ambos comparten exactamente el mismo blend 100% Arábica de nueve orígenes y un contenido de cafeína inferior al 1.5%. La etiqueta 'Intenso' hace referencia exclusivamente a un perfil de tueste más prolongado que incrementa el cuerpo y las notas achocolatadas, no a una mayor concentración de cafeína ni a la presencia de grano Robusta."
     }
   ],
   "related": [
-    "/cafe-en-grano-y-agua/",
-    "/cafe-en-grano-y-agua/mejores-tostadores-de-especialidad-en-amazon-usa-stumptown-intelligentsia-counter-culture/",
-    "/cafe-en-grano-y-agua/analisis-lavazza-super-crema-vs-lavazza-qualita-oro-vs-espresso-barista/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/cafe-en-grano-y-agua/peligro-de-los-granos-de-cafe-saborizados-con-jarabes-en-tu-molino/",
+    "/cafe-en-grano-y-agua/cuantos-gramos-de-agua-retiene-la-pastilla-de-cafe-absorcion-2x/",
+    "/cafe-en-grano-y-agua/guia-de-cata-domestica-como-entrenar-tu-paladar-con-dos-tazas/",
+    "/cafe-en-grano-y-agua/como-elegir-cafe-en-grano-para-espresso-en-amazon-estados-unidos/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/analisis-illy-classico-vs-illy-intenso-en-grano-lata-presurizada.webp"
 }

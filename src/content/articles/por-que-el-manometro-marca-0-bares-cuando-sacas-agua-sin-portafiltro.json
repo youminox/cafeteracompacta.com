@@ -4,161 +4,134 @@
   "path": "/ciencia-y-tecnologia-espresso/por-que-el-manometro-marca-0-bares-cuando-sacas-agua-sin-portafiltro/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "manometro marca cero sin portafiltro es normal",
   "title": "Duda Frecuente: Por Qué el Manómetro Marca 0 Bares Si Pulsas el Botón de Café sin Poner el Portafiltro",
-  "seoTitle": "Duda Frecuente | Guía Barista Compacta",
-  "metaDescription": "Duda Frecuente: Por Qué el Manómetro Marca 0 Bares Si Pulsas el Botón de Café sin Poner el Portafiltro: Totalmente normal: la presión solo existe cuando el agua choca contra un obstáculo (el café prensado); al aire libre hay caudal pero 0 bares de presión. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Totalmente normal: la presión solo existe cuando el agua choca contra un obstáculo (el café prensado); al aire libre hay caudal pero 0 bares de presión.",
-  "quickAnswer": "Sobre manometro marca cero sin portafiltro es normal: Totalmente normal: la presión solo existe cuando el agua choca contra un obstáculo (el café prensado); al aire libre hay caudal pero 0 bares de presión. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Duda Frecuente: Por Qué el Manómetro Marca 0 Bares Si Pulsas el Botón de Café sin Poner el Portafiltro | cafeteracompacta.com",
+  "metaDescription": "Descubre por qué el manómetro marca cero sin portafiltro en tu CASABREWS CM5418, cómo funciona la contrapresión hidráulica y cómo usar el filtro ciego.",
+  "excerpt": "Explicación física y diagnóstico práctico cuando la aguja de presión no se mueve al purgar agua libremente por la ducha del grupo: diferencia entre caudal libre de bomba vibratoria y resistencia real.",
+  "quickAnswer": "Es completamente normal que el manómetro marque **0 bares** al purgar agua sin el portafiltro puesto, porque la presión hidráulica solo se genera cuando el agua encuentra una restricción física a su paso. En máquinas como la **CASABREWS CM5418**, la bomba vibratoria mueve un caudal libre a presión atmosférica sin resistencia. La aguja únicamente subirá a **9 bares** cuando una pastilla de café molido fino o un filtro presurizado frene ese flujo.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Totalmente normal: la presión solo existe cuando el agua choca contra un obstáculo (el café prensado); al aire libre hay caudal pero 0 bares de presión., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Side-profile technical detail shot on 85mm prime lens: realistic scene illustrating 'Duda Frecuente: Por Qué el Manómetro Marca 0 Bares Si Pulsas el Botón de Café sin Poner el Portafiltro' (manometro marca cero sin portafiltro es normal) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, in a well-organized domestic utility area with natural plants nearby, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Duda Frecuente: Por Qué el Manómetro Marca 0 Bares Si Pulsas el Botón de Café sin Poner el Portafiltro"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **manometro marca cero sin portafiltro es normal** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Totalmente normal: la presión solo existe cuando el agua choca contra un obstáculo (el café prensado); al aire libre hay caudal pero 0 bares de presión."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Ciencia Y Tecnologia Espresso](/ciencia-y-tecnologia-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Recién sacas tu **CASABREWS CM5418** de la caja, llenas el depósito trasero con agua filtrada y pulsas el botón de una taza sin colocar el portafiltro para purgar los conductos internos. El agua cae caliente y uniforme por la ducha de **51 mm**, pero al mirar el dial frontal notas que la aguja permanece clavada en el extremo izquierdo. Es en ese instante cuando surge la duda de si el **manómetro marca cero sin portafiltro es normal** o si el sensor mecánico llegó defectuoso de fábrica. Dentro de los principios que estudiamos en nuestro [portal de ciencia y tecnología del espresso](/ciencia-y-tecnologia-espresso/), este comportamiento no solo es completamente sano, sino que demuestra que el tubo Bourdon del reloj está calibrado respecto a la presión atmosférica ambiente. Una bomba vibratoria tipo **Ulka EP5 de 15 a 20 bares** empuja volumen de agua, pero jamás genera presión manométrica por sí sola si el fluido escapa libremente al aire sin una barrera física que lo frene."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: manometro marca cero sin portafiltro es normal"
+      "text": "Por Qué una Bomba de 20 Bares Entrega 0 Bares a Caudal Libre"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **manometro marca cero sin portafiltro es normal** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Para comprender la lectura del dial hay que distinguir entre **caudal volumétrico** (mililitros por segundo) y **presión hidrostática** (fuerza por unidad de área medida en bares). Cuando activas la cafetera sin el portafiltro acoplado, la bomba desplaza entre **9 y 11 ml/s** a través del bloque térmico y los orificios de la ducha sin encontrar oposición; toda la energía cinética se convierte en movimiento libre de agua a **0 bares manométricos** (equivalentes a **1 atm** absoluta). La presión solo nace cuando opones una resistencia hidráulica, fenómeno directamente ligado a cómo [18 g de café en 51 mm o 54 mm crean una columna más profunda](/ciencia-y-tecnologia-espresso/por-que-una-pastilla-de-51mm-es-mas-alta-que-una-de-58mm-con-18-gramos/) capaz de frenar el flujo a apenas **1.2 o 1.5 ml/s**. Además, como explicamos al analizar [por qué el caudalímetro está antes de la válvula OPV](/ciencia-y-tecnologia-espresso/por-que-el-caudalimetro-esta-antes-de-la-valvula-opv-y-como-afecta-al-volumen/), el circuito interno solo comprime el muelle del manómetro cuando el agua queda atrapada entre el pistón de la bomba y una pastilla de café compactada o una cesta presurizada de doble pared."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: manometro marca cero sin portafiltro es normal",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Configuración del grupo",
+        "Resistencia hidráulica",
+        "Caudal de salida aproximado",
+        "Lectura en el manómetro"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Totalmente normal: la presión solo existe cuando el agua choca contra un obstáculo (el café prensado); al aire libre hay caudal pero 0 bares de presión.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Sin portafiltro (purga de ducha)",
+          "Nula (flujo abierto a la atmósfera)",
+          "9.0 – 11.0 ml/s",
+          "0 bares (reposo total)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Portafiltro con cesta de 1 pared vacía",
+          "Mínima (más de 300 microperforaciones)",
+          "8.5 – 10.0 ml/s",
+          "0 a 0.5 bares"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Portafiltro con cesta presurizada vacía",
+          "Media-alta (1 solo micro-orificio de salida)",
+          "3.5 – 5.0 ml/s",
+          "6 a 9 bares (según válvula)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "Cesta no presurizada con 16 g de café fino",
+          "Alta (cama compactada con tamper)",
+          "1.2 – 1.5 ml/s",
+          "8 a 11 bares (zona Espresso)"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Portafiltro con disco ciego de goma",
+          "Total (bloqueo hermético del flujo)",
+          "0 ml/s en taza (abre OPV)",
+          "9 a 15 bares (límite OPV)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre manometro marca cero sin portafiltro es normal",
-      "text": "Totalmente normal: la presión solo existe cuando el agua choca contra un obstáculo (el café prensado); al aire libre hay caudal pero 0 bares de presión. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Lectura esperada del manómetro frontal según el escenario de uso en cafeteras compactas"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar manometro marca cero sin portafiltro es normal hoy mismo en tu cocina"
+      "text": "La Diferencia Entre Cestas Presurizadas y Filtros No Presurizados Vacíos"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "Muchos usuarios se confunden porque al colocar el portafiltro vacío con la cesta que trae de serie la **CASABREWS CM5418** o la **De’Longhi Dedica Arte**, a veces la aguja sí sube a mitad de escala y otras veces se queda muerta en cero. La respuesta está en el tipo de filtro instalado: una cesta presurizada de **doble pared** cuenta con un único orificio diminuto en la base que actúa como un restrictor artificial incluso si solo pasa agua limpia, elevando la aguja hacia los **6 u 8 bares**. En cambio, si compras una cesta **no presurizada (single wall)** de precisión para usar con tu propio molino cónico y haces una descarga de agua en vacío para calentar el metal, sus cientos de perforaciones de **0.3 mm** dejan pasar el caudal sin freno alguno y el manómetro volverá a marcar **0 bares** hasta que agregues café molido fino.",
+      "title": "Por qué una cesta vacía de doble pared sí mueve la aguja y una profesional no"
+    },
+    {
+      "type": "h2",
+      "text": "Protocolo en 4 Pasos para Comprobar Si el Manómetro de tu Cafetera Funciona Bien"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Prueba de cesta presurizada en vacío",
+          "text": "Inserta la cesta original de doble pared (la que tiene un solo agujero inferior a contraluz) dentro del portafiltro sin café, ajústalo al grupo y pulsa extracción durante 8 segundos: el chorro fino debe hacer subir la aguja hacia el inicio de la zona de espresso."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Test estático con disco ciego de goma de 51 mm o 54 mm",
+          "text": "Coloca un disco ciego de silicona o goma maciza dentro de la cesta, bloquea el portafiltro en el cabezal y activa la bomba durante 5 segundos; al no existir salida, la aguja debe escalar rápidamente hasta el tope regulado por la válvula de sobrepresión (entre 9 y 15 bares)."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Verificación del retorno a cero al liberar presión",
+          "text": "Detén el botón de extracción tras la prueba con disco ciego y observa cómo cae la aguja; debe regresar suavemente a la posición inicial de 0 bares en menos de 4 segundos conforme se despresuriza la cámara."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Inspección del capilar interno si la aguja no se inmuta con bloqueo total",
+          "text": "Si incluso taponando la salida con un disco ciego o con una molienda extrafina que gotea apenas 5 ml en 25 segundos la aguja sigue en cero absoluto, el tubo capilar de teflón que une el grupo con el reloj tiene sarro calcificado o una fuga en su junta tórica."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con manometro marca cero sin portafiltro es normal en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Buscas una cafetera compacta con manómetro frontal o accesorios de calibración de **51 mm** y **54 mm**? Consulta al Asesor IA del portal o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta guía."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre manometro marca cero sin portafiltro es normal?",
-      "a": "Totalmente normal: la presión solo existe cuando el agua choca contra un obstáculo (el café prensado); al aire libre hay caudal pero 0 bares de presión. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Es normal que el manómetro marque 0 bares si pongo el portafiltro puesto con una cesta no presurizada vacía?",
+      "a": "Sí, es completamente normal. Una cesta no presurizada de pared simple tiene cientos de microperforaciones diseñadas para ofrecer resistencia cero por sí mismas; en ese sistema, el 100 % de la contrapresión hidráulica debe provenir de la finura de la molienda y del prensado uniforme de la pastilla de café."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Puedo usar un disco ciego de goma para probar el manómetro si mi cafetera no tiene válvula solenoide de 3 vías?",
+      "a": "En cafeteras compactas sin válvula solenoide de 3 vías como la CASABREWS 3700Essential, la presión residual queda atrapada sobre el disco ciego al apagar la bomba. Espera 30 segundos a que baje la aguja a cero antes de aflojar el portafiltro para evitar salpicaduras de agua caliente."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué el manómetro tampoco sube cuando pongo café molido en el portafiltro y sale un chorro rápido?",
+      "a": "Significa que tu molienda es demasiado gruesa, la dosis de gramos es insuficiente para el volumen de la cesta o estás usando café pre-molido para cafetera de goteo en una cesta no presurizada. Ajusta tu molino a un punto más fino hasta que el flujo baje a unos 1.3 ml/s."
     }
   ],
   "related": [
-    "/ciencia-y-tecnologia-espresso/",
-    "/ciencia-y-tecnologia-espresso/evolucion-de-las-cafeteras-compactas-de-las-calderas-de-vapor-de-3-bares-a-hoy/",
-    "/ciencia-y-tecnologia-espresso/como-funciona-el-manometro-de-tubo-bourdon-de-tu-cafetera/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/ciencia-y-tecnologia-espresso/por-que-una-pastilla-de-51mm-es-mas-alta-que-una-de-58mm-con-18-gramos/",
+    "/ciencia-y-tecnologia-espresso/por-que-la-crema-pura-sabe-amarga-y-sin-embargo-es-esencial-para-el-aroma/",
+    "/ciencia-y-tecnologia-espresso/por-que-el-caudalimetro-esta-antes-de-la-valvula-opv-y-como-afecta-al-volumen/",
+    "/ciencia-y-tecnologia-espresso/como-funciona-el-sensor-infrarrojo-de-temperatura-en-la-bambino-plus-y-maestro/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/por-que-el-manometro-marca-0-bares-cuando-sacas-agua-sin-portafiltro.webp"
 }

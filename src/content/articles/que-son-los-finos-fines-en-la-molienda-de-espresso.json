@@ -4,161 +4,100 @@
   "path": "/molinos-y-molienda/que-son-los-finos-fines-en-la-molienda-de-espresso/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "que son los finos en molienda de espresso",
   "title": "Qué Son los 'Finos' (Fines) en el Molino de Espresso y Por Qué Crean Cuerpo en Taza",
-  "seoTitle": "Qué Son los 'Finos' (Fines) en el Molino de Espresso y Por Qué Crean Cuerpo en Taza | Guía Barista Compacta",
-  "metaDescription": "Qué Son los 'Finos' (Fines) en el Molino de Espresso y Por Qué Crean Cuerpo en Taza: Las micropartículas de menos de 100 micras son necesarias en proporción justa para frenar el caudal de agua a 9 bares. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Las micropartículas de menos de 100 micras son necesarias en proporción justa para frenar el caudal de agua a 9 bares.",
-  "quickAnswer": "Sobre que son los finos en molienda de espresso: Las micropartículas de menos de 100 micras son necesarias en proporción justa para frenar el caudal de agua a 9 bares. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Qué Son los 'Finos' (Fines) en el Molino de Espresso y Por Qué Crean Cuerpo en Taza | cafeteracompacta.com",
+  "metaDescription": "Descubre qué son los finos en la molienda de espresso (partículas bajo 100 micras), cómo regulan la presión a 9 bares y su impacto en el cuerpo y la crema.",
+  "excerpt": "Explicación granulométrica de los finos (fines) en el café espresso: por qué la distribución bimodal de las muelas cónicas genera textura sedosa y cómo evitar que obstruyan los poros de tu filtro.",
+  "quickAnswer": "En granulometría cafetera, los **finos (fines)** son las micropartículas de café molido cuyo diámetro es inferior a **100 micras** (generalmente entre **20 y 60 micras**). Lejos de ser un defecto, una proporción controlada de finos es indispensable en el espresso para rellenar los intersticios de la pastilla, sostener la presión de **9 bares** durante **25 a 30 segundos** y aportar lípidos emulsionados que crean crema densa y cuerpo sedoso.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Las micropartículas de menos de 100 micras son necesarias en proporción justa para frenar el caudal de agua a 9 bares., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Macro texture and build-quality detail shot with shallow depth of field: realistic scene illustrating 'Qué Son los 'Finos' (Fines) en el Molino de Espresso y Por Qué Crean Cuerpo en Taza' (que son los finos en molienda de espresso) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, on a clean stone countertop with neatly arranged accessories, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Qué Son los 'Finos' (Fines) en el Molino de Espresso y Por Qué Crean Cuerpo en Taza"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **que son los finos en molienda de espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Las micropartículas de menos de 100 micras son necesarias en proporción justa para frenar el caudal de agua a 9 bares."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Si frotas entre el índice y el pulgar una pizca de café recién molido para tu **Breville Bambino Plus (BES500)** o tu **De’Longhi Dedica Arte (EC885M)**, notarás dos texturas claramente distintas: microgránulos firmes parecidos a la sal fina y un polvillo impalpable similar al talco que queda adherido a las huellas dactilares. Comprender **qué son los finos en la molienda de espresso** (conocidos técnicamente en inglés como *fines*) explica por qué dos molinos ajustados exactamente al mismo tiempo de extracción de **28 segundos** pueden producir un café sedoso y con cuerpo de jarabe o, por el contrario, una taza áspera que salpica por el portafiltro sin fondo. Todo empieza en la geometría de corte que analizamos en nuestra guía de [muelas cónicas vs muelas planas en espresso compacto](/molinos-y-molienda/muelas-conicas-vs-muelas-planas-en-espresso-compacto/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: que son los finos en molienda de espresso"
+      "text": "La física de las partículas menores de 100 micras y la curva bimodal"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **que son los finos en molienda de espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Ningún molino de café del planeta —ni siquiera un equipo de competición— corta todos los granos al mismo tamaño exacto. Al fracturar las paredes celulares del café tostado bajo presión mecánica, el resultado forma una curva estadística con dos cumbres o **distribución bimodal**: un pico principal situado entre **200 y 350 micras** (que aporta claridad aromática, acidez y dulzor equilibrado) y un segundo pico de **finos por debajo de las 100 micras** (con gran concentración entre **20 y 60 micras**). En molinos cónicos especializados como los que repasamos en la [guía de rotaciones y clics del 1Zpresso J-Ultra](/molinos-y-molienda/ajuste-molino-manual-1zpresso-j-ultra-y-jx-pro/) o al calibrar el [anillo interno Bevel del Fellow Opus](/molinos-y-molienda/como-ajustar-fellow-opus-anillo-interno-bevel-espresso/), esa fracción controlada de finos resulta indispensable: se aloja en los huecos microscópicos entre las partículas medianas para frenar el paso del agua a **9 bares** y liberar lípidos emulsionados que construyen la crema avellana y la textura densa en boca."
+    },
+    {
+      "type": "h2",
+      "text": "Efecto de la proporción de finos sobre la extracción y el perfil sensorial"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: que son los finos en molienda de espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Nivel de finos (<100 micras)",
+        "Comportamiento en el portafiltro (51/54/58 mm)",
+        "Resultado sensorial en la taza de espresso"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Las micropartículas de menos de 100 micras son necesarias en proporción justa para frenar el caudal de agua a 9 bares.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Déficit de finos (distribución unimodal extrema)",
+          "Poca resistencia hidráulica; caída rápida en 15–18 s salvo molienda ultra-cerrada",
+          "Alta claridad de notas florales pero cuerpo acuoso y crema delgada que se disipa rápido"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Proporción óptima de finos (cónica bien alineada)",
+          "Flujo estable tipo cola de ratón en 25–30 s con pre-infusión uniforme",
+          "Textura achocolatada y sedosa, crema elástica persistente y dulzor redondo"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Exceso de finos (muelas gastadas o grano quebradizo)",
+          "Migración de finos hacia el fondo; taponamiento de poros y chorros laterales",
+          "Amargor seco, sensación astringente en lengua y subextracción simultánea por canalización"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre que son los finos en molienda de espresso",
-      "text": "Las micropartículas de menos de 100 micras son necesarias en proporción justa para frenar el caudal de agua a 9 bares. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Comportamiento hidráulico y en taza según el volumen de finos en la pastilla"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar que son los finos en molienda de espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con que son los finos en molienda de espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Cómo controlar la migración de finos para evitar que tapen tu filtro"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Evita golpear el portafiltro tras distribuir con agujas (WDT):** Dar golpes laterales fuertes con la palma o sacudir repetidamente la cesta en seco hace que los finos caigan por gravedad hacia la base del filtro (*efecto nuez de Brasil*), bloqueando las microperforaciones inferiores.",
+        "**Adapta la molienda al nivel de tueste:** Los cafés de tueste oscuro son más secos y quebradizos, por lo que generan hasta un **30 % más de finos** a igualdad de clic que un tueste medio; abre **1 o 2 clics** el dial cuando uses granos oscuros.",
+        "**Aprovecha la pre-infusión a baja presión:** Las cafeteras como la **Breville Bambino (BES450)** o la **De’Longhi Dedica Maestro Plus (EC950M)** humedecen primero la pastilla a baja presión para que las fibras se hinchen y atrapen los finos en su sitio antes de aplicar los **9 bares** plenos.",
+        "**Usa papel filtro inferior o malla Puck Screen si el café es muy viejo:** Un filtro de papel cortado a medida en el fondo de la cesta evita que las micropartículas menores de **40 micras** sellen los agujeros de salida en extracciones largas."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "Explora las tarjetas de Amazon integradas en esta página para consultar disponibilidad de molinos con muelas de alta precisión o pregunta a nuestro Asesor IA qué perfil de muela favorece tu estilo de espresso."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre que son los finos en molienda de espresso?",
-      "a": "Las micropartículas de menos de 100 micras son necesarias en proporción justa para frenar el caudal de agua a 9 bares. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Son malos los finos en el café espresso o habría que eliminarlos?",
+      "a": "No. Si tamizaras y eliminaras el 100 % de los finos de tu dosis de espresso, el agua atravesaría la pastilla en pocos segundos sin apenas resistencia y obtendrías una bebida aguada y sin crema. El secreto está en lograr una cantidad controlada y repartida homogéneamente por toda la cesta."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Qué tipo de muela genera más finos: las muelas cónicas o las muelas planas?",
+      "a": "Las muelas cónicas (como las del Baratza Encore ESP, Fellow Opus o 1Zpresso J-Ultra) producen una curva bimodal con mayor presencia de finos, lo que potencia el cuerpo denso y la textura achocolatada. Las muelas planas (como el Turin DF54) reducen esa cola de finos para priorizar la claridad de sabores."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué es la migración de finos (fines migration) y cómo se evita?",
+      "a": "Es el fenómeno por el cual el flujo de agua a presión arrastra las partículas menores de 50 micras hacia el fondo metálico del filtro, taponando sus agujeros. Se previene haciendo una distribución con agujas WDT finas (0.35 mm) y contando con una pre-infusión suave al inicio del tiro."
     }
   ],
   "related": [
-    "/molinos-y-molienda/",
-    "/molinos-y-molienda/como-usar-el-vaso-dosificador-de-54mm-en-un-portafiltro-de-51mm/",
-    "/molinos-y-molienda/como-desatascar-un-molino-de-espresso-bloqueado-por-tueste-claro/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/como-ajustar-fellow-opus-anillo-interno-bevel-espresso/",
+    "/molinos-y-molienda/muelas-conicas-vs-muelas-planas-en-espresso-compacto/",
+    "/molinos-y-molienda/que-es-un-molino-single-dose-y-que-es-la-retencion/",
+    "/molinos-y-molienda/ajuste-molino-manual-1zpresso-j-ultra-y-jx-pro/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-son-los-finos-fines-en-la-molienda-de-espresso.webp"
 }

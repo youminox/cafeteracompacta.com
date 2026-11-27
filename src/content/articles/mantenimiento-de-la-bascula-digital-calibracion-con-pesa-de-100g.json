@@ -4,161 +4,126 @@
   "path": "/mantenimiento-y-descalcificacion/mantenimiento-de-la-bascula-digital-calibracion-con-pesa-de-100g/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "comprobar si bascula de cafe pesa bien monedas",
   "title": "Cómo Verificar si tu Báscula Mini de Espresso Sigue Pesando Exacto (Truco de las Monedas de EE. UU.)",
-  "seoTitle": "Cómo Verificar si tu Báscula Mini de Espresso Sigue Pesando Exacto (Truco de las Monedas de EE. UU.) | Guía Barista Compacta",
-  "metaDescription": "Cómo Verificar si tu Báscula Mini de Espresso Sigue Pesando Exacto (Truco de las Monedas de EE. UU.): Una moneda de 5 centavos de dólar (US Nickel) nueva pesa exactamente 5.00 gramos: pon 4 monedas para verificar 20.0 g al instante. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Una moneda de 5 centavos de dólar (US Nickel) nueva pesa exactamente 5.00 gramos: pon 4 monedas para verificar 20.0 g al instante.",
-  "quickAnswer": "Sobre comprobar si bascula de cafe pesa bien monedas: Una moneda de 5 centavos de dólar (US Nickel) nueva pesa exactamente 5.00 gramos: pon 4 monedas para verificar 20.0 g al instante. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Verificar si tu Báscula Mini de Espresso Sigue Pesando Exacto (Truco de las Monedas de EE. UU.) | cafeteracompacta.com",
+  "metaDescription": "Aprende a comprobar si tu báscula mini de café pesa con exactitud usando monedas de EE. UU. de 5 g y cómo calibrar la celda de carga en casa paso a paso.",
+  "excerpt": "El calor de la bandeja de goteo y los restos de café alteran la precisión de tu báscula barista. Verifica su lectura de 0.1 g con monedas acuñadas en EE. UU. y recalíbrala en menos de dos minutos.",
+  "quickAnswer": "Para comprobar si tu báscula mini de espresso pesa con exactitud sin una pesa de laboratorio, coloca en el centro un **Jefferson Nickel de EE. UU. (moneda de cinco centavos)**, que pesa exactamente **5.00 g**, o **4 Nickels juntos** para verificar una lectura clavada de **20.0 g**. Si la desviación supera **±0.2 g**, limpia los restos de café bajo las patas de silicona y activa el modo `CAL` con **100 g** de referencia.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Una moneda de 5 centavos de dólar (US Nickel) nueva pesa exactamente 5.00 gramos: pon 4 monedas para verificar 20.0 g al instante., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Top-down flat-lay knolling arrangement with accessories: realistic scene illustrating 'Cómo Verificar si tu Báscula Mini de Espresso Sigue Pesando Exacto (Truco de las Monedas de EE. UU.)' (comprobar si bascula de cafe pesa bien monedas) for cafeteracompacta.com, featuring equipment in warm sand beige with matte black hardware, inside a bright contemporary apartment with minimalist decor, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Verificar si tu Báscula Mini de Espresso Sigue Pesando Exacto (Truco de las Monedas de EE. UU.)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **comprobar si bascula de cafe pesa bien monedas** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Una moneda de 5 centavos de dólar (US Nickel) nueva pesa exactamente 5.00 gramos: pon 4 monedas para verificar 20.0 g al instante."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Cuando ajustas la molienda para una **Breville Bambino (BES450)** o una **CASABREWS CM5418**, una desviación de apenas **0.8 g** en la dosis en seco cambia por completo el tiempo de extracción de un ratio **1:2**. Las básculas mini de espresso sufren un estrés constante: encajan al milímetro sobre rejillas metálicas que alcanzan **70 °C** tras purgar el grupo y reciben salpicaduras de agua debajo de la alfombrilla protectora. Si notas que el peso en pantalla sube o baja solo (`creep`) o que **18.0 g** de café llenan la cesta de **51 mm** o **54 mm** mucho más que la semana pasada, necesitas auditar la celda de carga antes de tocar tu molino. Dentro de tu rutina de [mantenimiento y descalcificación](/mantenimiento-y-descalcificacion/), comprobar la exactitud gravimétrica toma menos de un minuto con monedas de curso legal."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: comprobar si bascula de cafe pesa bien monedas"
+      "text": "El método del Nickel de EE. UU. para auditar la resolución de 0.1 g"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **comprobar si bascula de cafe pesa bien monedas** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "La Casa de la Moneda de Estados Unidos (*US Mint*) fabrica sus monedas bajo especificaciones metalúrgicas de peso fijo ideales para sustituir una pesa de laboratorio en una comprobación rápida. La pieza reina para cualquier barista es el **Jefferson Nickel** (la moneda plateada de cinco centavos de aleación de cuproníquel), cuyo peso nominal de fábrica es de **5.00 g** exactos. Si colocas **4 Nickels** limpios y sin desgaste severo en el centro de una **TIMEMORE Black Mirror Nano** o una **Wacaco Exagram**, el visor LED debe clavarse entre **19.9 g y 20.1 g**, simulando exactamente la masa de una carga doble de café en grano. Si además acabas de [limpiar la bandeja de goteo y el flotador rojo](/mantenimiento-y-descalcificacion/como-limpiar-la-bandeja-de-goteo-y-el-flotador-rojo-indicador/), asegúrate de secar por completo los cuatro apoyos de goma inferiores de la báscula antes de medir."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: comprobar si bascula de cafe pesa bien monedas",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Moneda de EE. UU.",
+        "Composición metalúrgica",
+        "Peso unitario exacto",
+        "Combinación recomendada para test barista"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Una moneda de 5 centavos de dólar (US Nickel) nueva pesa exactamente 5.00 gramos: pon 4 monedas para verificar 20.0 g al instante.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Jefferson Nickel (5 centavos)",
+          "75 % cobre / 25 % níquel",
+          "5.00 g",
+          "4 monedas = 20.0 g (simula dosis doble) / 20 monedas = 100.0 g"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Lincoln Penny (desde 1983)",
+          "97.5 % zinc / 2.5 % cobre",
+          "2.50 g",
+          "8 monedas = 20.0 g (no mezclar con piezas previas a 1982)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Washington Quarter (cuarto)",
+          "Cuproníquel revestido",
+          "5.67 g",
+          "3 monedas = 17.01 g (verifica linealidad en cargas medias)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Roosevelt Dime (10 centavos)",
+          "Cuproníquel revestido",
+          "2.268 g",
+          "Lectura esperada en pantalla: 2.2 g o 2.3 g"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre comprobar si bascula de cafe pesa bien monedas",
-      "text": "Una moneda de 5 centavos de dólar (US Nickel) nueva pesa exactamente 5.00 gramos: pon 4 monedas para verificar 20.0 g al instante. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Peso oficial de las monedas de EE. UU. para verificar básculas de café (0.1 g)"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar comprobar si bascula de cafe pesa bien monedas hoy mismo en tu cocina"
+      "text": "Causas físicas de deriva térmica y errores de lectura en bandejas estrechas"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "En cafeteras ultra-delgadas de **15 cm** de ancho como la **De’Longhi Dedica Arte (EC885M)**, el error de pesaje rara vez se debe a que la electrónica esté rota. El problema más frecuente es el **contacto lateral del chasis**: si la carcasa de la báscula roza apenas **1 mm** contra la pared frontal de acero de la cafetera, la fricción absorbe parte de la fuerza vertical y falsea el rendimiento en taza hasta en **3 g o 4 g**. Asimismo, cuando realizas el [mantenimiento mensual de la lanceta de vapor](/mantenimiento-y-descalcificacion/como-limpiar-a-fondo-la-lanceta-de-vapor-desmontando-la-boquilla/) o purgas vapor cerca de la bandeja, la condensación caliente penetra por la ranura del plato de pesaje y dilata la galga extensométrica interna de aluminio."
+    },
+    {
+      "type": "h2",
+      "text": "Cómo recalibrar la celda de carga y limpiar los apoyos de silicona"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Despejar la holgura bajo el plato de pesaje",
+          "text": "Retira el tapete de silicona superior y pasa una brocha seca por la ranura perimetral entre la plataforma móvil y el cuerpo de la báscula para expulsar granos de café molido que bloquean el recorrido vertical."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Nivelar sobre encimera fría y batería sobre el 50 %",
+          "text": "Coloca la báscula sobre una encimera rígida a temperatura ambiente (20–22 °C), nunca sobre la rejilla caliente de la cafetera, y verifica que la batería recargable USB-C tenga carga suficiente para estabilizar el voltaje del sensor."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Ejecutar el modo CAL con 100.0 g exactos",
+          "text": "Con la báscula encendida en 0.0 g, mantén pulsado o presiona repetidamente el botón de Tara según el manual de tu modelo hasta que parpadee 'CAL' y '100.0g'. Coloca en el centro una pesa patrón cromada M1 de 100 g (o una torre perfectamente centrada de 20 Nickels) y espera a que muestre 'PASS'."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Comprobar repetibilidad en las 4 esquinas (test de excentricidad)",
+          "text": "Pon un solo Nickel de 5.00 g en el centro y luego en cada una de las cuatro esquinas del plato; la variación máxima admisible entre esquinas no debe superar 0.1 g."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con comprobar si bascula de cafe pesa bien monedas en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Buscas una báscula mini impermeable que encaje sin rozar en la bandeja de tu Dedica o Bambino, o necesitas una pesa patrón de 100 g de acero inoxidable? Consulta nuestro Asesor IA o revisa las opciones compatibles y su disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre comprobar si bascula de cafe pesa bien monedas?",
-      "a": "Una moneda de 5 centavos de dólar (US Nickel) nueva pesa exactamente 5.00 gramos: pon 4 monedas para verificar 20.0 g al instante. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Las monedas usadas pierden peso por el desgaste o ganan peso por la suciedad?",
+      "a": "Un Jefferson Nickel nuevo pesa 5.00 g con una tolerancia oficial de fabricación de ±0.19 g. Para una verificación casera de dosis de espresso (donde buscas detectar desviaciones superiores a 0.3 g) cuatro Nickels resultan sumamente fiables, aunque para recalibrar la memoria interna siempre es preferible una pesa patrón M1 de 100 g."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué mi báscula sube o baja 0.3 g sola cuando pongo encima una taza recién calentada?",
+      "a": "Se debe a la deriva térmica de la galga extensométrica y a la dilatación del aire interno. Coloca siempre la alfombrilla de silicona aislante sobre la plataforma, no dejes la báscula estacionada sobre la bandeja caliente después de extraer y espera 5 segundos tras encenderla antes de tarar la taza caliente."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Puedo lavar la báscula de espresso bajo el grifo si le cayó café encima?",
+      "a": "No todas. Las básculas con certificación IPX4 soportan salpicaduras verticales sobre el plato superior, pero nunca deben sumergirse ni lavarse bajo el chorro directo del grifo, ya que el agua entra por el puerto USB-C o por los tornillos de las patas inferiores y sulfata la placa base."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/como-evitar-que-la-rejilla-de-acero-de-la-bandeja-se-raye-con-las-tazas/",
-    "/mantenimiento-y-descalcificacion/como-limpiar-las-agujas-del-distribuidor-wdt-y-la-base-del-tamper/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/como-limpiar-a-fondo-la-lanceta-de-vapor-desmontando-la-boquilla/",
+    "/mantenimiento-y-descalcificacion/como-limpiar-la-bandeja-de-goteo-y-el-flotador-rojo-indicador/",
+    "/mantenimiento-y-descalcificacion/como-limpiar-los-picos-internos-de-un-portafiltro-de-doble-salida/",
+    "/mantenimiento-y-descalcificacion/como-resetear-la-luz-naranja-de-descalcificacion-en-delonghi-stilosa-y-linea/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/mantenimiento-de-la-bascula-digital-calibracion-con-pesa-de-100g.webp"
 }

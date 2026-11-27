@@ -4,161 +4,130 @@
   "path": "/molinos-y-molienda/como-guardar-tu-receta-de-molienda-por-cada-bolsa-de-cafe/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "anotar ajustes de molienda receta espresso",
   "title": "El Cuaderno del Barista: Cómo Anotar el Número de Molienda, Dosis y Segundos de Cada Grano",
-  "seoTitle": "El Cuaderno del Barista | Guía Barista Compacta",
-  "metaDescription": "El Cuaderno del Barista: Cómo Anotar el Número de Molienda, Dosis y Segundos de Cada Grano: Pegar un pequeño trozo de cinta en la bolsa con el número del molino (ej. 'ESP #15 · 18g → 36g en 27s') te ahorra calibrar de nuevo. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Pegar un pequeño trozo de cinta en la bolsa con el número del molino (ej. 'ESP #15 · 18g → 36g en 27s') te ahorra calibrar de nuevo.",
-  "quickAnswer": "Sobre anotar ajustes de molienda receta espresso: Pegar un pequeño trozo de cinta en la bolsa con el número del molino (ej. 'ESP #15 · 18g → 36g en 27s') te ahorra calibrar de nuevo. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "El Cuaderno del Barista: Cómo Anotar el Número de Molienda, Dosis y Segundos de Cada Grano | cafeteracompacta.com",
+  "metaDescription": "Aprende a anotar los ajustes de molienda y tu receta de espresso por cada bolsa de café para no desperdiciar gramos al cambiar de grano o de tueste.",
+  "excerpt": "Construye una bitácora técnica de extracción registrando clic exacto del molino, días desde fecha de tueste, gramos en seco, rendimiento líquido y tiempo para calibrar bolsas nuevas a la primera.",
+  "quickAnswer": "Anotar los ajustes de molienda y la receta de espresso por bolsa reduce el gasto de calibración de cuatro tiros perdidos a un único disparo de ajuste. Para lograr repetibilidad en tu **Breville Bambino** o **CASABREWS CM5418**, registra cinco datos: número exacto del dial, días desde el tueste, dosis seca (**18.0 g**), rendimiento en taza (**36.0 g**) y segundos totales. Así sabrás exactamente cuándo cerrar **1 clic** conforme el grano envejece.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Pegar un pequeño trozo de cinta en la bolsa con el número del molino (ej. 'ESP #15 · 18g → 36g en 27s') te ahorra calibrar de nuevo., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Three-quarter 50mm studio-natural close-up shot: realistic scene illustrating 'El Cuaderno del Barista: Cómo Anotar el Número de Molienda, Dosis y Segundos de Cada Grano' (anotar ajustes de molienda receta espresso) for cafeteracompacta.com, featuring equipment in terracotta copper accent with matte slate body, on a light terrazzo surface in a contemporary living space, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "El Cuaderno del Barista: Cómo Anotar el Número de Molienda, Dosis y Segundos de Cada Grano"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **anotar ajustes de molienda receta espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Pegar un pequeño trozo de cinta en la bolsa con el número del molino (ej. 'ESP #15 · 18g → 36g en 27s') te ahorra calibrar de nuevo."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Compras una bolsa de **250 gramos** de café de especialidad recién tostado y gastas los primeros cuatro disparos (**72 gramos** de café, casi un tercio del paquete) intentando encontrar el punto exacto de molienda en tu **Breville Bambino** o **De’Longhi Dedica Arte (EC885M)**. Dos semanas más tarde vuelves a comprar exactamente el mismo grano del mismo tostador, pero como no apuntaste en qué clic había quedado tu **Baratza Encore ESP** ni cuántos gramos cabían sin tocar la ducha en tu cesta de **54 mm**, vuelves a tirar otros tres cafés por el fregadero. Llevar un registro técnico por bolsa elimina ese desperdicio y sistematiza todo lo que aprendes en nuestro [hub de molinos y molienda](/molinos-y-molienda/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: anotar ajustes de molienda receta espresso"
+      "text": "Las 6 variables obligatorias que todo barista doméstico debe registrar en su bitácora"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **anotar ajustes de molienda receta espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Apuntar únicamente «Colombia: número 12 del molino» no sirve de nada si omites el contexto físico de la extracción. El café tostado es un material vivo que libera dióxido de carbono ($CO_2$) de forma continua desde que sale del bombo tostador. Un grano con **7 días post-tueste** ofrece una resistencia gaseosa altísima frente a los **9 bares** de tu cafetera, mientras que esa misma bolsa a los **24 días post-tueste** habrá perdido presión interna y exigirá cerrar entre **1 y 2 micro-ajustes** para no correr en **19 segundos**. Además, el comportamiento del número del dial depende directamente de la geometría de corte —como explicamos en nuestra guía sobre el [tamaño de muelas de 38 mm, 40 mm, 54 mm y 64 mm](/molinos-y-molienda/tamano-de-muelas-38mm-vs-40mm-vs-54mm-vs-64mm/)— y del estado de calibración cero de tu equipo, especialmente tras realizar el [test del rotulador borrable para verificar la alineación de muelas planas](/molinos-y-molienda/alineacion-de-muelas-planas-con-rotulador-pizarra-marker-test/) o si utilizas configuraciones específicas de nuestra [guía de molienda para molinos económicos en filtros presurizados](/molinos-y-molienda/guia-de-molienda-para-shardor-y-oxo-en-filtros-presurizados/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: anotar ajustes de molienda receta espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Café / Origen / Proceso",
+        "Días post-tueste (Degassing)",
+        "Ajuste del molino (Modelo + Clic)",
+        "Receta (Input : Output)",
+        "Tiempo total y Temperatura PID",
+        "Nota de corrección para el próximo disparo"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Pegar un pequeño trozo de cinta en la bolsa con el número del molino (ej. 'ESP #15 · 18g → 36g en 27s') te ahorra calibrar de nuevo.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Brasil Cerrado Natural (Tueste Medio)",
+          "Día 9 post-tueste",
+          "Baratza Encore ESP: Clic 14",
+          "18.0 g → 36.0 g (1:2)",
+          "27 s (pre-infusión 7 s) a 92 °C",
+          "Punto dulce perfecto: cuerpo denso a chocolate y avellana"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Brasil Cerrado Natural (Misma bolsa abierta)",
+          "Día 23 post-tueste",
+          "Baratza Encore ESP: Clic 12.5 – 13",
+          "18.2 g → 36.0 g (1:1.98)",
+          "28 s a 92 °C",
+          "Cerrado 1.5 clics y +0.2 g por desgasificación avanzada"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Etiopía Guji Lavado (Tueste Medio-Ligero)",
+          "Día 14 post-tueste",
+          "Turin DF54: Marca 16.5 (cero en -1)",
+          "18.5 g → 44.0 g (1:2.38)",
+          "26 s a 94 °C (Nivel Alto)",
+          "Si se baja a marca 15 tapona por finos; mantener ratio largo 1:2.4"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Descafeinado Colombia Swiss Water",
+          "Día 12 post-tueste",
+          "1Zpresso J-Ultra: Vuelta 1.2.4",
+          "18.0 g → 34.0 g (1:1.88)",
+          "29 s a 91 °C",
+          "Pide 6 clics más fino que el grano con cafeína del mismo origen"
         ]
-      ]
+      ],
+      "caption": "Plantilla real del Cuaderno del Barista: ejemplo de registro de evolución de 3 bolsas distintas"
+    },
+    {
+      "type": "h2",
+      "text": "El truco de la cinta de carrocero pegada en la bolsa vs aplicaciones móviles de espresso"
+    },
+    {
+      "type": "p",
+      "text": "Aunque existen aplicaciones excelentes de telemetría barista (como **Beanconqueror**) y cuadernos impermeables junto a la estación, el sistema más rápido a las siete de la mañana cuando tienes medio ojo cerrado es un rollo de **cinta de pintor (cinta de carrocero) o etiquetas adhesivas borrables** pegadas directamente en el frontal de cada bolsa de café o sobre tus tubos dosificadores *single dose*. Cada vez que abres un paquete nuevo para tu **CASABREWS CM5418**, **Breville Bambino Plus (BES500)** o **De’Longhi Dedica Maestro Plus (EC950M)**, pegas una tira de **5 cm** de cinta y escribes con rotulador permanente la fórmula condensada en una sola línea: **`ESP #13 | 18.0g -> 36g | 28s | Día 10`**. Si alternas entre un café con cafeína por la mañana y un descafeinado por la tarde, leer esa etiqueta pegada en cada bolsa te permite mover el dial del molino con precisión quirúrgica en tres segundos sin depender de la memoria."
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de barista sobre anotar ajustes de molienda receta espresso",
-      "text": "Pegar un pequeño trozo de cinta en la bolsa con el número del molino (ej. 'ESP #15 · 18g → 36g en 27s') te ahorra calibrar de nuevo. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "Si desmontas tu molino manual (1Zpresso J-Ultra o KINGrinder K6) o tu molino de muelas planas (Turin DF54) para limpiarlo, apunta siempre en la primera página de tu cuaderno dónde está tu «Punto Cero Real» (el punto exacto donde las muelas se tocan suavemente). Así, todas las recetas históricas de tu libreta seguirán siendo 100 % válidas tras volver a montar el equipo.",
+      "title": "Ancla todas tus recetas al «Punto Cero Real» de tus muelas tras cada limpieza"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar anotar ajustes de molienda receta espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con anotar ajustes de molienda receta espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Cómo usar tus notas históricas para calibrar una bolsa nueva en un solo tiro (One-Shot Dialing)"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Agrupa tus recetas por densidad y método de beneficio, no por marca comercial:** Cuando abras un café nuevo que nunca has probado (por ejemplo, un Guatemala Lavado cultivado a **1.700 metros**), busca en tu cuaderno la última receta de otro café lavado de altitud similar (**1.600–1.800 m**) con los mismos días desde el tueste y arranca exactamente en ese número del dial.",
+        "**Aplica la regla del envejecimiento (+1 clic cada 10–12 días):** Tu bitácora te mostrará un patrón constante: casi cualquier arábica guardado en bolsa con válvula unidireccional pide cerrar **1 micro-clic** (o subir **+0.2 g** la dosis) hacia la segunda semana abierta y otro clic hacia la tercera semana.",
+        "**Anota siempre qué cesta estabas usando (51 mm vs 54 mm vs 58 mm IMS):** El mismo café requiere una molienda hasta **2 o 3 clics más fina** en una cesta de alta extracción de paredes rectas (como una **IMS Precision**) que en la cesta cónica de serie incluida con la cafetera.",
+        "**Registra la dureza y temperatura del agua si tu máquina lo permite:** Un cambio del perfil térmico de Bajo a Alto en la **De’Longhi Dedica Arte** acelera la extracción entre **2 y 3 segundos** a igualdad de molienda."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "¿Quieres organizar tu estación barista con botes de vacío fechadores, tubos Single Dose o una báscula con cronómetro automático integrado? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre anotar ajustes de molienda receta espresso?",
-      "a": "Pegar un pequeño trozo de cinta en la bolsa con el número del molino (ej. 'ESP #15 · 18g → 36g en 27s') te ahorra calibrar de nuevo. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué cambia el número de molienda de la misma bolsa de café después de 10 días abierta?",
+      "a": "Porque a medida que pasan los días tras el tueste, el grano pierde dióxido de carbono (CO2) y humedad interna. Sin ese gas que ofrece resistencia al paso del agua a 9 bares, la pastilla se vuelve más permeable y el disparo corre demasiado rápido si no cierras 1 o 2 clics el molino."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Me sirve copiar exactamente el número de molienda que otro usuario usa en internet para mi mismo molino?",
+      "a": "En absoluto. Cada unidad presenta pequeñas tolerancias de fabricación en la rosca y en el calzado de las muelas (shims), además de diferencias en el agua, la cesta del portafiltro y la frescura del grano. Usa los números de otros usuarios solo como punto de partida aproximado."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cuáles son los datos mínimos que debo escribir en la etiqueta pegada a la bolsa de café?",
+      "a": "Para calibrar rápido en casa bastan cinco datos en una línea: Ajuste del molino (ej. #13), Dosis seca en gramos (18.0 g), Peso líquido en taza (36.0 g), Tiempo desde que pulsas el botón (27 s) y Fecha en que abriste la bolsa."
     }
   ],
   "related": [
-    "/molinos-y-molienda/",
-    "/molinos-y-molienda/se-puede-moler-cafe-con-azucar-torrefacto-en-un-molino-de-muelas/",
-    "/molinos-y-molienda/mantenimiento-del-fuelle-y-declumper-de-silicona-en-molinos/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/piedrecitas-en-el-cafe-en-grano-como-protegen-el-motor-los-fusibles/",
+    "/molinos-y-molienda/alineacion-de-muelas-planas-con-rotulador-pizarra-marker-test/",
+    "/molinos-y-molienda/tamano-de-muelas-38mm-vs-40mm-vs-54mm-vs-64mm/",
+    "/molinos-y-molienda/guia-de-molienda-para-shardor-y-oxo-en-filtros-presurizados/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-guardar-tu-receta-de-molienda-por-cada-bolsa-de-cafe.webp"
 }

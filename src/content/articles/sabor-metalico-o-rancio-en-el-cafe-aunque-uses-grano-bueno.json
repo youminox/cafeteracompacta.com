@@ -4,161 +4,110 @@
   "path": "/problemas-y-soluciones/sabor-metalico-o-rancio-en-el-cafe-aunque-uses-grano-bueno/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cafe espresso sabe rancio o metalico causas",
   "title": "Por Qué tu Café Sabe Metálico o Rancio Aunque Compres Buen Grano (Limpieza Oculta de la Ducha)",
-  "seoTitle": "Por Qué tu Café Sabe Metálico o Rancio Aunque Compres Buen Grano (Limpieza Oculta de la Ducha) | Guía Barista Compacta",
-  "metaDescription": "Por Qué tu Café Sabe Metálico o Rancio Aunque Compres Buen Grano (Limpieza Oculta de la Ducha): Desatornilla la ducha del grupo y el fondo del portafiltro original: el aceite viejo pegado ahí contamina cada taza nueva. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Desatornilla la ducha del grupo y el fondo del portafiltro original: el aceite viejo pegado ahí contamina cada taza nueva.",
-  "quickAnswer": "Sobre cafe espresso sabe rancio o metalico causas: Desatornilla la ducha del grupo y el fondo del portafiltro original: el aceite viejo pegado ahí contamina cada taza nueva. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Por Qué tu Café Sabe Metálico o Rancio Aunque Compres Buen Grano (Limpieza Oculta de la Ducha) | cafeteracompacta.com",
+  "metaDescription": "Descubre por qué tu café espresso sabe rancio o metálico usando buen grano y cómo desmontar y limpiar la ducha del grupo para eliminar aceites oxidados.",
+  "excerpt": "Guía técnica para identificar y eliminar la grasa de café carbonizada detrás de la rejilla dispersora, dentro del falso fondo de las cestas presurizadas y en las paredes internas del portafiltro.",
+  "quickAnswer": "Cuando un espresso preparado con grano fresco sabe rancio, amargo o metálico, la causa principal es la acumulación de lípidos oxidados detrás de la rejilla de la ducha del grupo y bajo el doble fondo de las cestas presurizadas. Desmontar el tornillo central de la ducha cada 30 días y sumergir las piezas en detergente alcalino tipo Cafiza disuelve el alquitrán cafetero en 15 minutos.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Desatornilla la ducha del grupo y el fondo del portafiltro original: el aceite viejo pegado ahí contamina cada taza nueva., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Low-angle dramatic hero perspective with soft background bokeh on 35mm lens: realistic scene illustrating 'Por Qué tu Café Sabe Metálico o Rancio Aunque Compres Buen Grano (Limpieza Oculta de la Ducha)' (cafe espresso sabe rancio o metalico causas) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, on a warm walnut table beside a sunlit window, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué tu Café Sabe Metálico o Rancio Aunque Compres Buen Grano (Limpieza Oculta de la Ducha)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cafe espresso sabe rancio o metalico causas** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Desatornilla la ducha del grupo y el fondo del portafiltro original: el aceite viejo pegado ahí contamina cada taza nueva."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Compras un paquete de café de especialidad **100 % Arábica** con menos de dos semanas desde su fecha de tueste, ajustas tu molino a la perfección y extraes un tiro visualmente impecable en tu **Breville Bambino (BES450)**, **CASABREWS CM5418** o **De’Longhi Dedica Arte (EC885M)**. Pero al probarlo, en lugar de notas achocolatadas o frutales, percibes un fondo rancio a cenicero frío o un latigazo metálico y astringente en el paladar. Dentro de nuestro [centro de problemas y soluciones](/problemas-y-soluciones/), este es el síntoma clásico de contaminación cruzada por lípidos oxidados ocultos tras la ducha del grupo."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cafe espresso sabe rancio o metalico causas"
+      "text": "La grasa invisible detrás de la ducha dispersora y el doble fondo"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cafe espresso sabe rancio o metalico causas** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Cada vez que detienes la bomba tras una extracción a **9 bares** y **93 °C**, la descompresión del grupo succiona una pequeña fracción de espuma y aceites de café hacia arriba, atravesando los microorificios de la rejilla dispersora (*shower screen*). Con el paso de las semanas, esa película grasa se polimeriza con el calor del bloque térmico hasta formar una costra negra de alquitrán cafetero. Cuando pasa agua limpia para tu siguiente espresso, disuelve parte de esa grasa rancia y arruina el grano más selecto. Además, esa misma suciedad acumulada en el canal de cierre reseca la junta de silicona y puede provocar que [el portafiltro se suelte o gire solo durante la extracción](/problemas-y-soluciones/el-portafiltro-se-suelta-o-gira-solo-durante-la-extraccion/). Por otro lado, si el sabor es puramente metálico y punzante, suele deberse a extraer café con el bloque sobrecalentado justo después de usar vapor, ignorando el aviso de cuando [parpadean las dos luces de tazas en la De’Longhi Dedica después del vapor](/problemas-y-soluciones/delonghi-dedica-parpadean-las-dos-luces-de-tazas-despues-del-vapor/)."
+    },
+    {
+      "type": "h2",
+      "text": "Diferencia entre sabor a rancio oxidado y regusto metálico"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: cafe espresso sabe rancio o metalico causas",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Defecto en boca",
+        "Foco oculto en la cafetera",
+        "Mecanismo químico",
+        "Acción correctiva inmediata"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Desatornilla la ducha del grupo y el fondo del portafiltro original: el aceite viejo pegado ahí contamina cada taza nueva.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Amargo rancio o a madera quemada",
+          "Reverso de la ducha del grupo y cámara interna de cestas presurizadas",
+          "Oxidación y carbonización de lípidos cafeteros antiguos a más de 90 °C",
+          "Desmontar tornillo central de la ducha y sumergir en detergente alcalino tipo Cafiza"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Metálico punzante o ferroso",
+          "Agua de ósmosis sin minerales o restos de descalcificador ácido en caldera",
+          "El agua con menos de 30 ppm de TDS o pH ácido reacciona con aluminio y latón",
+          "Purgar 2 litros de agua y emplear agua mineral suave (70–120 ppm de residuo seco)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Astringente seco y caucho quemado",
+          "Extracción por encima de 98 °C tras vaporizar leche sin enfriar el grupo",
+          "Flash-boiling: el agua entra en ebullición al tocar la pastilla de café y quema los solubles",
+          "Purgar 5 segundos de agua por el grupo o la lanceta hasta que deje de salir vapor chisporroteante"
         ]
+      ],
+      "caption": "Identificación del origen del mal sabor según el perfil sensorial en taza"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo desmontar y desinfectar la ducha del grupo paso a paso"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "**Apaga y deja enfriar el grupo 20 minutos:** Desenchufa la máquina y utiliza un destornillador corto tipo *stubby* (punta **Phillips PH2** en De’Longhi Dedica y CASABREWS CM5418, o llave **Allen de 3 mm** / Phillips según lote en Breville Bambino) para girar el tornillo central de la ducha en sentido antihorario.",
+        "**Separa la rejilla y el bloque difusor:** Retira la malla de acero inoxidable perforada. Verás que la cara superior oculta tiene una capa marrón oscura de café solidificado que jamás sale con un simple enjuague exterior.",
+        "**Baño químico con percarbonato o detergente específico:** Disuelve **3 gramos** de polvo limpiador para cafeteras espresso en **500 ml** de agua a **75 °C**. Sumerge durante **20 minutos** la ducha, el tornillo, las cestas filtro y solo la cabeza metálica del portafiltro (sin mojar el mango plástico).",
+        "**Cepillado del anillo del grupo y montaje:** Con un cepillo de cerdas de nailon humedecido en agua tibia, frota la cavidad superior del grupo y el labio de la junta de goma hasta que el papel absorbente salga blanco, y vuelve a atornillar la ducha sin exceder el apriete manual."
       ]
     },
     {
       "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre cafe espresso sabe rancio o metalico causas",
-      "text": "Desatornilla la ducha del grupo y el fondo del portafiltro original: el aceite viejo pegado ahí contamina cada taza nueva. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
-    },
-    {
-      "type": "h2",
-      "text": "Paso a paso para aplicar cafe espresso sabe rancio o metalico causas hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
+      "variant": "tip",
+      "text": "Si utilizas las cestas presurizadas de doble pared de fábrica en tu Dedica o CASABREWS, el espacio sellado entre la malla interior y el microorificio exterior acumula aceites viejos imposibles de cepillar. Sumérgelas en detergente enzimático cada 15 días y haz pasar agua hirviendo a presión sin café para vaciar esa cámara ciega.",
+      "title": "El truco para limpiar el falso fondo de las cestas presurizadas"
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con cafe espresso sabe rancio o metalico causas en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Quieres renovar tus cestas filtro por modelos no presurizados de acero quirúrgico o encontrar el detergente alcalino exacto para tu grupo de 51 mm o 54 mm? Pregunta a nuestro Asesor IA o consulta las opciones disponibles en las tarjetas de Amazon de esta guía."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cafe espresso sabe rancio o metalico causas?",
-      "a": "Desatornilla la ducha del grupo y el fondo del portafiltro original: el aceite viejo pegado ahí contamina cada taza nueva. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cada cuánto tiempo hay que desmontar la ducha del grupo?",
+      "a": "Con un uso doméstico de 2 a 3 cafés diarios, lo ideal es retirar el tornillo central y limpiar la rejilla dispersora con detergente específico una vez al mes. Además, conviene hacer una purga de 3 segundos de agua limpia antes y después de cada espresso para frenar la adhesión de aceites."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Puedo usar percarbonato sódico si no tengo detergente Cafiza?",
+      "a": "Sí, el percarbonato de sodio puro es el ingrediente activo principal de los detergentes comerciales para espresso. Al disolverse en agua caliente por encima de 60 °C libera oxígeno activo y carbonato sódico que saponifican las grasas del café sin atacar el acero inoxidable de las cestas ni la ducha."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué el portafiltro original tiene una pieza de plástico por dentro?",
+      "a": "En los portafiltros de serie de la De’Longhi Dedica, CASABREWS CM5418 y Breville Bambino, el interior bajo la cesta incluye un inserto de plástico negro y la aleación exterior suele ser aluminio cromado. El aluminio y el plástico se oscurecen o agrietan con detergentes alcalinos; si quieres inmersión total, instala un portafiltro bottomless de acero inoxidable 304."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/delonghi-dedica-parpadean-las-dos-luces-de-tazas-despues-del-vapor/",
+    "/problemas-y-soluciones/el-portafiltro-se-suelta-o-gira-solo-durante-la-extraccion/",
     "/problemas-y-soluciones/la-cafetera-vibra-mucho-y-las-tazas-se-mueven-solas-en-la-bandeja/",
-    "/problemas-y-soluciones/sabor-a-quemado-o-goma-en-una-cafetera-espresso-recien-comprada/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/charco-de-agua-debajo-de-la-cafetera-en-la-encimera/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/sabor-metalico-o-rancio-en-el-cafe-aunque-uses-grano-bueno.webp"
 }

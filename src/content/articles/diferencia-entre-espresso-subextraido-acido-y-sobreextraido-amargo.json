@@ -4,161 +4,130 @@
   "path": "/extraccion-y-recetas-espresso/diferencia-entre-espresso-subextraido-acido-y-sobreextraido-amargo/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "diferencia espresso acido subextraido y amargo sobreextraido",
   "title": "Tu Espresso Está Ácido o Amargo: Tabla de Diagnóstico por Sabor y Cómo Corregirlo en el Siguiente Shot",
-  "seoTitle": "Tu Espresso Está Ácido o Amargo | Guía Barista Compacta",
-  "metaDescription": "Tu Espresso Está Ácido o Amargo: Tabla de Diagnóstico por Sabor y Cómo Corregirlo en el Siguiente Shot: Si sabe agrio y salado como limón, falta extracción (muele más fino o saca 40 g); si sabe astringente, seco y quemado, sobra extracción (muele más grueso o corta a 32 g). Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Si sabe agrio y salado como limón, falta extracción (muele más fino o saca 40 g); si sabe astringente, seco y quemado, sobra extracción (muele más grueso o corta a 32 g).",
-  "quickAnswer": "Sobre diferencia espresso acido subextraido y amargo sobreextraido: Si sabe agrio y salado como limón, falta extracción (muele más fino o saca 40 g); si sabe astringente, seco y quemado, sobra extracción (muele más grueso o corta a 32 g). Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Tu Espresso Está Ácido o Amargo: Tabla de Diagnóstico por Sabor y Cómo Corregirlo en el Siguiente Shot | cafeteracompacta.com",
+  "metaDescription": "¿Tu espresso sabe ácido o amargo? Tabla de diagnóstico sensorial y visual para distinguir la subextracción de la sobreextracción y corregir tu molino.",
+  "excerpt": "Confundir la acidez punzante con el amargor seco lleva a girar el molino hacia el lado equivocado. Identifica qué falló en tu taza y corrígelo ajustando una sola variable en el siguiente disparo.",
+  "quickAnswer": "Un espresso **subextraído** sabe punzante, salado y ácido en los laterales de la lengua porque el agua atravesó la pastilla en menos de **20 segundos**, disolviendo solo ácidos orgánicos tempranos. Por el contrario, un espresso **sobreextraído** resulta áspero, seco y amargo en el fondo del paladar porque tardó más de **35 segundos**, arrastrando fibras vegetales y taninos que se corrigen engrosando la molienda o acortando el ratio.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Si sabe agrio y salado como limón, falta extracción (muele más fino o saca 40 g); si sabe astringente, seco y quemado, sobra extracción (muele más grueso o corta a 32 g)., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Candid real-world household usage perspective in bright natural morning light: realistic scene illustrating 'Tu Espresso Está Ácido o Amargo: Tabla de Diagnóstico por Sabor y Cómo Corregirlo en el Siguiente Shot' (diferencia espresso acido subextraido y amargo sobreextraido) for cafeteracompacta.com, featuring equipment in arctic white with warm stone-gray details, in a clean modern garage or studio corner with slate flooring, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Tu Espresso Está Ácido o Amargo: Tabla de Diagnóstico por Sabor y Cómo Corregirlo en el Siguiente Shot"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **diferencia espresso acido subextraido y amargo sobreextraido** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Si sabe agrio y salado como limón, falta extracción (muele más fino o saca 40 g); si sabe astringente, seco y quemado, sobra extracción (muele más grueso o corta a 32 g)."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "El obstáculo sensorial más frecuente cuando empiezas a calibrar una **Breville Bambino (BES450)**, una **De’Longhi Dedica Arte (EC885M)** o una **CASABREWS CM5418** es la llamada *confusión ácido-amargo*. Como ambos defectos son intensos y desagradables, el cerebro tiende a etiquetar cualquier espresso agresivo como «muy fuerte o amargo», llevándote a moler más grueso cuando en realidad tu café estaba **subextraído y ácido**, lo que empeora todavía más el siguiente intento. La física de la extracción ocurre en tres etapas cronológicas estrictas: durante los primeros **10 segundos**, el agua disuelve únicamente los ácidos orgánicos volátiles y sales minerales; entre los **segundos 11 y 22**, arrastra los azúcares complejos de Maillard y los lípidos que aportan cuerpo sedoso; y a partir del **segundo 24 en adelante**, extrae los compuestos amargos pesados, alcaloides y fibras vegetales astringentes. Nuestro objetivo en las guías de [extracción y recetas espresso](/extraccion-y-recetas-espresso/) es cortar el disparo justo cuando los azúcares han equilibrado la acidez inicial, antes de invadir la fase leñosa."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: diferencia espresso acido subextraido y amargo sobreextraido"
-    },
-    {
-      "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **diferencia espresso acido subextraido y amargo sobreextraido** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Tabla de Diagnóstico por Sabor, Crema y Tiempo: Subextraído vs Equilibrado vs Sobreextraído"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: diferencia espresso acido subextraido y amargo sobreextraido",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Parámetro de Diagnóstico",
+        "Espresso Subextraído (<18 % extracción)",
+        "Punto Dulce Equilibrado (19 % – 22 % extracción)",
+        "Espresso Sobreextraído (>23 % extracción)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Si sabe agrio y salado como limón, falta extracción (muele más fino o saca 40 g); si sabe astringente, seco y quemado, sobra extracción (muele más grueso o corta a 32 g).",
-          "Mejora la consistencia y evita errores de extracción"
+          "Sabor y Sensación en Boca",
+          "Ácido punzante (limón verde/vinagre), salado, aguado y final que desaparece al instante",
+          "Dulzor a caramelo o fruta madura, acidez jugosa integrada, cuerpo almibarado y retrogusto limpio",
+          "Amargo seco (ceniza/cacao 99 %), áspero y astringente (seca la lengua como cáscara de nuez)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Zona de la Lengua donde se Siente",
+          "Bordes laterales de la lengua (produce salivación inmediata)",
+          "Centro y punta de la lengua con recubrimiento aterciopelado completo",
+          "Parte posterior de la lengua y garganta (sensación rasposa persistente)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Aspecto Visual del Flujo y Crema",
+          "Chorro rápido que se vuelve rubio pálido a los 8 s; crema fina, amarilla y que se disipa rápido",
+          "Flujo viscoso como miel tibia con vetas atigradas; crema elástica color avellana de 3–4 mm",
+          "Goteo inicial muy oscuro y lento; crema marrón muy oscura con un aro pálido o mancha blanca central"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "Tiempo para Ratio 1:2 (ej. 18 g → 36 g)",
+          "Menos de 20 segundos (aguja baja si revisas el manómetro)",
+          "Entre 25 y 30 segundos (óptimo en 27 segundos)",
+          "Más de 35 segundos (o ratio alargado por encima de 1:3)"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Acción Correctiva Inmediata",
+          "Moler 1 a 3 clics más fino o alargar el rendimiento a ratio 1:2.3",
+          "Congelar variables y guardar el ajuste del botón volumétrico",
+          "Moler 1 a 2 clics más grueso o acortar el corte en báscula a ratio 1:1.7"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre diferencia espresso acido subextraido y amargo sobreextraido",
-      "text": "Si sabe agrio y salado como limón, falta extracción (muele más fino o saca 40 g); si sabe astringente, seco y quemado, sobra extracción (muele más grueso o corta a 32 g). Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Guía rápida de identificación sensorial y visual para corregir el siguiente disparo de espresso"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar diferencia espresso acido subextraido y amargo sobreextraido hoy mismo en tu cocina"
+      "text": "La Regla de Oro del Barista: Modifica una Sola Variable entre un Disparo y el Siguiente"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Si cambias al mismo tiempo los gramos de café seco, el punto del molino y la cantidad de líquido en taza, nunca sabrás qué ajuste corrigió o arruinó el sabor. El protocolo profesional exige **anclar primero tu dosis en seco** según la geometría de tu filtro —revisa nuestra guía sobre [cuántos gramos caben realmente en tu cesta de 51 mm vs 54 mm](/extraccion-y-recetas-espresso/como-saber-cuantos-gramos-caben-en-tu-cesta-de-51mm-vs-54mm/) para fijar **15.0 g** en 51 mm o **18.0 g** en 54 mm sin variaciones—. Una vez bloqueada la dosis, observa la resistencia hidráulica —aprende [cómo leer el manómetro de presión de la CASABREWS CM5418](/extraccion-y-recetas-espresso/como-leer-el-manometro-de-presion-de-la-casabrews-cm5418/) si usas ese modelo— y controla el peso final en taza aprovechando [la programación de volumen y pre-infusión manual en la Breville Bambino](/extraccion-y-recetas-espresso/como-programar-el-volumen-de-extraccion-en-la-breville-bambino/). Solo cuando el tiempo para un ratio 1:2 ya está en **27 segundos** y aun así percibes acidez o amargor, ajustamos el peso de salida en taza según el nivel de tueste del grano."
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Paso 1: Bloquea la dosis de café seco al décimo de gramo",
+          "text": "Elige **15.0 g** para tu cesta despresurizada de **51 mm** (Dedica / CASABREWS) o **18.0 g** para la cesta de **54 mm** (Breville Bambino) y no alteres esta cifra ni en **0.2 g** durante toda la sesión de calibración."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Paso 2: Ajusta el molino hasta clavar el ratio 1:2 entre 25 y 30 segundos",
+          "text": "Si tus **30 g** (en 51 mm) o **36 g** (en 54 mm) caen en menos de **22 segundos** y saben ácidos, cierra el molino **2 clics hacia más fino**; si tardan más de **34 segundos** y dejan la boca seca y amarga, abre el molino **2 clics hacia más grueso**. Purga **1 a 2 g** de café retenido en el molino tras mover el dial."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Paso 3: Afina el sabor final moviendo el peso de salida (Yield) ±4 gramos",
+          "text": "Si a los **27 segundos** exactos un café de especialidad sigue teniendo una acidez punzante, mantén la molienda intacta y deja correr el disparo hasta **40 g** (ratio **1:2.2**) para disolver más azúcares que tamponen el ácido. Si un tueste oscuro sabe a carbón a los **27 segundos**, corta la bomba antes en **30 g** (ratio **1:1.7**)."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Cómo el Nivel de Tueste del Grano Cambia Tu Ratio Ideal de Extracción"
+    },
+    {
+      "type": "callout",
+      "variant": "etiqueta",
+      "text": "No todos los granos alcanzan su punto dulce en el **ratio 1:2**. Un **tueste oscuro o comercial italiano** ha pasado más tiempo en el tambor tostador, por lo que su estructura celular es muy porosa y se disuelve rapidísimo: si lo llevas a **1:2** a alta temperatura, extraerás notas de ceniza y caucho; córtalo en un **ristretto 1:1.5 a 1:1.7** (por ejemplo, **18 g en seco para 28–30 g en taza**). En cambio, un **tueste ligero o medio-claro de especialidad** es denso, duro y poco soluble: en un ratio 1:2 suele quedarse corto y ácido, por lo que brilla mucho más cuando lo estiras a un **ratio 1:2.2 a 1:2.5** (**18 g en seco para 40–45 g en taza**) con el agua a máxima temperatura.",
+      "title": "Adapta el peso en taza a la porosidad de tu tueste (Claro vs Oscuro)"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con diferencia espresso acido subextraido y amargo sobreextraido en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Tu molino actual salta de un disparo ácido de 16 segundos a uno ahogado de 45 segundos con un solo clic? Consulta a nuestro Asesor IA sobre molinos con micro-ajustes para espresso o revisa la disponibilidad actual de nuestros modelos recomendados en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre diferencia espresso acido subextraido y amargo sobreextraido?",
-      "a": "Si sabe agrio y salado como limón, falta extracción (muele más fino o saca 40 g); si sabe astringente, seco y quemado, sobra extracción (muele más grueso o corta a 32 g). Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué mi espresso sabe ácido al primer sorbo pero me deja un final amargo y seco?",
+      "a": "Ese fenómeno es el síntoma clásico del **channeling (canalización)**. Cuando el agua perfora un canal estrecho por un grumo o por un compactado torcido, el **20 %** del café que rodea la grieta sufre un lavado violento y queda **sobreextraído y astringente**, mientras que el **80 %** restante de la pastilla apenas recibe flujo y aporta un líquido **subextraído y ácido**."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué mi café espresso tiene un extraño toque salado al probarlo?",
+      "a": "El gusto salado en un espresso es señal inequívoca de **subextracción extrema** (generalmente disparos que terminan en **12 a 16 segundos** o a baja temperatura). Las sales minerales e iones de sodio del grano son los primeros compuestos en disolverse al contacto con el agua y, al faltar los azúcares de la fase media del disparo, dominan el paladar."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿El cambio de sabor se nota inmediatamente en el siguiente café tras mover el molino?",
+      "a": "Después de cambiar la graduación de tu molino eléctrico, dentro del conducto de salida suelen quedar retenidos entre **0.5 g y 2.0 g** del grosor anterior. Si mueles apenas **1.5 gramos** de descarte (purga) antes de moler tu dosis completa de **15 g o 18 g**, notarás el cambio de tiempo y sabor de forma inmediata en el siguiente disparo."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/que-es-el-channeling-canalizacion-en-el-espresso-y-como-eliminarlo/",
     "/extraccion-y-recetas-espresso/como-leer-el-manometro-de-presion-de-la-casabrews-cm5418/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/como-programar-el-volumen-de-extraccion-en-la-breville-bambino/",
+    "/extraccion-y-recetas-espresso/como-saber-cuantos-gramos-caben-en-tu-cesta-de-51mm-vs-54mm/",
+    "/extraccion-y-recetas-espresso/receta-de-flat-white-autentico-australiano-en-cafetera-compacta/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/diferencia-entre-espresso-subextraido-acido-y-sobreextraido-amargo.webp"
 }

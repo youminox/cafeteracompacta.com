@@ -4,161 +4,122 @@
   "path": "/mantenimiento-y-descalcificacion/como-destapar-los-microagujeros-de-un-filtro-presurizado-obstruido/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como desatascar filtro presurizado cafetera espresso",
   "title": "Cómo Desatascar un Filtro Presurizado de Doble Pared cuando Ya No Pasa el Café",
-  "seoTitle": "Cómo Desatascar un Filtro Presurizado de Doble Pared cuando Ya No Pasa el Café | Guía Barista Compacta",
-  "metaDescription": "Cómo Desatascar un Filtro Presurizado de Doble Pared cuando Ya No Pasa el Café: Remojo de 20 minutos en agua hirviendo con media cucharadita de Urnex Cafiza seguido de un disparo de vapor a través del agujero inferior. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Remojo de 20 minutos en agua hirviendo con media cucharadita de Urnex Cafiza seguido de un disparo de vapor a través del agujero inferior.",
-  "quickAnswer": "Sobre como desatascar filtro presurizado cafetera espresso: Remojo de 20 minutos en agua hirviendo con media cucharadita de Urnex Cafiza seguido de un disparo de vapor a través del agujero inferior. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Cómo Desatascar un Filtro Presurizado de Doble Pared cuando Ya No Pasa el Café | cafeteracompacta.com",
+  "metaDescription": "Aprende cómo desatascar un filtro presurizado de cafetera espresso de doble pared en minutos: baño térmico alcalino, aguja de 0.3 mm y desmontaje de la base.",
+  "excerpt": "Cuando una cesta presurizada de 51 mm o 54 mm se bloquea, toda la presión de la bomba se concentra en un único microagujero de salida obstruido por finos y grasa. Rescátala sin deformar la malla de acero.",
+  "quickAnswer": "Un filtro presurizado de doble pared se obstruye cuando aceites solidificados y micropartículas de molienda fina taponan su único **orificio inferior de 0.3 a 0.4 mm**. Para desatascarlo, sumérgelo durante **20 minutos** en agua a **85 °C** con **3 gramos de Urnex Cafiza** (o desmonta la base interna en cestas **De’Longhi Dedica**), despeja el orificio central con una aguja de **0.35 mm** y purga agua a presión sin café.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Remojo de 20 minutos en agua hirviendo con media cucharadita de Urnex Cafiza seguido de un disparo de vapor a través del agujero inferior., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Low-angle dramatic hero perspective with soft background bokeh on 35mm lens: realistic scene illustrating 'Cómo Desatascar un Filtro Presurizado de Doble Pared cuando Ya No Pasa el Café' (como desatascar filtro presurizado cafetera espresso) for cafeteracompacta.com, featuring equipment in sleek titanium silver with carbon-gray texture, on a clean stone countertop with neatly arranged accessories, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Desatascar un Filtro Presurizado de Doble Pared cuando Ya No Pasa el Café"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como desatascar filtro presurizado cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Remojo de 20 minutos en agua hirviendo con media cucharadita de Urnex Cafiza seguido de un disparo de vapor a través del agujero inferior."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Estrenas un paquete de café recién molido en tu **CASABREWS CM5418**, **De’Longhi Dedica Arte (EC885M)** o **Breville Bambino (BES450)**, colocas tu filtro original de fábrica y, al pulsar el botón, la bomba vibratoria cambia a un sonido sordo y ahogado, la aguja del manómetro se clava en la zona roja máxima y no cae ni una sola gota a la taza. Aunque parezca una avería de la bomba, en el **90 %** de los casos el culpable es la propia **cesta presurizada de doble pared**. A diferencia de un filtro profesional sin presurizar (que tiene cientos de poros directos de arriba abajo), un filtro de doble pared canaliza todo el espresso a través de una cámara intermedia y un **único microagujero de salida de 0.3 a 0.4 mm** en la base exterior. Antes de pensar en el servicio técnico, conviene [descartar si tu cafetera tiene cal acumulada](/mantenimiento-y-descalcificacion/como-saber-si-tu-cafetera-tiene-cal-acumulada-3-sintomas-claros/) haciendo una prueba sin portafiltro y consultar nuestro [hub de mantenimiento y descalcificación](/mantenimiento-y-descalcificacion/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como desatascar filtro presurizado cafetera espresso"
+      "text": "Por qué se tapona la cámara oculta entre las dos paredes de acero inoxidable"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como desatascar filtro presurizado cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Cuando utilizas una molienda demasiado fina para espresso tradicional dentro de un filtro presurizado —o cuando dejas el portafiltro puesto con la pastilla húmeda durante horas—, las micropartículas de café (**fines** menores de **100 micras**) atraviesan la primera malla perforada y quedan atrapadas en el falso fondo junto con los lípidos del grano. Al enfriarse, esa mezcla se solidifica justo en el embudo del único orificio inferior de **0.35 mm**, bloqueando por completo la salida. Mientras que las cestas de **De’Longhi Dedica (51 mm)** permiten extraer su filtro interno haciendo palanca en una pequeña muesca lateral para abrir la cámara en dos piezas, las cestas de doble pared de **Breville (54 mm)** y **CASABREWS (51 mm)** están selladas al láser en una sola pieza, por lo que requieren disolución química y desbloqueo mecánico con aguja de precisión. Integra esta limpieza dentro de tu rutina de [higiene de herramientas de preparación WDT, tamper y embudo](/mantenimiento-y-descalcificacion/como-limpiar-las-agujas-del-distribuidor-wdt-y-la-base-del-tamper/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: como desatascar filtro presurizado cafetera espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Marca y medida de la cesta presurizada",
+        "Construcción de la doble pared",
+        "¿Se puede desmontar el fondo interno?",
+        "Técnica de desatasco más efectiva"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Remojo de 20 minutos en agua hirviendo con media cucharadita de Urnex Cafiza seguido de un disparo de vapor a través del agujero inferior.",
-          "Mejora la consistencia y evita errores de extracción"
+          "De'Longhi Dedica EC685 / EC885M (51 mm)",
+          "Dos piezas encajadas a presión con junta o borde ranurado",
+          "SÍ (Empujando desde abajo o por la muesca superior)",
+          "Separar la malla interior, cepillar la cámara con Cafiza y volver a encajar hasta oír clic"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Breville Bambino BES450 / BES500 (54 mm)",
+          "Doble pared de acero inoxidable soldada y sellada",
+          "NO (Cámara hermética fija)",
+          "Inmersión de 30 min en Urnex Cafiza a 85 °C + aguja de 0.35 mm + purga en vacío a 9 bares"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "CASABREWS CM5418 / 3700Essential (51 mm)",
+          "Cuerpo sellado con un único microorificio central inferior",
+          "NO (Salvo variantes con base roscada)",
+          "Hervor suave de 10 min con percarbonato/Cafiza + aguja desatascadora por el orificio exterior"
         ]
-      ]
+      ],
+      "caption": "Métodos de desbloqueo según el diseño constructivo del filtro presurizado de doble pared"
+    },
+    {
+      "type": "h2",
+      "text": "Error grave: agrandar el orificio central con un alfiler grueso o un clip metálico"
     },
     {
       "type": "callout",
       "variant": "aviso",
-      "title": "Precaución técnica sobre como desatascar filtro presurizado cafetera espresso",
-      "text": "Remojo de 20 minutos en agua hirviendo con media cucharadita de Urnex Cafiza seguido de un disparo de vapor a través del agujero inferior. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "Jamás introduzcas un clip de papelería, un palillo de madera que pueda quebrarse dentro ni una aguja de costura gruesa (**más de 0.6 mm**) en el agujero inferior de la cesta. El diámetro calibrado de **0.3 a 0.4 mm** es la válvula restrictora que genera la crema artificial; si deformas o ensanchas ese poro aunque sea **0.2 mm**, el filtro perderá su contrapresión y el café saldrá aguado en menos de **8 segundos**. Usa únicamente la **aguja de limpieza de 0.35 mm** incluida con tu cafetera o una aguja suelta de distribuidor **WDT (0.35–0.4 mm)**.",
+      "title": "Por qué un clip o aguja gruesa arruina para siempre la crema del filtro"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como desatascar filtro presurizado cafetera espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Protocolo en 4 pasos para destapar una cesta de doble pared sellada"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Inmersión térmica en detergente alcalino o hervor controlado",
+          "text": "Coloca el filtro obstruido en un cazo pequeño o jarra metálica con **300 ml de agua a 85–90 °C** y **4 gramos de Urnex Cafiza** (o media cucharadita de percarbonato sódico). Déjalo actuar **25 minutos** para que el oxígeno activo penetre entre ambas paredes y licúe el tapón de grasa y finos."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Sondeo delicado del orificio inferior con aguja de 0.35 mm",
+          "text": "Saca el filtro con pinzas, dale la vuelta y pasa suavemente una aguja de **0.35 mm** (como la herramienta de limpieza de boquillas de vapor de **Breville** o una aguja de **WDT**) de forma perpendicular por el único agujero central exterior sin apalancar los bordes."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Purga inversa y disparo a presión en la cafetera sin café",
+          "text": "Pon la cesta bajo el chorro de agua caliente del grifo, encájala vacía en el portafiltro, acóplala al grupo de tu cafetera y pulsa el botón de **2 tazas**. El agua a **90 °C** impulsada por la bomba a alta presión terminará de expulsar los sedimentos reblandecidos de la cámara interna; verás salir primero un hilo marrón y luego un chorro fino, recto y transparente."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Prueba a contraluz y ajuste de molienda para evitar recaídas",
+          "text": "Seca la cesta y mírala hacia una lámpara: debes distinguir un punto de luz nítido en el centro exacto. Para que no vuelva a obstruirse en dos días, usa una molienda ligeramente más gruesa (textura de sal fina de mesa) cuando trabajes con filtros presurizados."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con como desatascar filtro presurizado cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Tu filtro original ya está abollado o quieres dar el salto a una cesta no presurizada de precisión de 51 mm o 54 mm? Consulta la disponibilidad actual de cestas de repuesto, agujas de 0.35 mm y detergente Urnex Cafiza en las tarjetas de Amazon de esta página, o pide ayuda a nuestro Asesor IA."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como desatascar filtro presurizado cafetera espresso?",
-      "a": "Remojo de 20 minutos en agua hirviendo con media cucharadita de Urnex Cafiza seguido de un disparo de vapor a través del agujero inferior. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cómo compruebo en 10 segundos si el atasco está en el filtro presurizado o dentro de la cafetera?",
+      "a": "Retira el portafiltro y pulsa el botón de extracción con una taza debajo: si el agua cae con fuerza y buen caudal por la ducha del grupo, la cafetera está perfecta. Luego pon el portafiltro con el filtro vacío (sin café) y vuelve a pulsar; si no sale agua por el pico, la cesta está obstruida."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Puedo destapar un filtro presurizado hirviéndolo con bicarbonato si hoy no tengo Urnex Cafiza?",
+      "a": "Sí, el vinagre no disuelve los aceites del café. Como alternativa casera alcalina, hierve la cesta de acero inoxidable durante **10 minutos** en un cazo con agua y una cucharada sopera colmada de **bicarbonato de sodio** (o media cucharadita de percarbonato sódico sin perfume), que saponifica las grasas atrapadas entre las dos paredes."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cómo se separa la pieza interna del filtro presurizado original de la De’Longhi Dedica?",
+      "a": "Sujeta el filtro de **51 mm** boca abajo y presiona con firmeza sobre el pequeño círculo metálico central inferior usando el mango de madera o plástico de una cuchara sobre un paño doblado, o introduce la punta fina de un cuchillo de mantequilla en la diminuta muesca del borde interno superior para desencajar el colador interior."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/cada-cuanto-tiempo-hay-que-descalcificar-segun-la-dureza-del-agua/",
-    "/mantenimiento-y-descalcificacion/como-desatornillar-y-limpiar-la-ducha-del-grupo-en-delonghi-dedica-y-casabrews/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/como-saber-si-tu-cafetera-tiene-cal-acumulada-3-sintomas-claros/",
+    "/mantenimiento-y-descalcificacion/como-limpiar-las-agujas-del-distribuidor-wdt-y-la-base-del-tamper/",
+    "/mantenimiento-y-descalcificacion/checklist-de-mantenimiento-trimestral-para-tu-estacion-barista/",
+    "/mantenimiento-y-descalcificacion/como-descalcificar-cafetera-smeg-ecf02-y-apagar-boton-naranja/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-destapar-los-microagujeros-de-un-filtro-presurizado-obstruido.webp"
 }

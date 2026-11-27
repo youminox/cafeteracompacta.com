@@ -4,161 +4,138 @@
   "path": "/basculas-y-accesorios-barista/como-usar-un-portafiltro-bottomless-sin-fondo-para-diagnosticar-channeling/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como usar portafiltro bottomless sin fondo",
   "title": "Cómo Leer tu Extracción en un Portafiltro Bottomless (Sin Fondo) para Corregir Chorros y Canalización",
-  "seoTitle": "Cómo Leer tu Extracción en un Portafiltro Bottomless (Sin Fondo) para Corregir Chorros y Canalización | Guía Barista Compacta",
-  "metaDescription": "Cómo Leer tu Extracción en un Portafiltro Bottomless (Sin Fondo) para Corregir Chorros y Canalización: El portafiltro desnudo es tu espejo diagnóstico: si los chorros se unen en un cono central a los 4 segundos, tu preparación de pastilla es perfecta. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "El portafiltro desnudo es tu espejo diagnóstico: si los chorros se unen en un cono central a los 4 segundos, tu preparación de pastilla es perfecta.",
-  "quickAnswer": "Sobre como usar portafiltro bottomless sin fondo: El portafiltro desnudo es tu espejo diagnóstico: si los chorros se unen en un cono central a los 4 segundos, tu preparación de pastilla es perfecta. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Cómo Leer tu Extracción en un Portafiltro Bottomless (Sin Fondo) para Corregir Chorros y Canalización | cafeteracompacta.com",
+  "metaDescription": "Aprende cómo usar un portafiltro bottomless sin fondo para diagnosticar canalización, zonas secas y tampeo inclinado en tu cafetera espresso compacta.",
+  "excerpt": "Manual visual para interpretar la base de tu cesta despresurizada segundo a segundo: qué significan las zonas sin flujo, el cono descentrado, el blonding prematuro y cómo corregir cada fallo.",
+  "quickAnswer": "Para diagnosticar tu extracción con un **portafiltro bottomless (sin fondo)**, observa los primeros **10 segundos** bajo presión: las gotas deben aparecer de forma uniforme en toda la cesta entre los **segundos 3 y 6** y unirse en un único cono central hacia el **segundo 8**. Si ves zonas secas, chorros laterales o un flujo que cae en menos de **15 segundos**, debes afinar la molienda, distribuir con **WDT** y nivelar el tampeo.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: El portafiltro desnudo es tu espejo diagnóstico: si los chorros se unen en un cono central a los 4 segundos, tu preparación de pastilla es perfecta., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Low-angle dramatic hero perspective with soft background bokeh on 35mm lens: realistic scene illustrating 'Cómo Leer tu Extracción en un Portafiltro Bottomless (Sin Fondo) para Corregir Chorros y Canalización' (como usar portafiltro bottomless sin fondo) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, on a warm walnut table beside a sunlit window, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Leer tu Extracción en un Portafiltro Bottomless (Sin Fondo) para Corregir Chorros y Canalización"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como usar portafiltro bottomless sin fondo** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. El portafiltro desnudo es tu espejo diagnóstico: si los chorros se unen en un cono central a los 4 segundos, tu preparación de pastilla es perfecta."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Basculas Y Accesorios Barista](/basculas-y-accesorios-barista/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Un portafiltro *bottomless* (sin fondo o desnudo) no contiene ningún mecanismo mágico que mejore el sabor del café por sí solo: su verdadera función es quitar la carcasa metálica y las dos boquillas inferiores para dejar al descubierto los **400 a 600 microagujeros** de tu cesta despresurizada. En cafeteras compactas como la **De’Longhi Dedica Arte (EC885M)**, la **CASABREWS CM5418** o la **Breville Bambino (BES450)**, este accesorio cumple una doble misión: actúa como un escáner hidrodinámico en tiempo real y te regala entre **2.5 y 3.5 cm** de espacio vertical extra para colocar tu taza sobre una báscula."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como usar portafiltro bottomless sin fondo"
+      "text": "Anatomía de un shot bien extraído segundo a segundo"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como usar portafiltro bottomless sin fondo** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Cuando preparas una receta estándar de **18.0 g** de café seco para obtener **36.0 g** de bebida en taza (ratio **1:2**) entre **25 y 30 segundos**, la base de la cesta atraviesa tres fases visuales muy claras. Primero, durante la pre-infusión (entre los **segundos 3 y 6**), deben asomar gotas oscuras de manera simultánea tanto en el anillo exterior como en el centro de la malla. Segundo, entre los **segundos 7 y 10**, los pequeños hilos de café se unen por tensión superficial en el centro exacto del filtro, formando un único cono viscoso con textura de miel caliente. Tercero, a partir del **segundo 12**, aparecen las vetas atigradas (*tiger striping*) que van virando del marrón caoba al dorado pajizo (*blonding*) justo cuando tu báscula se acerca a los **36 g**. Si necesitas aún más holgura para meter taza y báscula bajo el grupo, puedes combinar el portafiltro sin fondo con [bandejas de goteo bajas impresas en 3D para De’Longhi Dedica](/basculas-y-accesorios-barista/bandejas-de-goteo-bajas-impresas-en-3d-para-delonghi-dedica/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: como usar portafiltro bottomless sin fondo",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Síntoma Visual en la Base de la Cesta",
+        "Causa Física en la Pastilla (Puck)",
+        "Impacto en el Sabor en Taza",
+        "Ajuste Correctivo Inmediato"
       ],
       "rows": [
         [
-          "Clave principal",
-          "El portafiltro desnudo es tu espejo diagnóstico: si los chorros se unen en un cono central a los 4 segundos, tu preparación de pastilla es perfecta.",
-          "Mejora la consistencia y evita errores de extracción"
+          "El cono se forma desplazado hacia un borde",
+          "Compactación (tampeo) inclinada o desnivelada",
+          "Mezcla de acidez punzante y final seco",
+          "Nivelar el apoyo del tamper a 90° o usar tamper autonivelante"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Zonas secas o calvas que tardan en gotear",
+          "Grumos densos sin deshacer en esa región",
+          "Cuerpo hueco y astringencia localizada",
+          "Rastrillar de abajo arriba con aguja WDT de 0.3–0.4 mm"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "El café brota primero como un anillo por el borde",
+          "Donut extraction: tamper pequeño o golpe lateral",
+          "Sobreextracción del perímetro y centro subextraído",
+          "Usar tamper del diámetro exacto (51.0 / 53.3 / 58.5 mm) sin golpear la cesta"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "Cascada rubia y espumosa en menos de 12 s",
+          "Molienda demasiado gruesa o grano rancio sin CO2",
+          "Espresso aguado, ácido y sin crema persistente",
+          "Cerrar 2 a 4 clics el molino hacia fino y usar café fresco"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Micro-chorros finos que disparan en diagonal",
+          "Canalización (channeling) por grietas o bolsas de aire",
+          "Amargor áspero y sequedad en el paladar",
+          "Mejorar distribución WDT y añadir un Puck Screen superior"
         ]
-      ]
+      ],
+      "caption": "Tabla de diagnóstico visual con portafiltro Bottomless y corrección técnica"
+    },
+    {
+      "type": "h2",
+      "text": "Qué significan el efecto donut, las zonas muertas y el cono descentrado"
+    },
+    {
+      "type": "p",
+      "text": "El fallo más habitual al estrenar un portafiltro desnudo —que en un portafiltro tradicional quedaba oculto tras las dos boquillas— es la **extracción en dona (*donut extraction*)**: el café empieza a fluir rápidamente por toda la circunferencia exterior mientras el centro permanece seco durante **3 o 4 segundos**. Esto ocurre cuando tu tamper es demasiado estrecho para la cesta o cuando das golpecitos laterales al portafiltro con el mango del tamper después de compactar (*knocking*), una mala costumbre que despega la pastilla de café de la pared de acero. Antes de adquirir tu primer portafiltro desnudo, verifica [cómo medir el diámetro de tu portafiltro en casa con una regla](/basculas-y-accesorios-barista/como-medir-el-diametro-de-tu-portafiltro-en-casa-con-una-regla/) y revisa nuestro [orden de compra de accesorios barista recomendado](/basculas-y-accesorios-barista/orden-de-compra-de-accesorios-barista-que-comprar-primero-y-que-despues/) para asegurarte de contar primero con un molino capaz de trabajar con cesta despresurizada."
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de barista sobre como usar portafiltro bottomless sin fondo",
-      "text": "El portafiltro desnudo es tu espejo diagnóstico: si los chorros se unen en un cono central a los 4 segundos, tu preparación de pastilla es perfecta. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "Si tu extracción presenta una pequeña asimetría al inicio pero converge en un solo chorro central a los 8 segundos y entrega 36 g en 27 segundos, no tires el espresso: pruébalo siempre. El objetivo del diagnóstico visual no es grabar un vídeo perfecto para redes sociales, sino lograr consistencia de una taza a la siguiente.",
+      "title": "Un shot visualmente feo con buen tiempo aún puede saber bien, pero nunca será repetible"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como usar portafiltro bottomless sin fondo hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Protocolo en 4 pasos para auditar tu preparación de pastilla"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Pesa exactamente la dosis en seco (ej. 18.0 g en 54/58 mm o 16.5 g en 51 mm)",
+          "text": "Variaciones de tan solo 0.5 gramos alteran el espacio libre respecto a la ducha y cambian por completo la velocidad de flujo."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Rompe los grumos profundos con WDT antes de nivelar",
+          "text": "Traza pequeños círculos desde el fondo de la cesta hacia la superficie para que la densidad sea idéntica en el centro y en los bordes."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Compacta en vertical absoluta una sola vez",
+          "text": "Ejerce una presión firme y constante hasta notar que el lecho de café deja de comprimirse; retira el tamper sin girar con fuerza ni golpear los lados."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Observa los primeros 10 segundos con un espejo de disparo (Shot Mirror)",
+          "text": "Coloca un espejo magnético en la bandeja de goteo para ver la malla sin agacharte mientras controlas el peso y el cronómetro en la báscula."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con como usar portafiltro bottomless sin fondo en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Revisa en las tarjetas de Amazon de esta página la disponibilidad actual de portafiltros bottomless en 51 mm, 54 mm y 58 mm junto con espejos magnéticos de extracción, o consulta a nuestro Asesor IA para diagnosticar tu receta actual."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como usar portafiltro bottomless sin fondo?",
-      "a": "El portafiltro desnudo es tu espejo diagnóstico: si los chorros se unen en un cono central a los 4 segundos, tu preparación de pastilla es perfecta. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Es obligatorio usar una cesta no presurizada en un portafiltro bottomless?",
+      "a": "Sí. Un portafiltro bottomless solo tiene sentido con una cesta despresurizada (Single Wall) que tiene cientos de perforaciones abiertas. Si colocas una cesta presurizada (Dual Wall) en un portafiltro sin fondo, toda la presión saldrá por su único orificio central como una aguja a alta velocidad que salpicará toda la cocina."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cuántos gramos de café debo poner en la cesta de mi portafiltro sin fondo?",
+      "a": "Depende de la capacidad nominal de tu filtro. En cestas de 51 mm (Dedica, CASABREWS) el punto dulce suele estar entre 15 y 17 gramos; en cestas de 54 mm (Breville Bambino) y 58 mm (Gaggia, HiBREW) la dosis estándar de doble espresso es de 17.5 a 18.5 gramos."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué mi portafiltro sin fondo saca un chorro grueso con mucha espuma rubia desde el primer segundo?",
+      "a": "Una crema excesivamente clara, burbujeante y voluminosa que brota en los primeros 5 segundos (efecto géiser) suele indicar dos cosas: o la molienda es demasiado gruesa y el agua atraviesa la pastilla sin resistencia, o el grano está demasiado recién tostado (menos de 4 días) y libera un exceso de gas CO2."
     }
   ],
   "related": [
-    "/basculas-y-accesorios-barista/",
-    "/basculas-y-accesorios-barista/por-que-mi-portafiltro-bottomless-salpica-por-toda-la-cocina/",
-    "/basculas-y-accesorios-barista/que-medida-de-accesorios-usa-gaggia-classic-y-hibrew-h10a-58mm/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/basculas-y-accesorios-barista/bandejas-de-goteo-bajas-impresas-en-3d-para-delonghi-dedica/",
+    "/basculas-y-accesorios-barista/termometros-de-tira-adhesiva-lcd-para-grupo-y-leche/",
+    "/basculas-y-accesorios-barista/como-medir-el-diametro-de-tu-portafiltro-en-casa-con-una-regla/",
+    "/basculas-y-accesorios-barista/orden-de-compra-de-accesorios-barista-que-comprar-primero-y-que-despues/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-usar-un-portafiltro-bottomless-sin-fondo-para-diagnosticar-channeling.webp"
 }

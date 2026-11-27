@@ -3,162 +3,123 @@
   "pillar": "molinos-y-molienda",
   "path": "/molinos-y-molienda/como-instalar-arandelas-shims-en-baratza-encore-esp/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "instalar arandelas shims baratza encore esp",
   "title": "Cuándo y Cómo Instalar las Arandelas (Shims) en tu Baratza Encore ESP si Muele Grueso",
-  "seoTitle": "Cuándo y Cómo Instalar las Arandelas (Shims) en tu Baratza Encore ESP si Muele Grueso | Guía Barista Compacta",
-  "metaDescription": "Cuándo y Cómo Instalar las Arandelas (Shims) en tu Baratza Encore ESP si Muele Grueso: Con el uso tras varios meses las muelas se asientan: añadir una de las arandelas incluidas en la caja recupera todo el rango fino. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Con el uso tras varios meses las muelas se asientan: añadir una de las arandelas incluidas en la caja recupera todo el rango fino.",
-  "quickAnswer": "Sobre instalar arandelas shims baratza encore esp: Con el uso tras varios meses las muelas se asientan: añadir una de las arandelas incluidas en la caja recupera todo el rango fino. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Cuándo y Cómo Instalar las Arandelas (Shims) en tu Baratza Encore ESP si Muele Grueso | cafeteracompacta.com",
+  "metaDescription": "Aprende cuándo y cómo instalar las arandelas (shims) en tu Baratza Encore ESP si incluso en el clic 1 tu molienda sale gruesa y el espresso corre rápido.",
+  "excerpt": "Si agotaste los primeros clics de tu Baratza Encore ESP y tus extracciones caen en menos de 15 segundos, aprende a desmontar la muela cónica M2 de rosca inversa y colocar los espaciadores incluidos.",
+  "quickAnswer": "Debes instalar las **arandelas metálicas (shims) de 0.2 mm** incluidas en la caja del **Baratza Encore ESP** cuando, incluso en los **clics 1 a 3**, el café fluye en menos de **18 segundos** en filtros despresurizados. Cada arandela colocada bajo la **muela cónica central M2** desplaza el rango completo unos **5 clics hacia el extremo fino**, devolviendo el punto ideal de espresso a la zona media entre los **clics 10 y 15**.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Con el uso tras varios meses las muelas se asientan: añadir una de las arandelas incluidas en la caja recupera todo el rango fino., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Close inspection angle highlighting materials, latches and finish: realistic scene illustrating 'Cuándo y Cómo Instalar las Arandelas (Shims) en tu Baratza Encore ESP si Muele Grueso' (instalar arandelas shims baratza encore esp) for cafeteracompacta.com, featuring equipment in graphite gray with subtle amber indicator details, in a clean modern garage or studio corner with slate flooring, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cuándo y Cómo Instalar las Arandelas (Shims) en tu Baratza Encore ESP si Muele Grueso"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **instalar arandelas shims baratza encore esp** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Con el uso tras varios meses las muelas se asientan: añadir una de las arandelas incluidas en la caja recupera todo el rango fino."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Has bajado el collarín de tu **Baratza Encore ESP** desde el número 15 hasta el **clic 1**, has compactado con firmeza tus **18 gramos** en el filtro despresurizado de tu **Breville Bambino (54 mm)** o **16 gramos** en tu **CASABREWS CM5418 (51 mm)**, pero al pulsar el botón el café sigue brotando a chorros en apenas **12 o 14 segundos** sin levantar presión en el manómetro. Cuando ya verificaste [la prueba táctil de la huella dactilar para saber si tu molienda es de espresso](/molinos-y-molienda/como-reconocer-la-textura-del-espresso-con-los-dedos-prueba-de-la-huella/) y confirmas que el grano sale demasiado arenoso incluso en el tope mínimo, no significa que tu molino esté defectuoso: ha llegado el momento de instalar las **arandelas metálicas de calibración (shims)** que Baratza incluye en la caja original."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: instalar arandelas shims baratza encore esp"
+      "text": "Por qué el Baratza Encore ESP pierde finura con el uso y qué hace cada arandela de 0.2 mm"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **instalar arandelas shims baratza encore esp** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: instalar arandelas shims baratza encore esp",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "Con el uso tras varios meses las muelas se asientan: añadir una de las arandelas incluidas en la caja recupera todo el rango fino.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "Durante los primeros meses de trabajo —o tras procesar entre **10 kg y 20 kg** de café en grano—, las piezas de polímero del soporte de la muela superior y las arandelas de fábrica bajo el eje de transmisión sufren un asentamiento mecánico natural de unas décimas de milímetro. Como los primeros **20 clics de alta resolución** del Encore ESP mueven la distancia vertical entre muelas en apenas **20 micras (0.02 mm) por paso**, una holgura de **0.2 mm** desplaza todo el rango útil fuera de la ventana del espresso. Al añadir una o dos de las **arandelas de acero de 0.2 mm** bajo la **muela cónica central M2 de 40 mm**, elevas físicamente el cono hacia el anillo exterior y recuperas margen para aplicar nuestra guía sobre [cómo calibrar tu molino de café para espresso desde cero](/molinos-y-molienda/como-calibrar-molino-para-espresso-paso-a-paso/), un principio mecánico mucho más directo que cuando aprendes [cómo usar el anillo interno Bevel del Fellow Opus](/molinos-y-molienda/como-ajustar-fellow-opus-anillo-interno-bevel-espresso/)."
     },
     {
       "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre instalar arandelas shims baratza encore esp",
-      "text": "Con el uso tras varios meses las muelas se asientan: añadir una de las arandelas incluidas en la caja recupera todo el rango fino. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "fabricante",
+      "text": "La tuerca de liberación rápida (*Quick-Release Nut*) de **19 mm** que sujeta la muela cónica central M2 del **Baratza Encore ESP** tiene **rosca izquierda (inversa)** para que el propio giro del motor no la afloje al moler. Para **aflojarla y retirarla debes girar la llave en sentido horario** (hacia la derecha), y para apretarla debes girarla en sentido antihorario. Si fuerzas la llave hacia la izquierda intentando aflojarla, puedes barrer la rosca del eje de acero.",
+      "title": "¡Atención! La tuerca central del Baratza Encore ESP tiene rosca izquierda (inversa)"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar instalar arandelas shims baratza encore esp hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Pasos para desmontar la muela cónica M2 e instalar los Shims en 4 minutos"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Desconectar y retirar tolva y muela superior",
+          "text": "Desenchufa el molino de la corriente, gira la tolva en sentido antihorario hasta el tope para extraerla, retira el sello de goma negro y levanta verticalmente la muela anular superior tomándola por sus pestañas rojas."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Aflojar la tuerca de 19 mm en sentido horario",
+          "text": "Encaja la llave metálica plana de 19 mm (incluida en la caja del Encore ESP) sobre la tuerca superior del cono central y gírala en sentido de las agujas del reloj mientras sujetas la muela con un paño grueso hasta desenroscarla por completo."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Extraer la muela cónica M2 y apilar la arandela (Shim)",
+          "text": "Levanta la muela cónica central M2 del eje roscado; verás las arandelas de fábrica apoyadas en la base. Desliza 1 arandela adicional (o las 2 si mueles tuestes claros en el clic 1) sobre el eje sin retirar ninguna de las existentes."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Reensamblar alineando las pestañas rojas con el número 30",
+          "text": "Vuelve a colocar la muela cónica M2 asegurándote de que encaje en los pasadores guía, aprieta la tuerca de 19 mm en sentido antihorario con firmeza manual, asienta la muela superior con la pestaña roja apuntando al número 30 y monta la tolva."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Tabla de desplazamiento de clics tras instalar 1 o 2 arandelas en el Encore ESP"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Configuración de arandelas bajo muela M2",
+        "Desplazamiento del punto de molienda",
+        "Nuevo clic estimado para 51 mm (CASABREWS / Dedica)",
+        "Nuevo clic estimado para 54 mm (Breville Bambino)"
+      ],
+      "rows": [
+        [
+          "Configuración original (sin shims extra)",
+          "Escala base de fábrica (0 clics desplazados)",
+          "Clics 4 a 9 (si ya presenta holgura)",
+          "Clics 1 a 6 (límite inferior agotado)"
+        ],
+        [
+          "+1 Arandela metálica instalada (+0.2 mm)",
+          "Mueve la escala ~5 clics hacia más fino",
+          "Clics 10 a 14 (rango óptimo recuperado)",
+          "Clics 7 a 11 (control micrométrico ideal)"
+        ],
+        [
+          "+2 Arandelas metálicas instaladas (+0.4 mm)",
+          "Mueve la escala ~10 clics hacia más fino",
+          "Clics 15 a 19 (para tuestes medios-claros)",
+          "Clics 12 a 16 (máxima capacidad de bloqueo)"
+        ]
+      ],
+      "caption": "Efecto real de cada arandela metálica (shim de 0.2 mm) sobre la escala de espresso (clics 1 al 20) del Baratza Encore ESP"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con instalar arandelas shims baratza encore esp en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Perdiste la llave de 19 mm o el kit de arandelas y repuestos originales de tu Baratza Encore ESP? Consulta la disponibilidad actual de recambios y molinos calibrados en las tarjetas de Amazon integradas en esta página o escribe a nuestro Asesor IA para diagnosticar tu tiempo de extracción."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre instalar arandelas shims baratza encore esp?",
-      "a": "Con el uso tras varios meses las muelas se asientan: añadir una de las arandelas incluidas en la caja recupera todo el rango fino. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Qué hago si instalé las 2 arandelas en mi Baratza Encore ESP y sigue moliendo grueso?",
+      "a": "Si tras instalar las dos arandelas metálicas el café sigue saliendo en menos de 15 segundos en el clic 1, revisa que el soporte plástico blanco de la muela anular superior (Upper Burr Carrier) no tenga una de sus tres pestañas perimetrales fisurada o rota, un fallo común si cayó una piedrecilla entre los granos."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Debo instalar una sola arandela o las dos al mismo tiempo en el Baratza Encore ESP?",
+      "a": "No es obligatorio, pero si solo necesitas instalar una arandela hoy, guarda la segunda pegada con cinta adhesiva bajo la base del propio molino para no extraviarla. Si ya estabas en el clic 1 y tu extracción duraba menos de 14 segundos, conviene instalar las dos arandelas directamente."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Puedo usar una llave fija común si perdí la llave plana que venía en la caja del Encore ESP?",
+      "a": "Sí. El kit de liberación rápida del Baratza Encore ESP utiliza una tuerca hexagonal estándar de 19 mm de perfil bajo. Puedes emplear cualquier llave fija o de vaso de 19 mm de ferretería recordando siempre girar hacia la derecha (sentido horario) para aflojar."
     }
   ],
   "related": [
-    "/molinos-y-molienda/",
-    "/molinos-y-molienda/ajuste-molino-manual-kingrinder-k6-para-espresso/",
-    "/molinos-y-molienda/que-es-un-molino-single-dose-y-que-es-la-retencion/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/como-calibrar-el-molino-integrado-de-la-casabrews-5700pro/",
+    "/molinos-y-molienda/como-reconocer-la-textura-del-espresso-con-los-dedos-prueba-de-la-huella/",
+    "/molinos-y-molienda/como-calibrar-molino-para-espresso-paso-a-paso/",
+    "/molinos-y-molienda/como-ajustar-fellow-opus-anillo-interno-bevel-espresso/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-instalar-arandelas-shims-en-baratza-encore-esp.webp"
 }

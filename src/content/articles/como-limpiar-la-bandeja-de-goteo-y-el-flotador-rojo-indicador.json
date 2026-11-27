@@ -4,161 +4,127 @@
   "path": "/mantenimiento-y-descalcificacion/como-limpiar-la-bandeja-de-goteo-y-el-flotador-rojo-indicador/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "limpiar bandeja de goteo cafetera espresso",
   "title": "Cómo Limpiar la Bandeja de Goteo y el Flotador Rojo sin que Coja Mal Olor",
-  "seoTitle": "Cómo Limpiar la Bandeja de Goteo y el Flotador Rojo sin que Coja Mal Olor | Guía Barista Compacta",
-  "metaDescription": "Cómo Limpiar la Bandeja de Goteo y el Flotador Rojo sin que Coja Mal Olor: Enjuagar la bandeja cada 2 días evita que las gotas de café mezcladas con leche purgada fermenten bajo la rejilla. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Enjuagar la bandeja cada 2 días evita que las gotas de café mezcladas con leche purgada fermenten bajo la rejilla.",
-  "quickAnswer": "Sobre limpiar bandeja de goteo cafetera espresso: Enjuagar la bandeja cada 2 días evita que las gotas de café mezcladas con leche purgada fermenten bajo la rejilla. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Limpiar la Bandeja de Goteo y el Flotador Rojo sin que Coja Mal Olor | cafeteracompacta.com",
+  "metaDescription": "Guía práctica para limpiar la bandeja de goteo y destrabar el flotador rojo de tu cafetera espresso eliminando restos de leche, biopelícula y mal olor.",
+  "excerpt": "El agua de purga mezclada con aceites de la válvula solenoide y gotas de leche fermenta en 48 horas. Aprende a desmontar y desinfectar el deflector y la boya roja sin rayar el acero.",
+  "quickAnswer": "Para limpiar la bandeja de goteo sin que acumule mal olor, vacíala a diario tras la última purga de vapor y desmonta semanalmente la rejilla metálica, el deflector interno y el **flotador rojo de polipropileno**. Lava las piezas con agua tibia a **45–50 °C** y jabón neutro (o **2 g de Urnex Cafiza** si tu cafetera tiene **válvula solenoide de 3 vías**), cepillando el carril guía de la boya para evitar que los lípidos del café la bloqueen.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Enjuagar la bandeja cada 2 días evita que las gotas de café mezcladas con leche purgada fermenten bajo la rejilla., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Close inspection angle highlighting materials, latches and finish: realistic scene illustrating 'Cómo Limpiar la Bandeja de Goteo y el Flotador Rojo sin que Coja Mal Olor' (limpiar bandeja de goteo cafetera espresso) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, in a bright family home interior with clean architectural lines, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Limpiar la Bandeja de Goteo y el Flotador Rojo sin que Coja Mal Olor"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **limpiar bandeja de goteo cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Enjuagar la bandeja cada 2 días evita que las gotas de café mezcladas con leche purgada fermenten bajo la rejilla."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Muchos usuarios asumen que la bandeja de goteo de una cafetera compacta solo recoge agua limpia del precalentamiento de tazas, pero basta olvidarla **48 horas** en verano para que desprenda un olor agrio y penetrante en toda la cocina. En equipos como la **Breville Bambino Plus (BES500)**, la **De’Longhi Dedica Arte (EC885M)** o la **CASABREWS CM5418**, esa cubeta inferior recibe una mezcla tibia a **35–45 °C** compuesta por micro-partículas de café (**fines**), lípidos rancios emulsionados y trazas de **lactosa y caseína** procedentes de las purgas del tubo vaporizador. Además, cuando esa película grasa se adhiere al vástago del **flotador rojo indicador**, la boya queda pegada al fondo y la bandeja se desborda sobre la encimera sin avisar. En nuestro [portal de mantenimiento y descalcificación barista](/mantenimiento-y-descalcificacion/) detallamos cómo higienizar cada componente sin rayar el acero ni degradar los plásticos."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: limpiar bandeja de goteo cafetera espresso"
+      "text": "De Dónde Viene el Mal Olor: Válvula Solenoide de 3 Vías y Purgas de Leche Vaporizada"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **limpiar bandeja de goteo cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "El nivel de suciedad orgánica dentro de la bandeja depende directamente de la arquitectura hidráulica de tu máquina. A diferencia de lo que ocurre al [limpiar una cafetera manual como la Flair NEO Flex o Wacaco Picopresso solo con agua](/mantenimiento-y-descalcificacion/como-limpiar-una-cafetera-manual-flair-neo-flex-y-wacaco-picopresso/), las cafeteras eléctricas compactas descargan residuos internos ocultos hacia la bandeja. Si tienes una **Breville Bambino Plus (BES500)** equipada con **válvula solenoide de 3 vías**, al finalizar cada extracción a **9 bares** el solenoide abre un conducto de alivio que escupe agua a alta presión cargada de aceites de café y posos directamente hacia el deflector plástico interior. En modelos sin solenoide de descarga como la **CASABREWS CM5418**, el foco principal de fermentación es purgar la lanceta de vapor directamente sobre la rejilla metálica tras texturizar leche: bastan **2 ml de leche tibia** diluidos en **150 ml de agua de café** para que las bacterias lácticas acidifiquen el líquido en menos de **24 horas**. Por ello, al [descalcificar la CASABREWS CM5418 paso a paso](/mantenimiento-y-descalcificacion/como-descalcificar-casabrews-cm5418-paso-a-paso/), conviene desmontar también el conjunto inferior completo."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: limpiar bandeja de goteo cafetera espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Modelo de Cafetera",
+        "Capacidad Útil de Bandeja",
+        "Componentes Desmontables",
+        "Punto Crítico de Acumulación de Grasa y Olor"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Enjuagar la bandeja cada 2 días evita que las gotas de café mezcladas con leche purgada fermenten bajo la rejilla.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Breville Bambino Plus (BES500)",
+          "~260 ml",
+          "Rejilla acero, deflector gris con indicador \"Empty Me!\" y cubeta ABS",
+          "Tobera trasera de descarga de la válvula solenoide de 3 vías y ranuras del cartel flotante"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Breville Bambino (BES450)",
+          "~220 ml",
+          "Rejilla superior metálica, divisor plástico y flotador rojo integrado",
+          "Esquinas inferiores del divisor plástico donde se deposita el sedimento fino de café"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "De’Longhi Dedica Arte (EC885M)",
+          "~140 ml (bandeja doble altura)",
+          "Bandeja superior para espresso, soporte intermedio para tazas altas y boya roja tubular",
+          "Cilindro guía del flotador rojo y junta perimetral de la bandeja secundaria para mugs"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "CASABREWS CM5418 / 3700Essential",
+          "~180 ml",
+          "Rejilla troquelada de acero inoxidable, cubeta extraíble y boya roja cilíndrica",
+          "Base del vástago del flotador rojo donde los lípidos del café actúan como pegamento"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre limpiar bandeja de goteo cafetera espresso",
-      "text": "Enjuagar la bandeja cada 2 días evita que las gotas de café mezcladas con leche purgada fermenten bajo la rejilla. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Anatomía de la bandeja de goteo en las principales cafeteras compactas y puntos críticos de suciedad"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar limpiar bandeja de goteo cafetera espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Cómo Desmontar y Desinfectar el Deflector y el Flotador Rojo sin Rayar la Rejilla"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Vaciado diario y enjuague térmico inmediato",
+          "text": "Al terminar la sesión matutina de café, desliza la bandeja con ambas manos, vierte el contenido en el fregadero y enjuaga la cubeta con agua corriente caliente (45–50 °C) antes de que los aceites se solidifiquen en las paredes."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Extracción del flotador rojo de polipropileno hueco",
+          "text": "Levanta la rejilla de acero inoxidable y desencaja con cuidado la boya roja tirando verticalmente de su alojamiento o liberando la pestaña inferior del deflector plástico para no doblar su pasador guía."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Baño desengrasante semanal contra la biopelícula",
+          "text": "Sumerge la cubeta plástica, el deflector y la boya roja durante 15 minutos en agua tibia con jabón lavavajillas neutro o 2 gramos de detergente enzimático para café, frotando el interior del hueco del flotador con un cepillo de nailon de 6 mm."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Lavado de la rejilla de acero con esponja de microfibra suave",
+          "text": "Lava la tapa metálica únicamente por el lado suave de la esponja para no rayar el acabado espejo o cepillado; seca todas las piezas al aire antes de reensamblar para impedir la formación de moho en la base del chasis."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Qué Productos Químicos Usar (y Cuáles Evitar) en el Plástico ABS de la Cubeta"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Cuando la bandeja de una **Breville Bambino Plus** presenta costras marrones por las descargas de la válvula solenoide, el jabón de platos común a veces no logra disolver los diterpenos oxidados del café. En esos casos, puedes aprovechar una pizca del mismo compuesto alcalino explicado en nuestra comparativa sobre [pastillas limpiadoras Breville frente al polvo Urnex Cafiza](/mantenimiento-y-descalcificacion/diferencia-entre-pastillas-limpiadoras-breville-y-polvo-urnex-cafiza/), disolviendo apenas **2 g en 500 ml de agua tibia** para remojar el deflector durante **10 minutos**. Lo que debes evitar es dejar vinagre puro en la cubeta o introducir las piezas plásticas de ABS y acrílico en el ciclo de secado térmico del lavavajillas a **70 °C**, ya que se deforman, pierden su ajuste milimétrico en el chasis de **15 cm** y retienen olores ácidos tal como advertimos al explicar [por qué nunca descalcificar tu cafetera espresso con vinagre blanco de cocina](/mantenimiento-y-descalcificacion/por-que-nunca-descalcificar-tu-cafetera-espresso-con-vinagre-blanco/)."
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con limpiar bandeja de goteo cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Buscas cepillos de nailon para ranuras estrechas, paños de microfibra barista o detergente específico para eliminar aceites de café? Pregunta a nuestro Asesor IA o consulta la disponibilidad actual en las tarjetas de Amazon integradas en esta guía."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre limpiar bandeja de goteo cafetera espresso?",
-      "a": "Enjuagar la bandeja cada 2 días evita que las gotas de café mezcladas con leche purgada fermenten bajo la rejilla. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué el flotador rojo de mi cafetera ya no sube aunque la bandeja esté llena de agua?",
+      "a": "Los aceites naturales del café (cafeol) y los restos de leche de las purgas se depositan en el estrecho tubo guía por donde sube y baja la boya. Al enfriarse, forman una película viscosa que pega el plástico al fondo. Desmóntalo y limpia el pasador y el cilindro con agua tibia y un cepillo limpiapipas."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cómo puedo evitar que la bandeja de goteo huela a leche cortada al día siguiente?",
+      "a": "El hábito más eficaz es realizar la purga previa y posterior de la lanceta de vapor dentro de un vaso aparte o sobre un paño de microfibra húmedo en lugar de disparar el chorro de vapor con restos de leche hacia la bandeja de goteo. Sin proteínas lácteas en el agua, el olor agrio desaparece."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Se puede meter la bandeja de goteo de la Breville Bambino o De’Longhi Dedica al lavavajillas?",
+      "a": "La rejilla superior de acero inoxidable 304 sí soporta lavados suaves, pero la cubeta inferior de plástico ABS, el deflector interno y el flotador rojo hueco no deben meterse al lavavajillas. El calor de secado superior a 65 °C puede arquear las pestañas de encaje o inundar el interior hueco de la boya."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/se-puede-meter-el-portafiltro-al-lavavajillas-peligro-en-aluminio/",
-    "/mantenimiento-y-descalcificacion/como-vaciar-las-calderas-y-el-thermoblock-antes-de-guardar-o-mudar-la-cafetera/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/como-limpiar-una-cafetera-manual-flair-neo-flex-y-wacaco-picopresso/",
+    "/mantenimiento-y-descalcificacion/diferencia-entre-pastillas-limpiadoras-breville-y-polvo-urnex-cafiza/",
+    "/mantenimiento-y-descalcificacion/como-descalcificar-casabrews-cm5418-paso-a-paso/",
+    "/mantenimiento-y-descalcificacion/por-que-nunca-descalcificar-tu-cafetera-espresso-con-vinagre-blanco/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-limpiar-la-bandeja-de-goteo-y-el-flotador-rojo-indicador.webp"
 }

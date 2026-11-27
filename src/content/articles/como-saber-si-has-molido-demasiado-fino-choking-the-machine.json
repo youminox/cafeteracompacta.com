@@ -4,161 +4,123 @@
   "path": "/molinos-y-molienda/como-saber-si-has-molido-demasiado-fino-choking-the-machine/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "molienda demasiado fina cafetera espresso no sale cafe",
   "title": "Síntomas de Molienda Demasiado Fina ('Choking'): Qué Hacer si No Cae Ni una Gota del Portafiltro",
-  "seoTitle": "Síntomas de Molienda Demasiado Fina ('Choking') | Guía Barista Compacta",
-  "metaDescription": "Síntomas de Molienda Demasiado Fina ('Choking'): Qué Hacer si No Cae Ni una Gota del Portafiltro: Si tras 12 segundos solo caen gotas negras aisladas y el manómetro llega al máximo, detén la bomba, abre 2 clics el molino y no fuerces la válvula. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Si tras 12 segundos solo caen gotas negras aisladas y el manómetro llega al máximo, detén la bomba, abre 2 clics el molino y no fuerces la válvula.",
-  "quickAnswer": "Sobre molienda demasiado fina cafetera espresso no sale cafe: Si tras 12 segundos solo caen gotas negras aisladas y el manómetro llega al máximo, detén la bomba, abre 2 clics el molino y no fuerces la válvula. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Síntomas de Molienda Demasiado Fina ('Choking'): Qué Hacer si No Cae Ni una Gota del Portafiltro | cafeteracompacta.com",
+  "metaDescription": "Aprende a identificar el bloqueo por molienda demasiado fina ('choking') en tu cafetera espresso, cómo liberar presión y cuántos clics abrir tu molino.",
+  "excerpt": "Cuando la bomba suena ahogada y pasan más de 12 segundos sin que caiga café, has bloqueado la pastilla. Esta guía explica cómo rescatar el grupo sin manchar tu encimera y reajustar el grosor de molienda.",
+  "quickAnswer": "Sabrás que has molido demasiado fino ('choking') cuando el sonido de la bomba vibratoria se vuelve sordo, el manómetro supera la zona óptima de **9 a 12 bares** y tras **10 a 12 segundos** solo asoman gotas negras y densas. Para solucionarlo, detén la extracción, espera **45 segundos** antes de soltar el portafiltro y abre tu molino entre **2 y 3 clics** hacia un ajuste más grueso.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Si tras 12 segundos solo caen gotas negras aisladas y el manómetro llega al máximo, detén la bomba, abre 2 clics el molino y no fuerces la válvula., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "High-angle 45-degree workbench/tabletop perspective on 28mm lens: realistic scene illustrating 'Síntomas de Molienda Demasiado Fina ('Choking'): Qué Hacer si No Cae Ni una Gota del Portafiltro' (molienda demasiado fina cafetera espresso no sale cafe) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, inside a bright contemporary apartment with minimalist decor, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Síntomas de Molienda Demasiado Fina ('Choking'): Qué Hacer si No Cae Ni una Gota del Portafiltro"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **molienda demasiado fina cafetera espresso no sale cafe** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Si tras 12 segundos solo caen gotas negras aisladas y el manómetro llega al máximo, detén la bomba, abre 2 clics el molino y no fuerces la válvula."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Pulsas el botón de extracción doble en tu **CASABREWS CM5418** o **Breville Bambino (BES450)**, escuchas los primeros **7 segundos** de pre-infusión y, de pronto, el zumbido de la bomba vibratoria se vuelve sordo y apagado. En el panel frontal de la **CM5418**, la aguja del manómetro se clava al final de la zona roja por encima de los **15 bares**, mientras pasan **12 a 15 segundos** sin que asome ni una sola gota por las boquillas del portafiltro. Este fenómeno se conoce en la jerga barista como *choking the machine* (ahogar o bloquear la cafetera) y ocurre cuando la resistencia hidráulica de la pastilla supera la presión máxima de trabajo, algo que abordamos a fondo en nuestra [guía técnica de molinos y molienda para espresso](/molinos-y-molienda/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: molienda demasiado fina cafetera espresso no sale cafe"
+      "text": "Por qué la pastilla se vuelve impermeable bajo 9 a 15 bares de presión"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **molienda demasiado fina cafetera espresso no sale cafe** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "El agua caliente impulsada por una bomba de **15 o 20 bares** (regulada a **9 bares** reales por válvula OPV en modelos como la **Breville Bambino Plus BES500**) necesita laberintos microscópicos entre las partículas de café para fluir hacia la taza. Cuando cierras en exceso el dial del molino y la molienda cae por debajo de las **160 a 180 micras**, la presión inicial aplasta los micro-finos contra el fondo de la cesta de **51 mm** o **54 mm**, creando un tapón hermético similar a la arcilla húmeda. El bloqueo es todavía más frecuente si alternas entre filtros presurizados y no presurizados sin recalibrar —un factor decisivo al valorar nuestra [comparativa entre cafetera con molino integrado o molino separado](/molinos-y-molienda/molino-integrado-vs-molino-separado-para-tu-primera-cafetera/)— o si las muelas acumulan grasa oxidada que aglomera el polvo, problema que se previene mediante la [limpieza de muelas con pastillas absorbentes Urnex Grindz](/molinos-y-molienda/que-son-las-pastillas-urnex-grindz-y-cada-cuanto-usarlas/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: molienda demasiado fina cafetera espresso no sale cafe",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Variable en cafetera y taza",
+        "Extracción equilibrada (25–30 s)",
+        "Bloqueo por molienda fina ('Choking')"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Si tras 12 segundos solo caen gotas negras aisladas y el manómetro llega al máximo, detén la bomba, abre 2 clics el molino y no fuerces la válvula.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Aparición de las primeras gotas",
+          "Entre el segundo 6 y el segundo 9 tras pulsar el botón",
+          "Más de 13 segundos sin caer líquido o goteo negro aislado"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Sonido de bomba y manómetro",
+          "Vibración constante; aguja estable en el centro de la zona Espresso (9–11 bares)",
+          "Ruido sordo y ahogado; aguja disparada al extremo derecho de sobre-extracción"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Aspecto en taza y sabor",
+          "Flujo continuo tipo miel tibia, crema avellana elástica y dulzor balanceado",
+          "Apenas 5 a 12 g de líquido oscuro, sin espuma y con amargor astringente y seco"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Estado de la pastilla al sacar el portafiltro",
+          "Compacta, firme y fácil de expulsar de un golpe en el knock box",
+          "Charco de agua estancada encima del café ('soupy puck') o lodo a presión"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre molienda demasiado fina cafetera espresso no sale cafe",
-      "text": "Si tras 12 segundos solo caen gotas negras aisladas y el manómetro llega al máximo, detén la bomba, abre 2 clics el molino y no fuerces la válvula. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Diagnóstico acústico y visual del bloqueo ('choking') frente a una extracción normal"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar molienda demasiado fina cafetera espresso no sale cafe hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Protocolo paso a paso para liberar el portafiltro sin salpicaduras"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "1. Detén la bomba de inmediato y verifica si tu máquina tiene válvula solenoide",
+          "text": "Corta la extracción antes de superar los 20 segundos en vacío para no recalentar la bomba vibratoria. Si usas una Breville Bambino Plus (BES500), su válvula solenoide de 3 vías descargará la presión residual hacia la bandeja de goteo al instante; en cambio, en una CASABREWS CM5418, CASABREWS 3700Essential o De’Longhi Dedica Arte (EC885M), el agua a alta presión queda atrapada dentro de la cazoleta."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "2. Espera 45 a 60 segundos antes de girar el mango del portafiltro",
+          "text": "En cafeteras compactas de 51 mm y 54 mm sin válvula solenoide (como la Breville Bambino BES450 o la Dedica EC885M), desenroscar el portafiltro recién detenida la bomba provocará un violento 'estornudo' de borra hirviendo por toda la encimera. Deja que la presión baje de forma pasiva durante un minuto completo."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "3. Abre el dial del molino entre 2 y 3 clics y purga la retención",
+          "text": "Gira el collarín de tu Baratza Encore ESP (por ejemplo, subiendo del escalón 8 al 11) o de tu Fellow Opus hacia un ajuste más grueso. Antes de moler tu siguiente dosis de 16 g o 18 g, muele y descarta entre 1.0 y 1.5 gramos de grano para expulsar el polvo extrafino del intento anterior que quedó alojado en el conducto."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "4. Revisa a contraluz el orificio único si utilizas cesta presurizada",
+          "text": "Si estás usando las cestas de doble pared incluidas de serie en la De’Longhi Dedica o CASABREWS, una sola partícula fina puede obstruir el micro-conducto inferior. Introduce la aguja metálica de limpieza que viene con la cafetera por el agujero central de la base del filtro y enjuaga con agua caliente."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Cuándo el bloqueo no es culpa del grosor sino del espacio libre en la cesta"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "A veces el molino está en el punto exacto, pero has cargado **18.0 gramos** de un café de tueste oscuro muy voluminoso en una cesta de **51 mm** diseñada para **14 a 16 gramos**. Al hincharse con el agua de la pre-infusión, la superficie del café choca contra la ducha metálica del grupo y sella la salida de agua. Haz la prueba de la moneda: coloca una moneda limpia de **1.5 a 2 mm** de grosor sobre el café ya compactado con el tamper, encaja el portafiltro en tu **CASABREWS CM5418** o **Breville Bambino** sin encenderla y sácalo; si la moneda se hundió en la pastilla, debes restar **1.5 gramos** a tu dosis.",
+      "title": "La prueba de la moneda para descartar sobredosis en cestas de 51 mm y 54 mm"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con molienda demasiado fina cafetera espresso no sale cafe en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Dudas de qué número exacto poner en tu molino para desbloquear tu cafetera compacta? Consulta ahora a nuestro Asesor IA interactivo o revisa la disponibilidad actual de molinos con micro-ajuste para espresso en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre molienda demasiado fina cafetera espresso no sale cafe?",
-      "a": "Si tras 12 segundos solo caen gotas negras aisladas y el manómetro llega al máximo, detén la bomba, abre 2 clics el molino y no fuerces la válvula. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Se puede estropear la bomba de 20 bares si la cafetera se bloquea por molienda fina?",
+      "a": "Cortar el flujo a los 15 o 20 segundos al detectar un bloqueo no daña la bomba vibratoria Ulka de tu cafetera compacta. Lo que sí acorta su vida útil es insistir con extracciones bloqueadas de más de 40 segundos seguidos, ya que la bomba trabaja sin caudal de agua que refrigere su bobina interna."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Se puede beber el café que sale gota a gota después de un bloqueo casi total?",
+      "a": "Si solo cayeron entre 5 y 15 ml tras 40 segundos de esfuerzo, ese líquido estará extremadamente sobre-extraído, amargo, astringente y frío. Lo más recomendable es desechar esa pastilla, abrir de 2 a 3 clics el molino y preparar una extracción nueva que fluya de forma continua en 25 a 30 segundos."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué ayer mi cafetera extraía bien en el mismo clic del molino y hoy se ha bloqueado?",
+      "a": "El cambio de humedad ambiental o pasar de un grano de tueste medio a uno oscuro más quebradizo hace que el molino genere más micro-finos en el mismo número del dial. Además, si apretaste el portafiltro con una dosis de 1 g extra sin darte cuenta, habrás eliminado el margen libre bajo la ducha."
     }
   ],
   "related": [
-    "/molinos-y-molienda/",
-    "/molinos-y-molienda/como-saber-si-has-molido-demasiado-grueso-efecto-catarata/",
-    "/molinos-y-molienda/se-puede-moler-cafe-con-azucar-torrefacto-en-un-molino-de-muelas/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/como-viajar-con-un-molino-manual-de-espresso-en-el-equipaje-de-mano/",
+    "/molinos-y-molienda/que-son-las-pastillas-urnex-grindz-y-cada-cuanto-usarlas/",
+    "/molinos-y-molienda/molino-integrado-vs-molino-separado-para-tu-primera-cafetera/",
+    "/molinos-y-molienda/molienda-para-americanos-y-lungos-no-cambies-el-molino/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-saber-si-has-molido-demasiado-fino-choking-the-machine.webp"
 }

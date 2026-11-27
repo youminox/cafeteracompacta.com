@@ -4,161 +4,132 @@
   "path": "/mantenimiento-y-descalcificacion/como-descalcificar-hibrew-h10a-y-h10b-modo-automatico/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como descalcificar cafetera hibrew h10a",
   "title": "Cómo Ejecutar el Programa Automático de Limpieza en las Cafeteras HiBREW H10A y H10B",
-  "seoTitle": "Cómo Ejecutar el Programa Automático de Limpieza en las Cafeteras HiBREW H10A y H10B | Guía Barista Compacta",
-  "metaDescription": "Cómo Ejecutar el Programa Automático de Limpieza en las Cafeteras HiBREW H10A y H10B: Pasos del menú digital para purgar el bloque térmico y limpiar el conducto del manómetro. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Pasos del menú digital para purgar el bloque térmico y limpiar el conducto del manómetro.",
-  "quickAnswer": "Sobre como descalcificar cafetera hibrew h10a: Pasos del menú digital para purgar el bloque térmico y limpiar el conducto del manómetro. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Ejecutar el Programa Automático de Limpieza en las Cafeteras HiBREW H10A y H10B | cafeteracompacta.com",
+  "metaDescription": "Guía técnica para activar y completar el ciclo automático de descalcificación en las cafeteras HiBREW H10A y H10B, limpiando el termobloque y vaporizador.",
+  "excerpt": "Domina la combinación de botones de las cafeteras HiBREW H10A de 58 mm y H10B de 51 mm para ejecutar el lavado automático del termobloque y reiniciar la alerta electrónica de mantenimiento.",
+  "quickAnswer": "Para descalcificar automáticamente la **HiBREW H10A** o **H10B**, llena el depósito con **1 L** de agua tibia y **50–80 ml** de descalcificador de ácido láctico, retira el portafiltro y mantén pulsados los botones de programa durante **3–5 segundos** hasta escuchar el pitido de inicio. La máquina ejecutará un bombeo por pulsos a través del termobloque y la lanceta de vapor, y apagará la alerta tras completar el ciclo de enjuague con **1.5 L** de agua limpia.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Pasos del menú digital para purgar el bloque térmico y limpiar el conducto del manómetro., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Three-quarter 50mm studio-natural close-up shot: realistic scene illustrating 'Cómo Ejecutar el Programa Automático de Limpieza en las Cafeteras HiBREW H10A y H10B' (como descalcificar cafetera hibrew h10a) for cafeteracompacta.com, featuring equipment in warm sand beige with matte black hardware, in a clean modern garage or studio corner with slate flooring, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Ejecutar el Programa Automático de Limpieza en las Cafeteras HiBREW H10A y H10B"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como descalcificar cafetera hibrew h10a** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Pasos del menú digital para purgar el bloque térmico y limpiar el conducto del manómetro."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Cuando la pantalla digital de tu **HiBREW H10A** o los botones frontales de tu **HiBREW H10B** comienzan a parpadear tras acumular cientos de ciclos de extracción, el caudalímetro interno te está indicando que el serpentín del termobloque necesita una limpieza química. En la **HiBREW H10A** —equipada con portafiltro comercial de **58 mm**, control PID ajustable entre **90 y 95 °C** y tanque de **1.8 litros**— y en su hermana ultracompacta **HiBREW H10B** de **51 mm** con tanque de **1.3 litros**, el estrecho conducto de calentamiento instantáneo pierde eficiencia térmica en cuanto acumula una película de **0.3 mm** de carbonato cálcico. Antes de iniciar el programa, asegúrate de no confundir este proceso con la eliminación de lípidos rancios revisando la [diferencia entre descalcificar cal y limpiar aceites de café con Urnex Cafiza](/mantenimiento-y-descalcificacion/diferencia-entre-descalcificar-cal-y-desengrasar-con-cafiza/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como descalcificar cafetera hibrew h10a"
-    },
-    {
-      "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como descalcificar cafetera hibrew h10a** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Comparativa del circuito hidráulico y parámetros en las HiBREW H10A y H10B"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: como descalcificar cafetera hibrew h10a",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Parámetro técnico",
+        "HiBREW H10A (58 mm PID)",
+        "HiBREW H10B (51 mm Compacta)",
+        "Acción durante el ciclo automático"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Pasos del menú digital para purgar el bloque térmico y limpiar el conducto del manómetro.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Capacidad del tanque de agua",
+          "1.8 litros (extraíble trasero)",
+          "1.3 litros (extraíble trasero)",
+          "Llenar con 1.0 L de agua tibia + 50-80 ml de ácido láctico"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Diámetro del grupo y ducha",
+          "58 mm comercial en acero inoxidable",
+          "51 mm compacto con tornillo central",
+          "Desacoplar el portafiltro durante toda la fase ácida"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Sistema de calentamiento",
+          "Termobloque de aluminio con serpentín inox y PID",
+          "Termobloque compacto con sensor NTC y PID",
+          "La bomba pulsa a intervalos para disolver sarro a ~85 °C"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Válvula y alivio de presión",
+          "Válvula solenoide de descarga a bandeja",
+          "Alivio hidráulico calibrado con manómetro frontal",
+          "Vaciar la bandeja de goteo al finalizar la fase 1 y 2"
         ]
-      ]
+      ],
+      "caption": "Especificaciones de mantenimiento automático en la serie HiBREW H10"
     },
     {
       "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre como descalcificar cafetera hibrew h10a",
-      "text": "Pasos del menú digital para purgar el bloque térmico y limpiar el conducto del manómetro. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "fabricante",
+      "text": "No intentes apagar el aviso luminoso desconectando la cafetera de la toma eléctrica: la placa base de las **HiBREW H10A y H10B** guarda el conteo de volumen en una memoria no volátil EEPROM. El parpadeo de mantenimiento solo se reinicia a cero cuando el microcontrolador detecta que el programa automático de pulsos ha recorrido el ciclo completo desde el principio hasta el vaciado del depósito, sin interrupciones manuales a mitad de camino.",
+      "title": "Nota técnica sobre el reinicio del contador en la memoria EEPROM"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como descalcificar cafetera hibrew h10a hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Cómo activar y completar el modo automático de limpieza paso a paso"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Preparación del tanque de 1.0 L y recipiente colector",
+          "text": "Retira el portafiltro de **58 mm** (H10A) o **51 mm** (H10B), coloca un recipiente de al menos **1.5 litros** bajo el grupo y la lanceta de vapor de acero inoxidable, y vierte en el tanque **1 litro** de agua filtrada tibia con la dosis de descalcificador líquido de ácido láctico."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Combinación de botones para entrar al modo automático",
+          "text": "Con la cafetera encendida y precalentada, mantén pulsados simultáneamente el botón de **1 taza** y el botón de **2 tazas** (o la combinación de **Vapor + 2 tazas** según la revisión de firmware de tu unidad) durante **3 a 5 segundos** hasta escuchar el pitido largo y ver la animación en los indicadores LED."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Fase 1 de bombeo intermitente por el grupo de extracción",
+          "text": "La bomba vibratoria de **19-20 bares** comenzará a impulsar solución ácida a través del termobloque y la ducha del grupo en pulsos de trabajo y breves pausas térmicas durante unos **3 a 4 minutos**, permitiendo que el descalcificador reaccione con la cal sin sobrecalentar la bobina."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Purga del circuito de la lanceta de vapor articulada",
+          "text": "Cuando el indicador de vapor parpadee o al terminar el primer medio litro, activa el flujo hacia la lanceta de vapor articulada durante **60 segundos** para desincrustar la boquilla y el conducto secundario del termobloque."
+        },
+        {
+          "name": "Fase 2 de enjuague con 1.5 litros de agua limpia y reseteo",
+          "text": "Enjuaga el depósito bajo el grifo, llénalo con **1.5 litros** de agua fresca y pulsa nuevamente el botón parpadeante para que la máquina bombee agua limpia de forma continua por el grupo y el vaporizador hasta que los tres botones queden iluminados fijos y la pantalla vuelva a marcar **92 °C**."
         }
       ]
     },
     {
-      "type": "cta",
-      "text": "¿Tienes dudas con como descalcificar cafetera hibrew h10a en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
       "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Mantenimiento complementario de la ducha del grupo y control de temperatura PID"
     },
     {
       "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Una vez que el programa automático ha dejado limpio el interior del termobloque, notarás que la temperatura PID de tu **HiBREW H10A** vuelve a estabilizarse con exactitud entre **90 y 95 °C** y la aguja del manómetro responde sin oscilaciones bruscas. Sin embargo, el ácido descalcificador no disuelve las costras de café pegadas en la cara interna de la malla difusora. Aprovecha este momento para seguir nuestra guía sobre [cómo desmontar el tornillo central de la ducha del grupo](/mantenimiento-y-descalcificacion/como-desatornillar-y-limpiar-la-ducha-del-grupo-en-delonghi-dedica-y-casabrews/) y cepillar el disco perforado con agua jabonosa. Si además tienes en casa una máquina italiana ultradelgada de **15 cm** de ancho, puedes comparar esta secuencia electrónica con el procedimiento para [descalcificar la De’Longhi Dedica Arte EC885M y apagar la luz naranja](/mantenimiento-y-descalcificacion/como-descalcificar-delonghi-dedica-arte-ec885-y-ec685/)."
+    },
+    {
+      "type": "cta",
+      "text": "¿Necesitas líquidos descalcificadores seguros para termobloque o accesorios de **58 mm** y **51 mm** compatibles con tu **HiBREW H10A** o **H10B**? Consulta la disponibilidad en tiempo real en las tarjetas de Amazon de esta página o pregunta a nuestro Asesor IA."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como descalcificar cafetera hibrew h10a?",
-      "a": "Pasos del menú digital para purgar el bloque térmico y limpiar el conducto del manómetro. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Qué pasa si se acaba el agua del tanque antes de que termine el modo automático en la HiBREW H10A?",
+      "a": "Si el depósito se queda sin agua antes de que el temporizador del ciclo automático concluya, la bomba sonará más fuerte en vacío. Rellena inmediatamente el tanque con 500 ml de agua limpia sin apagar la cafetera para que el caudalímetro registre el volumen restante y complete el reseteo."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Debo dejar puesto el portafiltro de 58 mm o 51 mm durante la descalcificación de la HiBREW?",
+      "a": "No debes dejar puesto el portafiltro durante el ciclo de descalcificación, especialmente en la HiBREW H10B cuyo portafiltro de 51 mm tiene cuerpo de aleación de aluminio, ya que el ácido caliente mancharía el metal y arrastraría restos de café hacia las juntas."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cada cuántos cafés pide descalcificación automática la HiBREW H10A o H10B?",
+      "a": "Con agua de dureza media (100 a 150 ppm de carbonato cálcico), debes ejecutar el programa automático cada 2 o 3 meses o cada 200 extracciones, que es el umbral aproximado en el que el caudalímetro interno activa la alerta luminosa en el panel frontal."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/como-descalcificar-ninja-luxe-cafe-es601-ciclo-descale-y-clean/",
-    "/mantenimiento-y-descalcificacion/como-descalcificar-gaggia-classic-evo-pro-sin-danar-la-caldera/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/como-descalcificar-delonghi-dedica-arte-ec885-y-ec685/",
+    "/mantenimiento-y-descalcificacion/diferencia-entre-descalcificar-cal-y-desengrasar-con-cafiza/",
+    "/mantenimiento-y-descalcificacion/como-desatornillar-y-limpiar-la-ducha-del-grupo-en-delonghi-dedica-y-casabrews/",
+    "/mantenimiento-y-descalcificacion/como-programar-la-dureza-del-agua-en-el-menu-de-delonghi-dedica/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-descalcificar-hibrew-h10a-y-h10b-modo-automatico.webp"
 }

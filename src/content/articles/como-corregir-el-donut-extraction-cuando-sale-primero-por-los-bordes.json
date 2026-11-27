@@ -4,161 +4,128 @@
   "path": "/extraccion-y-recetas-espresso/como-corregir-el-donut-extraction-cuando-sale-primero-por-los-bordes/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "extraccion en donut portafiltro bottomless",
   "title": "Qué Es la Extracción en 'Donut' (Sale Primero por el Anillo Exterior) y Cómo Corregirla con el Tamper",
-  "seoTitle": "Qué Es la Extracción en 'Donut' (Sale Primero por el Anillo Exterior) y Cómo Corregirla con el Tamper | Guía Barista Compacta",
-  "metaDescription": "Qué Es la Extracción en 'Donut' (Sale Primero por el Anillo Exterior) y Cómo Corregirla con el Tamper: Si el centro de la cesta tarda en gotear, usa un tamper del diámetro exacto (51 mm o 53.3 mm) y distribuye del centro hacia afuera con el WDT. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Si el centro de la cesta tarda en gotear, usa un tamper del diámetro exacto (51 mm o 53.3 mm) y distribuye del centro hacia afuera con el WDT.",
-  "quickAnswer": "Sobre extraccion en donut portafiltro bottomless: Si el centro de la cesta tarda en gotear, usa un tamper del diámetro exacto (51 mm o 53.3 mm) y distribuye del centro hacia afuera con el WDT. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Qué Es la Extracción en 'Donut' (Sale Primero por el Anillo Exterior) y Cómo Corregirla con el Tamper | cafeteracompacta.com",
+  "metaDescription": "Descubre qué causa la extracción en donut en un portafiltro bottomless y cómo corregir el flujo por los bordes con WDT y un tamper ajustado.",
+  "excerpt": "Cuando el café arranca únicamente por el anillo exterior del filtro desnudo, existe una fuga de presión perimetral. Aprende a diagnosticar y eliminar la canalización anular paso a paso.",
+  "quickAnswer": "La **extracción en donut** ocurre cuando el espresso fluye primero por el anillo exterior del filtro **bottomless** dejando el centro seco durante los primeros **4 a 7 segundos**. Se produce por una menor densidad de café en el perímetro debido a un montículo central sin distribuir o al uso de un tamper subdimensionado, y se corrige aplicando **WDT** profundo y un tamper de tolerancia exacta (**51.3 mm**, **53.3 mm** o **58.5 mm**).",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Si el centro de la cesta tarda en gotear, usa un tamper del diámetro exacto (51 mm o 53.3 mm) y distribuye del centro hacia afuera con el WDT., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Top-down flat-lay knolling arrangement with accessories: realistic scene illustrating 'Qué Es la Extracción en 'Donut' (Sale Primero por el Anillo Exterior) y Cómo Corregirla con el Tamper' (extraccion en donut portafiltro bottomless) for cafeteracompacta.com, featuring equipment in warm sand beige with matte black hardware, on a solid oak workbench in a tidy modern home space, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Qué Es la Extracción en 'Donut' (Sale Primero por el Anillo Exterior) y Cómo Corregirla con el Tamper"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **extraccion en donut portafiltro bottomless** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Si el centro de la cesta tarda en gotear, usa un tamper del diámetro exacto (51 mm o 53.3 mm) y distribuye del centro hacia afuera con el WDT."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Montas tu portafiltro sin fondo (**bottomless**) en la **CASABREWS CM5418**, la **De’Longhi Dedica Arte (EC885M)** o la **Breville Bambino (BES450)**, pulsas el botón de extracción y, durante los primeros **4 a 7 segundos**, observas que el café brota exclusivamente formando un círculo oscuro alrededor del borde exterior de la cesta mientras el centro permanece completamente seco y pálido, dibujando la silueta exacta de una rosquilla. Este fenómeno, conocido en la jerga barista como **extracción en donut (donut extraction)**, indica que el agua a **9 bares** está encontrando una autopista de baja resistencia por el perímetro de la pastilla. En nuestro [archivo técnico de extracción y recetas espresso](/extraccion-y-recetas-espresso/) analizamos sus causas mecánicas y cómo sellar ese anillo exterior para lograr una coalescencia central rápida."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: extraccion en donut portafiltro bottomless"
+      "text": "Por Qué el Agua Escapa Primero por las Paredes de la Cesta (Wall Channeling)"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **extraccion en donut portafiltro bottomless** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "El agua presurizada siempre obedece la ley de menor resistencia hidráulica. Cuando viertes el café molido desde el molino al portafiltro, los granos caen formando una montaña central donde el propio peso acumula mayor densidad en el centro que en los bordes. Si a eso le sumas un tamper de fábrica ligeramente más pequeño que el diámetro interno real del filtro —por ejemplo, un pisón plástico de **50 mm** en una cesta de **51 mm**, o de **53 mm** en una cesta de **54 mm**—, queda un collar perimetral de **0.5 a 1.0 mm** sin compactar. Ni siquiera la [técnica del blooming espresso con pausa tras la preinfusión](/extraccion-y-recetas-espresso/que-es-el-blooming-espresso-pausa-despues-de-la-preinfusion/) evitará la fuga anular si ese borde está flojo, del mismo modo que debes evaluar [si conviene girar el tamper para pulir la pastilla o levantar en vertical](/extraccion-y-recetas-espresso/como-pulir-la-pastilla-de-cafe-girando-el-tamper-es-bueno-o-malo/) para no despegar el café de la pared de acero inoxidable."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: extraccion en donut portafiltro bottomless",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Causa Mecánica o Física",
+        "Comportamiento Visual en Bottomless",
+        "Efecto en el Sabor de la Taza",
+        "Solución Técnica Directa"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Si el centro de la cesta tarda en gotear, usa un tamper del diámetro exacto (51 mm o 53.3 mm) y distribuye del centro hacia afuera con el WDT.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Tamper subdimensionado (holgura > 0.5 mm)",
+          "Anillo exterior grueso e inmediato; centro seco durante > 5 s",
+          "Subextracción ácida mezclada con astringencia perimetral",
+          "Tamper de precisión de 51.3 mm, 53.3 mm o 58.5 mm según cesta"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Acumulación central de molienda (Mounding)",
+          "El flujo tarda mucho en cerrar al centro pero sin chorros finos",
+          "Cuerpo hueco y falta de dulzor por centro subextraído",
+          "WDT profundo moviendo ligeramente café del centro al borde"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Grano recién tostado (< 4 días post-tueste)",
+          "Crema abombada y burbujeante que empuja el flujo hacia afuera",
+          "Sabor carbónico, picante y metálico en lengua",
+          "Reposar el grano en bolsa con válvula entre 7 y 14 días"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Ducha del grupo sucia o chorro central único",
+          "El agua golpea el centro y rebota hacia el perímetro superior",
+          "Extracción inestable tiro a tiro con el mismo molino",
+          "Limpiar ducha con Cafiza y añadir puck screen de 1.7 mm"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre extraccion en donut portafiltro bottomless",
-      "text": "Si el centro de la cesta tarda en gotear, usa un tamper del diámetro exacto (51 mm o 53.3 mm) y distribuye del centro hacia afuera con el WDT. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Diagnóstico técnico de las 4 causas principales de la extracción en donut y su corrección mecánica"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar extraccion en donut portafiltro bottomless hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Protocolo en 4 Pasos para Eliminar el Efecto Donut en tu Próximo Shot"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Rompe el montículo central con agujas WDT de 0.35 mm",
+          "text": "Con el embudo dosificador puesto, introduce las agujas **WDT** hasta el fondo mismo de la cesta. Traza círculos desde el centro hacia las paredes para igualar la densidad y, antes de retirar la herramienta, deja la superficie ligeramente cóncava (un **1 % más alta en los bordes** que en el centro)."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Asienta el lecho con un solo toque vertical sobre el tapete",
+          "text": "Golpea la base del portafiltro una sola vez en vertical total sobre la alfombrilla de silicona para colapsar bolsas de aire inferiores antes de retirar el embudo dosificador."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Prensa con un tamper calibrado de ajuste milimétrico (Tight-Fit)",
+          "text": "Utiliza un tamper de base plana que cubra el **99 %** del diámetro interno de la cesta (**53.3 mm** en **Breville Bambino BES450/BES500**, **51.3 a 51.5 mm** en **CASABREWS CM5418** y **De’Longhi Dedica**), asegurando que la arista exterior del disco quede perfectamente compactada contra el acero."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Coloca un Puck Screen de acero inoxidable de 1.7 mm y 150 micras",
+          "text": "Al situar una malla difusora sobre el café prensado, el agua que sale de la ducha del grupo se distribuye con presión idéntica sobre cada milímetro cuadrado de la pastilla, impidiendo que la turbulencia inicial erosione el perímetro."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Cuándo un Anillo Inicial de 2 Segundos NO Es un Defecto de Extracción"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "No confundas una verdadera canalización en donut con la flexión elástica normal de una cesta de precisión de fondo plano (**IMS** o **VST**). Cuando los **9 bares** de presión empujan la pastilla hacia abajo, el centro del filtro metálico se curva ligeramente hacia afuera un par de décimas de milímetro; por geometría, es totalmente normal que las primeras gotas asomen por el borde exterior durante **1.5 a 2 segundos** si inmediatamente después se unen en un único cono central espeso y simétrico antes del **segundo 4 o 5** de flujo.",
+      "title": "Distingue entre canalización perimetral real y flexión normal de la cesta"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con extraccion en donut portafiltro bottomless en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Necesitas confirmar la medida exacta en milímetros del tamper de precisión y puck screen compatibles con tu cafetera compacta? Consulta a nuestro Asesor IA o revisa las herramientas disponibles en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre extraccion en donut portafiltro bottomless?",
-      "a": "Si el centro de la cesta tarda en gotear, usa un tamper del diámetro exacto (51 mm o 53.3 mm) y distribuye del centro hacia afuera con el WDT. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Un tamper de base curva (convexa) ayuda a corregir la extracción en donut?",
+      "a": "Los tampers con base convexa (curvada hacia abajo en el centro) fueron diseñados hace décadas para compensar cestas cónicas antiguas, empujando el café hacia los lados. Sin embargo, en cestas modernas de paredes rectas dejan la capa central más delgada que los bordes; hoy los estudios de extracción recomiendan bases 100 % planas de ajuste preciso."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Puede un café demasiado fresco provocar extracción en donut aunque prense bien?",
+      "a": "Sí. Cuando un grano tiene menos de 4 o 5 días desde su fecha de tueste, libera tanto dióxido de carbono al contacto con el agua a 93 °C que forma una burbuja de gas de alta resistencia en el núcleo de la pastilla, obligando al líquido a desviarse hacia las paredes metálicas."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué diámetro exacto de tamper necesito para no dejar café suelto en los bordes?",
+      "a": "Para las cestas originales de 51 mm de la De’Longhi Dedica y CASABREWS CM5418, la medida óptima es 51.0 mm a 51.3 mm (o 51.5 mm en cestas rectas IMS). Para los grupos de 54 mm de Breville Bambino y Bambino Plus, la medida exacta que elimina el borde libre es 53.3 mm."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/como-afecta-la-presion-de-tamping-fuerte-vs-suave-al-tiempo-del-shot/",
     "/extraccion-y-recetas-espresso/que-es-el-blooming-espresso-pausa-despues-de-la-preinfusion/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/como-pulir-la-pastilla-de-cafe-girando-el-tamper-es-bueno-o-malo/",
+    "/extraccion-y-recetas-espresso/que-pasa-si-usas-cafe-molido-para-moka-o-filtro-en-un-portafiltro-bottomless/",
+    "/extraccion-y-recetas-espresso/receta-de-espresso-martini-con-crema-natural-de-tu-cafetera/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-corregir-el-donut-extraction-cuando-sale-primero-por-los-bordes.webp"
 }

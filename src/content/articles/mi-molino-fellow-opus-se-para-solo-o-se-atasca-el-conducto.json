@@ -4,161 +4,128 @@
   "path": "/problemas-y-soluciones/mi-molino-fellow-opus-se-para-solo-o-se-atasca-el-conducto/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "fellow opus atascado no sale cafe molido",
   "title": "Cómo Limpiar el Conducto Antiestático del Fellow Opus si Se Tapona con Tueste Oscuro",
-  "seoTitle": "Cómo Limpiar el Conducto Antiestático del Fellow Opus si Se Tapona con Tueste Oscuro | Guía Barista Compacta",
-  "metaDescription": "Cómo Limpiar el Conducto Antiestático del Fellow Opus si Se Tapona con Tueste Oscuro: Los granos muy aceitosos (French Roast) pueden adherirse a los pines antiestáticos: pásales el cepillo seco cada semana. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Los granos muy aceitosos (French Roast) pueden adherirse a los pines antiestáticos: pásales el cepillo seco cada semana.",
-  "quickAnswer": "Sobre fellow opus atascado no sale cafe molido: Los granos muy aceitosos (French Roast) pueden adherirse a los pines antiestáticos: pásales el cepillo seco cada semana. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Limpiar el Conducto Antiestático del Fellow Opus si Se Tapona con Tueste Oscuro | cafeteracompacta.com",
+  "metaDescription": "¿Tu Fellow Opus está atascado y no sale café molido o se para solo? Aprende a desbloquear el conducto antiestático y las muelas C6-40 sin dañar los pines.",
+  "excerpt": "Guía paso a paso para liberar un Fellow Opus taponado por granos aceitosos, limpiar los pines ionizadores antiestáticos y evitar que el embrague térmico detenga el motor en molienda de espresso.",
+  "quickAnswer": "Si tienes un **Fellow Opus atascado y no sale café molido**, los aceites del tueste oscuro han bloqueado los **pines antiestáticos de salida** y compactado la cámara de las muelas **C6-40 Burly Burrs**, activando el corte automático de protección del motor. Para destrabarlo, desenchufa el molino, desenrosca el asa de alambre de la muela exterior, aspira la cámara y despeja la boca inferior desde abajo con un cepillo seco.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Los granos muy aceitosos (French Roast) pueden adherirse a los pines antiestáticos: pásales el cepillo seco cada semana., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "High-angle 45-degree workbench/tabletop perspective on 28mm lens: realistic scene illustrating 'Cómo Limpiar el Conducto Antiestático del Fellow Opus si Se Tapona con Tueste Oscuro' (fellow opus atascado no sale cafe molido) for cafeteracompacta.com, featuring equipment in graphite gray with subtle amber indicator details, inside a bright contemporary apartment with minimalist decor, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Limpiar el Conducto Antiestático del Fellow Opus si Se Tapona con Tueste Oscuro"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **fellow opus atascado no sale cafe molido** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Los granos muy aceitosos (French Roast) pueden adherirse a los pines antiestáticos: pásales el cepillo seco cada semana."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Viertes **18 g** de café en grano dentro de tu **Fellow Opus**, seleccionas el punto **1.2** para acompañar tu **Breville Bambino** o **De’Longhi Dedica Arte**, y a mitad de molienda el motor se detiene en seco emitiendo un pitido mientras en el vaso magnético apenas han caído **5 g** de polvo. Al levantar el molino de **12.9 cm** de ancho, descubres que la boca inferior está completamente sellada por un tapón oscuro y húmedo. Este bloqueo ocurre cuando los lípidos del tueste oscuro o un exceso de agua en la técnica RDT cubren los electrodos ionizadores de salida y colapsan la cámara de las muelas **C6-40 Burly Burrs**. Consulta más soluciones técnicas en nuestro [hub de problemas y soluciones](/problemas-y-soluciones/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: fellow opus atascado no sale cafe molido"
+      "text": "Por qué se bloquea el conducto antiestático y el Fellow Opus se apaga solo"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **fellow opus atascado no sale cafe molido** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: fellow opus atascado no sale cafe molido",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "Los granos muy aceitosos (French Roast) pueden adherirse a los pines antiestáticos: pásales el cepillo seco cada semana.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "Cuando tienes un **Fellow Opus atascado y no sale café molido**, la parada repentina del motor no se debe a una avería en la instalación eléctrica de casa como cuando [salta el enchufe diferencial GFCI de la cocina al encender la cafetera](/problemas-y-soluciones/mi-cafetera-salta-el-diferencial-o-disyuntor-de-la-cocina-gfci/), sino al sensor electrónico de sobrecorriente (embrague térmico de par) que apaga las muelas **C6-40** para evitar que los engranajes planetarios se dañen al no poder evacuar el polvo. El embudo vertical de descarga del **Fellow Opus** es muy corto y aloja **2 pines metálicos antiestáticos** justo en la salida: si mueles granos aceitosos en los ajustes **1 al 2** o aplicas más de un microespray de agua, la harina fina se adhiere sobre esos pines formando un puente que tapona el conducto hacia arriba y altera tu receta en taza, del mismo modo que cuando [tu báscula mini de espresso cambia los gramos sola durante el shot](/problemas-y-soluciones/mi-bascula-mini-de-espresso-cambia-los-gramos-sola-durante-el-shot/)."
     },
     {
       "type": "callout",
       "variant": "aviso",
-      "title": "Precaución técnica sobre fellow opus atascado no sale cafe molido",
-      "text": "Los granos muy aceitosos (French Roast) pueden adherirse a los pines antiestáticos: pásales el cepillo seco cada semana. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "Dentro de la boca inferior de salida del Fellow Opus asoman dos agujas metálicas finísimas que descargan la electricidad estática del café molido. Nunca metas cuchillos, destornilladores ni alambres rígidos a ciegas desde abajo para romper un tapón: si doblas o quiebras esos pines ionizadores, anularás el sistema antiestático y el café saldrá proyectado por toda la encimera.",
+      "title": "Peligro al desatascar desde abajo: protege los 2 pines ionizadores"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar fellow opus atascado no sale cafe molido hoy mismo en tu cocina"
+      "text": "Tabla de diagnóstico de paradas y retención en el molino Fellow Opus"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "table",
+      "headers": [
+        "Síntoma en el Fellow Opus",
+        "Origen físico del bloqueo",
+        "Escenario donde suele ocurrir",
+        "Solución técnica inmediata"
+      ],
+      "rows": [
+        [
+          "El motor termina el ciclo pero retiene de 4 a 12 g dentro",
+          "Conducto vertical y pines antiestáticos taponados por aceite",
+          "Ajustes 1 a 2 (espresso) con tuestes oscuros o exceso de RDT",
+          "Desmontar muela superior y despejar la boca con cepillo suave sin doblar los pines"
+        ],
+        [
+          "Gira 2-3 segundos, pita y se apaga solo",
+          "Grano duro trabado en frío o cámara de muelas C6-40 saturada",
+          "Cerrar el dial hacia más fino con granos dentro o arrancar en frío",
+          "Vaciar tolva, abrir al nivel 6, encender en vacío y alimentar con motor en marcha (Hot Start)"
+        ],
+        [
+          "El anillo azul interno (Bevel) está duro y no gira",
+          "Polvo fino compactado en las estrías del micro-ajuste interno",
+          "Falta de cepillado tras varias semanas de molienda fina",
+          "Sacar la muela exterior por el asa metálica y aspirar el aro azul en seco"
+        ],
+        [
+          "El café sale con mucha estática y ensucia el frontal",
+          "Costra de aceite aislante cubriendo los 2 pines ionizadores",
+          "Uso continuo de granos torrefactos o muy oscuros sin limpiar la salida",
+          "Limpiar suavemente las puntas de los 2 pines inferiores con un hisopo seco o brocha"
+        ]
+      ],
+      "caption": "Causas de bloqueo mecánico y corte automático en el Fellow Opus"
+    },
+    {
+      "type": "h2",
+      "text": "Pasos para desatascar el conducto del Fellow Opus y evitar que vuelva a pararse"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Retirada de la tolva superior (Load Bin) en frío",
+          "text": "Desenchufa el **Fellow Opus** de la corriente, gira la tolva cilíndrica superior en sentido antihorario hasta sentir el desbloqueo, levántala y retira todos los granos enteros que descansen sobre las muelas."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Extracción de la muela exterior mediante el asa de alambre",
+          "text": "Levanta el arco metálico plateado que rodea la muela superior (sin forzar el anillo azul **Bevel**), gíralo en sentido antihorario para desenroscar el portamuelas del chasis y sácalo verticalmente."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Despeje del túnel vertical y limpieza de los pines ionizadores",
+          "text": "Con una brocha de cerdas firmes o un palillo de madera de punta roma, empuja el tapón de café compactado desde la cámara superior hacia el vaso recolector, y cepilla desde abajo el contorno de los **2 pines antiestáticos** hasta ver el conducto totalmente libre."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Aspirado de roscas y arranque en caliente (Hot Start)",
+          "text": "Limpia las roscas del chasis para que la muela superior cierre hasta el tope, vuelve a montar la tolva y, cuando uses tuestes oscuros en rango de espresso, **enciende primero el motor en vacío** antes de verter los **18 g** de grano, dando dos palmadas suaves sobre la tapa superior como fuelle (*bellows*) al finalizar."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con fellow opus atascado no sale cafe molido en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Quieres mantener las muelas C6-40 y el sistema antiestático de tu Fellow Opus libres de aceites rancios? Consulta a nuestro Asesor IA sobre la rutina de limpieza ideal según tu café o revisa la disponibilidad actual del Fellow Opus, cepillos baristas y tabletas limpiadoras de molinos en las tarjetas de Amazon integradas."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre fellow opus atascado no sale cafe molido?",
-      "a": "Los granos muy aceitosos (French Roast) pueden adherirse a los pines antiestáticos: pásales el cepillo seco cada semana. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Es recomendable pulverizar agua (técnica RDT) en los granos antes de usar el Fellow Opus?",
+      "a": "Con granos de tueste oscuro o aceitoso es mejor no aplicar RDT (pulverización de agua) en el Fellow Opus, ya que el sistema ionizador integrado ya neutraliza la estática en seco. Si usas tuestes claros o medios muy secos, limita la humedad a un único microespray a 20 cm de distancia."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué no puedo enroscar del todo la muela superior del Fellow Opus después de limpiarla?",
+      "a": "Porque al no haber aspirado ni cepillado los restos de café en el asiento inferior antes de volver a colocarla, las partículas impiden que el portamuelas baje los últimos 2 milímetros. Desenróscala, limpia con una brocha las estrías de apoyo del chasis y vuelve a girarla presionando ligeramente hacia abajo."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Se pueden usar tabletas limpiadoras tipo Grindz para desatascar los aceites del Fellow Opus?",
+      "a": "Sí. Puedes moler de 15 a 20 gramos de tabletas limpiadoras específicas de grado alimentario (como Urnex Grindz) configurando el Fellow Opus en el ajuste 6 o 7. Esos pellets absorben los lípidos adheridos a las muelas C6-40 y arrastran la película grasa de las paredes del conducto sin desmontar nada."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/la-leche-se-corta-en-copos-al-echarla-al-espresso-caliente/",
+    "/problemas-y-soluciones/el-manometro-de-mi-cafetera-tiene-gotitas-de-vapor-por-dentro-del-cristal/",
     "/problemas-y-soluciones/mi-bascula-mini-de-espresso-cambia-los-gramos-sola-durante-el-shot/",
-    "/problemas-y-soluciones/mi-molino-baratza-encore-esp-no-muele-aunque-gira-el-motor/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/mi-cafetera-salta-el-diferencial-o-disyuntor-de-la-cocina-gfci/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/mi-molino-fellow-opus-se-para-solo-o-se-atasca-el-conducto.webp"
 }

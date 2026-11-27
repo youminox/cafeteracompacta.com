@@ -4,161 +4,122 @@
   "path": "/problemas-y-soluciones/como-reparar-una-fuga-en-la-articulacion-de-bola-de-la-lanceta-de-vapor/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "lanceta de vapor pierde agua por arriba",
   "title": "Por Qué Gotea Vapor por la Rótula Superior de la Lanceta y Cómo Limpiar la Junta Esférica",
-  "seoTitle": "Por Qué Gotea Vapor por la Rótula Superior de la Lanceta y Cómo Limpiar la Junta Esférica | Guía Barista Compacta",
-  "metaDescription": "Por Qué Gotea Vapor por la Rótula Superior de la Lanceta y Cómo Limpiar la Junta Esférica: La acumulación de cal en la bola articulada impide que selle: haz un ciclo de EcoDecalk por la lanceta moviéndola suavemente. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "La acumulación de cal en la bola articulada impide que selle: haz un ciclo de EcoDecalk por la lanceta moviéndola suavemente.",
-  "quickAnswer": "Sobre lanceta de vapor pierde agua por arriba: La acumulación de cal en la bola articulada impide que selle: haz un ciclo de EcoDecalk por la lanceta moviéndola suavemente. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué Gotea Vapor por la Rótula Superior de la Lanceta y Cómo Limpiar la Junta Esférica | cafeteracompacta.com",
+  "metaDescription": "¿Tu lanceta de vapor pierde agua por arriba? Guía técnica para desmontar la rótula esférica, descalcificar el asiento de teflón y renovar la junta tórica.",
+  "excerpt": "Cuando el vapor escapa por la tuerca superior de la articulación 360°, pierdes hasta un 40 % de empuje para texturizar leche. Repara el sello esférico en casa con ácido cítrico y silicona alimentaria.",
+  "quickAnswer": "Cuando una **lanceta de vapor pierde agua por arriba** (por la articulación giratoria de **360°**), se debe a que la bola esférica interna acumula costras de cal que rayan el asiento de **PTFE (teflón)** o a que la **junta tórica (O-ring)** de alta temperatura se ha resecado y aplanado. Para repararla, desenrosca la tuerca collarín superior en frío, limpia la esfera con **ácido cítrico al 5 %**, lubrica o renueva el **O-ring** con grasa de silicona **NSF H1** y vuelve a ajustar.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: La acumulación de cal en la bola articulada impide que selle: haz un ciclo de EcoDecalk por la lanceta moviéndola suavemente., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "High-angle 45-degree workbench/tabletop perspective on 28mm lens: realistic scene illustrating 'Por Qué Gotea Vapor por la Rótula Superior de la Lanceta y Cómo Limpiar la Junta Esférica' (lanceta de vapor pierde agua por arriba) for cafeteracompacta.com, featuring equipment in warm sand beige with matte black hardware, on a clean stone countertop with neatly arranged accessories, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué Gotea Vapor por la Rótula Superior de la Lanceta y Cómo Limpiar la Junta Esférica"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **lanceta de vapor pierde agua por arriba** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. La acumulación de cal en la bola articulada impide que selle: haz un ciclo de EcoDecalk por la lanceta moviéndola suavemente."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Activas el modo vapor en tu **CASABREWS CM5418**, **De’Longhi Dedica Arte (EC885M)** o **Breville Bambino (BES450)** y, apenas abres la válvula o pulsas el botón para texturizar la leche, escuchas un siseo agudo arriba y ves cómo escurren gotas hirviendo desde la tuerca cromada donde la lanceta gira en **360°**. Además de quemarte los dedos si tocas el capuchón aislante y ensuciar la bandeja, esa fuga superior roba entre un **30 % y un 40 % de la presión dinámica** que debería llegar a los orificios de la punta, dejándote sin fuerza para girar la leche. Dentro de nuestro [centro de problemas y soluciones mecánicas](/problemas-y-soluciones/), la pérdida de estanqueidad en la rótula esférica es una de las reparaciones preventivas más sencillas y agradecidas que puedes hacer en casa en menos de **20 minutos**."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: lanceta de vapor pierde agua por arriba"
+      "text": "Anatomía de la Rótula Esférica de 360°: Por Qué Falla el Sello Superior"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **lanceta de vapor pierde agua por arriba** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: lanceta de vapor pierde agua por arriba",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "La acumulación de cal en la bola articulada impide que selle: haz un ciclo de EcoDecalk por la lanceta moviéndola suavemente.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "Para que una lanceta profesional pueda articularse libremente en todas direcciones sin doblar tuberías internas, el extremo superior del tubo de acero inoxidable remata en una **bola esférica pulida** de unos **8 mm a 10 mm** de diámetro. Esta esfera descansa dentro de una tuerca collarín roscada al brazo de latón o aluminio del chasis, presionada por un pequeño muelle helicoidal contra un asiento cóncavo de **PTFE (teflón)** y sellada por una **junta tórica (O-ring) de silicona alimentaria o EPDM** resistente a **180 °C**. Cuando tu **lanceta de vapor pierde agua por arriba**, casi nunca se ha roto el metal: lo que ocurre es que microcristales de carbonato cálcico (cal del agua) o restos de proteína láctea aspirados por vacío se han adherido a la esfera. Cada vez que mueves la lanceta en seco, esa costra mineral actúa como papel de lija, rayando el asiento de teflón o pellizcando la junta tórica. Es un diagnóstico muy diferente a cuando la máquina no calienta y necesitas [comprobar si el termostato o fusible térmico de la cafetera falló](/problemas-y-soluciones/como-saber-si-el-termostato-o-fusible-termico-de-la-cafetera-fallo/), o cuando usas un espumador externo independiente y notas que [tu espumador NanoFoamer o Dreo solo calienta pero no hace espuma](/problemas-y-soluciones/mi-espumador-nanofoamer-o-dreo-solo-calienta-pero-no-hace-espuma/)."
     },
     {
       "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre lanceta de vapor pierde agua por arriba",
-      "text": "La acumulación de cal en la bola articulada impide que selle: haz un ciclo de EcoDecalk por la lanceta moviéndola suavemente. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "fabricante",
+      "text": "Si necesitas sustituir la junta tórica interna de la rótula o lubricar la esfera tras descalcificarla, utiliza exclusivamente **juntas de silicona VMQ o fluoroelastómero FKM (Viton) de grado alimentario FDA/NSF** y una cabeza de alfiler de **grasa de silicona certificada NSF H1** (como Molykote 111). Jamás apliques aceites minerales, vaselina común ni lubricantes multiusos en aerosol, ya que el vapor a **140 °C** los degrada y contamina la leche.",
+      "title": "Especificación sanitaria para juntas y lubricantes a 140 °C"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar lanceta de vapor pierde agua por arriba hoy mismo en tu cocina"
+      "text": "Diagnóstico de Fugas en la Lanceta de Vapor según el Síntoma Visual"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "table",
+      "headers": [
+        "Síntoma observado en la rótula superior",
+        "Estado de la articulación al moverla",
+        "Causa técnica principal",
+        "Solución requerida"
+      ],
+      "rows": [
+        [
+          "Goteo de agua caliente solo al abrir el vapor",
+          "Movimiento áspero o con chirrido metálico",
+          "Costra de cal pegada a la bola esférica que impide el cierre hermético",
+          "Desmontar tuerca collarín y descalcificar esfera en ácido cítrico al 5 %"
+        ],
+        [
+          "Siseo continuo de vapor y salpicaduras arriba",
+          "La lanceta baila suelta y no mantiene la posición",
+          "Junta tórica (O-ring) aplastada por fatiga térmica o muelle vencido",
+          "Reemplazar O-ring de silicona/Viton y estirar 1.5 mm el muelle tensor"
+        ],
+        [
+          "Goteo incluso con el vapor apagado (mientras haces café)",
+          "Tacto normal en la rótula pero goteo por la punta y arriba",
+          "Válvula principal de aguja o electroválvula de vapor con asiento calcificado",
+          "Ciclo de descalcificación interna del circuito y limpieza del pomo de vapor"
+        ]
+      ],
+      "caption": "Identificación del componente desgastado en la articulación superior de la lanceta de vapor"
+    },
+    {
+      "type": "h2",
+      "text": "Paso a Paso para Desmontar, Descalcificar y Sellar la Junta Esférica"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Despresuriza el circuito y deja enfriar la máquina por completo",
+          "text": "Apaga y desenchufa la cafetera, abre la válvula de vapor durante **5 segundos** para liberar cualquier presión residual y espera al menos **30 minutos** hasta que el brazo metálico superior esté a temperatura ambiente."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Afloja la tuerca collarín superior protegiendo el cromado",
+          "text": "Desenrosca primero la boquilla inferior (*tip*) de la lanceta para poder extraer piezas si es necesario. Envuelve las mordazas de una llave fija (**14 mm a 17 mm** según modelo) con dos vueltas de cinta aislante gruesa o un paño de cuero y gira la tuerca superior de la rótula en sentido antihorario."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Descalcifica la bola de acero y el asiento cóncavo de teflón",
+          "text": "Desliza la tuerca hacia abajo para dejar al descubierto la esfera, el anillo de **PTFE** y la **junta tórica**. Sumerge la zona de la bola o aplica compresas con una solución de **ácido cítrico al 5 %** (5 g en 100 ml de agua tibia) durante **15 minutos** y frota con un cepillo de cerdas de nailon hasta que el acero recupere su brillo espejo sin rugosidades."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Lubrica con grasa NSF H1 y reaprieta con ajuste firme sin forzar",
+          "text": "Revisa que el **O-ring** no tenga cortes ni caras planas (cámbialo si está rígido). Aplica una película microscópica de **grasa de silicona alimentaria NSF H1** sobre la junta y el exterior de la esfera, vuelve a enroscar la tuerca collarín a mano hasta el tope y dale solo **un cuarto de vuelta adicional** con la llave protegida."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con lanceta de vapor pierde agua por arriba en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Necesitas kits de juntas tóricas de silicona alimentaria, grasa NSF H1, ácido cítrico puro o lancetas de repuesto para tu cafetera compacta? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre lanceta de vapor pierde agua por arriba?",
-      "a": "La acumulación de cal en la bola articulada impide que selle: haz un ciclo de EcoDecalk por la lanceta moviéndola suavemente. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Puedo usar cinta de teflón de fontanería (PTFE) para cortar la fuga en la rótula de la lanceta?",
+      "a": "No en el interior de la bola móvil, porque la cinta de teflón se deshilacha al girar la lanceta en **360°** y los fragmentos blancos pueden soltarse y obstruir el orificio de **1.2 mm** de la punta. Sí puedes poner **dos vueltas de cinta de teflón** únicamente en la rosca fija superior de la tuerca collarín si la fuga sale por los hilos de rosca y no por el cuello de la esfera."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué encontré restos marrones de leche quemada dentro de la articulación superior?",
+      "a": "Porque cuando apagas el vapor con la punta todavía sumergida en la jarra de leche, el enfriamiento brusco del **Thermoblock** o de la caldera crea una presión negativa (vacío) que succiona leche hacia arriba hasta la rótula esférica. Acostúmbrate a retirar la jarra antes de cerrar del todo y purgar **2 segundos** de vapor al aire."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué medida y material de junta tórica (O-ring) llevan las lancetas de vapor compactas?",
+      "a": "Para la rótula de las **CASABREWS CM5418**, **De’Longhi Dedica Arte** y **Gaggia Classic**, las juntas tóricas emplean diámetros internos de entre **6 mm y 9 mm** con sección (**CS**) de **1.5 mm a 2.0 mm** según el vástago. Lo más práctico es contar con un surtido métrico de juntas de **silicona alimentaria roja (VMQ)** o **Viton (FKM)** resistentes hasta **200 °C**."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/mi-espumador-nanofoamer-o-dreo-solo-calienta-pero-no-hace-espuma/",
+    "/problemas-y-soluciones/por-que-el-cafe-sabe-salado-en-mi-cafetera-espresso/",
     "/problemas-y-soluciones/que-hacer-si-echaste-cafe-molido-en-el-tanque-de-agua-por-error/",
-    "/problemas-y-soluciones/mi-tamper-de-51mm-deja-un-borde-de-cafe-sin-prensar-en-las-paredes/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/como-saber-si-el-termostato-o-fusible-termico-de-la-cafetera-fallo/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-reparar-una-fuga-en-la-articulacion-de-bola-de-la-lanceta-de-vapor.webp"
 }

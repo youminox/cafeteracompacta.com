@@ -4,161 +4,128 @@
   "path": "/extraccion-y-recetas-espresso/receta-de-dirty-chai-latte-con-un-shot-de-espresso/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "receta dirty chai latte con espresso",
   "title": "Cómo Preparar un Dirty Chai Latte Especiado con un Shot de tu Cafetera Compacta",
-  "seoTitle": "Cómo Preparar un Dirty Chai Latte Especiado con un Shot de tu Cafetera Compacta | Guía Barista Compacta",
-  "metaDescription": "Cómo Preparar un Dirty Chai Latte Especiado con un Shot de tu Cafetera Compacta: La fusión perfecta entre el té negro con canela, cardamomo y jengibre, leche vaporizada y un shot de espresso recién extraído. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "La fusión perfecta entre el té negro con canela, cardamomo y jengibre, leche vaporizada y un shot de espresso recién extraído.",
-  "quickAnswer": "Sobre receta dirty chai latte con espresso: La fusión perfecta entre el té negro con canela, cardamomo y jengibre, leche vaporizada y un shot de espresso recién extraído. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Preparar un Dirty Chai Latte Especiado con un Shot de tu Cafetera Compacta | cafeteracompacta.com",
+  "metaDescription": "Domina la receta de dirty chai latte con espresso en casa: proporción de concentrado de té chai, leche vaporizada y ajuste del shot para que no amargue.",
+  "excerpt": "Equilibra los taninos del té negro y las especias (cardamomo, canela y jengibre) con un shot de espresso de tu cafetera compacta sin que la leche pierda textura ni dulzor.",
+  "quickAnswer": "Para preparar la receta de dirty chai latte con espresso equilibrada, mezcla **90 ml** de concentrado de té chai especiado con **150 ml** de leche entera o de avena barista y vaporízalos juntos hasta alcanzar **62 °C**. Incorpora un shot sencillo de **18 a 20 g** (o doble corto de **30 g**) extraído con grano de tueste medio en tu **Breville Bambino** o **CASABREWS CM5418** para aportar notas achocolatadas sin chocar con los taninos del té negro.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: La fusión perfecta entre el té negro con canela, cardamomo y jengibre, leche vaporizada y un shot de espresso recién extraído., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "High-angle 45-degree workbench/tabletop perspective on 28mm lens: realistic scene illustrating 'Cómo Preparar un Dirty Chai Latte Especiado con un Shot de tu Cafetera Compacta' (receta dirty chai latte con espresso) for cafeteracompacta.com, featuring equipment in sleek titanium silver with carbon-gray texture, beside a neat storage shelf in a sunlit modern room, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Preparar un Dirty Chai Latte Especiado con un Shot de tu Cafetera Compacta"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **receta dirty chai latte con espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. La fusión perfecta entre el té negro con canela, cardamomo y jengibre, leche vaporizada y un shot de espresso recién extraído."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Añadir un espresso doble extraído al límite sobre una taza de té chai comercial suele producir una bebida áspera y astringente donde la canela, el clavo y el jengibre compiten a gritos con el amargor del café y secan el paladar. Ese choque sensorial ocurre porque el té negro (*Camellia sinensis*) del masala chai ya aporta una carga alta de taninos y polifenoles que se suman a los ácidos clorogénicos del espresso. Para dominar la **receta dirty chai latte con espresso** y conseguir una taza cremosa, especiada y con final de cacao —como detallamos en nuestro [índice de extracción y recetas con espresso](/extraccion-y-recetas-espresso/)—, hay que ajustar tanto la concentración de la infusión especiada como el rendimiento y temperatura del tiro en tu cafetera compacta."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: receta dirty chai latte con espresso"
+      "text": "Cómo armonizar los taninos del té negro y las especias con el shot de tu cafetera compacta"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **receta dirty chai latte con espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: receta dirty chai latte con espresso",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "La fusión perfecta entre el té negro con canela, cardamomo y jengibre, leche vaporizada y un shot de espresso recién extraído.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "En las cafeterías de especialidad, un **Dirty Chai** estándar se construye con **un solo shot de espresso** (**18 a 20 g** de bebida) o un doble corto tipo *ristretto* (**28 a 30 g**), reservando el doble largo únicamente para lo que se denomina un *Filthy Chai* en vasos de más de **350 ml**. Si utilizas una **CASABREWS CM5418** o una **De’Longhi Dedica Arte (EC885M)**, conviene [aplicar temperature surfing en cafeteras sin chip PID](/extraccion-y-recetas-espresso/como-hacer-temperature-surfing-en-cafeteras-sin-pid/) para no extraer con agua por encima de **93 °C**, ya que el exceso térmico arrastra compuestos amargos que chocan con la pimienta negra y el cardamomo del chai. En modelos con control digital como la **Breville Bambino (BES450)**, basta con mantener sus **93 °C** y [configurar el tiempo de pre-infusión según el tueste](/extraccion-y-recetas-espresso/como-influye-el-tiempo-de-preinfusion-en-el-cuerpo-del-espresso/) para lograr un tiro dulce de tueste medio que redondee el picor natural del jengibre fresco."
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de barista sobre receta dirty chai latte con espresso",
-      "text": "La fusión perfecta entre el té negro con canela, cardamomo y jengibre, leche vaporizada y un shot de espresso recién extraído. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "Si preparas tu chai con una bolsita de té en 150 ml de agua hirviendo y luego añades leche y espresso, la bebida quedará completamente aguada. Para un Dirty Chai de cuerpo sedoso, debes usar un concentrado líquido de chai en proporción 1:1.5 con la leche (por ejemplo, 90 ml de concentrado + 150 ml de leche), o bien infusionar dos bolsitas de masala chai en solo 70 ml de agua a 95 °C durante 5 minutos con media cucharadita de miel o azúcar moreno.",
+      "title": "El secreto del cuerpo: concentrado de chai líquido en lugar de infusión aguada"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar receta dirty chai latte con espresso hoy mismo en tu cocina"
+      "text": "Proporciones exactas según la intensidad deseada: Dirty Chai vs Filthy Chai vs Iced Dirty Chai"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "table",
+      "headers": [
+        "Componente técnico",
+        "Dirty Chai Clásico (1 Shot / Equilibrado)",
+        "Filthy Chai Intenso (Doble Shot)",
+        "Iced Dirty Chai con Hielo (Frío)"
+      ],
+      "rows": [
+        [
+          "Base de concentrado Chai",
+          "80 a 90 ml de concentrado de masala chai",
+          "80 ml de concentrado de masala chai especiado",
+          "90 ml de concentrado de chai frío a 4 °C"
+        ],
+        [
+          "Volumen y tipo de leche",
+          "150 ml de leche entera o avena barista a 62 °C",
+          "160 ml de leche vaporizada a 60–62 °C",
+          "130 ml de leche fría + 100 g de hielo en cubos"
+        ],
+        [
+          "Dosis de café espresso",
+          "18 a 22 g líquidos (1 shot o medio doble)",
+          "32 a 36 g líquidos (Doble espresso corto)",
+          "30 a 34 g de espresso vertido sobre la mezcla fría"
+        ],
+        [
+          "Especia de acabado superior",
+          "Pizca de canela Ceilán molida sobre la espuma",
+          "Canela + ralladura fina de nuez moscada",
+          "Rama de canela o anís estrellado sobre el hielo"
+        ]
+      ],
+      "caption": "Recetas equilibradas para taza de 280 a 320 ml con cafetera espresso compacta"
+    },
+    {
+      "type": "h2",
+      "text": "Paso a paso: cómo vaporizar el concentrado con la leche y ensamblar el Dirty Chai"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "1. Mezcla en frío en la jarra de acero inoxidable (Técnica Barista)",
+          "text": "Vierte en tu jarra metálica de **350 o 450 ml** los **80 a 90 ml** de concentrado líquido de té chai junto con **150 ml** de leche fría o bebida de avena barista. Mezclarlos antes de usar la lanceta de vapor evita enfriar la taza final y logra una emulsión mucho más homogénea."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "2. Extracción del espresso dulce en la taza precalentada",
+          "text": "Extrae un shot sencillo de **20 g** (o divide un tiro doble con el portafiltro de dos salidas, o corta un ristretto doble en **28 g**) directamente en tu taza de cerámica de **280 a 300 ml** utilizando un café de tueste medio con notas de cacao o caramelo."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "3. Texturizado conjunto con la lanceta a 60–62 °C",
+          "text": "Purga la lanceta de vapor de tu **Breville Bambino**, **Dedica Arte** o **CASABREWS CM5418**, introduce aire durante **3 segundos** en la mezcla de leche y chai y crea un vórtice hasta alcanzar **60 a 62 °C**. El vapor caliente despierta los aceites volátiles del cardamomo, el clavo y la canela."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "4. Vertido de integración y espolvoreado aromático",
+          "text": "Golpea y gira la jarra para eliminar cualquier burbuja superficial, vierte la emulsión especiada sobre el espresso dibujando tu figura de latte art y termina con un toque ligero de **canela Ceilán recién molida** en el centro."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con receta dirty chai latte con espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Buscas jarras de latte art con termómetro, cestas de precisión o molinos para tu cafetera compacta? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre receta dirty chai latte con espresso?",
-      "a": "La fusión perfecta entre el té negro con canela, cardamomo y jengibre, leche vaporizada y un shot de espresso recién extraído. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Se puede espumar el concentrado de té chai mezclado con la leche en la misma jarra?",
+      "a": "Sí, y es el método favorito en cafeterías profesionales: al vaporizar los **80 ml** de concentrado de chai líquido junto con los **150 ml** de leche fría en la misma jarra, toda la bebida alcanza exactamente los **62 °C** y las proteínas de la leche atrapan mejor los compuestos aromáticos de las especias."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Es mejor usar concentrado líquido de chai o chai en polvo para hacer un Dirty Chai?",
+      "a": "El concentrado líquido (casero o de botella) ya está filtrado y mantiene la textura sedosa de la microespuma. Muchos polvos comerciales de chai instantáneo contienen maltodextrina, leche desnatada en polvo y exceso de azúcar refinado que dejan un sedimento arenoso en el fondo de la taza."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué leche vegetal queda mejor en la receta de Dirty Chai Latte?",
+      "a": "La bebida de **avena versión Barista** es probablemente la alternativa vegetal que mejor marida con el Dirty Chai: sus notas naturales de cereal tostado y su dulzor enzimático conectan de maravilla tanto con el jengibre y la canela del chai como con el cuerpo del espresso."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/que-es-el-ratio-1-2-5-o-1-3-lungo-para-cafes-de-tueste-claro/",
     "/extraccion-y-recetas-espresso/receta-de-shakerato-italiano-espresso-agitado-con-hielo/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/como-influye-el-tiempo-de-preinfusion-en-el-cuerpo-del-espresso/",
+    "/extraccion-y-recetas-espresso/por-que-nunca-debes-dejar-el-portafiltro-con-cafe-puesto-antes-de-extraer/",
+    "/extraccion-y-recetas-espresso/como-hacer-temperature-surfing-en-cafeteras-sin-pid/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/receta-de-dirty-chai-latte-con-un-shot-de-espresso.webp"
 }

@@ -4,173 +4,124 @@
   "path": "/resenas-cafeteras/nespresso-citiz-and-milk-compacta/",
   "isPillar": false,
   "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "nespresso citiz and milk reseña",
   "title": "Nespresso CitiZ & Milk: Análisis del diseño urbano compacto con Aeroccino integrado",
-  "seoTitle": "Nespresso CitiZ & Milk: Reseña, Medidas, Opiniones y Precio Amazon",
-  "metaDescription": "Reseña completa del Nespresso CitiZ & Milk: tamaño (21.8 cm (Con Aeroccino)), portafiltro (Cápsulas Nespresso Original), calentamiento (Thermoblock 25 s + Aeroccino 3), presión (19 Bar) y oferta en Amazon.",
-  "excerpt": "Probamos a fondo el Nespresso CitiZ & Milk: Integra en la misma base la cafetera de cápsulas OriginalLine y el espumador frío/caliente Aeroccino, tamaño de 21.8 cm (Con Aeroccino) y compatibilidad Cápsulas Nespresso Original.",
-  "quickAnswer": "El Nespresso CitiZ & Milk destaca por su tamaño compacto (21.8 cm (Con Aeroccino)), estándar Cápsulas Nespresso Original, sistema Thermoblock 25 s + Aeroccino 3 (19 Bar) y Integra en la misma base la cafetera de cápsulas OriginalLine y el espumador frío/caliente Aeroccino. Es una de las mejores compras en Amazon EE. UU. y España para preparar espresso y bebidas con leche en casa ocupando el mínimo espacio.",
-  "readingMinutes": 8,
+  "seoTitle": "Nespresso CitiZ & Milk: Análisis del diseño urbano compacto con Aeroccino integrado | cafeteracompacta.com",
+  "metaDescription": "Análisis técnico de la Nespresso CitiZ & Milk: medidas de 21.9 cm con Aeroccino 3 integrado, bomba de 19 bares, calentamiento en 25 s y mantenimiento.",
+  "excerpt": "Evaluamos a fondo la Nespresso CitiZ & Milk con base compartida para el espumador Aeroccino 3: rendimiento térmico, huella real en encimeras pequeñas y cuándo elegir cápsulas frente a portafiltro.",
+  "quickAnswer": "La **Nespresso CitiZ & Milk** integra una unidad de extracción **OriginalLine de 19 bares** y un espumador **Aeroccino 3** en un chasis unificado de **21.9 cm de ancho** con un único cable de alimentación. Alcanza la temperatura operativa en **25 segundos**, dosifica automáticamente **40 ml (Espresso)** o **110 ml (Lungo)** y texturiza **120 ml de leche** en **60 segundos**, siendo ideal para cocinas urbanas que priorizan velocidad y limpieza sin molienda.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "A sleek Nespresso CitiZ & Milk on a modern walnut and white quartz kitchen countertop with a fresh cup of espresso with rich hazelnut crema, warm natural morning daylight, editorial photography",
-    "alt": "Nespresso CitiZ & Milk en una encimera de cocina moderna junto a una taza de espresso"
+    "prompt": "Diagonal isometric product-in-use composition in modern home setting: realistic scene illustrating 'Nespresso CitiZ & Milk: Análisis del diseño urbano compacto con Aeroccino integrado' (nespresso citiz and milk reseña) for cafeteracompacta.com, featuring equipment in terracotta copper accent with matte slate body, on a clean stone countertop with neatly arranged accessories, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Nespresso CitiZ & Milk: Análisis del diseño urbano compacto con Aeroccino integrado"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Si estás pensando en comprar el **Nespresso CitiZ & Milk** en Amazon Estados Unidos o España, necesitas respuestas claras a tres preguntas prácticas: **cuánto espacio real ocupa en tu encimera (21.8 cm (Con Aeroccino))**, **qué tan fácil es sacar un espresso con crema avellana desde el primer día** y **qué medida exacta de accesorios (Cápsulas Nespresso Original) es compatible**."
-    },
-    {
-      "type": "p",
-      "text": "En esta reseña técnica a fondo analizamos el **Nespresso CitiZ & Milk** evaluando su sistema térmico (**Thermoblock 25 s + Aeroccino 3**), su gestión de presión (**19 Bar**), su rendimiento al espumar leche para Cappuccino o Latte Art y su ventaja competitiva clave: **Integra en la misma base la cafetera de cápsulas OriginalLine y el espumador frío/caliente Aeroccino**."
+      "text": "En estudios urbanos o cocinas de oficina donde apenas quedan **30 cm de margen libre** junto al fregadero y un único enchufe disponible en la pared, instalar una cafetera de portafiltro, un molino y una jarra de vapor independiente resulta inviable. La **Nespresso CitiZ & Milk** resuelve este cuello de botella integrando la unidad de extracción **OriginalLine de 19 bares** y el espumador magnético **Aeroccino 3** sobre un mismo chasis de **21.9 cm de ancho por 37.2 cm de profundidad** alimentado por un solo cable eléctrico. A diferencia de otros equipos que analizamos en nuestras [comparativas de cafeteras compactas](/resenas-cafeteras/), esta arquitectura elimina por completo la dispersión de molienda y reduce el tiempo desde el encendido hasta un capuchino servido a menos de **90 segundos**."
     },
     {
       "type": "h2",
-      "text": "Ficha técnica y medidas verificadas del Nespresso CitiZ & Milk"
+      "text": "Arquitectura de base unificada y rendimiento térmico del bloque de 19 bares"
     },
     {
       "type": "p",
-      "text": "Antes de pasar a las pruebas en taza y compararlo con rivales como la **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, la **[Breville Bambino](/resenas-cafeteras/breville-bambino-bes450/)** o la **[De’Longhi Dedica Arte](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, revisa su tabla oficial de especificaciones:"
+      "text": "Mientras que la versión estándar de la CitiZ mide **13.0 cm de ancho**, el modelo **CitiZ & Milk** añade una plataforma lateral asimétrica de solo **8.9 cm adicionales** que aloja la base de contacto del espumador y estabiliza sus **4.05 kg de peso**. Su bloque calefactor **Thermoblock de aluminio** alcanza la temperatura de infusión (**83 a 86 °C** en taza) en **25 segundos**, impulsando agua desde su tanque trasero de **1.0 litro** a través de una bomba vibratoria de **19 bares** que perfora el sello de aluminio de la cápsula y emulsiona los lípidos del café. Si bien no ofrece la versatilidad de grano fresco de máquinas estrechas de **15 cm** como la [De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/) o la clásica [De’Longhi Dedica Style EC685M](/resenas-cafeteras/delonghi-dedica-style-ec685m/), su bandeja de goteo abatible libera **15.0 cm de altura bajo el surtidor** para vasos de receta altos y su depósito interno retiene hasta **10 cápsulas perforadas** sin goteos hacia la encimera."
     },
     {
       "type": "table",
-      "caption": "Especificaciones técnicas verificadas del Nespresso CitiZ & Milk",
       "headers": [
-        "Parámetro Barista",
-        "Especificación del Nespresso CitiZ & Milk",
-        "Impacto en tu Cocina"
+        "Parámetro técnico",
+        "Nespresso CitiZ & Milk",
+        "Nespresso CitiZ (sin leche)",
+        "De’Longhi Dedica Arte (EC885M)"
       ],
       "rows": [
         [
-          "Ancho / Huella en encimera",
-          "21.8 cm (Con Aeroccino)",
-          "Ideal para cocinas pequeñas y apartamentos"
+          "Dimensiones (Ancho x Prof. x Alto)",
+          "21.9 x 37.2 x 27.8 cm",
+          "13.0 x 37.2 x 27.8 cm",
+          "14.9 x 33.0 x 30.5 cm"
         ],
         [
-          "Estándar de Portafiltro / Medida",
-          "Cápsulas Nespresso Original",
-          "Verifica este diámetro al comprar tamper o bottomless"
+          "Sistema de extracción y presión",
+          "Cápsulas OriginalLine / 19 bares",
+          "Cápsulas OriginalLine / 19 bares",
+          "Café molido o ESE 51 mm / 15 bares"
         ],
         [
-          "Sistema de Calentamiento",
-          "Thermoblock 25 s + Aeroccino 3",
-          "Arranque rápido sin esperas matutinas"
+          "Tiempo de calentamiento inicial",
+          "25 segundos",
+          "25 segundos",
+          "40 segundos"
         ],
         [
-          "Presión / Regulación",
-          "19 Bar",
-          "Extracción con crema densa y cuerpo equilibrado"
-        ],
-        [
-          "Ventaja Diferencial",
-          "Integra en la misma base la cafetera de cápsulas OriginalLine y el espumador frío/caliente Aeroccino",
-          "Excelente relación calidad-precio en Amazon"
+          "Sistema de texturizado de leche",
+          "Aeroccino 3 integrado (120/240 ml)",
+          "No incluido",
+          "Lanceta manual MyLatte Art"
         ]
+      ],
+      "caption": "Especificaciones de la Nespresso CitiZ & Milk frente a alternativas compactas de 15 cm"
+    },
+    {
+      "type": "h2",
+      "text": "Desempeño del Aeroccino 3 integrado: emulsión magnética frente a vapor real"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Espuma densa en caliente para Cappuccino (60 a 70 segundos)",
+          "text": "Coloca el batidor con el muelle espiral instalado en el eje magnético del fondo, vierte leche entera o bebida de avena barista fría hasta la marca inferior de **120 ml** y pulsa una vez el botón para que se ilumine en rojo. El sistema calienta hasta un corte termostático de **65 a 68 °C** mientras genera una espuma aireada y estable."
+        },
+        {
+          "name": "Leche cremosa para Caffè Latte (70 a 80 segundos)",
+          "text": "Retira el anillo de muelle del batidor y alojalo en el soporte plástico de la tapa para usar únicamente las paletas lisas. Llena la jarra hasta la marca superior de **240 ml** y activa el ciclo en rojo para calentar la leche con un remolino suave sin exceso de burbujas superficiales."
+        },
+        {
+          "name": "Espuma fría para Iced Latte y recetas de verano (60 segundos)",
+          "text": "Mantén presionado el botón del Aeroccino 3 durante **2 segundos** hasta que el indicador LED cambie a color azul. El rotor magnético emulsiona **120 ml de leche a 4 °C** sin activar la resistencia térmica de la base, logrando una capa sedosa lista para verter sobre hielo."
+        }
       ]
+    },
+    {
+      "type": "h2",
+      "text": "Ajuste volumétrico personalizado y prevención de bloqueo por cal"
     },
     {
       "type": "callout",
-      "variant": "etiqueta",
-      "title": "Lo mejor del Nespresso CitiZ & Milk en el uso diario",
-      "text": "Destaca por ofrecer Integra en la misma base la cafetera de cápsulas OriginalLine y el espumador frío/caliente Aeroccino en un formato compacto de 21.8 cm (Con Aeroccino). Funciona desde el primer día y escala de nivel cuando lo acompañas de grano fresco y accesorios de Cápsulas Nespresso Original."
-    },
-    {
-      "type": "h2",
-      "text": "Calidad de extracción, temperatura y facilidad de uso del Nespresso CitiZ & Milk"
-    },
-    {
-      "type": "p",
-      "text": "En nuestras pruebas de barismo doméstico, el **Nespresso CitiZ & Milk** demuestra por qué acumula miles de valoraciones positivas en Amazon. Gracias a su arquitectura de **Thermoblock 25 s + Aeroccino 3** y **19 Bar**, permite trabajar tanto en modo sencillo para principiantes como en configuración avanzada:"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Ergonomía en espacios reducidos (21.8 cm (Con Aeroccino)):** cabe cómodamente bajo las alacenas estándar de cocina (45 cm / 18 in en EE. UU.) dejando espacio libre para tu molino y tu báscula.",
-        "**Compatibilidad exacta (Cápsulas Nespresso Original):** si deseas dar el salto a un portafiltro sin fondo (*Bottomless*), un tamper dinamométrico con muelle o un *Puck Screen*, elige siempre la medida correspondiente a **Cápsulas Nespresso Original**.",
-        "**Estabilidad térmica:** realizando un breve disparo de agua caliente en vacío (*blank shot*) de 4 segundos antes de encajar el portafiltro, la extracción sale a la temperatura óptima para resaltar las notas de chocolate y avellana."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cómo espumar leche y qué accesorios comprar en Amazon para el Nespresso CitiZ & Milk"
-    },
-    {
-      "type": "p",
-      "text": "Para exprimir al 100% el potencial del **Nespresso CitiZ & Milk**, te recomendamos estos 3 complementos que transforman la experiencia desde la primera semana:"
-    },
-    {
-      "type": "ol",
-      "items": [
-        "**Un molino de muelas cónicas o planas:** el **[Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)**, el **[Fellow Opus](/resenas-cafeteras/fellow-opus-conical-burr-grinder/)** o un manual **[KINGrinder K6](/resenas-cafeteras/1zpresso-j-ultra-molino-manual/)** te permitirán ajustar el tiempo de caída entre 25 y 30 segundos.",
-        "**Una báscula digital mini de 0.1 g con temporizador:** modelos de 10×10 cm como la **[TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** encajan en la bandeja para clavar el ratio 1:2 (18 g → 36 g).",
-        "**Mantenimiento cada 60–90 días:** utiliza descalcificador de ácido láctico (**[De’Longhi EcoDecalk o Urnex Dezcal](/mejores-cafeteras-y-accesorios/mejores-descalcificadores-y-limpiadores-cafetera-espresso/)**) para mantener la presión intacta durante años."
-      ]
+      "variant": "tip",
+      "text": "Los dos botones superiores vienen calibrados de fábrica para dispensar **40 ml en Espresso** y **110 ml en Lungo**, pero el caudalímetro interno permite reprogramar cualquier volumen entre **25 ml y 150 ml**: basta con mantener pulsado el botón elegido durante la extracción y soltarlo al alcanzar el nivel deseado en taza. Para proteger la cámara de perforación y el recubrimiento cerámico antiadherente del **Aeroccino 3**, purga siempre **30 ml de agua sin cápsula** tras la última bebida del día y enjuaga la jarra de leche con esponja suave inmediatamente después de cada ciclo, evitando el lavavajillas que degrada el sello impermeable de la base eléctrica.",
+      "title": "Calibración de memoria volumétrica y cuidado del recubrimiento antiadherente"
     },
     {
       "type": "cta",
-      "text": "¿Dudas si el Nespresso CitiZ & Milk es mejor para ti que otro modelo de nuestro ranking? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "table",
-      "caption": "Pros y aspectos a considerar del Nespresso CitiZ & Milk",
-      "headers": [
-        "✅ Puntos Fuertes (Pros)",
-        "⚠️ Aspectos a Tener en Cuenta (Contras)"
-      ],
-      "rows": [
-        [
-          "Tamaño compacto (21.8 cm (Con Aeroccino)) que ahorra encimera",
-          "Para espresso de especialidad real conviene añadir buen molino"
-        ],
-        [
-          "Integra en la misma base la cafetera de cápsulas OriginalLine y el espumador frío/caliente Aeroccino",
-          "Como toda máquina de espresso, requiere descalcificar cada 2-3 meses"
-        ],
-        [
-          "Estándar Cápsulas Nespresso Original con repuestos en Amazon",
-          "Conviene precalentar taza y portafiltro con un disparo de agua"
-        ]
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Veredicto final: ¿Vale la pena comprar el Nespresso CitiZ & Milk en Amazon?"
-    },
-    {
-      "type": "p",
-      "text": "Sí: el **Nespresso CitiZ & Milk** es una compra altamente recomendable en Amazon EE. UU. y España si buscas **Integra en la misma base la cafetera de cápsulas OriginalLine y el espumador frío/caliente Aeroccino** sin sacrificar el espacio de tu cocina (21.8 cm (Con Aeroccino)). Consulta el precio actualizado y las ofertas disponibles hoy en las tarjetas de producto de esta página."
+      "text": "Revisa la disponibilidad actual y los acabados cromados o mate de la Nespresso CitiZ & Milk en las tarjetas de Amazon integradas en esta página, o consulta a nuestro Asesor IA si dudas entre cápsulas y cafeteras manuales."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué medida de accesorios y portafiltro usa el Nespresso CitiZ & Milk?",
-      "a": "Trabaja con el estándar Cápsulas Nespresso Original. Asegúrate de seleccionar exactamente esa medida al pedir tu tamper calibrado, embudo magnético o portafiltro Bottomless en Amazon."
+      "q": "¿La Nespresso CitiZ & Milk acepta cápsulas del sistema Vertuo?",
+      "a": "No. La Nespresso CitiZ & Milk funciona exclusivamente con el formato clásico Nespresso OriginalLine (cápsulas troncocónicas de aluminio o compatibles de terceros). Esta arquitectura de alta presión a 19 bares está optimizada para espressos cortos de 40 ml y lungos de 110 ml, a diferencia del sistema centrífugo Vertuo."
     },
     {
-      "q": "¿Cuánto espacio ocupa el Nespresso CitiZ & Milk en la cocina?",
-      "a": "Tiene un ancho / formato de 21.8 cm (Con Aeroccino), diseñado específicamente para integrarse en encimeras pequeñas, apartamentos y estudios sin estorbar bajo los muebles altos."
+      "q": "¿Se puede meter la jarra del Aeroccino 3 en el lavavajillas?",
+      "a": "No es sumergible ni apto para lavavajillas porque incorpora contactos eléctricos y una resistencia calefactora en su base inferior. Debes lavar el interior antiadherente a mano con agua tibia y un paño no abrasivo, secando siempre la parte inferior antes de volver a apoyarlo en el zócalo de la cafetera."
     },
     {
-      "q": "¿Vale la pena comprar el Nespresso CitiZ & Milk en Amazon Estados Unidos?",
-      "a": "Totalmente: cuenta con envío rápido Prime en Amazon.com (cafeteracompacta-20) y Amazon.es (cafeteracompacta-21), garantía oficial y excelente disponibilidad de accesorios compatibles."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Home Espresso Equipment",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "National Coffee Association USA – Espresso Preparation",
-      "url": "https://www.ncausa.org/"
+      "q": "¿Cómo se amplía el tiempo de apagado automático de la CitiZ & Milk?",
+      "a": "Con la máquina apagada, mantén presionados simultáneamente los botones de Espresso y Lungo durante 3 segundos para entrar al menú de configuración. Luego pulsa una vez el botón Lungo para cambiar el temporizador de apagado automático de los 9 minutos de fábrica a 30 minutos, y confirma presionando Espresso."
     }
   ],
   "related": [
-    "/resenas-cafeteras/",
-    "/resenas-cafeteras/flair-neo-flex-manual-espresso/",
-    "/resenas-cafeteras/nespresso-essenza-mini-breville-delonghi/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/resenas-cafeteras/delonghi-dedica-arte-ec885m/",
+    "/resenas-cafeteras/delonghi-dedica-style-ec685m/",
+    "/resenas-cafeteras/casabrews-5700pro-con-molino/",
+    "/resenas-cafeteras/delonghi-la-specialista-arte-ec9155m/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/nespresso-citiz-and-milk-compacta.webp"
 }

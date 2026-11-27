@@ -4,161 +4,140 @@
   "path": "/extraccion-y-recetas-espresso/que-es-el-salami-shot-el-experimento-para-entender-las-3-fases-del-espresso/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "que es el salami shot en cafe espresso",
   "title": "El Experimento del 'Salami Shot': Divide tu Espresso en 5 Vasos para Probar Ácidos, Dulzor y Amargor",
-  "seoTitle": "El Experimento del 'Salami Shot' | Guía Barista Compacta",
-  "metaDescription": "El Experimento del 'Salami Shot': Divide tu Espresso en 5 Vasos para Probar Ácidos, Dulzor y Amargor: Cambiar de taza cada 6 segundos durante una extracción te enseña para siempre que los ácidos salen al principio, el dulzor en medio y el amargor al final. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Cambiar de taza cada 6 segundos durante una extracción te enseña para siempre que los ácidos salen al principio, el dulzor en medio y el amargor al final.",
-  "quickAnswer": "Sobre que es el salami shot en cafe espresso: Cambiar de taza cada 6 segundos durante una extracción te enseña para siempre que los ácidos salen al principio, el dulzor en medio y el amargor al final. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "El Experimento del 'Salami Shot': Divide tu Espresso en 5 Vasos para Probar Ácidos, Dulzor y Amargor | cafeteracompacta.com",
+  "metaDescription": "Aprende qué es el salami shot en café espresso y cómo dividir tu extracción de 30 segundos en 5 vasos para identificar acidez, dulzor, cuerpo y amargor.",
+  "excerpt": "Entrena tu paladar barista dividiendo un tiro doble de espresso en cinco fracciones cronometradas de 6 segundos: comprende en qué momento exacto se extraen los ácidos orgánicos, los azúcares y los taninos.",
+  "quickAnswer": "El salami shot es un ejercicio sensorial de barismo que consiste en dividir una extracción continua de espresso de 25 a 30 segundos en 5 vasos consecutivos, cambiando de recipiente cada 5 o 6 segundos. Esta técnica aísla las tres fases químicas de la infusión: los ácidos orgánicos e iones salinos al inicio, los carbohidratos dulces y aceites a mitad del tiro, y los compuestos vegetales astringentes al final.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Cambiar de taza cada 6 segundos durante una extracción te enseña para siempre que los ácidos salen al principio, el dulzor en medio y el amargor al final., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Wide environmental domestic interior shot on 24mm lens: realistic scene illustrating 'El Experimento del 'Salami Shot': Divide tu Espresso en 5 Vasos para Probar Ácidos, Dulzor y Amargor' (que es el salami shot en cafe espresso) for cafeteracompacta.com, featuring equipment in sleek titanium silver with carbon-gray texture, beside a neat storage shelf in a sunlit modern room, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "El Experimento del 'Salami Shot': Divide tu Espresso en 5 Vasos para Probar Ácidos, Dulzor y Amargor"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **que es el salami shot en cafe espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Cambiar de taza cada 6 segundos durante una extracción te enseña para siempre que los ácidos salen al principio, el dulzor en medio y el amargor al final."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Cuando pruebas un espresso completo recién extraído y sientes que te golpea la lengua con una sensación áspera, muchas veces no sabes distinguir si te has quedado corto de extracción (acidez agria) o si te has pasado de tiempo (amargor seco). Esta confusión sensorial, conocida en barismo como *sour-bitter confusion*, lleva a muchos usuarios de cafeteras como la **Breville Bambino BES450** o la **CASABREWS CM5418** a ajustar el molino en la dirección equivocada. El experimento del **Salami Shot** resuelve este problema de raíz: al trocear un único tiro continuo de **30 segundos** en **5 vasos separados**, puedes catar por aislado qué compuestos químicos salen del portafiltro en cada tramo de **6 segundos**, partiendo siempre de [calcular cuántos gramos caben en tu cesta de 51 mm o 54 mm](/extraccion-y-recetas-espresso/como-saber-cuantos-gramos-caben-en-tu-cesta-de-51mm-vs-54mm/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: que es el salami shot en cafe espresso"
+      "text": "Química de la extracción por fases: por qué los ácidos salen en el segundo 6 y los taninos al final"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **que es el salami shot en cafe espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "El agua caliente presurizada a **9 bares** no disuelve los compuestos solubles del café molido al mismo ritmo. Durante los primeros segundos, el caudal arrastra las moléculas más polares y ligeras: **ácidos orgánicos** (cítrico, málico y fosfórico), sales minerales, cafeína temprana y lípidos emulsionados con dióxido de carbono. Entre el segundo **12 y el 24**, cuando la estructura celular del grano ya se ha hidratado, comienzan a liberarse los **carbohidratos complejos y azúcares caramelizados** (reacción de Maillard), que aportan dulzor redondo y equilibran la acidez inicial, clave si luego vas a [preparar un café cortado perfecto en proporción 1:1](/extraccion-y-recetas-espresso/receta-de-cafe-cortado-y-gibraltar-proporcion-1-a-1-con-leche/). A partir del segundo **25**, agotados los azúcares, el agua solo arranca fibras vegetales y polifenoles pesados que arruinan bebidas claras como al [elaborar un espresso tonic refrescante con piel de naranja](/extraccion-y-recetas-espresso/receta-de-espresso-tonic-con-agua-tonica-y-piel-de-naranja/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: que es el salami shot en cafe espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Vaso / Fracción",
+        "Ventana de Tiempo",
+        "Aspecto Visual y Textura",
+        "Compuestos Dominantes",
+        "Sabor en Boca al Catarlo Solo"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Cambiar de taza cada 6 segundos durante una extracción te enseña para siempre que los ácidos salen al principio, el dulzor en medio y el amargor al final.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Vaso 1 (Cabeza / Ristretto inicial)",
+          "0 a 6 segundos (incluye pre-infusión)",
+          "Gotas densas color chocolate negro, muy viscoso",
+          "Ácidos orgánicos, sales minerales y aceites pesados",
+          "Salado, ácido punzante, intenso y casi jarabe (sub-extracción pura)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Vaso 2 (Cuerpo temprano)",
+          "7 a 12 segundos",
+          "Chorro color avellana rojizo con crema espesa",
+          "Ácidos frutales brillantes y primeros azúcares simples",
+          "Acidez frutal vibrante con inicio de dulzor y textura cremosa"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Vaso 3 (Corazón dulce)",
+          "13 a 18 segundos",
+          "Flujo estable color caramelo dorado",
+          "Melanoidinas y carbohidratos de Maillard",
+          "Dulce, equilibrado, redondo, notas a caramelo o cacao suave"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "Vaso 4 (Transición)",
+          "19 a 24 segundos",
+          "Flujo más claro color miel pálida, cuerpo ligero",
+          "Últimos azúcares solubles y compuestos tostados",
+          "Dulzor tenue que da paso a notas tostadas limpias"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Vaso 5 (Cola / Rubia final)",
+          "25 a 30+ segundos",
+          "Chorro acuoso amarillo pálido (blonding) sin cuerpo",
+          "Taninos, celulosa hidrolizada y alcaloides tardíos",
+          "Aguado, amargo ceniciento y astringente (seca el paladar)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre que es el salami shot en cafe espresso",
-      "text": "Cambiar de taza cada 6 segundos durante una extracción te enseña para siempre que los ácidos salen al principio, el dulzor en medio y el amargor al final. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Radiografía sensorial y química de las 5 fracciones de un Salami Shot (dosis base: 18 g en 54 mm o 15 g en 51 mm)"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar que es el salami shot en cafe espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Cómo realizar el experimento de los 5 vasos en tu cafetera compacta sin quemarte los dedos"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Alinear 5 vasos de chupito o espresso precalentados",
+          "text": "Coloca 5 vasitos numerados del 1 al 5 en fila junto a la bandeja de goteo de tu Breville Bambino, De’Longhi Dedica o CASABREWS CM5418."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Iniciar la extracción en modo manual con cronómetro",
+          "text": "Arranca el tiro manteniendo el Vaso 1 bajo las boquillas desde el momento en que pulsas el botón hasta cumplir los primeros 6 segundos."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Deslizar el siguiente vaso cada 6 segundos exactos",
+          "text": "Sin detener la bomba, empuja el Vaso 1 con la pared del Vaso 2 en el segundo 6, cambia al Vaso 3 en el 12, al Vaso 4 en el 18 y al Vaso 5 del 24 al 30."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Catar en orden del 1 al 5 y luego mezclar los vasos",
+          "text": "Prueba cada vaso con cucharilla para memorizar la acidez (Vaso 1) frente a la astringencia (Vaso 5); después, mezcla del 1 al 4 y añade gotas del 5 para ver cómo cambia el balance."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Cómo usar el Vaso 4 y el Vaso 5 para decidir dónde cortar tus recetas diarias"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "El verdadero valor práctico del Salami Shot no está solo en entrenar la lengua, sino en calibrar el ratio exacto de cada bolsa de café en grano. Si al probar el **Vaso 4 (segundos 19 a 24)** de un tueste oscuro italiano ya percibes notas de ceniza y sequedad, significa que debes cortar tus extracciones diarias en un **ratio 1:1.7** (por ejemplo, **15 g en seco → 25.5 g en taza**). Si por el contrario usas un tueste claro y el **Vaso 5** aún aporta dulzor floral sin astringencia, estira tu receta diaria hasta un **ratio 1:2.5**.",
+      "title": "Diagnóstico inmediato para ajustar el ratio de tu bolsa de café actual"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con que es el salami shot en cafe espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Revisa la disponibilidad en tiempo real de vasos medidores de espresso de borosilicato, básculas con cronómetro automático y cucharillas de cata profesional en las tarjetas de Amazon integradas, o consulta a nuestro Asesor IA para ajustar el perfil de extracción de tu grano."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre que es el salami shot en cafe espresso?",
-      "a": "Cambiar de taza cada 6 segundos durante una extracción te enseña para siempre que los ácidos salen al principio, el dulzor en medio y el amargor al final. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cómo distingo en el experimento la acidez agria del amargor astringente?",
+      "a": "La acidez de sub-extracción (Vaso 1) hace salivar los laterales de la lengua de forma inmediata con un golpe eléctrico y salino. El amargor de sobre-extracción (Vaso 5) se siente al fondo de la lengua y deja el paladar áspero y seco, similar a masticar la piel de una nuez o beber té negro recalentado."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Puedo hacer el Salami Shot si mi cafetera usa cesta presurizada de doble pared?",
+      "a": "Sí, el experimento funciona en ambas, aunque con una cesta no presurizada (simple pared) como la de la Breville Bambino o un portafiltro sin fondo de 51 mm verás con mucha mayor claridad el cambio de color del chorro desde el marrón oscuro del Vaso 1 hasta el amarillo pálido (blonding) del Vaso 5."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cuento los 6 segundos del primer vaso desde que pulso el botón o desde la primera gota?",
+      "a": "Para contar desde el momento en que pulsas el botón (incluyendo de 3 a 5 segundos de pre-infusión en máquinas como la Bambino o la Dedica), deja el Vaso 1 durante los primeros 8 a 10 segundos hasta recoger las primeras gotas densas, y a partir de ahí cambia los vasos 2, 3, 4 y 5 cada 5 segundos."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/como-hacer-un-americano-perfecto-en-casa-proporcion-agua-y-espresso/",
     "/extraccion-y-recetas-espresso/como-saber-cuantos-gramos-caben-en-tu-cesta-de-51mm-vs-54mm/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/receta-de-cafe-cortado-y-gibraltar-proporcion-1-a-1-con-leche/",
+    "/extraccion-y-recetas-espresso/receta-de-espresso-tonic-con-agua-tonica-y-piel-de-naranja/",
+    "/extraccion-y-recetas-espresso/receta-de-caramel-macchiato-casero-estilo-starbucks/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-es-el-salami-shot-el-experimento-para-entender-las-3-fases-del-espresso.webp"
 }

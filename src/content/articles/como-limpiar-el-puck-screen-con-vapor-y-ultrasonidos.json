@@ -4,161 +4,122 @@
   "path": "/basculas-y-accesorios-barista/como-limpiar-el-puck-screen-con-vapor-y-ultrasonidos/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como limpiar puck screen malla espresso",
   "title": "Cómo Limpiar a Fondo tu Puck Screen de Malla para que No Retenga Aceites Viejos",
-  "seoTitle": "Cómo Limpiar a Fondo tu Puck Screen de Malla para que No Retenga Aceites Viejos | Guía Barista Compacta",
-  "metaDescription": "Cómo Limpiar a Fondo tu Puck Screen de Malla para que No Retenga Aceites Viejos: Después de cada café, enjuágalo bajo el grifo y dale 2 segundos con la lanceta de vapor; una vez por semana sumérgelo en agua caliente con Cafiza. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Después de cada café, enjuágalo bajo el grifo y dale 2 segundos con la lanceta de vapor; una vez por semana sumérgelo en agua caliente con Cafiza.",
-  "quickAnswer": "Sobre como limpiar puck screen malla espresso: Después de cada café, enjuágalo bajo el grifo y dale 2 segundos con la lanceta de vapor; una vez por semana sumérgelo en agua caliente con Cafiza. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Cómo Limpiar a Fondo tu Puck Screen de Malla para que No Retenga Aceites Viejos | cafeteracompacta.com",
+  "metaDescription": "Cómo limpiar a fondo tu puck screen de malla sinterizada de 1.7 mm con vapor, detergente alcalino y ultrasonidos para eliminar aceites rancios internos.",
+  "excerpt": "Método completo en tres niveles para desincrustar lípidos oxidados y microfinos atrapados dentro de las capas de un puck screen de 150 micras usando la lanceta de vapor, Cafiza y baño de ultrasonidos.",
+  "quickAnswer": "Para limpiar a fondo un **puck screen de malla sinterizada de 1.7 mm (150 µm)** no basta con el grifo: debes purgarlo a diario en caliente atravesando ambas caras durante **5 segundos** con la **lanceta de vapor** de tu cafetera. Semanalmente, sumérgelo **15 minutos** en agua a **85 °C** con **3 g de detergente alcalino (Cafiza)** y, cada dos semanas, aplícale un ciclo de **180 segundos en un limpiador de ultrasonidos de 40 kHz** para expulsar los microfinos del núcleo.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Después de cada café, enjuágalo bajo el grifo y dale 2 segundos con la lanceta de vapor; una vez por semana sumérgelo en agua caliente con Cafiza., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Macro texture and build-quality detail shot with shallow depth of field: realistic scene illustrating 'Cómo Limpiar a Fondo tu Puck Screen de Malla para que No Retenga Aceites Viejos' (como limpiar puck screen malla espresso) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, in a bright family home interior with clean architectural lines, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Limpiar a Fondo tu Puck Screen de Malla para que No Retenga Aceites Viejos"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como limpiar puck screen malla espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Después de cada café, enjuágalo bajo el grifo y dale 2 segundos con la lanceta de vapor; una vez por semana sumérgelo en agua caliente con Cafiza."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Basculas Y Accesorios Barista](/basculas-y-accesorios-barista/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Incorporar un disco difusor de malla sinterizada (**puck screen** de **1.7 mm** de grosor y **150 µm** de filtración en diámetros de **51 mm**, **53.3 mm** o **58.5 mm**) es una de las decisiones más prácticas dentro del catálogo de [básculas y accesorios barista](/basculas-y-accesorios-barista/) para mantener impecable la ducha de una **Breville Bambino (BES450)**, una **De’Longhi Dedica Arte (EC885M)** o una **CASABREWS CM5418**. Sin embargo, esa misma capacidad para interceptar los aceites y las partículas en suspensión tiene una cara oculta: tras **15 o 20 extracciones**, aunque las dos caras exteriores de acero inoxidable **316L** parezcan relucientes después de pasarlas bajo el grifo, el laberinto interno de capas prensadas empieza a acumular lípidos polimerizados y microfinos de menos de **50 micras**. Cuando esos depósitos internos se oxidan, no solo obstruyen el paso homogéneo del agua provocando canalizaciones inesperadas, sino que transfieren un retrogusto rancio y ceniciento a cada nuevo espresso."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como limpiar puck screen malla espresso"
+      "text": "Por Qué el Agua del Grifo No Limpia el Interior de una Malla Sinterizada de 1.7 mm"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como limpiar puck screen malla espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "A diferencia de las láminas perforadas de una sola capa —como explicamos al comparar el [puck screen de malla sinterizada de 1.7 mm frente al disco ultrafino grabado de 0.2 mm](/basculas-y-accesorios-barista/puck-screen-de-malla-1-7mm-vs-puck-screen-ultrafino-de-0-2mm/)—, un disco sinterizado clásico se fabrica fusionando bajo calor y presión varias mallas entrelazadas de acero inoxidable **316L**. Al finalizar la extracción, especialmente en máquinas con válvula solenoide de 3 vías como la **Breville Bambino Plus (BES500)** o la **Gaggia Classic Evo Pro**, la despresurización súbita succiona emulsiones grasas de café hacia el núcleo de ese entramado tridimensional de **150 µm**. Un chorro de agua tibia del fregadero apenas alcanza entre **2 y 3 bares** y resbala por la tensión superficial de la cara externa sin atravesar los micro-canales oblicuos del interior; de hecho, si observas desviaciones en tu [portafiltro bottomless sin fondo al diagnosticar channeling](/basculas-y-accesorios-barista/como-usar-un-portafiltro-bottomless-sin-fondo-para-diagnosticar-channeling/) pese a haber medido bien la molienda y elegido [qué muelle instalar en tu tamper calibrado Normcore](/basculas-y-accesorios-barista/que-muelle-instalar-en-tu-tamper-normcore-15lb-25lb-o-30lb/), la causa suele ser un puck screen parcialmente obturado en un sector circular."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: como limpiar puck screen malla espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Método de Limpieza",
+        "Eliminación de Lípidos Oxidados",
+        "Expulsión de Microfinos (< 50 µm)",
+        "Frecuencia Recomendada"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Después de cada café, enjuágalo bajo el grifo y dale 2 segundos con la lanceta de vapor; una vez por semana sumérgelo en agua caliente con Cafiza.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Enjuague bajo grifo de agua caliente",
+          "Baja (solo arrastra residuos superficiales frescos)",
+          "Muy baja (no vence la tensión capilar interna)",
+          "Inmediatamente tras cada shot (paso previo)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Purga directa con lanceta de vapor a presión",
+          "Media-Alta (funde y barre aceites aún líquidos)",
+          "Alta si se aplica en los primeros 30 segundos",
+          "Diaria, al terminar la sesión de cafés"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Inmersión en detergente alcalino (Cafiza 85 °C)",
+          "Sobresaliente (saponifica grasas polimerizadas)",
+          "Media (disuelve el aglutinante pero requiere purga)",
+          "Semanal (15 minutos de remojo estático)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Baño de ultrasonidos (40–42 kHz + Cafiza)",
+          "Total (100 % libre de aceites y olores)",
+          "Total (la cavitación desaloja el núcleo de 150 µm)",
+          "Quincenal o mensual para restauración profunda"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre como limpiar puck screen malla espresso",
-      "text": "Después de cada café, enjuágalo bajo el grifo y dale 2 segundos con la lanceta de vapor; una vez por semana sumérgelo en agua caliente con Cafiza. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Eficacia real de los 4 métodos de limpieza sobre un Puck Screen de malla multicapa (1.7 mm / 150 µm)"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como limpiar puck screen malla espresso hoy mismo en tu cocina"
+      "text": "El Error del Lavavajillas Doméstico con Perfume en Mallas Porosas 316L"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "h2",
+      "text": "Protocolo en 4 Pasos: Vapor Diario, Saponificación Alcalina y Ultrasonidos a 40 kHz"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "1. Soplado diario en caliente con la lanceta de vapor de tu cafetera",
+          "text": "Justo después de extraer el disco del portafiltro y enjuagar los granos sueltos, sujétalo con unas pinzas o sobre un paño doblado y aplica un chorro directo de vapor desde la lanceta de tu **CASABREWS CM5418**, **Dedica Arte** o **Breville Bambino** a **1 cm** de distancia durante **5 segundos** por cada cara; verás salir una nube marrón de aceites que el grifo no había sacado."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "2. Baño semanal de saponificación con percarbonato (Cafiza) a 85 °C",
+          "text": "Una vez por semana, disuelve **3 g** (media cucharadita) de detergente específico de espresso en **200 ml** de agua recién hervida (**85 °C a 90 °C**) dentro de una jarra de leche o taza cerámica y sumerge el puck screen durante **15 a 20 minutos** hasta que el agua se tiña de color ámbar oscuro."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "3. Cavitación profunda en limpiador de ultrasonidos de 40 a 42 kHz",
+          "text": "Cada dos semanas, introduce el disco junto con la solución templada de detergente alcalino en un limpiador ultrasónico compacto (los mismos de **40 kHz** usados para joyería o gafas) y activa un ciclo de **180 a 300 segundos**; las microburbujas de cavitación implosionan dentro de los poros de **150 µm**, expulsando penachos oscuros de finos mineralizados desde el centro de la malla."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "4. Prueba final del agua cristalina y secado vertical al aire",
+          "text": "Enjuaga abundantemente bajo el grifo y vuelve a aplicar **4 segundos** de vapor sobre una servilleta de papel blanca; si las gotas que atraviesan la malla dejan la servilleta **100 % transparente** sin halo amarillento, el disco está completamente desincrustado y listo para secarse de canto sobre su soporte."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con como limpiar puck screen malla espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Consulta en las tarjetas de Amazon integradas en esta página los limpiadores de ultrasonidos compactos de 40 kHz, el detergente en polvo Cafiza y los puck screens de acero 316L compatibles con tu cesta, o pregunta a nuestro Asesor IA qué rutina de mantenimiento se ajusta mejor a tu modelo."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como limpiar puck screen malla espresso?",
-      "a": "Después de cada café, enjuágalo bajo el grifo y dale 2 segundos con la lanceta de vapor; una vez por semana sumérgelo en agua caliente con Cafiza. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cómo saco el puck screen caliente del portafiltro sin quemarme ni doblarlo en el knock box?",
+      "a": "Golpear el portafiltro directamente en el knock box con la malla puesta puede abombar o doblar el disco de 1.7 mm si impacta contra la barra central. El método más rápido consiste en presionar con la palma de la mano sobre el borde de la cesta (creando un pequeño vacío de aire) o dar un toque lateral seco en la palma para que el disco caiga solo antes de tirar la pastilla."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Puedo limpiar el puck screen con ácido cítrico o vinagre en lugar de detergente Cafiza?",
+      "a": "El ácido cítrico o los descalcificadores sirven para disolver carbonato de calcio (sarro del agua), pero no disuelven las grasas ni los aceites tostados del café; de hecho, los ácidos pueden fijar los lípidos. Para el puck screen necesitas un compuesto alcalino oxigenado como percarbonato de sodio puro o detergente de cafeteras tipo Urnex Cafiza o Puly Caff."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cada cuánto tiempo hay que cambiar o reemplazar un puck screen de malla sinterizada?",
+      "a": "No. Al estar fabricado en acero inoxidable 316L de grado quirúrgico y alimentario, un puck screen de 1.7 mm que se limpia semanalmente con detergente alcalino y vapor no pierde su permeabilidad ni se oxida, pudiendo durar años sin necesidad de reemplazo siempre que no se doble mecánicamente."
     }
   ],
   "related": [
-    "/basculas-y-accesorios-barista/",
-    "/basculas-y-accesorios-barista/estaciones-de-tamping-compactas-todo-en-uno-merecen-la-pena/",
-    "/basculas-y-accesorios-barista/mangos-de-portafiltro-de-madera-nogal-vs-resina-acrilica-cuidado/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/basculas-y-accesorios-barista/como-usar-un-portafiltro-bottomless-sin-fondo-para-diagnosticar-channeling/",
+    "/basculas-y-accesorios-barista/como-hacer-la-tecnica-wdt-correctamente-de-abajo-hacia-arriba/",
+    "/basculas-y-accesorios-barista/puck-screen-de-malla-1-7mm-vs-puck-screen-ultrafino-de-0-2mm/",
+    "/basculas-y-accesorios-barista/que-muelle-instalar-en-tu-tamper-normcore-15lb-25lb-o-30lb/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-limpiar-el-puck-screen-con-vapor-y-ultrasonidos.webp"
 }

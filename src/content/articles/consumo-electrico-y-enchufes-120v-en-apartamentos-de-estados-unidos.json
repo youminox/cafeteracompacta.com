@@ -4,161 +4,156 @@
   "path": "/espacios-pequenos-y-coffee-corner/consumo-electrico-y-enchufes-120v-en-apartamentos-de-estados-unidos/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "consumo amperios cafetera espresso 120v estados unidos",
   "title": "Guía Eléctrica para tu Coffee Corner en EE. UU.: Cuántos Amperios Consumen Cafetera y Molino en 120V",
-  "seoTitle": "Guía Eléctrica para tu Coffee Corner en EE. UU. | Guía Barista Compacta",
-  "metaDescription": "Guía Eléctrica para tu Coffee Corner en EE. UU.: Cuántos Amperios Consumen Cafetera y Molino en 120V: Tu cafetera consume ~11–12.5A al calentar y el molino solo ~1.5A durante 15 segundos: pueden compartir perfectamente el mismo enchufe doble. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Tu cafetera consume ~11–12.5A al calentar y el molino solo ~1.5A durante 15 segundos: pueden compartir perfectamente el mismo enchufe doble.",
-  "quickAnswer": "Sobre consumo amperios cafetera espresso 120v estados unidos: Tu cafetera consume ~11–12.5A al calentar y el molino solo ~1.5A durante 15 segundos: pueden compartir perfectamente el mismo enchufe doble. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Guía Eléctrica para tu Coffee Corner en EE. UU.: Cuántos Amperios Consumen Cafetera y Molino en 120V | cafeteracompacta.com",
+  "metaDescription": "Calcula cuántos amperios consumen tu cafetera espresso y molino en enchufes de 120V en EE. UU. para evitar que salte el disyuntor de 15A o 20A en tu cocina.",
+  "excerpt": "Las cafeteras compactas demandan entre 1100 W y 1650 W en redes de 120V. Te explicamos la carga real en amperios de cada modelo y cómo compartir un circuito de 15A o 20A sin disparar el breaker.",
+  "quickAnswer": "En la red estadounidense de **120V / 60Hz**, una cafetera espresso compacta consume entre **9.2 y 13.75 amperios** durante los picos de calentamiento de su caldera o bloque térmico. Dado que un molino doméstico como el **Baratza Encore ESP** o **Fellow Opus** solo añade entre **0.8 y 1.3 amperios**, puedes enchufar ambos en el mismo circuito de **15A** (**1800 W** máximos) siempre que no actives simultáneamente un microondas o tostadora.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Tu cafetera consume ~11–12.5A al calentar y el molino solo ~1.5A durante 15 segundos: pueden compartir perfectamente el mismo enchufe doble., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Eye-level 35mm editorial documentary photograph: realistic scene illustrating 'Guía Eléctrica para tu Coffee Corner en EE. UU.: Cuántos Amperios Consumen Cafetera y Molino en 120V' (consumo amperios cafetera espresso 120v estados unidos) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, on a matte dark-gray technical mat with measuring tools nearby, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Guía Eléctrica para tu Coffee Corner en EE. UU.: Cuántos Amperios Consumen Cafetera y Molino en 120V"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **consumo amperios cafetera espresso 120v estados unidos** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Tu cafetera consume ~11–12.5A al calentar y el molino solo ~1.5A durante 15 segundos: pueden compartir perfectamente el mismo enchufe doble."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Espacios Pequenos Y Coffee Corner](/espacios-pequenos-y-coffee-corner/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Pocas cosas resultan más frustrantes a primera hora de la mañana que estar texturizando leche en tu **Breville Bambino Plus (BES500)** mientras alguien activa el microondas o una tostadora y que todo el rincón de la cocina quede a oscuras porque ha saltado el interruptor magnetotérmico (*circuit breaker*) del apartamento. En la red doméstica de Estados Unidos a **120V y 60Hz**, cualquier aparato que calienta agua en segundos consume una fracción muy alta de la capacidad de un circuito residencial. Dentro de nuestra [guía de espacios pequeños y coffee corner](/espacios-pequenos-y-coffee-corner/), hemos medido la demanda eléctrica real en vatios (**W**) y amperios (**A**) de cada máquina para que planifiques tus enchufes con total seguridad."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: consumo amperios cafetera espresso 120v estados unidos"
-    },
-    {
-      "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **consumo amperios cafetera espresso 120v estados unidos** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Tabla de consumo en vatios (W) y amperios (A) a 120V de las cafeteras y molinos más populares"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: consumo amperios cafetera espresso 120v estados unidos",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Modelo de Cafetera o Molino",
+        "Potencia Nominal (W)",
+        "Consumo Pico en 120V (Amperios)",
+        "% de un Circuito de 15A (1800W)",
+        "% de un Circuito de 20A (2400W)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Tu cafetera consume ~11–12.5A al calentar y el molino solo ~1.5A durante 15 segundos: pueden compartir perfectamente el mismo enchufe doble.",
-          "Mejora la consistencia y evita errores de extracción"
+          "De’Longhi Stilosa EC260BK",
+          "1100 W",
+          "9.17 A",
+          "61.1 %",
+          "45.8 %"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "De’Longhi Dedica Arte EC885M",
+          "1300 W",
+          "10.83 A",
+          "72.2 %",
+          "54.2 %"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Gaggia Classic Evo Pro (US 120V)",
+          "1300 W",
+          "10.83 A",
+          "72.2 %",
+          "54.2 %"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "CASABREWS CM5418 / 3700Essential",
+          "1350 W",
+          "11.25 A",
+          "75.0 %",
+          "56.3 %"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "De’Longhi Dedica Maestro Plus EC950M",
+          "1450 W",
+          "12.08 A",
+          "80.5 %",
+          "60.4 %"
+        ],
+        [
+          "MiiCoffee Apex / Turin Legato (58 mm)",
+          "1450 W",
+          "12.08 A",
+          "80.5 %",
+          "60.4 %"
+        ],
+        [
+          "Breville Bambino BES450 / Plus BES500",
+          "1560 W",
+          "13.00 A",
+          "86.7 %",
+          "65.0 %"
+        ],
+        [
+          "Ninja Luxe Café ES601",
+          "1650 W",
+          "13.75 A",
+          "91.7 %",
+          "68.8 %"
+        ],
+        [
+          "Molino Baratza Encore ESP / Fellow Opus",
+          "100 W – 150 W",
+          "0.83 A – 1.25 A",
+          "5.5 % – 8.3 %",
+          "4.2 % – 6.3 %"
         ]
-      ]
+      ],
+      "caption": "Demanda eléctrica nominal en redes de EE. UU. (120V / 60Hz) aplicando la Ley de Ohm (Amperios = Vatios / 120V)"
     },
     {
       "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre consumo amperios cafetera espresso 120v estados unidos",
-      "text": "Tu cafetera consume ~11–12.5A al calentar y el molino solo ~1.5A durante 15 segundos: pueden compartir perfectamente el mismo enchufe doble. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "fabricante",
+      "text": "Nunca importes una cafetera europea de **220–240V / 50Hz** para usarla en Estados Unidos con un transformador elevador de voltaje. Aunque el convertidor soporte **2000 W**, las bombas vibratorias **ULKA** están sincronizadas con la frecuencia de la red: al operar a **60 Hz** en lugar de **50 Hz**, el pistón oscila a destiempo, cae la presión de extracción y la placa electrónica **PID** puede averiarse.",
+      "title": "Por qué no debes usar una cafetera europea de 230V con transformador en EE. UU."
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar consumo amperios cafetera espresso 120v estados unidos hoy mismo en tu cocina"
+      "text": "Diferencia entre tomas de cocina de 20A (NEMA 5-20R) y circuitos de salón de 15A"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con consumo amperios cafetera espresso 120v estados unidos en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
+      "text": "El Código Eléctrico Nacional (**NEC**) de Estados Unidos exige que las encimeras de cocina modernas dispongan de al menos dos circuitos para pequeños electrodomésticos de **20 amperios** (**2400 W** de pico, identificables a menudo porque la ranura izquierda del enchufe tiene forma de **T** horizontal y cuentan con botones **GFCI** de *TEST* y *RESET*). En cambio, si instalas un carrito de café en el salón, el comedor o una oficina, esas tomas pertenecen casi siempre a circuitos de **15 amperios** (**1800 W** máximos). Como un molino **Baratza Encore ESP** (**0.83 A**) o **Fellow Opus** (**1.25 A**) consume muy poca corriente y además tú mueles el grano *antes* de pulsar el botón de extracción de la cafetera (**9.2 a 13.75 A**), ambos equipos pueden convivir sin problema en la misma toma doble de **15A**, un detalle vital tanto al planificar [cómo montar tu estación de espresso en una oficina o coworking](/espacios-pequenos-y-coffee-corner/como-montar-tu-estacion-de-espresso-en-una-oficina-compartida-coworking/) como al preparar una [mudanza en Estados Unidos con tu cafetera y molino](/espacios-pequenos-y-coffee-corner/mudanza-en-estados-unidos-como-embalar-tu-cafetera-y-molino-en-caja/)."
     },
     {
       "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Reglas de seguridad para regletas, cables de extensión y tomas GFCI en tu rincón de café"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**No actives resistencias secundarias durante los 30 segundos de extracción:** Un microondas (**1200 W / 10 A**), una freidora de aire (**1500 W / 12.5 A**) o un hervidor eléctrico encendido al mismo tiempo que una **Breville Bambino** (**13 A**) superará los **20 A** y disparará el *breaker* de inmediato.",
+        "**Exige calibre 14 AWG o 12 AWG si usas regleta o alargador:** Los cables de extensión domésticos baratos de **16 AWG** o **18 AWG** se recalientan peligrosamente con cargas superiores a **10 A**; verifica que tu regleta esté certificada **UL** para **15A / 1875W** a **120V**.",
+        "**Aleja la salida de vapor de los botones del enchufe GFCI:** Si el enchufe de pared salta con un chasquido propio sin que se apague el resto de la cocina, suele deberse a que el vapor de la lanceta se condensa dentro de la toma **GFCI**; desplaza la cafetera **15 cm** a un lado del receptáculo.",
+        "**Aprovecha la ventaja energética de los bloques térmicos (*ThermoJet* / *Thermoblock*):** Modelos como la **Breville Bambino (BES450)** o la **CASABREWS CM5418** solo demandan sus **11 a 13 amperios** en pulsos intermitentes mientras extraes o espumas, consumiendo cero vatios en reposo tras su apagado automático."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "¿Quieres confirmar la compatibilidad eléctrica de tu próximo equipo en 120V antes de pedirlo? Consulta a nuestro Asesor IA o revisa las especificaciones de la versión norteamericana en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre consumo amperios cafetera espresso 120v estados unidos?",
-      "a": "Tu cafetera consume ~11–12.5A al calentar y el molino solo ~1.5A durante 15 segundos: pueden compartir perfectamente el mismo enchufe doble. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Puedo enchufar la cafetera espresso y el molino eléctrico en el mismo enchufe doble de 120V?",
+      "a": "Sí, puedes enchufar ambos en la misma toma doble de pared o en una regleta robusta de **15A / 1875W** (**calibre 14 AWG**). Incluso si una **Breville Bambino** (**13.0 A**) estuviera calentando exactamente mientras mueles con un **Fellow Opus** (**1.25 A**), la suma de **14.25 A** queda por debajo del límite de **15 A**."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Una cafetera espresso compacta sube mucho la factura de electricidad al mes?",
+      "a": "No tiene ningún impacto perceptible en tu recibo mensual. Aunque una cafetera tenga **1350 W** o **1560 W** de potencia pico, un bloque térmico como el de la **CASABREWS CM5418** o **Breville Bambino** solo trabaja activamente durante unos **2 a 3 minutos** por taza, lo que equivale a menos de **0.07 kWh** al día."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué salta el botón RESET del enchufe GFCI de mi cocina al encender la cafetera?",
+      "a": "Si el botón *RESET* del enchufe **GFCI** salta nada más encender la cafetera en frío, puede indicar una pequeña derivación a tierra en la resistencia o humedad acumulada en la clavija. Prueba la máquina en otro circuito **GFCI** de la cocina para descartar que el receptáculo de pared esté envejecido."
     }
   ],
   "related": [
-    "/espacios-pequenos-y-coffee-corner/",
-    "/espacios-pequenos-y-coffee-corner/como-ocultar-los-cables-de-la-cafetera-y-el-molino-en-la-encimera/",
-    "/espacios-pequenos-y-coffee-corner/carritos-de-cafe-compactos-coffee-bar-cart-para-apartamentos-pequenos/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/espacios-pequenos-y-coffee-corner/seguridad-infantil-en-el-rincon-de-cafe-portafiltro-caliente-y-wdt/",
+    "/espacios-pequenos-y-coffee-corner/mudanza-en-estados-unidos-como-embalar-tu-cafetera-y-molino-en-caja/",
+    "/espacios-pequenos-y-coffee-corner/como-montar-tu-estacion-de-espresso-en-una-oficina-compartida-coworking/",
+    "/espacios-pequenos-y-coffee-corner/organizadores-de-cajon-para-guardar-cestas-ims-filtros-y-cepillos/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/consumo-electrico-y-enchufes-120v-en-apartamentos-de-estados-unidos.webp"
 }

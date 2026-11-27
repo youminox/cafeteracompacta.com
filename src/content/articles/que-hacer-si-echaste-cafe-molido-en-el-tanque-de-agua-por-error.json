@@ -4,161 +4,122 @@
   "path": "/problemas-y-soluciones/que-hacer-si-echaste-cafe-molido-en-el-tanque-de-agua-por-error/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "eche cafe en el deposito de agua de la cafetera",
   "title": "¡Socorro! Eché Café en el Depósito de Agua por Despiste Matutino: Qué Hacer Antes de Encenderla",
-  "seoTitle": "¡Socorro! Eché Café en el Depósito de Agua por Despiste Matutino | Guía Barista Compacta",
-  "metaDescription": "¡Socorro! Eché Café en el Depósito de Agua por Despiste Matutino: Qué Hacer Antes de Encenderla: NO pulses ningún botón para que la bomba no aspire posos: retira el tanque en vertical, vacíalo y limpia el asiento de la válvula con un bastoncillo. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "NO pulses ningún botón para que la bomba no aspire posos: retira el tanque en vertical, vacíalo y limpia el asiento de la válvula con un bastoncillo.",
-  "quickAnswer": "Sobre eche cafe en el deposito de agua de la cafetera: NO pulses ningún botón para que la bomba no aspire posos: retira el tanque en vertical, vacíalo y limpia el asiento de la válvula con un bastoncillo. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "¡Socorro! Eché Café en el Depósito de Agua por Despiste Matutino: Qué Hacer Antes de Encenderla | cafeteracompacta.com",
+  "metaDescription": "¿Te pasó el despiste de 'eché café en el depósito de agua de la cafetera'? Sigue este protocolo de limpieza de válvula y admisión antes de encenderla.",
+  "excerpt": "Un solo gramo de molienda fina aspirado por la bomba Ulka puede bloquear el caudalímetro y carbonizarse en el bloque térmico. Actúa en el orden exacto para salvar el circuito hidráulico sin desmontar.",
+  "quickAnswer": "Si **echaste café en el depósito de agua de la cafetera**, la regla de oro es **no encender la máquina ni pulsar ningún botón de extracción** para evitar que la bomba vibratoria aspire partículas sólidas hacia el caudalímetro y el bloque térmico. Extrae el tanque tirando en vertical, vacíalo en el fregadero, purga la **válvula inferior con resorte** presionándola desde abajo bajo el chorro del grifo y limpia la malla de admisión del chasis con un bastoncillo húmedo.",
+  "readingMinutes": 5,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: NO pulses ningún botón para que la bomba no aspire posos: retira el tanque en vertical, vacíalo y limpia el asiento de la válvula con un bastoncillo., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Low-angle dramatic hero perspective with soft background bokeh on 35mm lens: realistic scene illustrating '¡Socorro! Eché Café en el Depósito de Agua por Despiste Matutino: Qué Hacer Antes de Encenderla' (eche cafe en el deposito de agua de la cafetera) for cafeteracompacta.com, featuring equipment in sleek titanium silver with carbon-gray texture, beside a neat storage shelf in a sunlit modern room, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "¡Socorro! Eché Café en el Depósito de Agua por Despiste Matutino: Qué Hacer Antes de Encenderla"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **eche cafe en el deposito de agua de la cafetera** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. NO pulses ningún botón para que la bomba no aspire posos: retira el tanque en vertical, vacíalo y limpia el asiento de la válvula con un bastoncillo."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Son las seis y media de la mañana, todavía no has tomado tu primera dosis de cafeína y, en piloto automático, vuelcas el cacito o el vaso dosificador con **16 gramos de café recién molido** directamente dentro del tanque transparente de agua de tu **Breville Bambino (BES450)**, **De’Longhi Dedica Arte (EC885M)** o **CASABREWS CM5418**. Al ver la nube marrón dispersándose por el agua limpia se te hiela la sangre, igual que a quienes protagonizan la emergencia opuesta cuando [echan agua en el molino de café por error](/problemas-y-soluciones/que-hacer-si-echaste-agua-en-el-molino-de-cafe-por-error/). Respira hondo y aléjate del panel de botones: como detallamos en nuestro [centro de problemas y soluciones para cafeteras](/problemas-y-soluciones/), si aún no has activado la bomba, el incidente se resuelve al **100 % en el fregadero** sin desmontar un solo tornillo."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: eche cafe en el deposito de agua de la cafetera"
+      "text": "Por Qué Jamás Debes Pulsar el Botón de Café para «Purgar» el Depósito Sucios"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **eche cafe en el deposito de agua de la cafetera** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: eche cafe en el deposito de agua de la cafetera",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "NO pulses ningún botón para que la bomba no aspire posos: retira el tanque en vertical, vacíalo y limpia el asiento de la válvula con un bastoncillo.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "El peor impulso cuando piensas *«eché café en el depósito de agua de la cafetera»* es encender la máquina e intentar vaciar el circuito haciendo correr agua por el grupo. A diferencia del café soluble instantáneo, el café molido para espresso está compuesto por partículas sólidas de celulosa insoluble de entre **200 y 400 micras** que se hinchan al hidratarse. Si accionas la bomba vibratoria **Ulka de 15 o 20 bares**, esta succionará esos granos a través de la toma inferior del chasis hacia tres puntos críticos: el **caudalímetro de turbina (flowmeter)** —cuyo paso interno mide apenas **1.2 mm**—, las microválvulas de bola y resorte dentro de la propia bomba, y los capilares del **Thermoblock o ThermoJet**, donde la fibra de café se carboniza a **93 °C – 140 °C**. Incluso una pequeña obstrucción en el asiento inferior del tanque puede provocar después que [el agua del tanque no baje aunque el tubo esté dentro](/problemas-y-soluciones/el-agua-del-tanque-no-baja-aunque-el-tubo-esta-dentro/)."
     },
     {
       "type": "callout",
       "variant": "aviso",
-      "title": "Precaución técnica sobre eche cafe en el deposito de agua de la cafetera",
-      "text": "NO pulses ningún botón para que la bomba no aspire posos: retira el tanque en vertical, vacíalo y limpia el asiento de la válvula con un bastoncillo. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "Si tu depósito lleva instalado un cartucho filtrante ablandador o de carbón activo (como los filtros **Clarisco / Breville** o **De’Longhi SoftBalls**), retíralo de inmediato y deséchalo si estuvo en contacto con la molienda fina. Los aceites y finos del café taponan de forma irreversible los microporos de la malla del cartucho y reducen el caudal de succión de la bomba.",
+      "title": "Retira y revisa el filtro de resina del depósito de inmediato"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar eche cafe en el deposito de agua de la cafetera hoy mismo en tu cocina"
+      "text": "Qué Hacer Según si Pulsaste el Botón de Extracción o No"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "table",
+      "headers": [
+        "Escenario del incidente",
+        "Zonas afectadas por el café molido",
+        "Nivel de riesgo mecánico",
+        "Acción inmediata obligatoria"
+      ],
+      "rows": [
+        [
+          "No encendiste la bomba (Tanque extraíble)",
+          "Solo el interior del depósito y el labio superior de la válvula de asiento",
+          "Nulo (0 % de entrada al circuito interno)",
+          "Extraer tanque en vertical, vaciar y purgar válvula inferior en el grifo"
+        ],
+        [
+          "Quitaste el tanque y cayeron gotas marrones en la base del chasis",
+          "Receptor hembra de acoplamiento y malla metálica de admisión",
+          "Bajo (retenido por la malla exterior)",
+          "Absorber con jeringa/papel y limpiar malla con bastoncillo húmedo"
+        ],
+        [
+          "Pulsaste el botón de café durante 2 a 5 segundos",
+          "Manguera de silicona de entrada, filtro de malla y entrada del caudalímetro",
+          "Alto (riesgo de bloqueo de turbina y bomba Ulka)",
+          "Cortar corriente al instante, lavar receptáculo y hacer purgas cortas con agua limpia sin portafiltro"
+        ]
+      ],
+      "caption": "Nivel de afectación hidráulica y protocolo correctivo según el momento en que detectaste el error"
+    },
+    {
+      "type": "h2",
+      "text": "Protocolo de Limpieza en 4 Pasos para Salvar la Válvula y la Toma de Admisión"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Extrae el depósito tirando en vertical sin inclinarlo hacia adelante",
+          "text": "Con la cafetera apagada, sujeta el tanque por el asa y levántalo completamente recto. Al separarse del pivote del chasis, el muelle de la **válvula de retención inferior** se cierra automáticamente e impide que los posos sedimentados en el fondo caigan sobre la toma de la máquina."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Vacía y purga la válvula con resorte del fondo del tanque bajo el grifo",
+          "text": "Vuelca el contenido en un colador sobre el fregadero y lava las paredes con agua tibia y una gota de jabón neutro. Luego, llena el tanque con **300 ml** de agua limpia y **presiona desde abajo el vástago central de la válvula del depósito** con el mango de una cuchara o un palillo grueso para que el chorro arrastre cualquier grano atrapado en la goma del asiento."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Inspecciona y aspira el receptáculo de acople en la base de la cafetera",
+          "text": "Ilumina con la linterna del móvil el hueco circular del chasis donde encaja el tanque. Si observas partículas de café alrededor del pivote o sobre la **rejilla micrométrica de acero inoxidable**, retíralas con un bastoncillo de algodón humedecido y una jeringa o perilla de aire sin empujarlas hacia adentro."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Instala el tanque con agua filtrada y lanza dos purgas en vacío de 10 segundos",
+          "text": "Coloca el depósito limpio, encaja un recipiente bajo el grupo (sin portafiltro) y bajo la lanceta de vapor, y haz correr agua caliente durante **10 segundos** por cada vía. Verifica en un vaso transparente que el caudal sea continuo y libre de motas oscuras."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con eche cafe en el deposito de agua de la cafetera en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Necesitas reponer los cartuchos filtrantes de agua originales de tu Breville, De’Longhi o CASABREWS tras el accidente o buscas un depósito de recambio? Consulta a nuestro Asesor IA o revisa la disponibilidad en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre eche cafe en el deposito de agua de la cafetera?",
-      "a": "NO pulses ningún botón para que la bomba no aspire posos: retira el tanque en vertical, vacíalo y limpia el asiento de la válvula con un bastoncillo. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cómo saco el café molido si el depósito de agua de mi cafetera es fijo y no se puede desmontar?",
+      "a": "En modelos ultra-compactos de oficina donde el depósito no se desmonta, **desenchufa el cable de la pared** antes de moverla. Retira el grueso del agua con café usando una jeringa grande o un tubo flexible a modo de sifón, rellena con agua limpia, vuelve a aspirar tres veces y limpia el fondo con papel absorbente sujeto a unas pinzas largas antes de encender la bomba."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué después de lavar el depósito y volver a ponerlo la bomba suena fuerte pero no sale agua?",
+      "a": "Sucede cuando un grano de café quedó alojado bajo la junta de silicona de la válvula inferior del depósito al lavarlo, o cuando se formó una burbuja de aire en la manguera de admisión. Vuelve a vaciar el tanque, presiona repetidamente el resorte de la válvula bajo el chorro del grifo y asienta el depósito con firmeza."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Conviene echar líquido descalcificador en el tanque para disolver los restos de café molido?",
+      "a": "No agregues ácido cítrico ni descalcificador mientras queden partículas sólidas de café en la toma de admisión: el ácido disuelve carbonatos minerales (cal), pero no disuelve la fibra vegetal del café tostado. Primero debes eliminar físicamente todos los posos con agua tibia a presión en el grifo."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/el-agua-del-tanque-no-baja-aunque-el-tubo-esta-dentro/",
+    "/problemas-y-soluciones/por-que-el-cafe-deja-la-boca-seca-astringencia-y-channeling/",
     "/problemas-y-soluciones/que-hacer-si-echaste-agua-en-el-molino-de-cafe-por-error/",
-    "/problemas-y-soluciones/como-reparar-una-fuga-en-la-articulacion-de-bola-de-la-lanceta-de-vapor/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/como-contactar-con-la-garantia-de-casabrews-breville-y-delonghi-en-amazon-usa/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-hacer-si-echaste-cafe-molido-en-el-tanque-de-agua-por-error.webp"
 }

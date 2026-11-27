@@ -4,161 +4,132 @@
   "path": "/mantenimiento-y-descalcificacion/mantenimiento-de-la-valvula-antigoteo-del-fondo-del-tanque-de-agua/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "limpiar valvula tanque de agua cafetera espresso",
   "title": "Cómo Limpiar la Válvula con Muelle del Fondo del Tanque de Agua para que No Gotee al Sacarlo",
-  "seoTitle": "Cómo Limpiar la Válvula con Muelle del Fondo del Tanque de Agua para que No Gotee al Sacarlo | Guía Barista Compacta",
-  "metaDescription": "Cómo Limpiar la Válvula con Muelle del Fondo del Tanque de Agua para que No Gotee al Sacarlo: Un grano de café o partícula de cal atrapada en la goma inferior del depósito puede hacer que pierda agua al llevarlo al grifo. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Un grano de café o partícula de cal atrapada en la goma inferior del depósito puede hacer que pierda agua al llevarlo al grifo.",
-  "quickAnswer": "Sobre limpiar valvula tanque de agua cafetera espresso: Un grano de café o partícula de cal atrapada en la goma inferior del depósito puede hacer que pierda agua al llevarlo al grifo. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Limpiar la Válvula con Muelle del Fondo del Tanque de Agua para que No Gotee al Sacarlo | cafeteracompacta.com",
+  "metaDescription": "Soluciona el goteo de la válvula con muelle del tanque de agua en tu cafetera espresso compacta eliminando sarro y residuos de la junta de silicona.",
+  "excerpt": "Aprende a desbloquear, descalcificar y comprobar el sello elástico del émbolo inferior del depósito en cafeteras Breville Bambino, CASABREWS CM5418 y De’Longhi Dedica sin deformar el resorte.",
+  "quickAnswer": "Para evitar que la válvula inferior del tanque de agua gotee al sacarlo de tu cafetera espresso, vacía el depósito, invierte la base bajo un chorro de agua tibia a **40 °C** y presiona el émbolo central con el dedo **8 a 10 veces** para expulsar granos de café o restos de cal atrapados en el sello de silicona. Si hay sarro incrustado, aplica una solución de ácido láctico al **5 %** durante **10 minutos** y limpia el contorno con un bastoncillo sin estirar el muelle.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Un grano de café o partícula de cal atrapada en la goma inferior del depósito puede hacer que pierda agua al llevarlo al grifo., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Diagonal isometric product-in-use composition in modern home setting: realistic scene illustrating 'Cómo Limpiar la Válvula con Muelle del Fondo del Tanque de Agua para que No Gotee al Sacarlo' (limpiar valvula tanque de agua cafetera espresso) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, on a clean stone countertop with neatly arranged accessories, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Limpiar la Válvula con Muelle del Fondo del Tanque de Agua para que No Gotee al Sacarlo"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **limpiar valvula tanque de agua cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Un grano de café o partícula de cal atrapada en la goma inferior del depósito puede hacer que pierda agua al llevarlo al grifo."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Levantas el depósito trasero de tu **Breville Bambino (BES450)**, **CASABREWS CM5418** o **De’Longhi Dedica Arte (EC885M)** para rellenarlo en el fregadero y, a mitad de camino, un chorro continuo de agua empapa toda tu encimera. La culpable de esta fuga no es una fisura en el acrílico del tanque, sino una partícula microscópica atrapada en la **válvula antigoteo con muelle** ubicada en la base del depósito. Este pequeño mecanismo de retención —formado por un émbolo plástico, un resorte helicoidal de acero inoxidable y una junta tórica o labio de silicona de **12 a 15 mm** de diámetro— solo debe abrirse cuando se apoya sobre el pivote vertical de la cafetera. Mantener limpio este asiento es tan importante como seguir los [4 gestos de 30 segundos después de cada espresso para que tu cafetera dure 10 años](/mantenimiento-y-descalcificacion/rutina-de-limpieza-diaria-de-30-segundos-despues-de-cada-cafe/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: limpiar valvula tanque de agua cafetera espresso"
+      "text": "Por qué pierde estanqueidad el émbolo inferior del depósito de agua"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **limpiar valvula tanque de agua cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Cuando el tanque está fuera de la máquina, la tensión del muelle más el propio peso de la columna de agua (**1.0 L** en la **CASABREWS CM5418**, **1.1 L** en la **Dedica Arte** o **1.4 L** en la **Breville Bambino**) empujan el sello de silicona contra el orificio inferior para crear un cierre hermético. Basta con que un grano de café molido caído al rellenar el depósito, una costra de carbonato cálcico de **0.3 mm** o una película viscosa de *biofilm* se adhiera al borde del labio elástico para que el émbolo quede entreabierto y gotee sin parar. Para disolver las incrustaciones minerales en esa junta sin resecar ni cuartear la silicona, utiliza únicamente agentes suaves siguiendo nuestra comparativa de [ácido láctico EcoDecalk vs ácido cítrico vs ácido sulfámico Urnex Dezcal](/mantenimiento-y-descalcificacion/acido-lactico-ecodecalk-vs-acido-citrico-vs-urnex-dezcal/) y respeta el [calendario de descalcificación según la dureza del agua de tu ciudad](/mantenimiento-y-descalcificacion/cada-cuanto-tiempo-hay-que-descalcificar-segun-la-dureza-del-agua/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: limpiar valvula tanque de agua cafetera espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Síntoma al manipular el tanque",
+        "Causa mecánica en la válvula",
+        "Modelos donde ocurre con frecuencia",
+        "Solución técnica inmediata"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Un grano de café o partícula de cal atrapada en la goma inferior del depósito puede hacer que pierda agua al llevarlo al grifo.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Goteo continuo al levantar el depósito lleno",
+          "Grano de café o escama de cal atrapada bajo el labio de silicona",
+          "CASABREWS CM5418 (1.0 L), De’Longhi Dedica EC885M (1.1 L)",
+          "Presionar el émbolo bajo chorro de agua tibia y limpiar el asiento con bastoncillo"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "La bomba suena fuerte pero no succiona agua del tanque",
+          "Émbolo pegado por cal o aire atrapado en el receptáculo inferior",
+          "Breville Bambino BES450 (1.4 L) y Bambino Plus BES500 (1.9 L)",
+          "Purgar 3 veces la válvula con el dedo antes de asentar el tanque con firmeza"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Agua acumulada bajo la base de la cafetera en reposo",
+          "Junta tórica externa del receptáculo de la máquina reseca o pellizcada",
+          "Todas las cafeteras con tanque extraíble trasero",
+          "Limpiar la cavidad hembra del chasis con paño húmedo y verificar la goma base"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "El émbolo queda hundido y no regresa arriba",
+          "Muelle de acero inoxidable trabado por depósito calcáreo severo",
+          "Máquinas que usan agua dura sin filtro ablandador de resina",
+          "Remojo localizado de 10 minutos con solución de ácido láctico al 5 %"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre limpiar valvula tanque de agua cafetera espresso",
-      "text": "Un grano de café o partícula de cal atrapada en la goma inferior del depósito puede hacer que pierda agua al llevarlo al grifo. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Diagnóstico de fallos en la válvula inferior del tanque en cafeteras compactas"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar limpiar valvula tanque de agua cafetera espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Procedimiento para desbloquear y desincrustar la válvula con muelle sin desmontarla"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Vaciado y accionamiento manual bajo chorro de agua a 40 °C",
+          "text": "Vacía el depósito y colócalo boca abajo en el fregadero. Con la yema del dedo índice (nunca con un cuchillo ni destornillador metálico), presiona el vástago central de la válvula hacia adentro **8 a 10 veces** mientras dejas caer un chorro fuerte de agua tibia (**40 °C**) para expulsar cualquier partícula de café o arenilla alojada bajo la junta."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Baño localizado de 10 minutos con ácido láctico al 5 %",
+          "text": "Si notas tacto áspero o anillos blancos de sarro en el muelle y el émbolo, vierte en el fondo del tanque **100 ml** de agua tibia con **10 ml** de descalcificador de ácido láctico. Presiona la válvula **2 segundos** sobre el fregadero para que el líquido humedezca el interior del asiento y déjalo actuar **10 minutos**."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Limpieza del labio de silicona con bastoncillo de algodón",
+          "text": "Mantén presionado el émbolo con un dedo para abrir la holgura de **3 mm** del sello y pasa un bastoncillo de algodón humedecido en agua jabonosa neutra alrededor de toda la circunferencia del anillo de silicona hasta retirar cualquier resto de *biofilm* o cal blanda."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Inspección del pivote receptor en el chasis de la cafetera",
+          "text": "Con la cafetera desenchufada, ilumina con la linterna del móvil el hueco inferior donde encaja el tanque. Limpia el pivote central y su junta de goma perimetral con papel absorbente húmedo, asegurándote de que no haya granos de café impidiendo que el tanque baje los últimos **2 mm** de recorrido."
+        },
+        {
+          "name": "Prueba de estanqueidad en seco sobre papel absorbente",
+          "text": "Enjuaga el tanque, llénalo hasta la mitad (**500–700 ml**), seca por completo la base exterior y apóyalo durante **60 segundos** sobre una hoja de papel de cocina seca en la encimera: si el papel permanece intacto sin halo de humedad, la válvula ha recuperado su cierre hermético al **100 %**."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Por qué jamás debes desmontar la presilla plástica ni estirar el muelle de acero"
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "En la mayoría de depósitos de **De’Longhi**, **Breville** y **CASABREWS**, el soporte plástico que retiene el muelle va soldado por ultrasonidos o encajado con pestañas de un solo uso. Si intentas hacer palanca con un alicate para sacar el resorte y estirarlo pensando que así cerrará con más fuerza, alterarás su constante elástica: el pivote inferior de la cafetera ya no podrá vencer la resistencia del muelle al colocar el tanque, cortando por completo la entrada de agua hacia la bomba vibratoria Ulka.",
+      "title": "Advertencia mecánica sobre la tensión calibrada del resorte"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con limpiar valvula tanque de agua cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Tu tanque de agua tiene la válvula rota o necesitas filtros ablandadores de resina para tu **Breville Bambino**, **De’Longhi Dedica** o **CASABREWS CM5418**? Revisa los repuestos y accesorios disponibles en las tarjetas de Amazon de esta página o consulta a nuestro Asesor IA."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre limpiar valvula tanque de agua cafetera espresso?",
-      "a": "Un grano de café o partícula de cal atrapada en la goma inferior del depósito puede hacer que pierda agua al llevarlo al grifo. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Puedo meter el tanque de agua de mi cafetera espresso en el lavavajillas para limpiar la válvula?",
+      "a": "Nunca introduzcas el tanque de plástico acrílico (SAN o PMMA) en el lavavajillas. Las temperaturas superiores a 60 °C y las pastillas alcalinas agrietan el plástico transparente, deforman el asiento de la válvula inferior y endurecen la junta de silicona del émbolo, provocando fugas permanentes."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué mi cafetera no chupa agua después de limpiar y volver a poner el tanque?",
+      "a": "Si al poner el tanque lleno en la cafetera salen burbujas y la bomba no aspira agua, se ha formado una bolsa de aire en el conducto de entrada. Levanta y asienta el depósito 2 o 3 veces seguidas para que la válvula purgue el aire y cebe la manguera de succión."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Se vende suelta la gomita de la válvula del tanque de agua si está rota?",
+      "a": "Si el labio de silicona de la válvula está partido o mordido y sigue goteando tras limpiarlo, la opción más fiable es adquirir el depósito de repuesto completo compatible con tu modelo (como el tanque de 1.1 L de la serie Dedica o el de 1.4 L de la Bambino), ya que la válvula viene sellada de fábrica."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/por-que-sale-agua-marron-o-particulas-negras-por-la-ducha-del-grupo/",
-    "/mantenimiento-y-descalcificacion/como-descalcificar-ninja-luxe-cafe-es601-ciclo-descale-y-clean/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/acido-lactico-ecodecalk-vs-acido-citrico-vs-urnex-dezcal/",
+    "/mantenimiento-y-descalcificacion/se-puede-hacer-backflush-en-casabrews-cm5418-o-delonghi-dedica/",
+    "/mantenimiento-y-descalcificacion/cada-cuanto-tiempo-hay-que-descalcificar-segun-la-dureza-del-agua/",
+    "/mantenimiento-y-descalcificacion/rutina-de-limpieza-diaria-de-30-segundos-despues-de-cada-cafe/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/mantenimiento-de-la-valvula-antigoteo-del-fondo-del-tanque-de-agua.webp"
 }

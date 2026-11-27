@@ -4,161 +4,116 @@
   "path": "/problemas-y-soluciones/el-cafe-sale-con-poca-cantidad-aunque-el-tanque-esta-lleno/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cafetera saca menos cantidad de cafe que antes",
   "title": "Por Qué tu Cafetera Corta el Shot a los 10 Gramos Aunque Antes Sacaba 36 Gramos",
-  "seoTitle": "Por Qué tu Cafetera Corta el Shot a los 10 Gramos Aunque Antes Sacaba 36 Gramos | Guía Barista Compacta",
-  "metaDescription": "Por Qué tu Cafetera Corta el Shot a los 10 Gramos Aunque Antes Sacaba 36 Gramos: El caudalímetro interno cuenta el agua que entra a la bomba: si mueles mucho más fino, parte del agua se desvía por la válvula de alivio y en taza cae menos. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "El caudalímetro interno cuenta el agua que entra a la bomba: si mueles mucho más fino, parte del agua se desvía por la válvula de alivio y en taza cae menos.",
-  "quickAnswer": "Sobre cafetera saca menos cantidad de cafe que antes: El caudalímetro interno cuenta el agua que entra a la bomba: si mueles mucho más fino, parte del agua se desvía por la válvula de alivio y en taza cae menos. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué tu Cafetera Corta el Shot a los 10 Gramos Aunque Antes Sacaba 36 Gramos | cafeteracompacta.com",
+  "metaDescription": "¿Tu cafetera espresso corta el café a los 10 gramos con el tanque lleno? Descubre cómo actúan la válvula OPV, el flujómetro y la memoria volumétrica.",
+  "excerpt": "Analizamos las tres causas mecánicas y electrónicas por las que una cafetera compacta reduce drásticamente el volumen en taza y cómo recalibrar el flujómetro y la dosis del portafiltro en casa.",
+  "quickAnswer": "Cuando tu cafetera corta el espresso a los 10 gramos con el depósito lleno, se debe a una de dos causas: o bien la molienda es tan fina que la válvula de sobrepresión (OPV) desvía hacia la bandeja de goteo el agua que el flujómetro ya contabilizó, o bien reprogramaste por accidente la memoria volumétrica al mantener pulsado el botón más de 3 segundos.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: El caudalímetro interno cuenta el agua que entra a la bomba: si mueles mucho más fino, parte del agua se desvía por la válvula de alivio y en taza cae menos., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Wide environmental domestic interior shot on 24mm lens: realistic scene illustrating 'Por Qué tu Cafetera Corta el Shot a los 10 Gramos Aunque Antes Sacaba 36 Gramos' (cafetera saca menos cantidad de cafe que antes) for cafeteracompacta.com, featuring equipment in arctic white with warm stone-gray details, on a matte dark-gray technical mat with measuring tools nearby, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué tu Cafetera Corta el Shot a los 10 Gramos Aunque Antes Sacaba 36 Gramos"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cafetera saca menos cantidad de cafe que antes** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. El caudalímetro interno cuenta el agua que entra a la bomba: si mueles mucho más fino, parte del agua se desvía por la válvula de alivio y en taza cae menos."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Colocas tu báscula bajo el portafiltro esperando los **36 gramos** habituales de tu receta en **27 segundos**, pulsas el botón de café doble en tu **CASABREWS CM5418**, **Breville Bambino (BES450)** o **De’Longhi Dedica Arte (EC885M)** y, de pronto, la bomba se detiene en seco cuando apenas han caído **10 o 12 gramos** en la taza, a pesar de que el depósito trasero de **1.1 a 1.5 litros** está lleno hasta la marca máxima. Antes de pensar que la bomba ha perdido fuerza, debes comprender un principio clave que explicamos en nuestra [sección de problemas y soluciones de extracción](/problemas-y-soluciones/): ninguna cafetera compacta mide el líquido que cae en tu taza, sino el agua fría que pasa por su **flujómetro de turbina interno** antes de entrar siquiera a la bomba vibratoria. Es decir, la máquina sí contó sus **65 a 80 ml** programados, pero la mayor parte de ese caudal se desvió hacia la bandeja de goteo —o se perdió si tienes que [solucionar el goteo de la lanceta mientras haces el espresso](/problemas-y-soluciones/como-solucionar-el-goteo-de-la-lanceta-mientras-haces-el-espresso/)— o bien reprogramaste por accidente la memoria del botón al mantenerlo pulsado de más."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cafetera saca menos cantidad de cafe que antes"
-    },
-    {
-      "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cafetera saca menos cantidad de cafe que antes** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: cafetera saca menos cantidad de cafe que antes",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "El caudalímetro interno cuenta el agua que entra a la bomba: si mueles mucho más fino, parte del agua se desvía por la válvula de alivio y en taza cae menos.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre cafetera saca menos cantidad de cafe que antes",
-      "text": "El caudalímetro interno cuenta el agua que entra a la bomba: si mueles mucho más fino, parte del agua se desvía por la válvula de alivio y en taza cae menos. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
-    },
-    {
-      "type": "h2",
-      "text": "Paso a paso para aplicar cafetera saca menos cantidad de cafe que antes hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con cafetera saca menos cantidad de cafe que antes en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Las 3 Rutas por Donde Desaparece el Agua que el Flujómetro Sí Contó"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Desvío por la válvula de sobrepresión (OPV) hacia la bandeja de goteo**: Cuando mueles un punto más fino o subes la dosis de **16 g a 18 g** en una cesta de **51 mm** o **54 mm**, la resistencia hidráulica de la pastilla supera el tarado de la válvula **OPV (9 bares en Breville, 12–15 bares en CASABREWS y Dedica)**. El flujómetro cuenta cada mililitro que sale del tanque, pero hasta **40 ml de agua** se desvían directamente por el conducto de alivio hacia la bandeja inferior sin atravesar el café.",
+        "**Absorción de la pastilla seca (retención de 2 ml por cada gramo de café)**: Una dosis de **18 gramos** de café tostado seco retiene por capilaridad entre **32 y 36 ml de agua** dentro del portafiltro antes de que empiece a gotear de forma continua, por lo que cualquier pérdida adicional deja la taza prácticamente vacía.",
+        "**Reprogramación volumétrica involuntaria al pulsar el botón**: En la **CASABREWS CM5418**, **Breville Bambino** y **Dedica EC885M**, mantener presionado el botón de **1 o 2 tazas durante más de 3 segundos** activa el modo de grabación de volumen; si lo sueltas a los pocos segundos para intentar parar la máquina, habrás guardado ese micro-volumen como nuevo ajuste permanente.",
+        "**Falsa lectura por microburbujas o sarro en la hélice del flujómetro**: Si una partícula de cal o una burbuja de aire acelera erráticamente la pequeña turbina magnética de **efecto Hall**, la placa electrónica cree que ya pasaron **70 ml** en solo **8 segundos** y corta la bomba prematuramente."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Cómo Distinguir un Bloqueo Hidráulico de una Memoria Desprogramada"
     },
     {
       "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Para saber en **15 segundos** cuál de las dos causas está recortando tu espresso, retira el portafiltro del grupo, coloca una taza sobre la báscula tarada a cero y pulsa una sola vez el botón de **2 tazas (Double Shot)**. Si sin café de por medio caen entre **65 y 85 gramos de agua libre**, el flujómetro y la memoria electrónica están en orden: el culpable es un **taponamiento parcial de la pastilla (choking)** que está obligando a la válvula de alivio a evacuar el caudal sobrante hacia la bandeja —donde además escucharás al final de la extracción [por qué suena un golpe 'clack' al terminar el espresso en la Bambino Plus](/problemas-y-soluciones/por-que-suena-un-golpe-clack-al-terminar-el-espresso-en-la-bambino-plus/) al descargar la presión residual de la válvula solenoide—. Por el contrario, si incluso sin el portafiltro puesto la máquina se apaga tras soltar apenas **20 o 30 gramos de agua**, la memoria volumétrica del botón quedó grabada con un tiempo corto y solo necesitas ejecutar el reseteo de fábrica de tu modelo."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Si al terminar tu shot corto levantas la rejilla metálica y encuentras la bandeja de goteo llena de agua limpia y caliente, tienes la prueba definitiva: la válvula **OPV** estuvo abierta durante toda la extracción porque tu molienda es demasiado fina o la cesta presurizada tiene su micro-orificio central obstruido.",
+      "title": "La prueba infalible de la bandeja de goteo tras un shot de 10 gramos"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo Restaurar el Volumen de Fábrica en CASABREWS, Breville y De’Longhi"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Modelo de cafetera compacta",
+        "Volumen libre de fábrica (sin café)",
+        "Comando exacto de reseteo volumétrico",
+        "Confirmación visual en el panel"
+      ],
+      "rows": [
+        [
+          "CASABREWS CM5418 / 3700Essential",
+          "1 taza: ~40 ml / 2 tazas: ~80 ml",
+          "Con la máquina en espera, mantén pulsados a la vez '1 Cup' y '2 Cup' durante 5 segundos",
+          "Todos los botones parpadean 3 veces y vuelve a estado fijo"
+        ],
+        [
+          "Breville Bambino (BES450)",
+          "1 taza: ~30 ml / 2 tazas: ~60 ml",
+          "En modo espera, mantén presionados '1 Cup' y '2 Cup' simultáneamente durante 5 segundos",
+          "Los LEDs de 1 y 2 tazas destellan 3 veces seguidas"
+        ],
+        [
+          "Breville Bambino Plus (BES500)",
+          "1 taza: ~30 ml / 2 tazas: ~60 ml",
+          "Con la máquina apagada (Standby), pulsa '1 Cup' y 'Steam' a la vez durante 5 segundos",
+          "Los indicadores frontales parpadean confirmando el reinicio"
+        ],
+        [
+          "De’Longhi Dedica Arte (EC885M)",
+          "1 taza: ~40 ml / 2 tazas: ~75 ml",
+          "Entra al menú manteniendo el botón de vapor 10 s, pulsa '2 Tazas' y confirma",
+          "Los tres indicadores parpadean al unísono 3 veces"
+        ]
+      ],
+      "caption": "Comandos oficiales para devolver el volumen de agua por defecto a los botones de 1 y 2 tazas"
+    },
+    {
+      "type": "cta",
+      "text": "¿Ya reseteaste el volumen de fábrica pero necesitas una báscula barista con temporizador para cortar tus shots al gramo exacto en modo manual? Pregunta a nuestro Asesor IA o consulta la disponibilidad de básculas compactas y cestas despresurizadas en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cafetera saca menos cantidad de cafe que antes?",
-      "a": "El caudalímetro interno cuenta el agua que entra a la bomba: si mueles mucho más fino, parte del agua se desvía por la válvula de alivio y en taza cae menos. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué los baristas recomiendan cortar el café en modo manual en vez de usar el botón automático?",
+      "a": "Los botones preprogramados dependen de un flujómetro situado antes de la bomba, por lo que no descuentan el agua desviada por la válvula de sobrepresión ni la absorbida por el grano. Al usar el modo manual sobre una báscula, tú detienes la bomba exactamente al alcanzar los 36 gramos en taza."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Una cesta presurizada sucia puede hacer que salga menos cantidad de café?",
+      "a": "Las cestas presurizadas (de doble pared) canalizan todo el café por un único agujero de 0.3 mm en la base. Si un grano fino o aceite reseco tapona parcialmente ese orificio, la presión sube al máximo de inmediato y la válvula de seguridad desvía el agua restante antes de llegar a la taza."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cómo programo mi propia cantidad personalizada en el botón de dos tazas?",
+      "a": "En la mayoría de cafeteras compactas basta con mantener pulsado el botón de 2 tazas durante 3 o 4 segundos hasta que parpadee, dejar que el café caiga sobre tu báscula y volver a pulsar el mismo botón al llegar a unos 32 gramos (los 4 gramos restantes caerán por inercia)."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/como-reparar-una-fuga-en-la-articulacion-de-bola-de-la-lanceta-de-vapor/",
+    "/problemas-y-soluciones/por-que-el-agua-caliente-de-la-cafetera-sale-blanca-o-con-microburbujas/",
     "/problemas-y-soluciones/por-que-suena-un-golpe-clack-al-terminar-el-espresso-en-la-bambino-plus/",
-    "/problemas-y-soluciones/como-contactar-con-la-garantia-de-casabrews-breville-y-delonghi-en-amazon-usa/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/como-solucionar-el-goteo-de-la-lanceta-mientras-haces-el-espresso/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/el-cafe-sale-con-poca-cantidad-aunque-el-tanque-esta-lleno.webp"
 }

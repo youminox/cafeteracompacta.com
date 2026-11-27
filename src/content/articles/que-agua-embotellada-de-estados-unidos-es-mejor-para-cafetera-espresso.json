@@ -3,162 +3,123 @@
   "pillar": "cafe-en-grano-y-agua",
   "path": "/cafe-en-grano-y-agua/que-agua-embotellada-de-estados-unidos-es-mejor-para-cafetera-espresso/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "mejor agua embotellada en usa para cafetera espresso",
   "title": "Guía de Aguas Embotelladas en EE. UU. para Cafeteras Espresso (Crystal Geyser, Poland Spring y Qué Evitar)",
-  "seoTitle": "Guía de Aguas Embotelladas en EE. UU. para Cafeteras Espresso (Crystal Geyser, Poland Spring y Qué Evitar) | Guía Barista Compacta",
-  "metaDescription": "Guía de Aguas Embotelladas en EE. UU. para Cafeteras Espresso (Crystal Geyser, Poland Spring y Qué Evitar): Por qué el agua de manantial suave como Poland Spring o Crystal Geyser (fuente Olancha/Moulton) es ideal, mientras Evian o Fiji tienen demasiados minerales. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Por qué el agua de manantial suave como Poland Spring o Crystal Geyser (fuente Olancha/Moulton) es ideal, mientras Evian o Fiji tienen demasiados minerales.",
-  "quickAnswer": "Sobre mejor agua embotellada en usa para cafetera espresso: Por qué el agua de manantial suave como Poland Spring o Crystal Geyser (fuente Olancha/Moulton) es ideal, mientras Evian o Fiji tienen demasiados minerales. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Guía de Aguas Embotelladas en EE. UU. para Cafeteras Espresso (Crystal Geyser, Poland Spring y Qué Evitar) | cafeteracompacta.com",
+  "metaDescription": "Guía de la mejor agua embotellada en USA para cafetera espresso: por qué elegir Poland Spring o Crystal Geyser de Olancha y qué marcas de galón evitar.",
+  "excerpt": "Comprar galones en supermercados de Estados Unidos o Amazon US requiere revisar el manantial impreso en el envase. Analizamos los ppm de Poland Spring, Crystal Geyser, Volvic y aguas alcalinas.",
+  "quickAnswer": "La mejor agua embotellada en USA para cafetera espresso es **Poland Spring** en la Costa Este (**35–46 ppm** de TDS) y **Crystal Geyser Alpine Spring Water** envasada en los manantiales de **Olancha, CA** o **Mt. Shasta, CA** (**50–90 ppm**) en la Costa Oeste, junto con **Volvic** (**130 ppm** con alta sílice y bajo calcio). Debes evitar aguas minerales duras como **Evian** (**300+ ppm**) y aguas alcalinas ionizadas de **pH 9.5+**.",
+  "readingMinutes": 8,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Por qué el agua de manantial suave como Poland Spring o Crystal Geyser (fuente Olancha/Moulton) es ideal, mientras Evian o Fiji tienen demasiados minerales., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Eye-level 35mm editorial documentary photograph: realistic scene illustrating 'Guía de Aguas Embotelladas en EE. UU. para Cafeteras Espresso (Crystal Geyser, Poland Spring y Qué Evitar)' (mejor agua embotellada en usa para cafetera espresso) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, on a clean stone countertop with neatly arranged accessories, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Guía de Aguas Embotelladas en EE. UU. para Cafeteras Espresso (Crystal Geyser, Poland Spring y Qué Evitar)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **mejor agua embotellada en usa para cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Por qué el agua de manantial suave como Poland Spring o Crystal Geyser (fuente Olancha/Moulton) es ideal, mientras Evian o Fiji tienen demasiados minerales."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Cafe En Grano Y Agua](/cafe-en-grano-y-agua/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Si vives en estados con agua municipal extremadamente dura como Arizona, Texas, Florida, Nevada o el sur de California, comprar garrafas de un galón en el supermercado o pedirlas por Amazon US para alimentar tu **CASABREWS CM5418** o **Breville Bambino (BES450)** suele ser el camino más rápido hacia un espresso consistente. Sin embargo, en Estados Unidos existe una trampa poco conocida: una misma marca de *Spring Water* embotella bajo el mismo diseño gráfico agua procedente de cinco a ocho manantiales regionales distintos, cuyos niveles de mineralización varían desde **45 ppm** hasta más de **280 ppm**. Aplicar el criterio técnico que enseñamos en [nuestra sección de café en grano y agua](/cafe-en-grano-y-agua/) al leer la letra pequeña del galón protegerá tu **ThermoJet** de por vida."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: mejor agua embotellada en usa para cafetera espresso"
+      "text": "El secreto del manantial impreso en Crystal Geyser, Poland Spring y marcas de EE. UU."
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **mejor agua embotellada en usa para cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "La referencia absoluta entre los baristas domésticos estadounidenses tiene dos nombres propios según la costa en la que residas, pero exige revisar la línea *\"Bottled at the source\"* impresa cerca del cuello o la base del envase. En la Costa Oeste y el suroeste, **Crystal Geyser Alpine Spring Water** es extraordinaria siempre que el galón proceda de sus manantiales de **Olancha, California** (al pie de la Sierra Nevada, con **65 – 85 ppm** de TDS y una alcalinidad suave de **40 ppm**) o de **Weed / Mt. Shasta, California** (**45 – 60 ppm**). También su planta de **Moultonborough, New Hampshire** ofrece un agua blanda impecable; por el contrario, debes evitar los lotes de Crystal Geyser envasados en **San Bernardino** o **Calistoga**, donde la dureza cálcica se dispara. En la Costa Este, **Poland Spring** (manantiales de Maine) mantiene unos constantes **35 a 46 ppm** que impiden cualquier depósito calcáreo y dejan brillar el perfil aromático de un [Illy Classico o Intenso en lata presurizada](/cafe-en-grano-y-agua/analisis-illy-classico-vs-illy-intenso-en-grano-lata-presurizada/), especialmente cuando huyes de [granos French Roast carbonizados y aceitosos](/cafe-en-grano-y-agua/por-que-los-granos-negros-brillantes-y-aceitosos-french-roast-ensucian-tu-molino/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: mejor agua embotellada en usa para cafetera espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Marca disponible en EE. UU.",
+        "TDS promedio (mg/L)",
+        "Dureza GH / Alcalinidad KH",
+        "Veredicto técnico para Breville, De’Longhi y CASABREWS"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Por qué el agua de manantial suave como Poland Spring o Crystal Geyser (fuente Olancha/Moulton) es ideal, mientras Evian o Fiji tienen demasiados minerales.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Crystal Geyser (Olancha / Mt. Shasta, CA)",
+          "50 – 85 ppm",
+          "GH ~35 ppm / KH ~40 ppm",
+          "Excelente: cumple el estándar SCA y evita el sarro en el bloque térmico"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Poland Spring (Manantiales de Maine)",
+          "35 – 46 ppm",
+          "GH ~22 ppm / KH ~20 ppm",
+          "Muy segura contra la cal; ideal para resaltar acidez y notas florales"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Volvic (Importada en Amazon US)",
+          "109 – 130 ppm",
+          "GH ~60 ppm / KH ~71 ppm",
+          "Estándar mundial en cuerpo y dulzor gracias a su magnesio y sílice natural"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "Kirkland / Dasani / Aquafina (Purified)",
+          "15 – 40 ppm",
+          "Ósmosis + sales añadidas",
+          "Válida de emergencia, pero contiene cloruro potásico o sulfato de magnesio variable"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Evian / Arrowhead (manantiales del sur CA)",
+          "220 – 345 ppm",
+          "Evian supera 290 ppm de GH",
+          "Desaconsejada: satura de carbonato cálcico la caldera y apaga la acidez"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre mejor agua embotellada en usa para cafetera espresso",
-      "text": "Por qué el agua de manantial suave como Poland Spring o Crystal Geyser (fuente Olancha/Moulton) es ideal, mientras Evian o Fiji tienen demasiados minerales. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Análisis mineral de aguas embotelladas populares en Estados Unidos para cafeteras espresso"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar mejor agua embotellada en usa para cafetera espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con mejor agua embotellada en usa para cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Qué aguas comerciales de Estados Unidos debes evitar siempre en tu cafetera espresso"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Aguas alcalinas ionizadas (Essentia, Smartwater Alkaline, Bai, pH 9.5+):** Su alto **pH de 9.0 a 9.9** se consigue añadiendo bicarbonato sódico o potásico; ese exceso alcalino neutraliza por completo los ácidos frutales del café y produce un espresso plano con textura jabonosa.",
+        "**Aguas minerales europeas de roca calcárea (Evian, San Pellegrino, Vittel):** Aunque son excelentes como agua de mesa, sus más de **290 – 350 ppm** de calcio y bicarbonatos calcifican los conductos capilares de una **De’Longhi Dedica Arte (EC885M)** en pocas semanas.",
+        "**Aguas con alto contenido en sílice como Fiji Water (140 ppm TDS, 93 mg/L de sílice):** La sílice disuelta (**SiO₂**) forma incrustaciones vítreas extremadamente difíciles de disolver incluso con líquidos descalcificadores de ácido láctico o cítrico.",
+        "**Garrafas de \"Distilled Water\" (tapa roja o morada) usadas sin remineralizar:** Solo deben comprarse como base a **0 ppm** para mezclar con sobres **Third Wave Water Espresso Profile** o bicarbonato potásico (**RPavlis**), nunca para verterlas puras al depósito."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Cómo verificar el origen y los cloruros de cualquier galón con el Water Quality Report"
     },
     {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "callout",
+      "variant": "etiqueta",
+      "text": "Por regulación federal de la FDA y normativas estatales en EE. UU., todas las marcas publican su Bottled Water Quality Report anual accesible desde el código QR del envase. Antes de adoptar una marca fija para tu cafetera, revisa tres filas de ese documento: Total Dissolved Solids (50–100 mg/L), Total Hardness as CaCO3 (40–80 mg/L) y Chloride (siempre por debajo de 30 mg/L para evitar corrosión en el acero inoxidable).",
+      "title": "Verifica los 3 parámetros del informe oficial en el código QR del galón"
+    },
+    {
+      "type": "cta",
+      "text": "Pregunta a nuestro Asesor IA qué marca de agua embotellada disponible en tu estado o código postal protege mejor tu cafetera y revisa en las tarjetas de Amazon los filtros y accesorios compatibles con tu estación de espresso."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre mejor agua embotellada en usa para cafetera espresso?",
-      "a": "Por qué el agua de manantial suave como Poland Spring o Crystal Geyser (fuente Olancha/Moulton) es ideal, mientras Evian o Fiji tienen demasiados minerales. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Sirve el agua \"Purified Water\" de Costco (Kirkland) o Walmart para cafetera espresso?",
+      "a": "El agua etiquetada como **Purified Water** (como **Kirkland Signature**, **Pure Life**, **Dasani** o **Aquafina**) es agua municipal pasada por ósmosis inversa a la que se añaden pequeñas trazas de minerales (**15–40 ppm**) por sabor. No produce cal, pero suele tener menos iones extractores que un agua de manantial blanda como **Crystal Geyser Olancha** o **Poland Spring**."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Es buena el agua Arrowhead en la Costa Oeste para hacer espresso?",
+      "a": "Depende exclusivamente del manantial impreso en la botella. Los lotes de **Arrowhead** procedentes de manantiales de montaña en **Canadá o el norte de California** rondan unos excelentes **70–90 ppm**, pero los lotes envasados en pozos de **San Bernardino (Arrowhead Springs)** superan con frecuencia los **220–280 ppm** y calcifican la máquina."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué alternativa tengo en EE. UU. si en mi estado no venden Poland Spring ni Crystal Geyser de Olancha?",
+      "a": "En el Medio Oeste y el sur de EE. UU., marcas regionales como **Ice Mountain** o **Ozarka** varían entre **40 y 160 ppm** según el manantial. La forma más segura es comprobar con un lápiz medidor de **TDS** que el galón mida entre **50 y 100 ppm** o preparar tu propia agua barista sobre un galón de *Distilled Water*."
     }
   ],
   "related": [
-    "/cafe-en-grano-y-agua/",
-    "/cafe-en-grano-y-agua/como-hacer-tu-propia-agua-barista-rpavlis-water-o-third-wave-water/",
-    "/cafe-en-grano-y-agua/jarras-filtrantes-brita-vs-bwt-magnesium-vs-zerowater-para-espresso/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/cafe-en-grano-y-agua/fecha-de-tueste-roast-date-vs-fecha-de-caducidad-best-by-en-el-cafe/",
+    "/cafe-en-grano-y-agua/por-que-los-granos-negros-brillantes-y-aceitosos-french-roast-ensucian-tu-molino/",
+    "/cafe-en-grano-y-agua/analisis-illy-classico-vs-illy-intenso-en-grano-lata-presurizada/",
+    "/cafe-en-grano-y-agua/como-congelar-cafe-en-grano-en-dosis-o-bolsas-al-vacio-sin-que-coja-humedad/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-agua-embotellada-de-estados-unidos-es-mejor-para-cafetera-espresso.webp"
 }

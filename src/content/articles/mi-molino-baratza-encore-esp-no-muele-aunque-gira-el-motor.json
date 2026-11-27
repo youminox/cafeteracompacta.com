@@ -3,162 +3,129 @@
   "pillar": "problemas-y-soluciones",
   "path": "/problemas-y-soluciones/mi-molino-baratza-encore-esp-no-muele-aunque-gira-el-motor/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "baratza encore esp gira pero no muele",
   "title": "Por Qué el Baratza Encore ESP Hace Ruido de Motor pero No Caen Granos Molidos",
-  "seoTitle": "Por Qué el Baratza Encore ESP Hace Ruido de Motor pero No Caen Granos Molidos | Guía Barista Compacta",
-  "metaDescription": "Por Qué el Baratza Encore ESP Hace Ruido de Motor pero No Caen Granos Molidos: Revisa que las 3 pestañas rojas de la muela superior de anillo estén alineadas y que las aletas de la paleta inferior no estén taponadas. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Revisa que las 3 pestañas rojas de la muela superior de anillo estén alineadas y que las aletas de la paleta inferior no estén taponadas.",
-  "quickAnswer": "Sobre baratza encore esp gira pero no muele: Revisa que las 3 pestañas rojas de la muela superior de anillo estén alineadas y que las aletas de la paleta inferior no estén taponadas. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué el Baratza Encore ESP Hace Ruido de Motor pero No Caen Granos Molidos | cafeteracompacta.com",
+  "metaDescription": "¿Tu Baratza Encore ESP gira pero no muele café? Aprende a revisar las pestañas del soporte de muela M3, la tuerca rápida y el conducto taponado en casa.",
+  "excerpt": "Diagnóstico mecánico del Baratza Encore ESP cuando el motor suena pero no sale café: desde pestañas fusibles rotas en el portamuelas blanco hasta atascamientos en el rango 1-20 de espresso.",
+  "quickAnswer": "Cuando el **Baratza Encore ESP gira pero no muele**, la causa principal es la rotura de las **3 pestañas fusibles de sacrificio** en el soporte plástico blanco de la muela superior (**Ring Burr Holder**), el aflojamiento de la **tuerca de liberación rápida** central o un taponamiento de aceites en la rueda de paletas bajo la muela cónica **M2**. Todas estas piezas se inspeccionan en **2 minutos** sin herramientas.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Revisa que las 3 pestañas rojas de la muela superior de anillo estén alineadas y que las aletas de la paleta inferior no estén taponadas., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Eye-level 35mm editorial documentary photograph: realistic scene illustrating 'Por Qué el Baratza Encore ESP Hace Ruido de Motor pero No Caen Granos Molidos' (baratza encore esp gira pero no muele) for cafeteracompacta.com, featuring equipment in arctic white with warm stone-gray details, inside a bright contemporary apartment with minimalist decor, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué el Baratza Encore ESP Hace Ruido de Motor pero No Caen Granos Molidos"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **baratza encore esp gira pero no muele** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Revisa que las 3 pestañas rojas de la muela superior de anillo estén alineadas y que las aletas de la paleta inferior no estén taponadas."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Pulsas el botón frontal o giras el interruptor lateral de tu **Baratza Encore ESP**, escuchas el giro normal del motor eléctrico DC, pero los granos de la tolva no bajan y en el vaso dosificador de **54 mm** no cae ni un solo gramo de café. Antes de asumir que la caja reductora está rota, conviene recordar que Baratza construye este molino con piezas fusibles y una tuerca de desmontaje rápido diseñadas para soltarse ante un atasco severo en los clics **1 al 20** de espresso. Puedes revisar más reparaciones caseras en nuestra sección de [problemas y soluciones de equipamiento barista](/problemas-y-soluciones/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: baratza encore esp gira pero no muele"
+      "text": "Las 3 causas mecánicas por las que el Baratza Encore ESP gira pero no muele"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **baratza encore esp gira pero no muele** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: baratza encore esp gira pero no muele",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "Revisa que las 3 pestañas rojas de la muela superior de anillo estén alineadas y que las aletas de la paleta inferior no estén taponadas.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "Cuando un **Baratza Encore ESP gira pero no muele**, el primer sospechoso es un tapón compacto de café aceitoso en la cámara inferior de paletas (*paddle wheel*) y en el túnel de descarga, un bloqueo por lípidos muy similar a cuando [el molino Fellow Opus se atasca en su conducto antiestático](/problemas-y-soluciones/mi-molino-fellow-opus-se-para-solo-o-se-atasca-el-conducto/). La segunda causa es el aflojamiento de la **tuerca metálica de liberación rápida** (*Quick-Release Nut*) situada sobre la muela cónica **M2 de 40 mm**: si se suelta por vibración, el eje roscado central gira libremente sin arrastrar la muela inferior. La tercera causa —típica tras escuchar un chasquido seco con un grano verde o una piedrecilla— es la rotura de las **3 pestañas fusibles** del soporte plástico blanco de la muela superior (**Ring Burr Holder**); cuando una sola de esas aletas se parte, la muela superior se levanta bajo carga y deja pasar trozos gruesos o impide la trituración fina, provocando luego que [aparezcan manchas blancas o círculos oscuros en la crema del espresso](/problemas-y-soluciones/aparecen-manchas-blancas-o-circulos-oscuros-en-la-crema-del-espresso/)."
     },
     {
       "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre baratza encore esp gira pero no muele",
-      "text": "Revisa que las 3 pestañas rojas de la muela superior de anillo estén alineadas y que las aletas de la paleta inferior no estén taponadas. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "etiqueta",
+      "text": "Saca la muela superior tirando verticalmente de sus dos orejetas plásticas blancas y dale la vuelta. Alrededor del aro exterior de plástico blanco verás 3 pestañas rectangulares delgadas: son fusibles mecánicos de sacrificio para proteger el motor y los engranajes. Si falta una sola pestaña o ves una línea blanca de fractura en su base, debes sustituir ese soporte blanco por un Ring Burr Holder original Baratza.",
+      "title": "Cómo comprobar en 15 segundos si el portamuelas blanco está roto"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar baratza encore esp gira pero no muele hoy mismo en tu cocina"
+      "text": "Tabla de diagnóstico del Baratza Encore ESP según el sonido y el giro de la muela"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "table",
+      "headers": [
+        "Síntoma al encender el molino",
+        "Componente afectado",
+        "Verificación visual sin herramientas",
+        "Solución técnica o recambio"
+      ],
+      "rows": [
+        [
+          "Sonido agudo libre, la muela central M2 no gira",
+          "Tuerca de liberación rápida floja o piñón reductor barrido",
+          "Quitar tolva y ver si el eje gira sin arrastrar la muela cónica M2",
+          "Apretar a mano la tuerca rápida superior o cambiar engranaje GB2.0"
+        ],
+        [
+          "Sonido grave forzado, la muela gira pero no cae polvo",
+          "Conducto de salida y rueda de paletas obstruidos",
+          "Levantar la muela M2 y comprobar si la cámara inferior está sellada de café",
+          "Desatascar el conducto desde abajo y cepillar las paletas impulsoras"
+        ],
+        [
+          "Crujido previo; ahora solo parte granos o muele muy grueso",
+          "Soporte blanco de muela superior (Ring Burr Holder)",
+          "Inspeccionar las 3 pestañas fusibles exteriores del aro plástico blanco",
+          "Instalar un Ring Burr Holder de repuesto y alinear la marca roja a las 5 h"
+        ],
+        [
+          "Los granos rebotan arriba sin entrar a las muelas (Popcorning)",
+          "Tueste muy aceitoso pegado en las paredes de la tolva",
+          "Los granos forman una bóveda estática sobre la entrada de la muela",
+          "Lavar la tolva con agua tibia, secar al 100 % y usar dosis individual (18 g)"
+        ]
+      ],
+      "caption": "Identificación de averías de transmisión y atasco en el molino Baratza Encore ESP"
+    },
+    {
+      "type": "h2",
+      "text": "Pasos para desmontar la muela M2, destaponar el conducto y ajustar la transmisión"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Desmontaje de la tolva más allá del clic 40",
+          "text": "Desenchufa el **Baratza Encore ESP**, gira la tolva en sentido antihorario pasando el ajuste **40** hasta que haga tope, levántala en vertical y retira la junta negra de silicona."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Extracción y revisión del aro portamuelas superior",
+          "text": "Tira hacia arriba del soporte plástico blanco sin girarlo, comprueba que sus **3 pestañas exteriores** estén sanas y limpia con el cepillo de cerdas duras el café incrustado en los dientes de acero."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Desenroscado de la tuerca rápida y limpieza de paletas",
+          "text": "Gira la tuerca metálica central superior en la dirección grabada con la flecha **Remove** (sentido horario, rosca inversa), levanta verticalmente la muela cónica **M2**, retira la arandela de fieltro y despeja el túnel de caída hacia el cajón inferior con un palillo de madera o cepillo fino."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Rearmado con alineación de la pestaña roja a las 5 en punto",
+          "text": "Encaja la muela **M2** asegurando que sus ranuras inferiores calcen en el pasador transversal del eje, aprieta a mano la tuerca rápida en sentido antihorario, asienta el portamuelas blanco haciendo coincidir su **pestaña roja con la marca roja del chasis** y bloquea la tolva antes de probar en el **clic 15**."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con baratza encore esp gira pero no muele en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Has detectado una pestaña rota en el portamuelas blanco o necesitas cambiar las muelas M2 de tu Baratza Encore ESP? Consulta a nuestro Asesor IA para confirmar la pieza exacta o revisa la disponibilidad actual del Baratza Encore ESP, soportes Ring Burr Holder y accesorios originales en las tarjetas de Amazon integradas en la página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre baratza encore esp gira pero no muele?",
-      "a": "Revisa que las 3 pestañas rojas de la muela superior de anillo estén alineadas y que las aletas de la paleta inferior no estén taponadas. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué la tuerca de liberación rápida del Baratza Encore ESP se afloja girando hacia la derecha?",
+      "a": "Porque Baratza utiliza una rosca izquierda (inversa) en el eje central para que el propio par de giro del motor en sentido antihorario mantenga la tuerca apretada mientras tritura los granos. Por eso para soltarla debes girarla en sentido horario siguiendo la flecha grabada con la palabra Remove."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué mi Baratza Encore ESP muele demasiado grueso en el clic 10 después de limpiarlo?",
+      "a": "Ocurre siempre que el aro portamuelas blanco superior no quedó encajado hasta el fondo con su pestaña roja alineada exactamente con la marca roja a las 5 en punto, o cuando una de sus 3 pestañas exteriores se ha roto y la muela se levanta al entrar los granos."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Puedo lavar las muelas metálicas del Baratza Encore ESP con agua para quitarles el aceite?",
+      "a": "Nunca debes lavar las muelas de acero con alto contenido de carbono (M2 y muela anular) con agua, ya que se oxidan en pocas horas. Solo la tolva transparente, la tapa, la junta de silicona y el vaso dosificador se pueden lavar con agua tibia, secándolos por completo antes de armar."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/charco-de-agua-debajo-de-la-cafetera-en-la-encimera/",
+    "/problemas-y-soluciones/aparecen-manchas-blancas-o-circulos-oscuros-en-la-crema-del-espresso/",
     "/problemas-y-soluciones/mi-molino-fellow-opus-se-para-solo-o-se-atasca-el-conducto/",
-    "/problemas-y-soluciones/error-en-ninja-luxe-cafe-add-water-o-install-funnel-solucion/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/he-perdido-la-aguja-de-limpieza-de-la-lanceta-que-puedo-usar/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/mi-molino-baratza-encore-esp-no-muele-aunque-gira-el-motor.webp"
 }

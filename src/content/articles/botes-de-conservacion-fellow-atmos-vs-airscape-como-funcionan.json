@@ -3,162 +3,117 @@
   "pillar": "basculas-y-accesorios-barista",
   "path": "/basculas-y-accesorios-barista/botes-de-conservacion-fellow-atmos-vs-airscape-como-funcionan/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "fellow atmos vs airscape bote cafe en grano",
   "title": "Bomba de Vacío (Fellow Atmos) vs Émbolo Desplazador de Aire (Airscape): Cuál Conserva Mejor el Grano",
-  "seoTitle": "Bomba de Vacío (Fellow Atmos) vs Émbolo Desplazador de Aire (Airscape) | Guía Barista Compacta",
-  "metaDescription": "Bomba de Vacío (Fellow Atmos) vs Émbolo Desplazador de Aire (Airscape): Cuál Conserva Mejor el Grano: Ambos evitan la oxidación: el Airscape es más rápido de abrir cada mañana y el Fellow Atmos extrae el aire por vacío rotatorio. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Ambos evitan la oxidación: el Airscape es más rápido de abrir cada mañana y el Fellow Atmos extrae el aire por vacío rotatorio.",
-  "quickAnswer": "Sobre fellow atmos vs airscape bote cafe en grano: Ambos evitan la oxidación: el Airscape es más rápido de abrir cada mañana y el Fellow Atmos extrae el aire por vacío rotatorio. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Bomba de Vacío (Fellow Atmos) vs Émbolo Desplazador de Aire (Airscape): Cuál Conserva Mejor el Grano | cafeteracompacta.com",
+  "metaDescription": "Comparativa Fellow Atmos vs Airscape para conservar café en grano: diferencias entre bomba de vacío y émbolo desplazador, desgasificación de CO2 y capacidad.",
+  "excerpt": "Comparativa técnica entre el bote de vacío Fellow Atmos y el émbolo desplazador Airscape: descubre cómo gestionan el oxígeno, la desgasificación de CO2 y la frescura del grano para espresso.",
+  "quickAnswer": "En la comparativa **fellow atmos vs airscape bote cafe en grano**, el **Fellow Atmos** destaca para granos con más de **7 días de tueste** gracias a su bomba de giro que extrae el aire hasta **-50 kPa**, mientras que el **Airscape** es superior para tuestes muy frescos o consumos parciales porque su émbolo interno baja hasta tocar los granos y elimina el volumen de aire sin obstruirse ni perder estanqueidad por la liberación de $\\text{CO}_2$.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Ambos evitan la oxidación: el Airscape es más rápido de abrir cada mañana y el Fellow Atmos extrae el aire por vacío rotatorio., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Close inspection angle highlighting materials, latches and finish: realistic scene illustrating 'Bomba de Vacío (Fellow Atmos) vs Émbolo Desplazador de Aire (Airscape): Cuál Conserva Mejor el Grano' (fellow atmos vs airscape bote cafe en grano) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, on a light terrazzo surface in a contemporary living space, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Bomba de Vacío (Fellow Atmos) vs Émbolo Desplazador de Aire (Airscape): Cuál Conserva Mejor el Grano"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **fellow atmos vs airscape bote cafe en grano** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Ambos evitan la oxidación: el Airscape es más rápido de abrir cada mañana y el Fellow Atmos extrae el aire por vacío rotatorio."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Basculas Y Accesorios Barista](/basculas-y-accesorios-barista/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Dejar una bolsa de **250 g** de café de especialidad abierta con una pinza de cocina junto a tu **Breville Bambino (BES450)** o tu **CASABREWS CM5418** arruina tu ajuste de molienda en cuestión de cuatro días. A medida que el oxígeno oxida los lípidos del grano y la humedad ambiental altera su fragilidad, notarás que la misma dosis de **18 g** empieza a caer en **14 segundos** sin cuerpo ni crema. Al comparar **fellow atmos vs airscape bote cafe en grano**, nos encontramos con dos ingenierías opuestas dentro del catálogo de [básculas y accesorios barista](/basculas-y-accesorios-barista/): extracción de presión negativa frente a reducción física del volumen de aire interno."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: fellow atmos vs airscape bote cafe en grano"
+      "text": "Vacío Mecánico por Giro (Fellow Atmos) vs Émbolo Desplazador (Planetary Design Airscape)"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **fellow atmos vs airscape bote cafe en grano** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "El **Fellow Atmos** incorpora una bomba de vacío manual integrada en la tapa: al girar el anillo superior hacia adelante y hacia atrás durante **10 a 15 segundos**, extraes el aire interior hasta alcanzar una presión negativa cercana a **-50 kPa**, momento en que emerge un testigo circular verde. En cambio, el **Airscape** de Planetary Design no genera vacío; utiliza una tapa interna tipo émbolo con junta de silicona y válvula de bloqueo que deslizas hacia abajo hasta tocar físicamente la superficie de los granos. Así, si solo te quedan **60 g** de café en el fondo, el émbolo del Airscape elimina casi el **95 %** del espacio muerto de oxígeno, algo vital cuando monitorizas la densidad de la crema con un [espejo magnético articulado shot mirror](/basculas-y-accesorios-barista/espejo-magnetico-de-extraccion-shot-mirror-para-portafiltro-bottomless/) bajo un [portafiltro bottomless de acero inoxidable 304](/basculas-y-accesorios-barista/portafiltro-de-acero-inoxidable-304-vs-aluminio-barato-en-amazon/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: fellow atmos vs airscape bote cafe en grano",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Parámetro Técnico",
+        "Fellow Atmos (0.7 L / 1.2 L)",
+        "Airscape Classic (Mediano 4 pulgadas / 7 pulgadas)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Ambos evitan la oxidación: el Airscape es más rápido de abrir cada mañana y el Fellow Atmos extrae el aire por vacío rotatorio.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Principio de conservación",
+          "Bomba de vacío manual integrada en la tapa (-50 kPa)",
+          "Émbolo interno desplazador de aire con válvula de paso"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Capacidad real en grano entero",
+          "280 g (modelo 0.7 L) / 450 g (modelo 1.2 L)",
+          "250 g (modelo de 11 cm alto) / 500 g (modelo de 18 cm alto)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Comportamiento con tueste fresco (<7 días)",
+          "El CO2 liberado iguala la presión y desactiva el punto verde en 48 h",
+          "La válvula unidireccional del émbolo evacúa el CO2 sin perder sello"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "Compatibilidad con café ya molido",
+          "No recomendado (el polvo fino obstruye la válvula de la tapa)",
+          "Compatible (el émbolo baja sin aspirar partículas hacia arriba)"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Diámetro de base en encimera compacta",
+          "11.0 cm de diámetro exterior en acero inoxidable 304",
+          "12.0 cm de diámetro exterior en acero inoxidable 18/8"
         ]
-      ]
+      ],
+      "caption": "Comparativa técnica directa: Fellow Atmos vs Planetary Design Airscape para café en grano"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo Afecta la Desgasificación de CO2 al Sello de Vacío en Granos Recién Tostados"
     },
     {
       "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre fellow atmos vs airscape bote cafe en grano",
-      "text": "Ambos evitan la oxidación: el Airscape es más rápido de abrir cada mañana y el Fellow Atmos extrae el aire por vacío rotatorio. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "fabricante",
+      "text": "Si introduces **250 g** de café tostado hace menos de **5 a 7 días** en un **Fellow Atmos**, no es un defecto de fábrica que el anillo verde desaparezca a los dos días. El grano fresco libera hasta **5 a 10 litros de $\\text{CO}_2$ por kilo**; ese gas inerte llena la cámara, desplaza el poco oxígeno restante hacia arriba y neutraliza la presión negativa, por lo que basta con volver a girar la tapa un par de veces cada mañana.",
+      "title": "Por qué el indicador verde del Fellow Atmos sube solo con café muy fresco"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar fellow atmos vs airscape bote cafe en grano hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con fellow atmos vs airscape bote cafe en grano en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Qué Bote Elegir Según tu Ritmo de Consumo Semanal y Tipo de Tueste"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Elige Fellow Atmos (0.7 L en acero inoxidable mate)** si compras bolsas de **250 g** de tueste medio o claro ya reposadas entre **10 y 21 días**, valoras un diseño minimalista de **11 cm** de diámetro junto a tu **Breville Bambino** y solo usas café en grano entero.",
+        "**Elige Airscape Classic (tamaño de 250 g o 500 g)** si compras café recién salido de tostadora local (**2 a 6 días post-tueste**), prefieres un sistema mecánico indestructible sin válvulas de succión delicadas o necesitas almacenar ocasionalmente café molido.",
+        "**Evita las versiones de vidrio transparente** de ambos modelos a menos que guardes el bote dentro de una alacena oscura, ya que la radiación ultravioleta acelera la rancidez de los aceites superficiales en tuestes medios-oscuros para espresso.",
+        "**Limpia el interior del cilindro de acero con alcohol o agua tibia jabonosa** exclusivamente en el cuerpo metálico; nunca sumerjas la tapa con bomba del Fellow Atmos bajo el grifo porque la humedad retenida en los conductos internos bloquea el pistón de vacío."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "¿Dudas entre el tamaño de 0.7 L o 1.2 L para tu rincón cafetero? Pregunta a nuestro Asesor IA o comprueba la disponibilidad actual de colores y acabados en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre fellow atmos vs airscape bote cafe en grano?",
-      "a": "Ambos evitan la oxidación: el Airscape es más rápido de abrir cada mañana y el Fellow Atmos extrae el aire por vacío rotatorio. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Es cierto que el vacío del Fellow Atmos succiona los aromas del café en grano?",
+      "a": "El vacío parcial de una bomba manual doméstica (-50 kPa) no extrae los compuestos aromáticos internos de la matriz celular del grano, pero en cafés con menos de 5 días de tueste sí acelera ligeramente la salida de CO2 superficial, por lo que conviene dejarlos reposar en su bolsa original la primera semana."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cómo se limpia el émbolo interno del bote Airscape cuando acumula aceites de café?",
+      "a": "El cuerpo inferior de acero inoxidable 18/8 del Airscape se puede lavar a mano con agua caliente y detergente neutro sin problema, pero tanto la tapa interior con faldón de silicona como la tapa superior transparente deben lavarse únicamente a mano con agua tibia para no deformar el labio sellador."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué tamaño de Fellow Atmos necesito para una bolsa de café de 250 g o 340 g?",
+      "a": "Para una bolsa estándar de 250 g de tueste medio o claro, el Fellow Atmos de 0.7 L encaja al milímetro. Sin embargo, si compras granos de tueste oscuro (más inflados y menos densos) o bolsas de 340 g (12 oz en Estados Unidos), necesitas el modelo de 1.2 L."
     }
   ],
   "related": [
-    "/basculas-y-accesorios-barista/",
-    "/basculas-y-accesorios-barista/tubos-dosificadores-single-dose-cellars-con-valvula-unidireccional/",
-    "/basculas-y-accesorios-barista/termometros-de-tira-adhesiva-lcd-para-grupo-y-leche/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/basculas-y-accesorios-barista/alfombrilla-de-tamping-esquinera-de-silicona-como-proteger-tu-encimera/",
+    "/basculas-y-accesorios-barista/espejo-magnetico-de-extraccion-shot-mirror-para-portafiltro-bottomless/",
+    "/basculas-y-accesorios-barista/portafiltro-de-acero-inoxidable-304-vs-aluminio-barato-en-amazon/",
+    "/basculas-y-accesorios-barista/estaciones-de-tamping-compactas-todo-en-uno-merecen-la-pena/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/botes-de-conservacion-fellow-atmos-vs-airscape-como-funcionan.webp"
 }

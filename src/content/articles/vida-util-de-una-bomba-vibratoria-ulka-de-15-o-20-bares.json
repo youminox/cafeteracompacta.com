@@ -4,161 +4,115 @@
   "path": "/mantenimiento-y-descalcificacion/vida-util-de-una-bomba-vibratoria-ulka-de-15-o-20-bares/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cuanto dura la bomba de una cafetera espresso",
   "title": "Cuántos Años Dura la Bomba Vibratoria Ulka de tu Cafetera Compacta (y Cómo Cuidarla)",
-  "seoTitle": "Cuántos Años Dura la Bomba Vibratoria Ulka de tu Cafetera Compacta (y Cómo Cuidarla) | Guía Barista Compacta",
-  "metaDescription": "Cuántos Años Dura la Bomba Vibratoria Ulka de tu Cafetera Compacta (y Cómo Cuidarla): Las bombas italianas Ulka están diseñadas para miles de ciclos; su único enemigo es trabajar en seco sin agua en el tanque. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Las bombas italianas Ulka están diseñadas para miles de ciclos; su único enemigo es trabajar en seco sin agua en el tanque.",
-  "quickAnswer": "Sobre cuanto dura la bomba de una cafetera espresso: Las bombas italianas Ulka están diseñadas para miles de ciclos; su único enemigo es trabajar en seco sin agua en el tanque. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Cuántos Años Dura la Bomba Vibratoria Ulka de tu Cafetera Compacta (y Cómo Cuidarla) | cafeteracompacta.com",
+  "metaDescription": "Descubre cuánto dura la bomba de una cafetera espresso compacta (Ulka EP5 o Defond de 15 y 20 bares), por qué falla su pistón y cómo duplicar su vida útil.",
+  "excerpt": "Análisis técnico sobre la longevidad real de las bombas vibratorias electromagnéticas en modelos Breville Bambino, De’Longhi Dedica y CASABREWS: ciclo de trabajo, cavitación y prevención.",
+  "quickAnswer": "Una bomba vibratoria electromagnética como la **CEME Ulka EP5 o EX5** de **48W a 52W** tiene una vida útil media de **5 a 8 años** en uso doméstico (entre **3,500 y 6,000 extracciones**). Su durabilidad depende de dos factores críticos: evitar que trabaje en seco sin agua en el tanque y respetar su ciclo térmico de trabajo (**2 minutos encendida por 1 minuto apagada** en modelos de cuerpo plástico).",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Las bombas italianas Ulka están diseñadas para miles de ciclos; su único enemigo es trabajar en seco sin agua en el tanque., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Dynamic action-ready placement on clean counter surface with subtle reflections: realistic scene illustrating 'Cuántos Años Dura la Bomba Vibratoria Ulka de tu Cafetera Compacta (y Cómo Cuidarla)' (cuanto dura la bomba de una cafetera espresso) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, in a bright family home interior with clean architectural lines, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cuántos Años Dura la Bomba Vibratoria Ulka de tu Cafetera Compacta (y Cómo Cuidarla)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cuanto dura la bomba de una cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Las bombas italianas Ulka están diseñadas para miles de ciclos; su único enemigo es trabajar en seco sin agua en el tanque."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "El corazón hidráulico de prácticamente todas las cafeteras espresso compactas del mercado —desde la **Breville Bambino BES450** y la **De’Longhi Dedica Arte EC885M** hasta la **CASABREWS CM5418** o la **Gaggia Classic E24**— es una pequeña bomba vibratoria electromagnética del tamaño de un puño. Cuando tras varios años de servicio escuchas que su zumbido habitual de **50 o 60 Hz** se vuelve sordo, o que el manómetro frontal ya no logra superar la zona de pre-infusión, es natural preguntarse si ha llegado al final de su ciclo mecánico. En nuestro [centro de mantenimiento y descalcificación](/mantenimiento-y-descalcificacion/) analizamos cómo funciona por dentro este componente y qué hábitos determinan que dure tres años o supere una década."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cuanto dura la bomba de una cafetera espresso"
-    },
-    {
-      "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cuanto dura la bomba de una cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Anatomía y vida útil real de las bombas Ulka EP5, EX5 y Defond de 15 a 20 bares"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: cuanto dura la bomba de una cafetera espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Modelo de bomba",
+        "Presión nominal / Potencia",
+        "Material de salida y ciclo térmico",
+        "Vida útil estimada (uso doméstico)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Las bombas italianas Ulka están diseñadas para miles de ciclos; su único enemigo es trabajar en seco sin agua en el tanque.",
-          "Mejora la consistencia y evita errores de extracción"
+          "CEME Ulka EP5",
+          "15 bares / 48W–52W",
+          "Polímero técnico (2 min ON / 1 min OFF)",
+          "5 a 7 años (3,500 a 5,000 cafés)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "CEME Ulka EX5",
+          "15 bares / 48W–52W",
+          "Latón roscado (2 min ON / 1 min OFF)",
+          "6 a 9 años (4,500 a 6,500 cafés)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "CEME Ulka EP4 / EX4",
+          "19 bares / 48W–52W",
+          "Polímero o latón (rampa de presión más lenta)",
+          "5 a 8 años (4,000 a 6,000 cafés)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Defond / Jiayin JYZ-3 (CASABREWS)",
+          "20 bares / 50W–55W",
+          "Polímero de alta densidad (1 min ON / 1.5 min OFF)",
+          "4 a 7 años (3,000 a 5,000 cafés)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre cuanto dura la bomba de una cafetera espresso",
-      "text": "Las bombas italianas Ulka están diseñadas para miles de ciclos; su único enemigo es trabajar en seco sin agua en el tanque. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Especificaciones técnicas y longevidad media de las bombas vibratorias domésticas"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar cuanto dura la bomba de una cafetera espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con cuanto dura la bomba de una cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Las 3 causas de fallo prematuro en bombas electromagnéticas domésticas"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Funcionamiento en seco y cavitación térmica:** La bomba utiliza el propio flujo de agua fría del depósito para refrigerar y lubricar su pistón de acero ferromagnético. Si el tanque se queda vacío y la bomba vibra con aire durante más de **30 a 45 segundos**, la fricción en seco deforma los casquillos internos y quema el fusible térmico.",
+        "**Fatiga de la esfera de cierre de NBR y el muelle interno:** Dentro del cabezal de salida hay una diminuta bola de caucho nitrílico (**NBR de 4 mm**) y un resorte de acero inoxidable que actúan como válvula antirretorno. Con los años, el caucho se aplana o endurece, haciendo que la bomba suene normal pero sea incapaz de levantar más de **3 o 4 bares** de presión.",
+        "**Sobrecarga por molienda excesivamente fina o cristales de cal:** Si mueles tan fino que bloqueas el portafiltro durante más de **60 segundos** seguidos, o si un fragmento de sarro desprendido se aloja en el asiento de la válvula de bola, la bobina de cobre se sobrecalienta por encima de **110 °C** y pierde fuerza magnética."
       ]
     },
     {
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "Si inspeccionas la etiqueta impresa sobre la bobina roja o gris de una bomba Ulka original, verás la inscripción **ED 2/1 min** (o **1/1.5 min** en bombas de **20 bares**). Esto indica el ciclo de trabajo máximo continuo (*Einschaltdauer*): tras **2 minutos** de bombeo ininterrumpido (por ejemplo, durante una descalcificación), debes dejarla enfriar **1 minuto** completo apagada para evitar que salte su protector térmico interno de **120 °C**.",
+      "title": "Cómo interpretar el código térmico \"2/1 min\" grabado en la bobina"
+    },
+    {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Protocolo preventivo para superar las 5,000 extracciones sin perder presión"
     },
     {
       "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Para que el pistón oscilante y las juntas internas trabajen sin estrés mecánico, la regla número uno es rellenar el depósito antes de que el nivel baje de **150 ml**, evitando que entren burbujas de aire al tubo de admisión. Además, respetar un [calendario de descalcificación según la dureza del agua](/mantenimiento-y-descalcificacion/cada-cuanto-tiempo-hay-que-descalcificar-segun-la-dureza-del-agua/) con ácidos orgánicos suaves (como ácido láctico) impide que la cal raye el cilindro del émbolo. Si complementas esto con una [rutina de limpieza diaria de 30 segundos después de cada café](/mantenimiento-y-descalcificacion/rutina-de-limpieza-diaria-de-30-segundos-despues-de-cada-cafe/) para mantener despejada la ducha del grupo, y aplicas el protocolo de [vaciar las calderas y el thermoblock antes de guardar o mudar la cafetera](/mantenimiento-y-descalcificacion/como-vaciar-las-calderas-y-el-thermoblock-antes-de-guardar-o-mudar-la-cafetera/) cuando viajes en invierno, la bomba mantendrá sus **9 a 15 bares** de empuje durante más de seis años."
+    },
+    {
+      "type": "cta",
+      "text": "¿Tu cafetera ya no levanta presión o buscas repuestos originales Ulka, descalcificadores seguros y filtros para proteger el circuito hidráulico? Pregunta a nuestro Asesor IA o consulta la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cuanto dura la bomba de una cafetera espresso?",
-      "a": "Las bombas italianas Ulka están diseñadas para miles de ciclos; su único enemigo es trabajar en seco sin agua en el tanque. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Dura más una bomba de 20 bares que una Ulka de 15 bares?",
+      "a": "No aporta ventaja real en taza. Tanto una bomba de **15 bares** como una de **20 bares** generan presión máxima solo a caudal cero (bloqueo total). En condiciones óptimas de espresso, lo determinante es la válvula **OPV (Over Pressure Valve)** que regula el flujo de extracción cerca de los **9 bares** reales."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Es normal que la bomba cambie de sonido a los pocos segundos de empezar el café?",
+      "a": "Un traqueteo metálico agudo y seco indica que hay aire atrapado en la cámara del pistón (*cavitación*). En cambio, si tras colocar el portafiltro con café el sonido se atenúa y se vuelve más grave a los **4 o 6 segundos**, es completamente normal y confirma que el sistema está presurizando correctamente."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Vale la pena cambiar la bomba vibratoria si falla después de 5 años?",
+      "a": "Sí, es uno de los recambios más estandarizados y accesibles del mundo del espresso doméstico. Las bombas **Ulka EP5 y EX5** utilizan conectores Faston sin soldadura y tubos a presión o rosca de **1/8 de pulgada**, por lo que su sustitución requiere apenas **20 minutos** con un destornillador Phillips."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/que-hacer-si-la-cafetera-estuvo-guardada-6-meses-sin-usarse/",
-    "/mantenimiento-y-descalcificacion/como-limpiar-el-tubo-de-aspiracion-de-leche-en-cafeteras-con-deposito/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/cada-cuanto-tiempo-hay-que-descalcificar-segun-la-dureza-del-agua/",
+    "/mantenimiento-y-descalcificacion/rutina-de-limpieza-diaria-de-30-segundos-despues-de-cada-cafe/",
+    "/mantenimiento-y-descalcificacion/como-limpiar-el-exterior-de-acero-inoxidable-cepillado-sin-dejar-marcas/",
+    "/mantenimiento-y-descalcificacion/como-vaciar-las-calderas-y-el-thermoblock-antes-de-guardar-o-mudar-la-cafetera/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/vida-util-de-una-bomba-vibratoria-ulka-de-15-o-20-bares.webp"
 }

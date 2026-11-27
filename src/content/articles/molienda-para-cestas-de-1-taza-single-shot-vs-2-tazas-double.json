@@ -3,162 +3,125 @@
   "pillar": "molinos-y-molienda",
   "path": "/molinos-y-molienda/molienda-para-cestas-de-1-taza-single-shot-vs-2-tazas-double/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "calibrar molienda cesta 1 taza vs 2 tazas espresso",
   "title": "Por Qué la Cesta de 1 Taza (Single Shot 9 g) Es Tan Difícil de Calibrar frente a la Doble (18 g)",
-  "seoTitle": "Por Qué la Cesta de 1 Taza (Single Shot 9 g) Es Tan Difícil de Calibrar frente a la Doble (18 g) | Guía Barista Compacta",
-  "metaDescription": "Por Qué la Cesta de 1 Taza (Single Shot 9 g) Es Tan Difícil de Calibrar frente a la Doble (18 g): La geometría cónica estrecha del filtro individual favorece la canalización lateral; por qué el 95% de baristas usa siempre la cesta doble. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "La geometría cónica estrecha del filtro individual favorece la canalización lateral; por qué el 95% de baristas usa siempre la cesta doble.",
-  "quickAnswer": "Sobre calibrar molienda cesta 1 taza vs 2 tazas espresso: La geometría cónica estrecha del filtro individual favorece la canalización lateral; por qué el 95% de baristas usa siempre la cesta doble. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué la Cesta de 1 Taza (Single Shot 9 g) Es Tan Difícil de Calibrar frente a la Doble (18 g) | cafeteracompacta.com",
+  "metaDescription": "Entiende por qué calibrar la molienda en cesta de 1 taza vs 2 tazas para espresso falla tanto: paredes cónicas, grosor de pastilla y canalización.",
+  "excerpt": "Análisis geométrico e hidráulico de los filtros individuales de 7 a 10 gramos frente a las cestas dobles de paredes rectas en portafiltros de 51 mm y 54 mm, y cómo evitar tiros aguados.",
+  "quickAnswer": "Al **calibrar la molienda de una cesta de 1 taza vs 2 tazas para espresso**, el filtro individual falla porque sus paredes troncocónicas crean una pastilla fina en los bordes y gruesa en el centro. Con solo **8 a 10 gramos** de café, la cama ofrece mucha menos resistencia hidráulica que una dosis doble de **16 a 18 gramos**, obligándote a cerrar el molino entre **2 y 3 puntos** para evitar la canalización.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: La geometría cónica estrecha del filtro individual favorece la canalización lateral; por qué el 95% de baristas usa siempre la cesta doble., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Dynamic action-ready placement on clean counter surface with subtle reflections: realistic scene illustrating 'Por Qué la Cesta de 1 Taza (Single Shot 9 g) Es Tan Difícil de Calibrar frente a la Doble (18 g)' (calibrar molienda cesta 1 taza vs 2 tazas espresso) for cafeteracompacta.com, featuring equipment in graphite gray with subtle amber indicator details, on a solid oak workbench in a tidy modern home space, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué la Cesta de 1 Taza (Single Shot 9 g) Es Tan Difícil de Calibrar frente a la Doble (18 g)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **calibrar molienda cesta 1 taza vs 2 tazas espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. La geometría cónica estrecha del filtro individual favorece la canalización lateral; por qué el 95% de baristas usa siempre la cesta doble."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Quienes estrenan una **Breville Bambino (BES450)**, una **De’Longhi Dedica Arte (EC885M)** o una **CASABREWS CM5418** suelen caer en una trampa lógica: si solo quieren tomar un espresso corto a media tarde, colocan en el portafiltro la cesta metálica pequeña de **1 taza (`Single Shot`)**, muelen **8 o 9 gramos** con el mismo ajuste que les dio una extracción perfecta por la mañana en la cesta doble y accionan la bomba. El resultado es desastroso: un chorro pálido, ácido y sin cuerpo que termina en **12 segundos**, dejando una pastilla enfangada que se pega a la ducha del grupo. La explicación está en la geometría interna del filtro y exige aplicar ajustes específicos de nuestra guía de [molinos y molienda para espresso](/molinos-y-molienda/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: calibrar molienda cesta 1 taza vs 2 tazas espresso"
+      "text": "Trampa Geométrica: Paredes Troncocónicas (Embudo) vs Paredes Cilíndricas Rectas"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **calibrar molienda cesta 1 taza vs 2 tazas espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "En una cesta doble despresurizada de **16 a 18 gramos**, las paredes laterales bajan totalmente verticales a **90°**, formando un cilindro uniforme donde el agua a **9 bares** atraviesa una cama de café de **14 a 16 mm** de espesor constante desde el centro hasta el borde. En cambio, para que **8 o 9 gramos** no queden extendidos como una lámina de papel sin resistencia en un diámetro de **51 mm** o **54 mm**, los fabricantes diseñan la cesta de **1 taza** con forma de embudo troncocónico escalonado.Al atacar esa geometría con un tamper plano, el metal choca contra el chaflán inclinado antes de compactar bien el centro, o bien deja un anillo perimetral finísimo por donde el agua escapa a toda velocidad. Incluso si dominas la [tabla de clics del KINGrinder K6 para 51 mm y 54 mm](/molinos-y-molienda/ajuste-molino-manual-kingrinder-k6-para-espresso/) y sabes [volcar el vaso dosificador en portafiltros de 51 mm sin derramar](/molinos-y-molienda/como-usar-el-vaso-dosificador-de-54mm-en-un-portafiltro-de-51mm/), esa diferencia de espesor rompe el equilibrio hidráulico."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: calibrar molienda cesta 1 taza vs 2 tazas espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Parámetro Técnico",
+        "Cesta de 1 Taza (Single Shot)",
+        "Cesta de 2 Tazas (Double Shot)",
+        "Efecto Real en la Extracción a 9 Bares"
       ],
       "rows": [
         [
-          "Clave principal",
-          "La geometría cónica estrecha del filtro individual favorece la canalización lateral; por qué el 95% de baristas usa siempre la cesta doble.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Dosis de café seco (51 mm / 54 mm)",
+          "7 g – 9.5 g (51 mm) / 8.5 g – 10.5 g (54 mm)",
+          "14 g – 16 g (51 mm) / 16.5 g – 18.5 g (54 mm)",
+          "La cesta simple tiene la mitad de masa oponiéndose al flujo"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Geometría de las paredes laterales",
+          "Troncocónica en embudo (diámetro inferior reducido)",
+          "Cilíndrica recta vertical de arriba abajo",
+          "El borde fino de la cesta de 1 taza sufre canalización perimetral"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Ajuste necesario en el molino",
+          "2 a 3 puntos más fino que tu calibre habitual",
+          "Punto base estándar de referencia",
+          "Alternar entre ambas te obliga a recalibrar el molino cada vez"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Estado de la pastilla tras extraer",
+          "Húmeda y blanda (exceso de espacio libre superior)",
+          "Seca y compacta (fácil de expulsar al knock-box)",
+          "El hueco de agua sobre la cesta simple genera barro superficial"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre calibrar molienda cesta 1 taza vs 2 tazas espresso",
-      "text": "La geometría cónica estrecha del filtro individual favorece la canalización lateral; por qué el 95% de baristas usa siempre la cesta doble. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Comparativa técnica e hidráulica entre cesta individual (1 taza) y cesta doble (2 tazas) despresurizadas"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar calibrar molienda cesta 1 taza vs 2 tazas espresso hoy mismo en tu cocina"
+      "text": "Por Qué un Portafiltro de 51 mm Tolera Mejor las Dosis Pequeñas que Uno de 58 mm"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "callout",
+      "variant": "etiqueta",
+      "text": "Existe una ventaja física real en cafeteras ultra-compactas de **15 cm de ancho** con portafiltro de **51 mm** como la **CASABREWS CM5418** o la **De’Longhi Dedica Arte (EC885M)** frente a un grupo comercial de **58 mm**: al tener menor área circular, una dosis moderada de **10 a 11 gramos** conserva una altura de pastilla mucho mayor y más fácil de compactar sin canalización. Si en cambio utilizas una **Breville Bambino (BES450)** de **54 mm** o una **Dedica Maestro Plus (EC950M)** de **58 mm**, intentar extraer **8 gramos** en cesta despresurizada deja una capa tan delgada que un simple defecto al nivelar el café perfora el disco instantáneamente.",
+      "title": "La ventaja oculta del diámetro estrecho de 51 mm en dosis bajas"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo Obtener una Sola Taza Perfecta sin Sufrir la Cesta Individual"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Divide el tiro doble con un portafiltro de doble vertedero",
+          "text": "Muele tu dosis estable de **16 a 18 gramos** en la cesta de **2 tazas**, coloca dos tazas debajo de las boquillas del portafiltro original y obtendrás un *single shot* de **18 gramos líquidos** con cuerpo sedoso y sin tocar el dial del molino."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Cierra de 2 a 3 puntos el molino si insistes en usar la cesta de 1 taza",
+          "text": "Para compensar la menor altura de cama con **9 gramos**, mueve tu **Baratza Encore ESP** o **Fellow Opus** entre **2 y 3 clics más fino** y sube la carga hasta el límite superior de la cesta (**9.5–10 g**) para reducir el colchón de agua libre."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Usa un disco metálico Puck Screen de 1.7 mm sobre la pastilla",
+          "text": "En cestas individuales, la distancia hasta la ducha de la cafetera es excesiva; añadir un *puck screen* de acero sinterizado amortigua el golpe de agua inicial de la bomba y evita que los bordes delgados del embudo se levanten."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con calibrar molienda cesta 1 taza vs 2 tazas espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Quieres equipar tu cafetera con cestas de precisión de paredes rectas, discos *puck screen* o un molino fácil de reajustar? Consulta a nuestro Asesor IA o revisa el stock actualizado en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre calibrar molienda cesta 1 taza vs 2 tazas espresso?",
-      "a": "La geometría cónica estrecha del filtro individual favorece la canalización lateral; por qué el 95% de baristas usa siempre la cesta doble. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué la pastilla de la cesta de 1 taza siempre sale aguada y embarrada?",
+      "a": "Porque al haber mucha más distancia vacía (espacio libre o *headspace*) entre los **9 gramos** de café y la ducha del grupo, se acumula una bolsa de agua que no logra drenar al cortar la bomba, incluso en máquinas con válvula solenoide de 3 vías como la **Breville Bambino Plus (BES500)**."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Conviene usar la cesta presurizada de 1 taza para no mover el molino?",
+      "a": "Sí, ese es el único escenario donde la cesta presurizada de **1 taza** brilla: si no quieres cambiar el ajuste de tu molino calibrado para **18 g**, el filtro presurizado de doble pared genera la contrapresión artificialmente con tus **9 g** al mismo grosor de molienda."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿En cuántos segundos debe salir un espresso sencillo de 9 gramos?",
+      "a": "Exactamente a la misma velocidad que un espresso doble: entre **24 y 28 segundos** contando desde que accionas la bomba, buscando un ratio aproximado de **1:2** (con **9 gramos** de café seco debes detener la extracción al obtener **18 a 20 gramos** de bebida en la báscula)."
     }
   ],
   "related": [
-    "/molinos-y-molienda/",
-    "/molinos-y-molienda/como-pasar-el-molino-de-filtro-v60-a-espresso-y-volver/",
-    "/molinos-y-molienda/ruido-en-decibelios-de-los-molinos-de-espresso-mas-vendidos/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/ajuste-molino-manual-kingrinder-k6-para-espresso/",
+    "/molinos-y-molienda/como-limpiar-molino-de-cafe-sin-descalibrar-las-muelas/",
+    "/molinos-y-molienda/moler-con-el-molino-en-marcha-hot-start-vs-cold-start/",
+    "/molinos-y-molienda/como-usar-el-vaso-dosificador-de-54mm-en-un-portafiltro-de-51mm/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/molienda-para-cestas-de-1-taza-single-shot-vs-2-tazas-double.webp"
 }

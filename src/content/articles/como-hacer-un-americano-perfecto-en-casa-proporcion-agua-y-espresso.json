@@ -4,161 +4,121 @@
   "path": "/extraccion-y-recetas-espresso/como-hacer-un-americano-perfecto-en-casa-proporcion-agua-y-espresso/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como hacer un cafe americano perfecto con cafetera espresso",
   "title": "Receta de Café Americano de Especialidad vs Long Black: Proporción Exacta de Agua a 90 °C y Espresso",
-  "seoTitle": "Receta de Café Americano de Especialidad vs Long Black | Guía Barista Compacta",
-  "metaDescription": "Receta de Café Americano de Especialidad vs Long Black: Proporción Exacta de Agua a 90 °C y Espresso: Pon primero 100–120 ml de agua caliente en tu taza y extrae encima los 36 g de espresso doble (Long Black) para conservar intacta la capa de crema. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Pon primero 100–120 ml de agua caliente en tu taza y extrae encima los 36 g de espresso doble (Long Black) para conservar intacta la capa de crema.",
-  "quickAnswer": "Sobre como hacer un cafe americano perfecto con cafetera espresso: Pon primero 100–120 ml de agua caliente en tu taza y extrae encima los 36 g de espresso doble (Long Black) para conservar intacta la capa de crema. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Receta de Café Americano de Especialidad vs Long Black: Proporción Exacta de Agua a 90 °C y Espresso | cafeteracompacta.com",
+  "metaDescription": "Domina cómo hacer un café americano perfecto con cafetera espresso y descubre su diferencia con el Long Black: proporción 1:3, agua a 90 °C y crema intacta.",
+  "excerpt": "Olvida el café aguado o quemado por agua hirviendo: te explicamos las proporciones en gramos para un Americano de especialidad y un Long Black australiano conservando toda la crema aromática del espresso.",
+  "quickAnswer": "Para preparar un café americano de especialidad equilibrado sin quemar sus notas aromáticas, utiliza una proporción de 1:3 a 1:4 entre café y agua: combina un espresso doble de 36 g (extraído de 18 g en seco) con 110 a 140 ml de agua filtrada a 88–90 °C. Si viertes el espresso directamente sobre el agua caliente, obtendrás un Long Black que preserva intacta la capa de crema superficial.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Pon primero 100–120 ml de agua caliente en tu taza y extrae encima los 36 g de espresso doble (Long Black) para conservar intacta la capa de crema., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Over-the-shoulder hands-on demonstration perspective in natural light: realistic scene illustrating 'Receta de Café Americano de Especialidad vs Long Black: Proporción Exacta de Agua a 90 °C y Espresso' (como hacer un cafe americano perfecto con cafetera espresso) for cafeteracompacta.com, featuring equipment in graphite gray with subtle amber indicator details, beside a neat storage shelf in a sunlit modern room, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Receta de Café Americano de Especialidad vs Long Black: Proporción Exacta de Agua a 90 °C y Espresso"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como hacer un cafe americano perfecto con cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Pon primero 100–120 ml de agua caliente en tu taza y extrae encima los 36 g de espresso doble (Long Black) para conservar intacta la capa de crema."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "El mayor crimen que se comete en casa contra un café americano consiste en pulsar el botón del espresso y dejar que la bomba siga empujando **150 ml de agua** a través de la misma pastilla de café durante un minuto entero, o bien rellenar la taza con agua hirviendo a **100 °C** recién salida de un hervidor sin control térmico. El primer error produce un *lungo* sobre-extraído cargado de taninos leñosos, como demostramos al [entender las fases de extracción mediante el experimento del salami shot](/extraccion-y-recetas-espresso/que-es-el-salami-shot-el-experimento-para-entender-las-3-fases-del-espresso/); el segundo volatiliza los ésteres aromáticos y destruye la crema. Un Americano o un Long Black de especialidad se construye siempre por dilución controlada en peso (*by-pass*), separando la extracción corta a **9 bares** de la adición de agua limpia a **88–90 °C**."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como hacer un cafe americano perfecto con cafetera espresso"
+      "text": "Americano de Especialidad vs Long Black Australiano: orden de vertido, proporción y preservación de la crema"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como hacer un cafe americano perfecto con cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: como hacer un cafe americano perfecto con cafetera espresso",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "Pon primero 100–120 ml de agua caliente en tu taza y extrae encima los 36 g de espresso doble (Long Black) para conservar intacta la capa de crema.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "Aunque ambos comparten exactamente los mismos dos ingredientes —un espresso doble extraído en ratio **1:2** y agua caliente mineralizada—, la física del orden de vertido cambia por completo la textura en boca y la percepción olfativa. En el **Americano clásico**, extraes primero entre **32 y 36 gramos** de espresso en el fondo de la taza y luego viertes el agua caliente encima: la turbulencia del chorro rompe la tensión superficial de la crema, integrando los aceites en todo el líquido para ofrecer un trago homogéneo y suave desde el primer sorbo. En el **Long Black** (estándar en Australia y Nueva Zelanda), llenas primero la taza con **100 a 120 ml de agua a 90 °C** y extraes el doble espresso o doble ristretto directamente sobre la superficie del agua, conservando una corona intacta de microburbujas aromáticas tan densa como la base de un [affogato al caffè italiano con ristretto caliente](/extraccion-y-recetas-espresso/receta-de-affogato-al-caffe-italiano-con-helado-de-vainilla/) o las [medidas exactas para un caffè latte clásico](/extraccion-y-recetas-espresso/receta-de-cafe-latte-con-leche-caliente-y-de-avena/)."
     },
     {
       "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre como hacer un cafe americano perfecto con cafetera espresso",
-      "text": "Pon primero 100–120 ml de agua caliente en tu taza y extrae encima los 36 g de espresso doble (Long Black) para conservar intacta la capa de crema. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "fabricante",
+      "text": "Tanto la **Breville Bambino BES450** como la **CASABREWS CM5418** o la **De’Longhi Dedica Arte EC885M** permiten dispensar agua caliente por su lanceta de vapor o por el grupo sin portafiltro. Sin embargo, si dispensas el agua por el grupo debes limpiar antes la ducha con un disparo corto para no arrastrar posos viejos al vaso; la lanceta en modo agua caliente entrega un flujo limpio a unos **88–92 °C** ideal para un Long Black.",
+      "title": "Cómo obtener agua limpia a 90 °C desde tu propia cafetera compacta"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como hacer un cafe americano perfecto con cafetera espresso hoy mismo en tu cocina"
+      "text": "Tabla de proporciones en gramos y mililitros según la intensidad deseada en taza"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con como hacer un cafe americano perfecto con cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
+      "type": "table",
+      "headers": [
+        "Estilo de Bebida",
+        "Dosis en Seco / Espresso Líquido",
+        "Agua Caliente (88–90 °C)",
+        "Proporción Espresso : Agua",
+        "Orden de Ensamblaje y Perfil Sensorial"
+      ],
+      "rows": [
+        [
+          "Long Black Australiano Intenso",
+          "18 g en 54 mm → 32 g doble ristretto",
+          "95 – 110 ml (g)",
+          "1 : 3",
+          "Agua primero + café encima. Crema intacta, cuerpo alto y aroma intenso"
+        ],
+        [
+          "Americano de Especialidad Equilibrado",
+          "18 g en 54 mm → 36 g doble espresso (o 15 g → 30 g en 51 mm)",
+          "110 – 130 ml (g)",
+          "1 : 3.2 a 1 : 3.5",
+          "Espresso primero + agua en hilo fino por el borde. Balance dulce y sedoso"
+        ],
+        [
+          "Americano Largo estilo Filtro",
+          "18 g → 38 g doble espresso",
+          "150 – 170 ml (g)",
+          "1 : 4 a 1 : 4.5",
+          "Espresso primero + agua a 88 °C. Claridad similar a un V60 pero con más cuerpo"
+        ],
+        [
+          "Italiano Corto (Pocket Americano)",
+          "15 g en 51 mm → 30 g doble espresso",
+          "60 ml (g)",
+          "1 : 2",
+          "Agua primero + espresso encima en taza de 120 ml. Textura aterciopelada"
+        ]
+      ],
+      "caption": "Recetas técnicas de dilución (by-pass) para café Americano y Long Black según el tamaño de portafiltro"
     },
     {
       "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "4 reglas de barismo para que tu Americano casero nunca sepa aguado ni quemado"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Prohibido usar agua a 100 °C en ebullición:** El agua recién hervida escalda los compuestos volátiles del espresso y acentúa el amargor; espera 60 segundos tras apagar el hervidor o programa tu tetera digital a **89 °C**.",
+        "**Espuma de escoria (scum removal) para tuestes claros:** Si usas granos de tueste medio-claro con notas florales, retira con una cucharilla la fina espuma blanquecina superior tras añadir el agua; ahí se concentran los compuestos más amargos del CO2.",
+        "**Verter el agua por la pared interna de la taza:** Si prefieres el Americano tradicional pero quieres conservar un anillo de crema, inclina la taza a **45 grados** y desliza el agua lentamente por la porcelana sin romper el centro del espresso.",
+        "**Temperatura de consumo entre 62 °C y 55 °C:** Un Americano recién preparado a 80 °C oculta su dulzor porque las papilas gustativas sufren bloqueo térmico; déjalo templar 3 minutos para que afloren las notas de fruta, chocolate o nuez."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "Consulta en las tarjetas de Amazon integradas en esta página la disponibilidad actual de hervidores eléctricos con control de temperatura grado a grado, tazas térmicas de doble pared y básculas baristas, o pide a nuestro Asesor IA una receta adaptada a tu cafetera compacta."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como hacer un cafe americano perfecto con cafetera espresso?",
-      "a": "Pon primero 100–120 ml de agua caliente en tu taza y extrae encima los 36 g de espresso doble (Long Black) para conservar intacta la capa de crema. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Qué diferencia real de sabor hay entre un café Lungo y un café Americano?",
+      "a": "El Lungo pasa toda el agua (90 a 120 ml) a través de la pastilla de café molido, arrastrando compuestos amargos y astringentes de sobre-extracción tras el segundo 30. El Americano extrae solo un espresso puro de 30 a 36 g en 27 segundos y añade agua limpia aparte, logrando una taza mucho más dulce y limpia."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Puedo extraer el espresso directamente sobre la taza con agua caliente (Long Black) en mi cafetera compacta?",
+      "a": "Sí, es el método favorito en cafeterías de especialidad para no perder la crema. Solo debes asegurarte de que entre las boquillas de tu Breville Bambino o De’Longhi Dedica y la bandeja quepa tu taza de 180 a 220 ml llena hasta dos tercios de agua caliente."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Influye el tipo de agua que añado a la taza en el sabor del Americano?",
+      "a": "Como el agua representa hasta el 78 % del volumen total de un Americano, usar agua del grifo con cloro o exceso de cal aplana por completo la acidez frutal del café. Utiliza siempre agua filtrada con una mineralización moderada (entre 70 y 120 ppm de TDS) tanto en el tanque de la máquina como al diluir."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/receta-de-flat-white-autentico-australiano-en-cafetera-compacta/",
     "/extraccion-y-recetas-espresso/que-es-el-salami-shot-el-experimento-para-entender-las-3-fases-del-espresso/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/receta-de-cafe-latte-con-leche-caliente-y-de-avena/",
+    "/extraccion-y-recetas-espresso/receta-de-affogato-al-caffe-italiano-con-helado-de-vainilla/",
+    "/extraccion-y-recetas-espresso/receta-de-cafe-bombon-con-leche-condensada-y-espresso/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-hacer-un-americano-perfecto-en-casa-proporcion-agua-y-espresso.webp"
 }

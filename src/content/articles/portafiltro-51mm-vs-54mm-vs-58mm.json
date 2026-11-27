@@ -4,145 +4,122 @@
   "path": "/comparativas/portafiltro-51mm-vs-54mm-vs-58mm/",
   "isPillar": false,
   "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "portafiltro 51mm vs 54mm vs 58mm diferencias",
   "title": "Portafiltro de 51 mm vs 54 mm vs 58 mm: Diferencias en extracción, accesorios y sabor",
-  "seoTitle": "51 mm vs 54 mm: Comparativa y Cuál Comprar en Amazon",
-  "metaDescription": "Comparativa a fondo 51 mm vs 54 mm: diferencias de precio, ancho en cm, presión, vaporizador para Latte Art y cuál comprar en Amazon EE. UU.",
-  "excerpt": "Enfrentamos 51 mm frente a 54 mm: tabla comparativa, tamaño, facilidad de uso y veredicto de compra.",
-  "quickAnswer": "En la comparativa entre 51 mm y 54 mm, la decisión depende de tu presupuesto y espacio en la cocina: Un portafiltro de 51 mm o 54 mm con cesta despresurizada IMS y buen molino produce un espresso indistinguible a ciegas de uno de 58 mm en casa, calentando mucho más rápido.",
+  "seoTitle": "Portafiltro de 51 mm vs 54 mm vs 58 mm: Diferencias en extracción, accesorios y sabor | cafeteracompacta.com",
+  "metaDescription": "Portafiltro de 51 mm vs 54 mm vs 58 mm: cómo influye el diámetro de la cesta en la altura de la pastilla de café, la molienda, la canalización y el sabor.",
+  "excerpt": "Explicamos desde la física hidráulica qué cambia entre los portafiltros de 51 mm (Dedica, CASABREWS), 54 mm (Breville Bambino) y 58 mm comercial (Gaggia, HiBREW): grosor de pastilla y accesorios.",
+  "quickAnswer": "El diámetro del portafiltro determina la geometría de la pastilla de café para una misma dosis de **18 gramos**: en **51 mm** la cama es más profunda y estrecha, lo que exige una molienda ligeramente más gruesa y perdona mejor pequeños fallos de distribución; en **58 mm** la pastilla es más delgada y ancha, permitiendo moliendas más finas y mayor extracción en tuestes claros, mientras que **54 mm** equilibra ambos mundos.",
   "readingMinutes": 8,
   "image": {
-    "prompt": "Two compact brushed stainless steel espresso machines side by side on a modern kitchen counter with two fresh espresso cups and a milk pitcher, warm daylight",
-    "alt": "Comparativa cara a cara entre 51 mm y 54 mm"
+    "prompt": "Three-quarter 50mm studio-natural close-up shot: realistic scene illustrating 'Portafiltro de 51 mm vs 54 mm vs 58 mm: Diferencias en extracción, accesorios y sabor' (portafiltro 51mm vs 54mm vs 58mm diferencias) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, inside a bright contemporary apartment with minimalist decor, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Portafiltro de 51 mm vs 54 mm vs 58 mm: Diferencias en extracción, accesorios y sabor"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Dudar entre **51 mm** y **54 mm** es el dilema más habitual al buscar tu equipo de espresso compacto en Amazon Estados Unidos o España. Aunque ambos modelos gozan de miles de reseñas de 5 estrellas, sus diferencias en **ancho de encimera, diámetro de portafiltro, tiempo de calentamiento y vaporizador de leche** hacen que cada uno tenga un comprador ideal distinto."
-    },
-    {
-      "type": "p",
-      "text": "En este duelo técnico enfrentamos cara a cara a **51 mm (Casabrews CM5418 / De’Longhi Dedica: pastilla más alta y estrecha, perdona errores)** contra **54 mm (Breville Bambino: equilibrio ideal de 18 g) y 58 mm (Gaggia / HiBREW H10A: estándar comercial)** según su precio en Amazon, facilidad de uso para principiantes y margen de evolución barista."
+      "text": "Un error muy frecuente cuando alguien pasa de una **CASABREWS CM5418** o una **De’Longhi Dedica Arte** (ambas con grupo de **51 mm**) a una cafetera con grupo comercial de **58 mm** es mantener exactamente el mismo número de molienda para una dosis de **18 gramos** de café. Al pulsar el botón de extracción, el resultado sorprende: en la máquina de **58 mm** el agua atraviesa la pastilla a toda velocidad y llena la taza en apenas **13 segundos**. No es que la nueva cafetera tenga demasiada presión, sino que la geometría del portafiltro cambia por completo la altura de la cama de café, un factor decisivo cuando decides aplicar lo aprendido sobre [cuándo cambiar del filtro presurizado al filtro no presurizado bottomless](/comparativas/filtro-presurizado-vs-no-presurizado-bottomless/)."
     },
     {
       "type": "h2",
-      "text": "Tabla comparativa directa: 51 mm vs 54 mm"
+      "text": "Hidráulica de la pastilla: altura de cama, tamaño de molienda y resistencia al agua"
+    },
+    {
+      "type": "p",
+      "text": "La explicación es pura geometría cilíndrica aplicada a la misma masa de café. Una cesta de **51 mm** ofrece una superficie circular de **20.4 cm²**; al cargar entre **16 y 18 gramos**, se forma una columna estrecha y profunda (unos **18 a 20 mm** de grosor) que opone mucha resistencia natural al paso del agua y exige una molienda ligeramente más gruesa para no bloquear la bomba. En el estándar intermedio de **54 mm** —utilizado por la **Breville Bambino**, la **Bambino Plus** y la **Solis Barista Perfetta Plus**—, el área sube a **22.9 cm²** (**15–16 mm** de profundidad), logrando un equilibrio extraordinario entre cuerpo denso y facilidad de calibración. Finalmente, el portafiltro comercial de **58 mm** (**Gaggia Classic E24**, **HiBREW H10A**) expande la superficie hasta **26.4 cm²**: la pastilla queda mucho más delgada (**12–13 mm**), lo que obliga a moler bastante más fino con equipos solventes como los de nuestra [comparativa entre el Baratza Encore ESP y el Breville Smart Grinder Pro](/comparativas/baratza-encore-esp-vs-breville-smart-grinder-pro/) dentro de [nuestro catálogo de comparativas técnicas](/comparativas/), pero permite alcanzar mayores porcentajes de extracción en tuestes medios y claros."
+    },
+    {
+      "type": "h2",
+      "text": "Tabla comparativa: Portafiltro de 51 mm vs 54 mm vs 58 mm"
     },
     {
       "type": "table",
-      "caption": "Duelo técnico entre 51 mm y 54 mm",
       "headers": [
-        "Criterio Barista",
-        "51 mm",
-        "54 mm"
+        "Parámetro técnico",
+        "Estándar 51 mm",
+        "Estándar 54 mm",
+        "Estándar Comercial 58 mm"
       ],
       "rows": [
         [
-          "Especificación y Perfil",
-          "51 mm (Casabrews CM5418 / De’Longhi Dedica: pastilla más alta y estrecha, perdona errores)",
-          "54 mm (Breville Bambino: equilibrio ideal de 18 g) y 58 mm (Gaggia / HiBREW H10A: estándar comercial)"
+          "Cafeteras compactas habituales",
+          "De’Longhi Dedica Arte, CASABREWS CM5418 / 3700",
+          "Breville Bambino, Bambino Plus, Solis Perfetta",
+          "Gaggia Classic E24, HiBREW H10A, Rancilio Silvia"
         ],
         [
-          "Tiempo de Calentamiento",
-          "Arranque instantáneo Thermoblock / ThermoJet",
-          "Calentamiento rápido listo para extracción"
+          "Área transversal de la cesta",
+          "20.4 cm² (pastilla alta y estrecha)",
+          "22.9 cm² (geometría equilibrada)",
+          "26.4 cm² (pastilla ancha y delgada)"
         ],
         [
-          "Facilidad para Principiantes",
-          "Alta (incluye filtros y controles intuitivos)",
-          "Alta (curva de aprendizaje progresiva)"
+          "Dosis doble óptima en cesta recta",
+          "14 g – 16.5 g (18 g en cesta profunda H26)",
+          "17 g – 19 g",
+          "18 g – 20 g (y cestas triples de 22 g)"
         ],
         [
-          "Accesorios Compatibles en Amazon",
-          "Portafiltro Bottomless, Tamper, WDT y Puck Screen",
-          "Amplio catálogo de upgrades en Amazon US y ES"
+          "Granulometría requerida",
+          "Medio-fino (perdona mejor pequeños fallos de WDT)",
+          "Fino equilibrado",
+          "Muy fino (exige distribución WDT rigurosa)"
         ],
         [
-          "Mantenimiento",
-          "Descalcificación cada 60–90 días con EcoDecalk/Dezcal",
-          "Limpieza rápida de ducha, cesta y lanceta"
+          "Diámetro real de tamper de precisión",
+          "51.0 mm o 51.3 mm (según cesta)",
+          "53.3 mm o 53.4 mm",
+          "58.4 mm o 58.55 mm"
         ]
-      ]
+      ],
+      "caption": "Diferencias geométricas, de extracción y compatibilidad entre 51 mm, 54 mm y 58 mm"
     },
     {
       "type": "callout",
       "variant": "etiqueta",
-      "title": "Veredicto rápido del duelo",
-      "text": "Un portafiltro de 51 mm o 54 mm con cesta despresurizada IMS y buen molino produce un espresso indistinguible a ciegas de uno de 58 mm en casa, calentando mucho más rápido."
+      "text": "Que dos cafeteras usen cestas de 51 mm no significa que sus portafiltros sean intercambiables. La bayoneta del grupo varía según el fabricante: la De’Longhi Dedica Arte (EC885M) emplea un anclaje de 3 orejas (pestañas) de 4.5 mm de espesor, mientras que la CASABREWS CM5418 utiliza un patrón de 3 orejas con ángulo y grosor específicos para su junta. Comprueba siempre el modelo exacto de tu máquina además del diámetro en milímetros.",
+      "title": "Ojo al número y grosor de las orejas al elegir portafiltro desnudo"
     },
     {
       "type": "h2",
-      "text": "1. Tamaño en la cocina, materiales y diámetro de accesorios"
-    },
-    {
-      "type": "p",
-      "text": "Cuando comparas **51 mm** frente a **54 mm**, lo primero que debes medir es cuántos centímetros libres tienes bajo las alacenas de tu cocina y con qué ecosistema de accesorios quieres trabajar (51 mm, 54 mm o 58 mm):"
+      "text": "Impacto en el sabor en taza y compatibilidad con accesorios de precisión"
     },
     {
       "type": "ul",
       "items": [
-        "**Puntos donde destaca 51 mm:** brilla por las cualidades de *51 mm (Casabrews CM5418 / De’Longhi Dedica: pastilla más alta y estrecha, perdona errores)*, siendo una apuesta segura para quienes priorizan ese equilibrio en su rincón de café.",
-        "**Puntos donde destaca 54 mm:** toma ventaja gracias a *54 mm (Breville Bambino: equilibrio ideal de 18 g) y 58 mm (Gaggia / HiBREW H10A: estándar comercial)*, resultando ideal si esas prestaciones se ajustan mejor a tu rutina diaria y presupuesto."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "2. Calidad del espresso en taza y texturizado de leche para Latte Art"
-    },
-    {
-      "type": "p",
-      "text": "Tanto si preparas un espresso doble puro (ratio 1:2 de 18 g a 36 g en 27 segundos) como si eres amante del Cappuccino, Flat White o Iced Latte, recuerda que el **molino de café** y la **frescura del grano** representan la mitad del éxito."
-    },
-    {
-      "type": "ol",
-      "items": [
-        "**Con café pre-molido (Día 1):** ambos sistemas permiten empezar de inmediato de forma limpia y sencilla.",
-        "**Con molino de espresso + portafiltro Bottomless:** al añadir un [Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/), un [Fellow Opus](/resenas-cafeteras/fellow-opus-conical-burr-grinder/) o un [Turin DF54](/resenas-cafeteras/turin-df54-single-dose-flat-burr/) y una báscula mini de 0.1 g, lograrás crema avellana tigreada digna de cafetería."
+        "**Cuerpo frente a claridad aromática**: La cama profunda de **51 mm** favorece una textura más espesa y achocolatada en tuestes medios-oscuros tradicionales; la cama ancha y delgada de **58 mm** moja todo el café de manera más simultánea, destacando notas frutales y florales sin sobreextraer la parte superior de la pastilla.",
+        "**Tampers autonivelantes al décimo de milímetro**: En una cesta de precisión **IMS** de **54 mm** o **58 mm**, un tamper genérico de **53.0 mm** o **58.0 mm** deja un anillo de café sin prensar en los bordes; busca siempre bases calibradas de **53.3 mm** (para **Breville 54 mm**) o **58.5 mm** (para **58 mm comercial**).",
+        "**Espesor del Puck Screen (malla difusora)**: En grupos de **51 mm** y **54 mm** con duchas bajas, una malla sinterizada de **0.8 mm** o **0.2 mm** de grosor evita que el disco roce el tornillo central de la ducha, frente a las mallas clásicas de **1.7 mm** pensadas para cestas comerciales profundas de **58 mm**.",
+        "**Disponibilidad de cestas de competición**: Aunque **58 mm** cuenta con el mayor catálogo mundial (**VST**, **IMS**, **Pullman**), hoy existen cestas **IMS Precision** específicas tanto para **54 mm (Breville)** como para **51 mm (De’Longhi / CASABREWS)** en Amazon."
       ]
     },
     {
       "type": "cta",
-      "text": "¿Quieres saber cuál de los dos (51 mm o 54 mm) encaja mejor con tu presupuesto hoy en Amazon? Pregúntale a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Conclusión: ¿Cuál comprar entre 51 mm y 54 mm?"
-    },
-    {
-      "type": "p",
-      "text": "Ambos ocupan puestos de honor en nuestro ranking de [las mejores cafeteras espresso compactas en Amazon](/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/). **Un portafiltro de 51 mm o 54 mm con cesta despresurizada IMS y buen molino produce un espresso indistinguible a ciegas de uno de 58 mm en casa, calentando mucho más rápido.** Revisa justo arriba y abajo las tarjetas con el precio y disponibilidad hoy en Amazon.com o Amazon.es."
+      "text": "¿Necesitas confirmar qué diámetro exacto de tamper, cesta IMS o portafiltro sin fondo es compatible con tu cafetera compacta? Pregunta a nuestro Asesor IA o consulta las opciones disponibles en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es mejor compra en Amazon: 51 mm o 54 mm?",
-      "a": "Un portafiltro de 51 mm o 54 mm con cesta despresurizada IMS y buen molino produce un espresso indistinguible a ciegas de uno de 58 mm en casa, calentando mucho más rápido."
+      "q": "¿Por qué no caben 18 gramos de café en el filtro doble original de mi cafetera de 51 mm?",
+      "a": "Las cestas originales de 51 mm suelen tener forma ligeramente cónica en la base y admiten cómodamente entre 14 y 16 gramos. Si quieres dosificar 18 gramos completos sin que la pastilla toque la ducha de la cafetera, debes adquirir una cesta cilíndrica recta no presurizada de 51 mm con 25 o 26 mm de altura (H26)."
     },
     {
-      "q": "¿Qué molino de café recomiendan para acompañar a 51 mm o 54 mm?",
-      "a": "El Baratza Encore ESP y el Fellow Opus son las dos mejores opciones eléctricas compactas por menos de $200 en Amazon; si prefieres ocupar 0 cm de encimera, el molino manual KINGrinder K6 es imbatible."
+      "q": "¿Por qué las cafeteras compactas como Breville Bambino o Dedica no usan portafiltro de 58 mm?",
+      "a": "No por una limitación de la máquina, sino por un criterio estricto de ingeniería térmica y espacio. Un grupo de 54 mm o 51 mm tiene menor masa metálica que un grupo comercial de 58 mm de medio kilo de latón, lo que permite que sistemas ThermoJet o Thermoblock alcancen los 93 °C en solo 3 a 30 segundos mantendo un chasis de 15 a 19 cm de ancho."
     },
     {
-      "q": "¿Usan los mismos accesorios de portafiltro y tamper?",
-      "a": "Revisa siempre la medida en milímetros de tu modelo antes de comprar accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, 54 mm (53.3 mm) para Breville Bambino y 58 mm para Gaggia Classic o HiBREW H10A."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Espresso Extraction Standards",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "National Coffee Association USA",
-      "url": "https://www.ncausa.org/"
+      "q": "¿Qué medida exacta de tamper debo comprar para una Breville Bambino de 54 mm?",
+      "a": "Mide o revisa si utilizas la cesta original o una cesta de precisión IMS. Tanto para la cesta original de 54 mm de la Breville Bambino como para la cesta IMS B62.52TH, un tamper calibrado de 53.3 mm o 53.4 mm encaja al ras de las paredes sin generar vacío al retirarlo."
     }
   ],
   "related": [
-    "/comparativas/",
+    "/comparativas/baratza-encore-esp-vs-breville-smart-grinder-pro/",
+    "/comparativas/subminimal-nanofoamer-pro-vs-dreo-baristamaker/",
     "/comparativas/filtro-presurizado-vs-no-presurizado-bottomless/",
-    "/comparativas/timemore-black-mirror-mini-vs-wacaco-exagram-pro/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/comparativas/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/portafiltro-51mm-vs-54mm-vs-58mm.webp"
 }

@@ -4,161 +4,118 @@
   "path": "/problemas-y-soluciones/sale-vapor-por-el-grupo-al-intentar-hacer-un-cafe/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "sale vapor por el portafiltro en vez de cafe",
   "title": "Por Qué Sale Vapor Hirviendo en Vez de Agua por el Portafiltro al Pulsar el Botón de Café",
-  "seoTitle": "Por Qué Sale Vapor Hirviendo en Vez de Agua por el Portafiltro al Pulsar el Botón de Café | Guía Barista Compacta",
-  "metaDescription": "Por Qué Sale Vapor Hirviendo en Vez de Agua por el Portafiltro al Pulsar el Botón de Café: Olvidaste desactivar el botón de Vapor o no purgaste el circuito tras espumar leche: el bloque sigue a 130 °C. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Olvidaste desactivar el botón de Vapor o no purgaste el circuito tras espumar leche: el bloque sigue a 130 °C.",
-  "quickAnswer": "Sobre sale vapor por el portafiltro en vez de cafe: Olvidaste desactivar el botón de Vapor o no purgaste el circuito tras espumar leche: el bloque sigue a 130 °C. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué Sale Vapor Hirviendo en Vez de Agua por el Portafiltro al Pulsar el Botón de Café | cafeteracompacta.com",
+  "metaDescription": "Si sale vapor por el portafiltro en vez de café, tu caldera o termobloque supera los 100 °C. Aprende a hacer el purgado térmico y revisar el termostato.",
+  "excerpt": "Explicamos por qué las cafeteras de circuito único escupen vapor hirviendo por la ducha del grupo tras espumar leche o al fallar el sensor NTC, y cómo enfriar el bloque en segundos.",
+  "quickAnswer": "Cuando sale vapor hirviendo y chisporroteo por el grupo en lugar de agua líquida, el termobloque o la caldera se encuentra por encima de los **100 °C**, generalmente por calor residual de **140 °C** tras usar la lanceta de vapor. Para corregirlo, debes purgar agua caliente durante **4 a 6 segundos** sin portafiltro hasta que el flujo salga continuo, silencioso y a **92–94 °C**.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Olvidaste desactivar el botón de Vapor o no purgaste el circuito tras espumar leche: el bloque sigue a 130 °C., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Over-the-shoulder hands-on demonstration perspective in natural light: realistic scene illustrating 'Por Qué Sale Vapor Hirviendo en Vez de Agua por el Portafiltro al Pulsar el Botón de Café' (sale vapor por el portafiltro en vez de cafe) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, on a clean stone countertop with neatly arranged accessories, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué Sale Vapor Hirviendo en Vez de Agua por el Portafiltro al Pulsar el Botón de Café"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **sale vapor por el portafiltro en vez de cafe** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Olvidaste desactivar el botón de Vapor o no purgaste el circuito tras espumar leche: el bloque sigue a 130 °C."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Acabas de texturizar la leche para un primer capuchino en tu **CASABREWS CM5418**, tu **De’Longhi Dedica Arte (EC885M)** o tu **Gaggia Classic Evo Pro**, encajas el portafiltro con una dosis fresca de café molido para preparar una segunda taza y pulsas el botón de extracción. En lugar de caer un hilo denso color avellana, escuchas un bufido violento dentro del grupo y por las boquillas solo escapa vapor hirviendo acompañado de unas gotas negras con olor a quemado. Este fenómeno se conoce como *flash-boiling* (ebullición instantánea) y ocurre porque todas las cafeteras compactas de circuito único comparten el mismo bloque calefactor para extraer café a **92–94 °C** y para generar vapor a **135–145 °C**. Puedes consultar otros diagnósticos térmicos similares en nuestro [índice de problemas y soluciones](/problemas-y-soluciones/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: sale vapor por el portafiltro en vez de cafe"
-    },
-    {
-      "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **sale vapor por el portafiltro en vez de cafe** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Diferencia entre olvido de purga post-vapor y avería en el termostato de café"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: sale vapor por el portafiltro en vez de cafe",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Momento en que ocurre el fallo",
+        "Temperatura real del bloque",
+        "Comportamiento del manómetro / luces",
+        "Causa raíz y gravedad"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Olvidaste desactivar el botón de Vapor o no purgaste el circuito tras espumar leche: el bloque sigue a 130 °C.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Justo después de haber usado la lanceta de vapor",
+          "125 °C – 140 °C",
+          "En la Dedica parpadean los botones de 1 y 2 tazas; en la CM5418 la aguja oscila bajo",
+          "Falta de purga de enfriamiento (cooling flush): calor y vapor residual en el circuito (Normal)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Recién encendida en frío, sin haber tocado el botón de vapor",
+          "> 115 °C sin límite a 93 °C",
+          "La luz de café tarda mucho en estabilizarse o el chasis superior quema al tacto",
+          "Termostato bimetálico de café (95–107 °C) pegado o sensor NTC descalibrado (Avería)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Sale vapor 3 segundos y luego el chorro sale con espuma gigante y violenta",
+          "100 °C – 106 °C",
+          "El tiro termina en menos de 12 segundos con burbujas grandes y sabor a ceniza",
+          "Sobrecalentamiento por espera prolongada con portafiltro puesto tras vaporizar"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "La bomba suena muy hueca y solo sale un soplo de vapor seco sin gotas",
+          "130 °C con caldera vacía",
+          "No cae agua ni por el grupo ni por la lanceta tras sesión larga de vapor",
+          "Bolsa de vapor (vapor lock) que impide a la bomba vibratoria cebar agua fría"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre sale vapor por el portafiltro en vez de cafe",
-      "text": "Olvidaste desactivar el botón de Vapor o no purgaste el circuito tras espumar leche: el bloque sigue a 130 °C. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Diagnóstico térmico cuando sale vapor en lugar de agua líquida por la ducha del grupo"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar sale vapor por el portafiltro en vez de cafe hoy mismo en tu cocina"
+      "text": "Por qué la bolsa de vapor bloquea la bomba ULKA y quema la pastilla de café"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Cuando activas el modo vapor en una **CASABREWS 3700Essential**, **CASABREWS CM5418** o **Gaggia Classic**, la resistencia eleva el aluminio o el acero por encima de **135 °C** y vacía gran parte del agua líquida del conducto convirtiéndola en gas comprimido. Si intentas extraer un espresso sin evacuar ese gas ni rellenar la caldera con agua fresca del tanque, los primeros **30 ml** que impulsa la bomba vibratoria hierven instantáneamente al tocar las paredes a **130 °C**. Ese vapor a presión perfora la pastilla de café —provocando que luego veas cómo [salen chorros finos y espuma grande que salpica en tu filtro no presurizado](/problemas-y-soluciones/el-cafe-sale-con-espuma-grande-que-salpica-con-filtro-no-presurizado/)— y carboniza los aceites solubles del grano. Además, si la punta de la lanceta está parcialmente tapada (revisa [qué usar si perdiste la aguja de limpieza de la lanceta](/problemas-y-soluciones/he-perdido-la-aguja-de-limpieza-de-la-lanceta-que-puedo-usar/)), resulta más difícil liberar la presión acumulada. En cambio, si el vapor sale nada más encender la máquina por la mañana sin haber pulsado nunca el botón de vapor, el termostato de café de **95 °C** o el relé de estado sólido ha quedado soldado en posición cerrada y sigue calentando hasta que salta el termostato de vapor de **145 °C**."
+    },
+    {
+      "type": "h2",
+      "text": "Protocolo de purga de enfriamiento (Cooling Flush) en 20 segundos para volver a 93 °C"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Desactiva el botón de vapor y retira el portafiltro del grupo",
+          "text": "Asegúrate de que el icono de vapor esté apagado. Quita siempre el portafiltro antes de enfriar la máquina para no escaldar el café molido con el primer chorro de vapor a 130 °C."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Abre la válvula o rueda de vapor hacia una jarra vacía durante 4 segundos",
+          "text": "En modelos como la De’Longhi Dedica o la CASABREWS CM5418, abrir el grifo de la lanceta o pulsar agua caliente evacúa la bolsa de gas comprimido e introduce agua fría del depósito directamente al termobloque hasta que salga un chorro líquido continuo."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Pulsa el botón de 1 taza sin portafiltro hasta que deje de chisporrotear (3–5 s)",
+          "text": "Observa el agua que cae por la ducha del grupo: al principio saldrá escupiendo vapor y burbujas; en cuanto el flujo caiga silencioso, cristalino y sin chisporroteo, el bloque habrá bajado a 92–94 °C y podrás colocar el portafiltro para extraer."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con sale vapor por el portafiltro en vez de cafe en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Prefieres dar el salto a una cafetera con tecnología ThermoJet que pasa de vapor a espresso en 3 segundos o necesitas repuestos térmicos? Consulta a nuestro Asesor IA o revisa la disponibilidad en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre sale vapor por el portafiltro en vez de cafe?",
-      "a": "Olvidaste desactivar el botón de Vapor o no purgaste el circuito tras espumar leche: el bloque sigue a 130 °C. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Es mejor hacer primero el café y luego espumar la leche, o al revés?",
+      "a": "En cafeteras con caldera como la Gaggia Classic Evo Pro, debes extraer siempre todos los cafés primero y espumar la leche al final. En máquinas con termobloque como la CASABREWS CM5418 o la Dedica, puedes espumar antes siempre que hagas la purga de agua de 5 segundos para bajar a 93 °C."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué la Breville Bambino no escupe vapor por el grupo después de espumar leche?",
+      "a": "La Breville Bambino y la Bambino Plus utilizan un circuito impreso ThermoJet de bajísima masa térmica junto con una purga automática interna hacia la bandeja de goteo. Al terminar de vaporizar, el bloque se enfría casi al instante y permite extraer café en apenas 3 segundos sin acumular bolsas de vapor."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cómo sé si el termostato de mi cafetera se ha roto de verdad?",
+      "a": "Si con la máquina recién encendida en frío y el botón de vapor apagado sale vapor hirviendo por la ducha, apágala de inmediato. Significa que el sensor térmico NTC o el termostato de 95 °C está averiado y la resistencia no corta hasta alcanzar el límite de seguridad de vapor."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/mi-molino-fellow-opus-se-para-solo-o-se-atasca-el-conducto/",
+    "/problemas-y-soluciones/he-perdido-la-aguja-de-limpieza-de-la-lanceta-que-puedo-usar/",
     "/problemas-y-soluciones/el-cafe-sale-con-espuma-grande-que-salpica-con-filtro-no-presurizado/",
-    "/problemas-y-soluciones/el-vaporizador-automatico-de-la-bambino-plus-deja-la-leche-fria/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/mi-espumador-nanofoamer-o-dreo-solo-calienta-pero-no-hace-espuma/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/sale-vapor-por-el-grupo-al-intentar-hacer-un-cafe.webp"
 }

@@ -4,161 +4,110 @@
   "path": "/extraccion-y-recetas-espresso/receta-de-affogato-al-caffe-italiano-con-helado-de-vainilla/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "receta affogato al caffe con espresso",
   "title": "Cómo Preparar el Affogato al Caffè Perfecto (Bola de Helado de Vainilla o Fior di Latte + Ristretto Caliente)",
-  "seoTitle": "Cómo Preparar el Affogato al Caffè Perfecto (Bola de Helado de Vainilla o Fior di Latte + Ristretto Caliente) | Guía Barista Compacta",
-  "metaDescription": "Cómo Preparar el Affogato al Caffè Perfecto (Bola de Helado de Vainilla o Fior di Latte + Ristretto Caliente): El postre italiano más rápido y delicioso del mundo: congela la copa 10 minutos antes para que el espresso cree una salsa cremosa. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "El postre italiano más rápido y delicioso del mundo: congela la copa 10 minutos antes para que el espresso cree una salsa cremosa.",
-  "quickAnswer": "Sobre receta affogato al caffe con espresso: El postre italiano más rápido y delicioso del mundo: congela la copa 10 minutos antes para que el espresso cree una salsa cremosa. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Preparar el Affogato al Caffè Perfecto (Bola de Helado de Vainilla o Fior di Latte + Ristretto Caliente) | cafeteracompacta.com",
+  "metaDescription": "Prepara la receta de affogato al caffe con espresso o ristretto: temperatura ideal del helado Fior di Latte y ratio de extracción para que no se derrita.",
+  "excerpt": "Descubre cómo lograr el contraste térmico del auténtico affogato italiano con tu cafetera compacta: densidad grasa del helado, extracción tipo ristretto 1:1.5 y enfriamiento de la copa.",
+  "quickAnswer": "La receta de affogato al caffe con espresso perfecta exige sustituir el tiro largo por un ristretto concentrado de **25 a 30 g** extraído a **92 °C** en **25 segundos** a partir de **18 g** de café molido. Al reducir el volumen de agua caliente y servir sobre una bola firme de **90 g** de helado Fior di Latte o vainilla a **-14 °C** en copa preenfriada, obtienes una crema emulsionada sin licuar el postre.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: El postre italiano más rápido y delicioso del mundo: congela la copa 10 minutos antes para que el espresso cree una salsa cremosa., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Candid real-world household usage perspective in bright natural morning light: realistic scene illustrating 'Cómo Preparar el Affogato al Caffè Perfecto (Bola de Helado de Vainilla o Fior di Latte + Ristretto Caliente)' (receta affogato al caffe con espresso) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, on a light terrazzo surface in a contemporary living space, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Preparar el Affogato al Caffè Perfecto (Bola de Helado de Vainilla o Fior di Latte + Ristretto Caliente)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **receta affogato al caffe con espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. El postre italiano más rápido y delicioso del mundo: congela la copa 10 minutos antes para que el espresso cree una salsa cremosa."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Un error habitual al intentar replicar el postre más famoso de las cafeterías de Turín y Milán en casa es extraer un café largo de **60 ml** sobre un helado comercial recién sacado de la puerta del congelador: en menos de diez segundos la bola colapsa y el recipiente se convierte en una sopa tibia y aguada. La verdadera **receta affogato al caffe con espresso** (literalmente «ahogado en café») depende de un equilibrio termodinámico estricto entre un sólido graso muy frío y un líquido corto, denso y viscoso. Tal como analizamos en nuestro [recetario técnico de extracción espresso](/extraccion-y-recetas-espresso/), cuando dominas la relación entre la masa del helado y el rendimiento en báscula de tu cafetera compacta, el café caliente envuelve la bola creando una costra cremosa semiderretida mientras el núcleo del helado permanece firme para comerlo con cucharilla."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: receta affogato al caffe con espresso"
+      "text": "Por qué necesitas extraer un Ristretto (Ratio 1:1.5) en lugar de un espresso largo"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **receta affogato al caffe con espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: receta affogato al caffe con espresso",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "El postre italiano más rápido y delicioso del mundo: congela la copa 10 minutos antes para que el espresso cree una salsa cremosa.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "El agua tiene una capacidad calorífica muy elevada: cada gramo extra de agua a **92 °C** que pasa por la pastilla de café aporta energía térmica que funde la estructura de cristales de hielo y grasa láctea del helado, pero apenas añade sólidos solubles sabrosos en la segunda mitad de la extracción. Por eso, si preparas el tiro en una **Breville Bambino Plus (BES500)**, una **De’Longhi Dedica Maestro Plus (EC950M)** o una **CASABREWS CM5418**, debes ajustar tu molino un punto más fino para extraer **18 g** de café molido y cortar la bomba cuando la báscula marque entre **25 y 28 g** de líquido en **24 a 27 segundos**. Esa concentración siruposa —mucho más cercana en densidad a la necesaria para [preparar un café bombón denso por capas](/extraccion-y-recetas-espresso/receta-de-cafe-bombon-con-leche-condensada-y-espresso/) que a la ligereza ácida que buscamos al [combinar café con cítricos en un espresso tonic](/extraccion-y-recetas-espresso/receta-de-espresso-tonic-con-agua-tonica-y-piel-de-naranja/)— garantiza que el café recubra la bola como una salsa espesa de cacao y frutos secos."
     },
     {
       "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre receta affogato al caffe con espresso",
-      "text": "El postre italiano más rápido y delicioso del mundo: congela la copa 10 minutos antes para que el espresso cree una salsa cremosa. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "etiqueta",
+      "text": "Revisa la etiqueta nutricional del helado y evita las versiones 'light' o con alto overrun (aire inyectado). Un gelato Fior di Latte o de vainilla Bourbon con un 10 % a 14 % de grasa láctea y bajo porcentaje de aire resiste hasta tres veces mejor el impacto del ristretto a 90 °C sin desmoronarse.",
+      "title": "El porcentaje de grasa láctea y el aire (overrun) del helado determinan el resultado"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar receta affogato al caffe con espresso hoy mismo en tu cocina"
+      "text": "Comparativa de estilos de Affogato según la base de helado y el corte del espresso"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "table",
+      "headers": [
+        "Variante de Affogato",
+        "Base de helado (90–100 g a -14 °C)",
+        "Receta de extracción en portafiltro",
+        "Topping o licor opcional (10 ml)"
+      ],
+      "rows": [
+        [
+          "Affogato Clásico Norte de Italia",
+          "Fior di Latte artesanal (nata pura sin huevo)",
+          "Ristretto doble: 18 g → 26 g en 25 s (Tueste medio-oscuro)",
+          "Virutas de chocolate negro 70 % o cacao puro"
+        ],
+        [
+          "Affogato Vainilla Bourbon",
+          "Helado de vainilla con yema de huevo y vaina natural",
+          "Espresso corto: 18 g → 30 g en 26 s (Tueste medio)",
+          "Galleta Amaretti triturada al momento"
+        ],
+        [
+          "Affogato Corretto (Sobremesa)",
+          "Helado de avellana (Nocciola) o vainilla",
+          "Ristretto: 16 g → 24 g en 24 s (Blend con 20 % Robusta)",
+          "10 ml de Frangelico, Amaretto o licor de café"
+        ]
+      ],
+      "caption": "Combinaciones técnicas de café, helado y temperatura para Affogato al Caffè"
     },
     {
-      "type": "steps",
+      "type": "h2",
+      "text": "Protocolo en 4 pasos para servir un Affogato que no se derrita antes de llegar a la mesa"
+    },
+    {
+      "type": "ol",
       "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
+        "**Preenfriado de la cristalería a -18 °C:** Introduce un vaso bajo tipo Old Fashioned o una copa de vidrio grueso en el congelador durante **20 minutos** antes de empezar; un cristal a temperatura ambiente (**22 °C**) derrite la base del helado por conducción antes de verter el café.",
+        "**Boleado compacto y vuelta al frío:** Forma una bola firme de **90 a 100 g** de helado de vainilla o Fior di Latte, colócala en el centro de la copa helada y devuélvela al congelador durante **5 minutos** mientras purgas el grupo y mueles el grano.",
+        "**Extracción del ristretto en jarrita independiente:** Coloca tu báscula bajo el portafiltro de **51 mm**, **54 mm** o **58 mm** y extrae entre **25 y 30 g** de café en una jarrita tipo *shot glass* con pico vertedor; nunca coloques la copa con el helado directamente debajo del grupo caliente de la cafetera.",
+        "**Servicio en mesa o vertido perimetral:** Vierte el ristretto caliente rodeando los laterales de la bola de helado en lugar de perforar su centro, permitiendo que el comensal combine en cada cucharada helado intacto con la emulsión templada de crema y café."
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con receta affogato al caffe con espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Encuentra vasos térmicos de doble pared, básculas de precisión con temporizador y accesorios para tu portafiltro consultando a nuestro Asesor IA o revisando las tarjetas de Amazon en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre receta affogato al caffe con espresso?",
-      "a": "El postre italiano más rápido y delicioso del mundo: congela la copa 10 minutos antes para que el espresso cree una salsa cremosa. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué no debo extraer el espresso directamente encima de la bola de helado?",
+      "a": "Si colocas la copa con el helado bajo el portafiltro, el calor radiante del cabezal del grupo y el chorro vertical concentrado durante **25 segundos** perforan el centro de la bola y la derriten prematuramente. Extraer en una jarrita separada permite verter el café de golpe y de forma controlada justo al servir."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Qué diferencia hay entre usar helado de vainilla o helado Fior di Latte?",
+      "a": "El helado de vainilla tradicional (crema inglesa congelada) contiene yema de huevo y extracto de vainilla, lo que aporta un perfil cálido y acaramelado. El **Fior di Latte** se elabora únicamente con leche fresca, nata y azúcar, ofreciendo un lienzo lácteo neutro que resalta mucho más los matices de cacao y tueste del ristretto."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué tipo de café en grano queda mejor para preparar un affogato en casa?",
+      "a": "Los granos de tueste medio a medio-oscuro con notas de chocolate negro, avellana tostada o caramelo funcionan mejor que los cafés de tueste muy claro. La grasa fría del helado amortigua el amargor del tueste, pero si usas un café demasiado ácido, la combinación con el lácteo frío puede resultar astringente."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/receta-de-espresso-macchiato-tradicional-manchado-con-espuma/",
     "/extraccion-y-recetas-espresso/receta-de-espresso-tonic-con-agua-tonica-y-piel-de-naranja/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/receta-de-cafe-bombon-con-leche-condensada-y-espresso/",
+    "/extraccion-y-recetas-espresso/que-es-el-ratio-1-2-5-o-1-3-lungo-para-cafes-de-tueste-claro/",
+    "/extraccion-y-recetas-espresso/que-es-el-turbo-shot-de-15-segundos-a-6-bares/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/receta-de-affogato-al-caffe-italiano-con-helado-de-vainilla.webp"
 }

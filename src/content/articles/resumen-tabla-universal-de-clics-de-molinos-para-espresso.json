@@ -4,161 +4,186 @@
   "path": "/molinos-y-molienda/resumen-tabla-universal-de-clics-de-molinos-para-espresso/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "tabla de ajustes molinos de cafe para espresso",
   "title": "Tabla Universal de Ajustes de Espresso para los 10 Molinos Más Vendidos en Amazon",
-  "seoTitle": "Tabla Universal de Ajustes de Espresso para los 10 Molinos Más Vendidos en Amazon | Guía Barista Compacta",
-  "metaDescription": "Tabla Universal de Ajustes de Espresso para los 10 Molinos Más Vendidos en Amazon: Referencia rápida de números y clics iniciales para Baratza Encore ESP, Fellow Opus, DF54, Breville SGP, KINGrinder K6, 1Zpresso y Timemore ESP. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Referencia rápida de números y clics iniciales para Baratza Encore ESP, Fellow Opus, DF54, Breville SGP, KINGrinder K6, 1Zpresso y Timemore ESP.",
-  "quickAnswer": "Sobre tabla de ajustes molinos de cafe para espresso: Referencia rápida de números y clics iniciales para Baratza Encore ESP, Fellow Opus, DF54, Breville SGP, KINGrinder K6, 1Zpresso y Timemore ESP. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Tabla Universal de Ajustes de Espresso para los 10 Molinos Más Vendidos en Amazon | cafeteracompacta.com",
+  "metaDescription": "Tabla de ajustes de molinos de café para espresso: clics exactos en Baratza Encore ESP, Fellow Opus, 1Zpresso J-Ultra, KINGrinder K6 y DF54 por portafiltro.",
+  "excerpt": "Guía de calibración con los clics y números iniciales de los 10 molinos más populares en Amazon para portafiltros de 51 mm, 54 mm y 58 mm, ajustados según el diámetro de cesta y tipo de filtro.",
+  "quickAnswer": "Para calibrar un espresso en **25–30 segundos** con filtro sin presurizar, empieza en los **clics 11–15** del **Baratza Encore ESP**, el rango **1.3–1.8** del **Fellow Opus**, **125–140 clics** en el **1Zpresso J-Ultra**, **33–42 clics** en el **KINGrinder K6** o el **número 13–18** en el **DF54**. En portafiltros estrechos de **51 mm** usa siempre **2 clics más grueso** que en cestas de **58 mm**.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Referencia rápida de números y clics iniciales para Baratza Encore ESP, Fellow Opus, DF54, Breville SGP, KINGrinder K6, 1Zpresso y Timemore ESP., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Wide environmental domestic interior shot on 24mm lens: realistic scene illustrating 'Tabla Universal de Ajustes de Espresso para los 10 Molinos Más Vendidos en Amazon' (tabla de ajustes molinos de cafe para espresso) for cafeteracompacta.com, featuring equipment in arctic white with warm stone-gray details, on a matte dark-gray technical mat with measuring tools nearby, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Tabla Universal de Ajustes de Espresso para los 10 Molinos Más Vendidos en Amazon"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **tabla de ajustes molinos de cafe para espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Referencia rápida de números y clics iniciales para Baratza Encore ESP, Fellow Opus, DF54, Breville SGP, KINGrinder K6, 1Zpresso y Timemore ESP."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Estrenar un molino cónico o de muelas planas junto a una **CASABREWS CM5418**, una **De’Longhi Dedica Arte (EC885M)** o una **Breville Bambino (BES450)** suele empezar con dos extremos frustrantes: o el café cae como un chorro aguado en **10 segundos**, o bloqueas por completo la bomba al copiar la receta de un barista que usa grupo comercial de **58 mm**. El problema no es tu máquina, sino la geometría de la pastilla: una cesta estrecha de **51 mm** con **16 g** de café genera una columna mucho más alta y resistente al paso del agua que una cesta ancha de **58 mm** con **18 g**. Por eso, antes de desperdiciar medio paquete de grano buscando a ciegas, necesitas partir del rango mecánico exacto que corresponde tanto a tu modelo de molino como al diámetro de tu portafiltro dentro de nuestra sección de [molinos y molienda para cafeteras compactas](/molinos-y-molienda/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: tabla de ajustes molinos de cafe para espresso"
+      "text": "Tabla maestra de clics y números de partida según el diámetro de tu portafiltro (51 mm, 54 mm y 58 mm)"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **tabla de ajustes molinos de cafe para espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "El objetivo técnico al calibrar un espresso tradicional en cesta sin presurizar (*bottomless* o de pared simple) es situar el tamaño medio de partícula en la franja de [200 a 400 micras](/molinos-y-molienda/uso-de-tamices-kruve-para-medir-micras-en-molienda-espresso/) para extraer un ratio **1:2** (por ejemplo, **16 g** de café seco para obtener **32 g** de bebida en taza) en un tiempo de **25 a 30 segundos**. Si todavía utilizas las cestas originales de doble pared que vienen de serie en máquinas de iniciación, debes abrir el dial hacia números más altos, tal como detallamos en la guía sobre [qué molino elegir para filtros presurizados](/molinos-y-molienda/que-molino-comprar-si-solo-usas-filtros-presurizados/). En la siguiente tabla hemos cruzado los **10 molinos más vendidos en Amazon** con el ajuste inicial recomendado para tueste medio según el diámetro real de tu portafiltro."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: tabla de ajustes molinos de cafe para espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Molino de Café",
+        "Resolución por Clic / Paso",
+        "51 mm Sin Presurizar (Dedica / CASABREWS)",
+        "54 mm Sin Presurizar (Breville Bambino)",
+        "58 mm Comercial (Gaggia / Legato V2)",
+        "Filtro Presurizado (51–54 mm)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Referencia rápida de números y clics iniciales para Baratza Encore ESP, Fellow Opus, DF54, Breville SGP, KINGrinder K6, 1Zpresso y Timemore ESP.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Baratza Encore ESP",
+          "20 micras (clics 1–20)",
+          "Clic 13 a 16",
+          "Clic 11 a 14",
+          "Clic 8 a 12",
+          "Clic 17 a 20"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Fellow Opus",
+          "41.6 micras (16.6 con Bevel)",
+          "Dial 1.6 a 2.1",
+          "Dial 1.3 a 1.8",
+          "Dial 1.0 a 1.5",
+          "Dial 2.2 a 2.8"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "1Zpresso J-Ultra",
+          "8 micras por clic (100/vuelta)",
+          "1.3.0 a 1.4.5 (130–145 clics)",
+          "1.2.2 a 1.3.5 (122–135 clics)",
+          "1.1.0 a 1.2.5 (110–125 clics)",
+          "1.5.5 a 1.7.5 (155–175 clics)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "KINGrinder K6",
+          "16 micras por clic (60/vuelta)",
+          "36 a 44 clics desde cero",
+          "33 a 40 clics desde cero",
+          "28 a 35 clics desde cero",
+          "48 a 58 clics desde cero"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "KINGrinder K4",
+          "16 micras por clic (60/vuelta)",
+          "62 a 72 clics desde cero",
+          "58 a 66 clics desde cero",
+          "50 a 60 clics desde cero",
+          "75 a 88 clics desde cero"
+        ],
+        [
+          "DF54 (Turin / Miicoffee)",
+          "Continuo stepless (muelas 54 mm)",
+          "Número 15 a 19 desde cero real",
+          "Número 13 a 17 desde cero real",
+          "Número 10 a 14 desde cero real",
+          "Número 21 a 26 desde cero real"
+        ],
+        [
+          "Eureka Mignon Notte / Manuale",
+          "Micrométrico continuo (50 mm)",
+          "+1.2 a +1.8 marcas desde roce",
+          "+0.9 a +1.4 marcas desde roce",
+          "+0.5 a +1.0 marcas desde roce",
+          "+2.0 a +2.8 marcas desde roce"
+        ],
+        [
+          "Breville Smart Grinder Pro",
+          "60 niveles LCD + aro interno",
+          "Nivel 12 a 15 (aro interno en 4)",
+          "Nivel 10 a 13 (aro interno en 4)",
+          "Nivel 7 a 10 (aro interno en 3)",
+          "Nivel 16 a 20 (aro interno en 5)"
+        ],
+        [
+          "Varia VS3 (2.ª Generación)",
+          "10 micras por décima (stepless)",
+          "Dial 2.7 a 3.3",
+          "Dial 2.4 a 2.9",
+          "Dial 2.0 a 2.5",
+          "Dial 3.5 a 4.2"
+        ],
+        [
+          "OXO Brew Conical Burr",
+          "15 niveles con medios pasos",
+          "No apto para cesta sin presurizar",
+          "No apto para cesta sin presurizar",
+          "No apto para cesta sin presurizar",
+          "Nivel 1.0 a 3.0 (solo doble pared)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre tabla de ajustes molinos de cafe para espresso",
-      "text": "Referencia rápida de números y clics iniciales para Baratza Encore ESP, Fellow Opus, DF54, Breville SGP, KINGrinder K6, 1Zpresso y Timemore ESP. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Ajustes iniciales de referencia (tueste medio) para extracción en 25–30 segundos según el diámetro del portafiltro"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar tabla de ajustes molinos de cafe para espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Cómo corregir el punto de molienda según la edad del tueste y la altura de la pastilla"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "1. Encuentra el punto cero real antes de contar clics",
+          "text": "En molinos manuales como el **1Zpresso J-Ultra** o el **KINGrinder K6**, gira el dial hacia el sentido fino hasta que la manivela deje de caer por su propio peso (sin forzar ni bloquear las muelas). En eléctricos *stepless* como el **DF54** o **Eureka Mignon**, enciende el motor vacío y gira despacio hacia fino hasta escuchar el leve roce metálico (*chirp*); ese es tu **punto 0 real**."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "2. Compensa la profundidad del filtro de 51 mm o 54 mm",
+          "text": "A igualdad de gramos (**16 g**), una cesta de **51 mm** en la **CASABREWS CM5418** o **Dedica Arte** crea una pastilla un **29 % más alta** que una de **58 mm**. Empieza siempre **2 a 3 clics más grueso** que las tablas genéricas de cafeterías comerciales para evitar ahogar la bomba."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "3. Ajusta según el nivel de tueste y días desde el tostado",
+          "text": "Los granos de **tueste oscuro** son más porosos y quebradizos, por lo que generan más finos y piden abrir **2 clics hacia grueso** respecto a la tabla. En cambio, un **tueste ligero** o un café con más de **30 días** desde su tueste ha perdido gas carbónico (CO2) y exigirá cerrar **2 a 4 clics hacia fino** para sostener los **9 bares** de presión."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "4. Purga de 1 g a 2 g de retención tras cada cambio en molinos eléctricos",
+          "text": "Si cambias del **clic 14 al 11** en un **Baratza Encore ESP** o en un **Breville Smart Grinder Pro**, muele primero **1.5 g** de grano y descártalos. Así limpiarás el café del ajuste anterior acumulado en el conducto de salida y evaluarás el cambio real en la primera extracción."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Advertencia mecánica al cambiar de molienda gruesa a fina en molinos eléctricos"
+    },
+    {
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "En los molinos eléctricos de muelas planas o cónicas (**DF54**, **Eureka Mignon Notte**, **Varia VS3** o **Baratza Encore ESP**), realiza siempre los ajustes hacia un número más fino **con el motor en marcha** o con la tolva completamente vacía en modo *single dosing*. Si bajas varios puntos hacia fino con el motor apagado teniendo restos de grano duro atrapados entre las muelas, forzarás el eje central, descalibrarás el anillo portamuelas e incluso puedes bloquear el par de arranque del motor al pulsar el botón de encendido.",
+      "title": "Regla de oro del fabricante: ajusta hacia más fino siempre con el motor encendido"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con tabla de ajustes molinos de cafe para espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Dudas entre dos molinos de la tabla para tu cafetera compacta? Consulta a nuestro Asesor IA para verificar la compatibilidad con tu portafiltro o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre tabla de ajustes molinos de cafe para espresso?",
-      "a": "Referencia rápida de números y clics iniciales para Baratza Encore ESP, Fellow Opus, DF54, Breville SGP, KINGrinder K6, 1Zpresso y Timemore ESP. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué debo moler más grueso en un portafiltro de 51 mm que en uno comercial de 58 mm?",
+      "a": "Los portafiltros de 51 mm (como en la De’Longhi Dedica o CASABREWS CM5418) concentran la misma dosis de café en un cilindro estrecho y alto. Como el agua debe atravesar más milímetros verticales de café compactado, ofrece mayor resistencia hidráulica y requiere moler de 2 a 3 clics más grueso que en 58 mm."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cuántos segundos cambia la extracción cada clic en el Baratza Encore ESP?",
+      "a": "En el Baratza Encore ESP, un salto de 1 clic en la zona de espresso (clics 1 a 20, donde cada paso mueve la muela 20 micras) modifica el tiempo de extracción entre 3 y 5 segundos. Si tu espresso de 16 g tarda 20 segundos, cierra exactamente 2 clics hacia un número menor."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Sirve el KINGrinder K6 para hacer espresso con filtro despresurizado?",
+      "a": "Sí, con total precisión. El KINGrinder K6 ofrece pasos de 16 micras por clic, superando en resolución a muchos molinos eléctricos domésticos. Para cestas sin presurizar de 51 mm o 54 mm, su punto dulce suele ubicarse entre los 33 y 42 clics contados desde el bloqueo total de las muelas."
     }
   ],
   "related": [
-    "/molinos-y-molienda/",
-    "/molinos-y-molienda/como-calibrar-molino-para-espresso-paso-a-paso/",
-    "/molinos-y-molienda/como-reconocer-la-textura-del-espresso-con-los-dedos-prueba-de-la-huella/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/como-saber-si-has-molido-demasiado-fino-choking-the-machine/",
+    "/molinos-y-molienda/como-afecta-la-dosis-en-gramos-16g-vs-18g-al-punto-de-molienda/",
+    "/molinos-y-molienda/uso-de-tamices-kruve-para-medir-micras-en-molienda-espresso/",
+    "/molinos-y-molienda/que-molino-comprar-si-solo-usas-filtros-presurizados/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/resumen-tabla-universal-de-clics-de-molinos-para-espresso.webp"
 }

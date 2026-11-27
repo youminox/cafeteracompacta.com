@@ -3,162 +3,110 @@
   "pillar": "extraccion-y-recetas-espresso",
   "path": "/extraccion-y-recetas-espresso/temperatura-del-agua-90-vs-93-vs-96-grados-efectos-en-el-sabor/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "temperatura ideal agua para espresso 90 93 95 grados",
   "title": "Tabla de Temperatura de Extracción (90 °C, 93 °C y 95 °C): Cómo Afecta a la Acidez y el Amargor",
-  "seoTitle": "Tabla de Temperatura de Extracción (90 °C, 93 °C y 95 °C) | Guía Barista Compacta",
-  "metaDescription": "Tabla de Temperatura de Extracción (90 °C, 93 °C y 95 °C): Cómo Afecta a la Acidez y el Amargor: Baja a 90–91 °C para tuestes oscuros italianos (evita notas de ceniza); usa 93 °C para tueste medio y sube a 94–95 °C para tuestes claros. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Baja a 90–91 °C para tuestes oscuros italianos (evita notas de ceniza); usa 93 °C para tueste medio y sube a 94–95 °C para tuestes claros.",
-  "quickAnswer": "Sobre temperatura ideal agua para espresso 90 93 95 grados: Baja a 90–91 °C para tuestes oscuros italianos (evita notas de ceniza); usa 93 °C para tueste medio y sube a 94–95 °C para tuestes claros. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Tabla de Temperatura de Extracción (90 °C, 93 °C y 95 °C): Cómo Afecta a la Acidez y el Amargor | cafeteracompacta.com",
+  "metaDescription": "Tabla de temperatura ideal del agua para espresso (90 °C, 93 °C y 95 °C): cómo ajustar tu cafetera compacta para controlar la acidez y el amargor.",
+  "excerpt": "Compara cómo impactan los 90 °C, 93 °C y 95 °C en la solubilidad del café según el nivel de tueste y configura los perfiles térmicos de tu cafetera espresso compacta.",
+  "quickAnswer": "La temperatura ideal del agua para espresso depende directamente de la densidad y el tueste del grano: utiliza 90 °C en cafés de tueste oscuro o italiano para frenar el amargor y las notas de ceniza; mantén 93 °C como punto dulce estándar para tuestes medios; y sube a 95–96 °C en cafés de especialidad de tueste claro para disolver sus fibras densas y transformar la acidez cítrica aguda en dulzor frutal.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Baja a 90–91 °C para tuestes oscuros italianos (evita notas de ceniza); usa 93 °C para tueste medio y sube a 94–95 °C para tuestes claros., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Split comparison composition showing two complementary setups side by side: realistic scene illustrating 'Tabla de Temperatura de Extracción (90 °C, 93 °C y 95 °C): Cómo Afecta a la Acidez y el Amargor' (temperatura ideal agua para espresso 90 93 95 grados) for cafeteracompacta.com, featuring equipment in terracotta copper accent with matte slate body, on a light terrazzo surface in a contemporary living space, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Tabla de Temperatura de Extracción (90 °C, 93 °C y 95 °C): Cómo Afecta a la Acidez y el Amargor"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **temperatura ideal agua para espresso 90 93 95 grados** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Baja a 90–91 °C para tuestes oscuros italianos (evita notas de ceniza); usa 93 °C para tueste medio y sube a 94–95 °C para tuestes claros."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Subir o bajar apenas **3 °C** la temperatura del agua que atraviesa la pastilla cambia por completo el equilibrio químico de tu taza sin tocar el molino: el mismo café colombiano que a **90 °C** sabe punzante, cítrico y delgado se transforma a **93 °C** en un jarabe dulce de caramelo, y a **96 °C** empieza a desprender notas secas de cacao amargo y madera tostada. Dominar esta curva de solubilidad térmica en tu cafetera compacta es uno de los pilares más rentables dentro de nuestro [hub de extracción y recetas espresso](/extraccion-y-recetas-espresso/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: temperatura ideal agua para espresso 90 93 95 grados"
-    },
-    {
-      "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **temperatura ideal agua para espresso 90 93 95 grados** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Tabla Maestra de Temperatura (90 °C vs 93 °C vs 95–96 °C) según el Grano"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: temperatura ideal agua para espresso 90 93 95 grados",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Temperatura en el Grupo",
+        "Tipo de Grano y Nivel de Tueste Ideal",
+        "Efecto Químico en Acidez, Dulzor y Amargor",
+        "Ajuste en De’Longhi Dedica / Maestro Plus"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Baja a 90–91 °C para tuestes oscuros italianos (evita notas de ceniza); usa 93 °C para tueste medio y sube a 94–95 °C para tuestes claros.",
-          "Mejora la consistencia y evita errores de extracción"
+          "89 °C – 90 °C (Perfil Bajo)",
+          "Tueste Oscuro, Italiano, Torrefacto o mezclas con Robusta y Descafeinados",
+          "Frena la disolución de fenoles y ceniza; suaviza el amargor final y preserva notas de chocolate negro y nuez tostada",
+          "Nivel 1 (Temperatura Baja)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "92 °C – 93 °C (Estándar PID)",
+          "Tueste Medio y Medio-Oscuro (Blends de especialidad, Brasil, Perú, Colombia clásico)",
+          "Equilibrio universal: funde lípidos y azúcares de Maillard moderando la acidez málica sin extraer astringencia",
+          "Nivel 2 (Temperatura Media de fábrica)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "95 °C – 96 °C (Perfil Alto)",
+          "Tueste Claro / Nórdico de gran altitud (> 1.800 m, Etiopía lavado, Kenia, Geisha)",
+          "Aporta la energía cinética necesaria para romper fibras densas; convierte la acidez agria en dulzor frutal complejo",
+          "Nivel 3 (Temperatura Alta)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre temperatura ideal agua para espresso 90 93 95 grados",
-      "text": "Baja a 90–91 °C para tuestes oscuros italianos (evita notas de ceniza); usa 93 °C para tueste medio y sube a 94–95 °C para tuestes claros. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Impacto térmico en la extracción de ácidos, azúcares y compuestos amargos según el nivel de tueste"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar temperatura ideal agua para espresso 90 93 95 grados hoy mismo en tu cocina"
+      "text": "Cómo Actúan los 3 Perfiles Térmicos en las Cafeteras Compactas de Amazon"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "A la hora de elegir o configurar tu máquina en casa, la arquitectura térmica marca la diferencia entre adivinar y repetir una receta. La **Breville Bambino BES450** y la **Breville Bambino Plus BES500** integran un chip **PID digital** calibrado de fábrica a **93 °C** sobre su bloque **ThermoJet de 3 segundos**, priorizando la estabilidad absoluta tiro tras tiro —incluso frente a la variación térmica inicial que explicamos en [por qué el primer espresso de la mañana siempre sale más rápido](/extraccion-y-recetas-espresso/por-que-el-primer-espresso-de-la-manana-siempre-sale-mas-rapido/)—. Si en cambio alternas cada semana entre tuestes nórdicos y mezclas italianas intensas (ideales para coronar con nata fría siguiendo la [receta de café Viennese con nata montada y chocolate](/extraccion-y-recetas-espresso/receta-de-cafe-viennese-espresso-con-nata-montada-y-chocolate/)), modelos como la **De’Longhi Dedica Arte EC885M** y la **De’Longhi Dedica Maestro Plus EC950M** permiten conmutar entre **3 niveles térmicos (~90 °C, 93 °C y 95–96 °C)** desde sus botones frontales, mientras que las cafeteras compactas de **58 mm** con pantalla PID ajustable grado a grado ofrecen control total entre **90 °C y 95 °C**."
     },
     {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con temperatura ideal agua para espresso 90 93 95 grados en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "Un portafiltro frío roba hasta 4 °C al agua del grupo",
+      "title": "La temperatura programada solo es real si precalientas el metal"
     },
     {
       "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Guía Práctica para Corregir el Sabor en Taza Ajustando Solo los Grados"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Si el espresso sabe agrio, salado o verde pese a tardar 28 segundos**: Sube la temperatura de **93 °C a 95–96 °C** (Nivel Alto en **Dedica Arte EC885M**) y purga **4 segundos** de agua caliente sobre el portafiltro antes de secar y cargar el café para elevar la energía de extracción sin atorar el flujo.",
+        "**Si el retrogusto deja la lengua áspera, seca o con sabor a carbón**: Baja el perfil térmico a **90 °C** (Nivel Bajo); los alcaloides y compuestos pirolíticos de los tuestes oscuros se disuelven mucho menos por debajo de **91 °C**, devolviendo el dulzor achocolatado a la taza.",
+        "**Si tu cafetera tiene PID fijo a 93 °C (como Breville Bambino) y usas tueste muy claro**: Lanza un tiro vacío de agua caliente por el portafiltro puesto justo antes de moler para calentar al máximo el circuito ThermoJet y compensar con un ratio más largo (**1:2.5**)."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "Consulta a nuestro Asesor IA qué cafetera compacta con control PID o selector de 3 temperaturas se adapta mejor al tipo de grano que compras, o verifica la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre temperatura ideal agua para espresso 90 93 95 grados?",
-      "a": "Baja a 90–91 °C para tuestes oscuros italianos (evita notas de ceniza); usa 93 °C para tueste medio y sube a 94–95 °C para tuestes claros. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cómo se cambia la temperatura del agua en la De’Longhi Dedica Arte EC885M?",
+      "a": "Con la cafetera en modo espera, mantén pulsado el botón de 1 taza durante 10 segundos hasta que los tres botones parpadeen en secuencia; luego pulsa el botón de 1 taza para Temperatura Baja (~90 °C), el de 2 tazas para Media (~93 °C) o el de vapor para Alta (~95 °C)."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Se puede modificar la temperatura del PID en la Breville Bambino BES450 o Bambino Plus?",
+      "a": "En la Breville Bambino BES450 y la Bambino Plus BES500 el controlador digital PID viene fijado electrónicamente a 93 °C para garantizar estabilidad instantánea con el sistema ThermoJet; para extraer tuestes muy claros o muy oscuros se compensa mediante pre-infusión manual y ratio."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué nunca se debe extraer un espresso con agua a más de 96 °C?",
+      "a": "Porque a partir de 96 °C al nivel del mar el agua entra en ebullición súbita (flash boiling) al salir por la ducha, golpeando la pastilla con burbujas de vapor que rompen la cama de café y extraen compuestos leñosos extremadamente amargos y astringentes."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/como-hacer-temperature-surfing-en-cafeteras-sin-pid/",
     "/extraccion-y-recetas-espresso/como-saber-si-la-pastilla-de-cafe-usada-puck-indica-una-buena-extraccion/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/por-que-el-primer-espresso-de-la-manana-siempre-sale-mas-rapido/",
+    "/extraccion-y-recetas-espresso/receta-de-cafe-con-hielo-al-estilo-espanol-y-valenciano-del-tiempo/",
+    "/extraccion-y-recetas-espresso/receta-de-cafe-viennese-espresso-con-nata-montada-y-chocolate/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/temperatura-del-agua-90-vs-93-vs-96-grados-efectos-en-el-sabor.webp"
 }

@@ -4,161 +4,133 @@
   "path": "/extraccion-y-recetas-espresso/receta-de-cafe-latte-con-leche-caliente-y-de-avena/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "receta cafe latte medidas ml espresso y leche",
   "title": "Receta y Medidas Exactas del Caffè Latte (Espresso Doble + 200 ml de Leche Vaporizada en Taza de 250 ml)",
-  "seoTitle": "Receta y Medidas Exactas del Caffè Latte (Espresso Doble + 200 ml de Leche Vaporizada en Taza de 250 ml) | Guía Barista Compacta",
-  "metaDescription": "Receta y Medidas Exactas del Caffè Latte (Espresso Doble + 200 ml de Leche Vaporizada en Taza de 250 ml): La bebida más suave y cremosa para desayunar: cómo equilibrar el shot para que el sabor a café no se pierda en la leche. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "La bebida más suave y cremosa para desayunar: cómo equilibrar el shot para que el sabor a café no se pierda en la leche.",
-  "quickAnswer": "Sobre receta cafe latte medidas ml espresso y leche: La bebida más suave y cremosa para desayunar: cómo equilibrar el shot para que el sabor a café no se pierda en la leche. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Receta y Medidas Exactas del Caffè Latte (Espresso Doble + 200 ml de Leche Vaporizada en Taza de 250 ml) | cafeteracompacta.com",
+  "metaDescription": "Guía con la receta de café latte y sus medidas exactas en ml de espresso y leche entera o de avena barista para lograr una taza de 250 ml sedosa y dulce.",
+  "excerpt": "Domina las medidas milimétricas del Caffè Latte en taza de 250 ml: cómo combinar 36 ml de espresso doble con 200 ml de leche fresca o bebida de avena barista controlando el punto exacto de caramelización.",
+  "quickAnswer": "La receta estándar del Caffè Latte de especialidad para una taza de 250 ml combina una base de espresso doble de 36 a 40 ml con 190 a 200 ml de leche vaporizada (proporción 1:5), coronada por una capa de 10 mm de microespuma cremosa. Si utilizas leche entera, calienta hasta 60–65 °C; con bebida de avena versión barista, detén el vapor a 58–60 °C para evitar que las proteínas vegetales se separen.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: La bebida más suave y cremosa para desayunar: cómo equilibrar el shot para que el sabor a café no se pierda en la leche., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Wide environmental domestic interior shot on 24mm lens: realistic scene illustrating 'Receta y Medidas Exactas del Caffè Latte (Espresso Doble + 200 ml de Leche Vaporizada en Taza de 250 ml)' (receta cafe latte medidas ml espresso y leche) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, beside a neat storage shelf in a sunlit modern room, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Receta y Medidas Exactas del Caffè Latte (Espresso Doble + 200 ml de Leche Vaporizada en Taza de 250 ml)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **receta cafe latte medidas ml espresso y leche** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. La bebida más suave y cremosa para desayunar: cómo equilibrar el shot para que el sabor a café no se pierda en la leche."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "El **Caffè Latte** es la bebida más solicitada por quienes compran su primera **CASABREWS CM5418**, **Breville Bambino BES450** o **De’Longhi Dedica Arte EC885M**, pero también la que más decepciones provoca cuando las medidas se calculan a ojo. Si extraes un tiro corto de apenas **25 ml** y lo inundas con **250 ml** de leche calentada por encima de **70 °C**, el resultado en taza sabe a leche hervida ligeramente coloreada, sin rastro de chocolate ni frutos secos. Para que una taza de **250 ml (8.5 oz)** conserve carácter de cafetería de especialidad y una superficie brillante apta para *latte art*, es imprescindible trabajar con una **proporción 1:5** exacta entre un espresso doble estructurado y **190 a 200 ml** de leche fresca o bebida de avena barista, una precisión opuesta en volumen a la [proporción 1:1 para elaborar un café cortado o Gibraltar](/extraccion-y-recetas-espresso/receta-de-cafe-cortado-y-gibraltar-proporcion-1-a-1-con-leche/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: receta cafe latte medidas ml espresso y leche"
+      "text": "Medidas exactas en mililitros y gramos para un Caffè Latte en taza de 250 ml (8.5 oz)"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **receta cafe latte medidas ml espresso y leche** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Un Caffè Latte equilibrado en taza ancha de **240 a 250 ml** comienza siempre con una base de **espresso doble de 36 a 40 gramos** (aproximadamente **42 a 45 ml** incluyendo la crema). Si tu cafetera utiliza portafiltro de **51 mm** (como la **De’Longhi Dedica EC885M/EC950M** o la **CASABREWS 3700Essential**) y usas un grano de tueste medio, puedes estirar ligeramente la extracción hasta **38–40 gramos** aplicando las pautas sobre [cuándo aplicar un ratio 1:2.5 o 1:3 en cafés de tueste claro](/extraccion-y-recetas-espresso/que-es-el-ratio-1-2-5-o-1-3-lungo-para-cafes-de-tueste-claro/) para que la base tenga fuerza suficiente frente a la leche. En la jarra metálica se vierten **175 a 180 ml de leche fría a 4 °C**: tras introducir un **20 % de aire** durante la primera fase de vaporización, el volumen expandido alcanza exactamente los **205 a 210 ml** con una corona cremosa de **10 mm**, muy distinta de la densidad azucarada que empleamos al [preparar un café bombón por capas con leche condensada](/extraccion-y-recetas-espresso/receta-de-cafe-bombon-con-leche-condensada-y-espresso/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: receta cafe latte medidas ml espresso y leche",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Tipo de Leche en Jarra (180 ml fríos)",
+        "Contenido de Grasa y Proteína",
+        "Tiempo de Aireación Inicial",
+        "Temperatura Máxima de Corte",
+        "Comportamiento en Taza y Latte Art"
       ],
       "rows": [
         [
-          "Clave principal",
-          "La bebida más suave y cremosa para desayunar: cómo equilibrar el shot para que el sabor a café no se pierda en la leche.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Leche Entera de Vaca (3.5–3.8 % grasa)",
+          "3.6 g grasa / 3.3 g proteína por 100 ml",
+          "3 a 4 segundos (aumento +20 % volumen)",
+          "60 – 65 °C (pico de dulzor de lactosa)",
+          "Microespuma elástica de 10 mm, máxima definición en rosettas y tulipanes"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Leche Semidesnatada (1.5–1.8 % grasa)",
+          "1.6 g grasa / 3.4 g proteína por 100 ml",
+          "2 a 3 segundos (espuma muy rápido)",
+          "58 – 62 °C (evitar espuma rígida)",
+          "Textura más ligera; requiere verter rápido antes de que la espuma se separe"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Bebida de Avena Edición Barista",
+          "2.8–3.2 g grasa vegetal / regulador de acidez (fosfato dipotásico)",
+          "4 a 5 segundos + 15 s de reposo y giro",
+          "56 – 60 °C (nunca superar 62 °C)",
+          "Brillo sedoso y dulzor a cereal; necesita 10 segundos de giro en jarra para asentar microburbujas"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Bebida de Soja o Almendra Barista",
+          "1.8–2.5 g grasa / alta proteína vegetal (soja)",
+          "2 a 3 segundos suaves",
+          "54 – 58 °C (evita que se corte con la acidez del café)",
+          "Espuma estable si se templa el espresso moviendo la taza antes de verter"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre receta cafe latte medidas ml espresso y leche",
-      "text": "La bebida más suave y cremosa para desayunar: cómo equilibrar el shot para que el sabor a café no se pierda en la leche. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Parámetros técnicos de vaporización para Caffè Latte según el tipo de leche (Taza de 250 ml)"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar receta cafe latte medidas ml espresso y leche hoy mismo en tu cocina"
+      "text": "Por qué la leche de avena normal se corta en el espresso y qué mirar en la etiqueta Barista"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "callout",
+      "variant": "etiqueta",
+      "text": "Si viertes bebida de avena convencional de supermercado (compuesta solo por agua y un **10–12 % de avena**) sobre un espresso caliente a **90 °C**, la acidez natural del café coagula las proteínas vegetales al instante formando grumos y dejando una espuma jabonosa que desaparece en cinco segundos. Para conseguir un Oat Latte cremoso, comprueba en la etiqueta nutricional que la bebida incluya entre **2.5 y 3.2 g de grasa por cada 100 ml** (aceite de nabina o girasol alto oleico que imita los lípidos lácteos) y un corrector de acidez como el **fosfato dipotásico**, encargado de estabilizar el pH al mezclarse con el espresso.",
+      "title": "Lectura técnica de etiqueta para elegir la mejor bebida de avena barista"
+    },
+    {
+      "type": "h2",
+      "text": "Paso a paso para ensamblar un Caffè Latte de 250 ml con definición de Latte Art en casa"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Extraer 36–40 g de espresso en taza ancha precalentada de 250 ml",
+          "text": "Utiliza una taza de fondo semiesférico precalentada a 55 °C para que el chorro de leche pueda deslizarse por debajo de la crema sin chocar contra esquinas rectas."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Vaporizar 180 ml de leche fría a 4 °C en jarra de 450 ml o 600 ml",
+          "text": "Introduce aire con la punta de la lanceta apenas rozando la superficie durante 3 a 4 segundos (hasta 35 °C) y sumérgela después en diagonal para pulir la microespuma en vórtice hasta 60–62 °C."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Romper la tensión del espresso e integrar el lienzo desde 8 cm de altura",
+          "text": "Agita suavemente la taza para homogeneizar la crema del café, inclínala a 45 grados y vierte un hilo continuo de leche en el centro hasta llenar el 65 % de la taza."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Pausar medio segundo y acercar el pico a 5 mm de la superficie",
+          "text": "Endereza la taza progresivamente mientras empujas el flujo de microespuma blanca desde el centro para dibujar un corazón, tulipán o rosetta que deje una corona de 10 mm de grosor."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con receta cafe latte medidas ml espresso y leche en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Consulta la disponibilidad actual de tazas de porcelana de 250 ml con fondo curvo para latte art, jarras de vaporización con pico de precisión y cafeteras compactas en las tarjetas de Amazon de esta página, o pide ayuda a nuestro Asesor IA para calibrar tu vaporizador."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre receta cafe latte medidas ml espresso y leche?",
-      "a": "La bebida más suave y cremosa para desayunar: cómo equilibrar el shot para que el sabor a café no se pierda en la leche. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Qué ocurre químicamente si caliento la leche del Latte a más de 70 °C?",
+      "a": "A partir de los 68–70 °C se produce la desnaturalización irreversible de la beta-lactoglobulina (proteína del suero lácteo): la microespuma colapsa, se liberan compuestos sulfurados con olor a leche cocida y el dulzor natural de la lactosa desaparece, obligándote a añadir azúcar para compensar el sabor plano."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Qué tamaño de jarra de leche necesito para un Caffè Latte de 250 ml?",
+      "a": "Para preparar un único Caffè Latte de 250 ml (que requiere vaporizar 180 ml de leche fría), una jarra de 450 ml a 600 ml (15 a 20 oz) es el tamaño óptimo en cafeteras como la Breville Bambino o la CASABREWS CM5418, ya que deja margen suficiente para que el remolino suba sin desbordarse."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué me cuesta más dibujar Latte Art con leche de avena que con leche entera?",
+      "a": "La leche de avena barista retiene burbujas ligeramente más grandes recién salida de la lanceta. El truco de competición consiste en dejar reposar la jarra 10 segundos tras apagar el vapor, dar dos golpes secos contra la encimera y girarla vigorosamente en círculos hasta que brille como seda líquida antes de verter."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/receta-de-iced-latte-y-iced-americano-de-verano/",
     "/extraccion-y-recetas-espresso/receta-de-cafe-cortado-y-gibraltar-proporcion-1-a-1-con-leche/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/receta-de-affogato-al-caffe-italiano-con-helado-de-vainilla/",
+    "/extraccion-y-recetas-espresso/receta-de-cafe-bombon-con-leche-condensada-y-espresso/",
+    "/extraccion-y-recetas-espresso/que-es-el-ratio-1-2-5-o-1-3-lungo-para-cafes-de-tueste-claro/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/receta-de-cafe-latte-con-leche-caliente-y-de-avena.webp"
 }

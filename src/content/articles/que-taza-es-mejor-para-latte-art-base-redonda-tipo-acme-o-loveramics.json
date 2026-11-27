@@ -3,162 +3,117 @@
   "pillar": "espumadores-y-latte-art",
   "path": "/espumadores-y-latte-art/que-taza-es-mejor-para-latte-art-base-redonda-tipo-acme-o-loveramics/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "mejor forma de taza para hacer latte art",
   "title": "Por Qué Necesitas una Taza de Base Semiesférica (180–250 ml) para que Salga el Latte Art",
-  "seoTitle": "Por Qué Necesitas una Taza de Base Semiesférica (180–250 ml) para que Salga el Latte Art | Guía Barista Compacta",
-  "metaDescription": "Por Qué Necesitas una Taza de Base Semiesférica (180–250 ml) para que Salga el Latte Art: Los vasos rectos de fondo plano frenan la corriente circular; un bol cerámico curvo tipo cappuccino hace que la leche gire sola. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Los vasos rectos de fondo plano frenan la corriente circular; un bol cerámico curvo tipo cappuccino hace que la leche gire sola.",
-  "quickAnswer": "Sobre mejor forma de taza para hacer latte art: Los vasos rectos de fondo plano frenan la corriente circular; un bol cerámico curvo tipo cappuccino hace que la leche gire sola. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué Necesitas una Taza de Base Semiesférica (180–250 ml) para que Salga el Latte Art | cafeteracompacta.com",
+  "metaDescription": "Descubre cuál es la mejor forma de taza para hacer latte art: por qué la base semiesférica de 180 a 250 ml tipo Loveramics o Acme mejora la convección.",
+  "excerpt": "Análisis técnico de tazas de porcelana con fondo parabólico frente a tazas cilíndricas: medidas de boca, grosor térmico de pared y compatibilidad con la bandeja de cafeteras compactas.",
+  "quickAnswer": "La **mejor forma de taza para hacer latte art** es el perfil tipo *bowl* con fondo interior semiesférico, boca ancha de **90 a 100 mm** y capacidad de **180 a 250 ml**, como las líneas **Loveramics Egg** o **Acme Evo**. Su curvatura continua sin esquinas rectas a **90°** hace que el chorro de leche rebote suavemente hacia arriba y gire bajo la crema sin romper la tensión superficial.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Los vasos rectos de fondo plano frenan la corriente circular; un bol cerámico curvo tipo cappuccino hace que la leche gire sola., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Low-angle dramatic hero perspective with soft background bokeh on 35mm lens: realistic scene illustrating 'Por Qué Necesitas una Taza de Base Semiesférica (180–250 ml) para que Salga el Latte Art' (mejor forma de taza para hacer latte art) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, in a clean modern garage or studio corner with slate flooring, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué Necesitas una Taza de Base Semiesférica (180–250 ml) para que Salga el Latte Art"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **mejor forma de taza para hacer latte art** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Los vasos rectos de fondo plano frenan la corriente circular; un bol cerámico curvo tipo cappuccino hace que la leche gire sola."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Espumadores Y Latte Art](/espumadores-y-latte-art/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Intentar dibujar una roseta o un tulipán en el clásico tazón cilíndrico de desayuno de **350 ml** con fondo plano es uno de los motivos más frecuentes de frustración entre quienes estrenan una **Breville Bambino Plus (BES500)** o una **De’Longhi Dedica Arte (EC885M)**. Cuando la leche vaporizada choca contra un ángulo recto de **90 grados** en la unión entre la pared vertical y el suelo de una taza recta, se generan vórtices caóticos que rompen la crema en islas oscuras y hunden la microespuma. Elegir la **mejor forma de taza para hacer latte art** cambia de inmediato la hidrodinámica del vertido: un interior parabólico o semiesférico redirige la energía cinética de la leche en un flujo laminar ascendente. De hecho, usar vajilla cilíndrica figura en nuestro diagnóstico de [los 7 errores que te impiden hacer latte art en casa](/espumadores-y-latte-art/resumen-los-7-errores-que-te-impiden-hacer-latte-art-en-casa/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: mejor forma de taza para hacer latte art"
+      "text": "Hidrodinámica del fondo parabólico: por qué las líneas Loveramics Egg y Acme Evo dominan el estándar SCA"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **mejor forma de taza para hacer latte art** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "En una taza de especialidad de **180 ml (Cappuccino)** o **200 a 250 ml (Café Latte)**, la proporción entre la altura exterior (**55 a 65 mm**) y el diámetro de la boca (**95 a 105 mm**) está calculada para dos objetivos físicos críticos. Primero, la baja altura vertical cabe holgadamente bajo las salidas del portafiltro de **51 mm** o **54 mm** de máquinas compactas como la **CASABREWS CM5418** incluso colocando una báscula espresso debajo. Segundo, el radio de curvatura interno permite que un doble shot de **36 a 40 g** cubra toda la bóveda inferior con una capa densa de crema sin diluirse. Si combinas esta geometría con una buena emulsión tras dominar [cómo espumar leche con la lanceta MyLatte Art de la De’Longhi Dedica Arte](/espumadores-y-latte-art/como-espumar-leche-con-lanceta-mylatte-art-delonghi-dedica-arte/) y mantienes impecable tu equipamiento con nuestros consejos sobre [cómo cuidar jarras de leche con recubrimiento de teflón o color](/espumadores-y-latte-art/como-cuidar-jarras-de-leche-con-recubrimiento-de-teflon-o-color/), la figura se expandirá simétricamente hacia los bordes."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: mejor forma de taza para hacer latte art",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Modelo / Geometría de referencia",
+        "Capacidad óptima",
+        "Diámetro de boca y altura",
+        "Grosor de pared y comportamiento en vertido"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Los vasos rectos de fondo plano frenan la corriente circular; un bol cerámico curvo tipo cappuccino hace que la leche gire sola.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Loveramics Egg (Cappuccino / Café Latte)",
+          "180 ml / 200–250 ml",
+          "95–100 mm boca / 55–60 mm alto",
+          "Porcelana de alta densidad (5 mm); cúpula interna continua que eleva y centra el dibujo"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Acme Evolution / Roman Cup",
+          "190 ml / 240 ml",
+          "96–102 mm boca / 57–63 mm alto",
+          "Labio biselado de 4 mm y base semiesférica; máxima área horizontal de lienzo desde mitad de taza"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "NotNeutral Lino (Porcelana fina)",
+          "177 ml (6 oz) / 236 ml (8 oz)",
+          "92–98 mm boca / 58–64 mm alto",
+          "Asa enrasada con el borde superior; permite meter el pico de la jarra casi hasta el centro a 45°"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Mug cilíndrico doméstico estándar",
+          "300 a 360 ml",
+          "75–80 mm boca / 95–105 mm alto",
+          "Esquinas internas de 90° y paredes altas; bloquea el descenso de la jarra y destruye la crema"
         ]
-      ]
+      ],
+      "caption": "Especificaciones técnicas de las mejores formas de taza para latte art frente a tazas domésticas"
+    },
+    {
+      "type": "h2",
+      "text": "Inercia térmica de las paredes de 5 mm y el diseño del asa enrasada"
     },
     {
       "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre mejor forma de taza para hacer latte art",
-      "text": "Los vasos rectos de fondo plano frenan la corriente circular; un bol cerámico curvo tipo cappuccino hace que la leche gire sola. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "fabricante",
+      "text": "Las tazas profesionales tipo Loveramics o Acme tienen paredes de 4.5 a 5.5 mm de porcelana feldespática horneada a 1300 °C. Si viertes el espresso en la taza fría, esa masa cerámica absorberá hasta 8 °C del café en segundos y contraerá la crema; precaliéntala siempre con agua caliente del grupo antes de extraer.",
+      "title": "Porcelana vitrificada a 1300 °C y precalentamiento obligatorio"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar mejor forma de taza para hacer latte art hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con mejor forma de taza para hacer latte art en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Qué criterios revisar en Amazon antes de elegir tu juego de tazas baristas"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Proporción diámetro-altura mayor a 1.5:1**: asegúrate de que el diámetro superior supere los **90 mm** y la altura total no pase de **65 mm** para que el pico de tu jarra de **350 ml o 450 ml** llegue al centro del líquido sin chocar con el borde.",
+        "**Volumen ajustado a un doble espresso (180 a 220 ml)**: evita superar los **250 ml** en cafeteras compactas de un solo thermoblock, ya que más leche diluye el contraste visual del café y exige tiempos de vaporizado demasiado largos.",
+        "**Asa ergonómica alineada o rebajada**: modelos como **NotNeutral Lino** o **Kruve Propel** diseñan la unión superior del asa para que tus dedos no tropiecen con el cuerpo de la jarra si necesitas girar el ángulo de entrada.",
+        "**Esmalte interior brillante de baja porosidad**: un acabado vitrificado liso reduce la fricción parietal del café y evita que las proteínas de la leche se adhieran prematuramente a las paredes antes de cerrar el corazón o tulipán."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "¿Quieres comprobar qué juegos de tazas semiesféricas de 180 a 250 ml encajan mejor bajo el portafiltro de tu cafetera? Pregunta a nuestro Asesor IA o revisa los modelos y colores disponibles hoy en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre mejor forma de taza para hacer latte art?",
-      "a": "Los vasos rectos de fondo plano frenan la corriente circular; un bol cerámico curvo tipo cappuccino hace que la leche gire sola. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Es mejor una taza de 180 ml o una de 250 ml para aprender a hacer latte art?",
+      "a": "Para empezar, el formato de 200 a 240 ml ofrece el equilibrio ideal: te da entre 3 y 4 segundos adicionales de margen durante la fase de integración respecto a una de 150 ml, pero mantiene una crema lo bastante concentrada y oscura para que las líneas blancas destaquen con nitidez."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Sirven las tazas de vidrio de doble pared para practicar figuras con leche?",
+      "a": "Solo si su cámara interior tiene forma parabólica ancha y baja. La mayoría de vasos de vidrio de doble pared son altos y estrechos (más de 85 mm de altura), lo que obliga a verter desde muy arriba y dificulta acercar el pico de la jarra a 5 mm de la crema."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cabrán estas tazas anchas en la bandeja de goteo de una cafetera de 15 cm de ancho?",
+      "a": "Sí. En cafeteras ultra-compactas de 15 cm de ancho como la De’Longhi Dedica Arte, la CASABREWS CM5418 o la Breville Bambino, una taza individual de 95 a 100 mm de diámetro entra perfectamente centrada bajo las dos boquillas del portafiltro sin sobresalir de la rejilla metálica."
     }
   ],
   "related": [
-    "/espumadores-y-latte-art/",
-    "/espumadores-y-latte-art/como-espumar-poca-cantidad-de-leche-100ml-para-un-cortado-o-macchiato/",
-    "/espumadores-y-latte-art/como-inclinar-la-taza-a-45-grados-al-empezar-a-verter-la-leche/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/espumadores-y-latte-art/como-cuidar-jarras-de-leche-con-recubrimiento-de-teflon-o-color/",
+    "/espumadores-y-latte-art/por-que-sale-agua-en-vez-de-vapor-al-principio-en-las-cafeteras-thermoblock/",
+    "/espumadores-y-latte-art/resumen-los-7-errores-que-te-impiden-hacer-latte-art-en-casa/",
+    "/espumadores-y-latte-art/como-espumar-leche-con-lanceta-mylatte-art-delonghi-dedica-arte/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-taza-es-mejor-para-latte-art-base-redonda-tipo-acme-o-loveramics.webp"
 }

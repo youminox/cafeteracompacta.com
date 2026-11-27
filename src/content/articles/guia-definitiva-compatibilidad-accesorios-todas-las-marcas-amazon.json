@@ -3,162 +3,135 @@
   "pillar": "basculas-y-accesorios-barista",
   "path": "/basculas-y-accesorios-barista/guia-definitiva-compatibilidad-accesorios-todas-las-marcas-amazon/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "tabla medidas portafiltro todas las marcas cafeteras",
   "title": "Tabla Maestra de Compatibilidad de Accesorios (Milímetros y Orejas) de 25 Cafeteras de Amazon",
-  "seoTitle": "Tabla Maestra de Compatibilidad de Accesorios (Milímetros y Orejas) de 25 Cafeteras de Amazon | Guía Barista Compacta",
-  "metaDescription": "Tabla Maestra de Compatibilidad de Accesorios (Milímetros y Orejas) de 25 Cafeteras de Amazon: Consulta en 5 segundos la medida exacta de Casabrews, Breville, De’Longhi, Gaggia, HiBREW, Gevi, SMEG, Solis, Lelit, Calphalon, Krups y Ninja. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Consulta en 5 segundos la medida exacta de Casabrews, Breville, De’Longhi, Gaggia, HiBREW, Gevi, SMEG, Solis, Lelit, Calphalon, Krups y Ninja.",
-  "quickAnswer": "Sobre tabla medidas portafiltro todas las marcas cafeteras: Consulta en 5 segundos la medida exacta de Casabrews, Breville, De’Longhi, Gaggia, HiBREW, Gevi, SMEG, Solis, Lelit, Calphalon, Krups y Ninja. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Tabla Maestra de Compatibilidad de Accesorios (Milímetros y Orejas) de 25 Cafeteras de Amazon | cafeteracompacta.com",
+  "metaDescription": "Tabla técnica de medidas de portafiltro (51, 54 y 58 mm), orejas y diámetro exacto de tamper para las 25 cafeteras compactas más populares en Amazon.",
+  "excerpt": "Comprar un portafiltro sin fondo o un tamper por diámetro nominal suele acabar en devolución. Consulta el calibre real al décimo de milímetro, el número de pestañas y el grosor de orejas de cada cafetera.",
+  "quickAnswer": "La compatibilidad de accesorios espresso depende de tres cotas críticas: el diámetro interno de la cesta (**51 mm**, **54 mm** o **58 mm**), el número de orejas (**2 o 3 pestañas**) y su espesor en milímetros. Mientras que **Breville Bambino** requiere un tamper de **53.3 mm** y portafiltro de 3 orejas de **54 mm**, la **CASABREWS CM5418** y la **De’Longhi Dedica Arte** comparten **51 mm** pero difieren en la geometría y grosor de sus pestañas.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Consulta en 5 segundos la medida exacta de Casabrews, Breville, De’Longhi, Gaggia, HiBREW, Gevi, SMEG, Solis, Lelit, Calphalon, Krups y Ninja., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Close-up ergonomic grip and control panel perspective in crisp daylight: realistic scene illustrating 'Tabla Maestra de Compatibilidad de Accesorios (Milímetros y Orejas) de 25 Cafeteras de Amazon' (tabla medidas portafiltro todas las marcas cafeteras) for cafeteracompacta.com, featuring equipment in graphite gray with subtle amber indicator details, inside a bright contemporary apartment with minimalist decor, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Tabla Maestra de Compatibilidad de Accesorios (Milímetros y Orejas) de 25 Cafeteras de Amazon"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **tabla medidas portafiltro todas las marcas cafeteras** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Consulta en 5 segundos la medida exacta de Casabrews, Breville, De’Longhi, Gaggia, HiBREW, Gevi, SMEG, Solis, Lelit, Calphalon, Krups y Ninja."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Basculas Y Accesorios Barista](/basculas-y-accesorios-barista/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Pedir un portafiltro sin fondo (*bottomless*), un embudo magnético o un tamper calibrado guiándote únicamente por el número entero que anuncia la caja de tu cafetera es la causa número uno de devoluciones frustradas. Dos máquinas pueden anunciar cestas de **51 mm**, pero si montas el portafiltro de **3 orejas de 4.0 mm** de una **De’Longhi Dedica Arte (EC885M)** en el cabezal de grupo de una **CASABREWS CM5418** (que exige **3 orejas de 4.8 mm** con diferente ángulo de bloqueo), la junta de silicona no sellará o ni siquiera lograrás girar el mango a las 6 en punto. Del mismo modo, en el ecosistema de **54 mm** de la **Breville Bambino (BES450)** y **Bambino Plus (BES500)**, la cesta se estrecha ligeramente hacia su base cónica, por lo que un pisón de 54.0 mm exactos se atasca a mitad de recorrido; el calibre real que debes adquirir en nuestro [catálogo de básculas y accesorios barista](/basculas-y-accesorios-barista/) es de **53.3 mm** (o **53.4 mm** para cestas de paredes rectas IMS)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: tabla medidas portafiltro todas las marcas cafeteras"
-    },
-    {
-      "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **tabla medidas portafiltro todas las marcas cafeteras** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Tabla Maestra de Medidas: Diámetro Interno, Orejas y Base de Tamper por Modelo"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: tabla medidas portafiltro todas las marcas cafeteras",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Cafetera / Familia de Modelos",
+        "Medida Nominal Cesta",
+        "Configuración y Grosor de Orejas",
+        "Calibre Exacto de Tamper / Puck Screen"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Consulta en 5 segundos la medida exacta de Casabrews, Breville, De’Longhi, Gaggia, HiBREW, Gevi, SMEG, Solis, Lelit, Calphalon, Krups y Ninja.",
-          "Mejora la consistencia y evita errores de extracción"
+          "CASABREWS CM5418 / 3700Essential / 3700Gense",
+          "51 mm",
+          "3 orejas simétricas (espesor 4.8–5.0 mm)",
+          "51.0 mm (puck screen 51.0 mm)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "De’Longhi Dedica (EC685 / Arte EC885M / Maestro Plus EC950M)",
+          "51 mm",
+          "3 orejas finas (espesor 4.0–4.2 mm)",
+          "51.0 mm (puck screen 51.0 mm)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "De’Longhi Stilosa (EC260) / ECP3420 / ECP3630",
+          "51 mm",
+          "2 orejas opuestas (espesor 4.5 mm)",
+          "51.0 mm (puck screen 51.0 mm)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "Breville Bambino (BES450) / Bambino Plus (BES500) / Barista Express (BES870)",
+          "54 mm",
+          "3 orejas Breville (espesor 5.4 mm)",
+          "53.3 mm (puck screen 53.3 mm)"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Solis Barista Perfetta Plus / Calphalon Temp IQ (cabezal 54/58)",
+          "54 mm / 58 mm",
+          "3 orejas (Solis 54 mm) / 2 orejas (Calphalon 58 mm)",
+          "53.3 mm (Solis) / 58.35 mm (Calphalon)"
+        ],
+        [
+          "Gaggia Classic Pro / Classic Evo Pro (RI9380)",
+          "58 mm comercial",
+          "2 orejas oblicuas Gaggia (espesor 6.2 mm)",
+          "58.35 mm – 58.5 mm (puck screen 58.5 mm)"
+        ],
+        [
+          "Turin Legato / MiiCoffee Apex / Rancilio Silvia / Grupo E61",
+          "58 mm comercial",
+          "2 orejas rectas E61/Rancilio (espesor 5.8–6.0 mm)",
+          "58.35 mm – 58.5 mm (puck screen 58.5 mm)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre tabla medidas portafiltro todas las marcas cafeteras",
-      "text": "Consulta en 5 segundos la medida exacta de Casabrews, Breville, De’Longhi, Gaggia, HiBREW, Gevi, SMEG, Solis, Lelit, Calphalon, Krups y Ninja. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Especificaciones mecánicas de grupo, pestañas de bayoneta y calibre exacto de tamper para las principales cafeteras de Amazon"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar tabla medidas portafiltro todas las marcas cafeteras hoy mismo en tu cocina"
+      "text": "Por Qué 0.3 Milímetros de Holgura Marcan la Diferencia al Compactar y Extraer"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con tabla medidas portafiltro todas las marcas cafeteras en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "El primer paso tras sacar tu cafetera de la caja es entender [por qué conviene guardar la cuchara dosificadora con tamper de plástico en el cajón](/basculas-y-accesorios-barista/cucharas-dosificadoras-con-tamper-de-plastico-por-que-guardarlas-en-el-cajon/): esas piezas moldeadas miden apenas **49.5 mm** o **52.0 mm**, dejando un anillo periférico de café suelto de hasta **1.5 mm** contra la pared metálica por donde el agua escapa sin resistencia. Sin embargo, si eliges una base mecanizada demasiado ajustada sin bisel de alivio, crearás un vacío neumático al retirar la herramienta; por eso es clave revisar [cómo evitar el efecto succión del tamper al levantarlo de la cesta](/basculas-y-accesorios-barista/como-evitar-el-efecto-succion-del-tamper-al-levantarlo-de-la-cesta/). Asimismo, si usas sistemas híbridos y te preguntas si [funcionan los portafiltros adaptadores de cápsulas Nespresso para 51 mm](/basculas-y-accesorios-barista/adaptadores-de-capsulas-nespresso-para-portafiltros-de-51mm-funcionan/), debes verificar siempre que el chasis del adaptador coincida exactamente con las **3 orejas de 4.0 mm** de De’Longhi o las **2 orejas** de la serie Stilosa."
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Mide el interior de tu cesta con pie de rey (calibre Vernier):** Toma la cota a **5 mm de profundidad** desde el borde superior, no en el labio externo doblado, para confirmar si admite bases de **51.0 mm**, **53.3 mm** o **58.35 mm**.",
+        "**Cuenta y mide el grosor de las pestañas (orejas) antes de pedir un portafiltro naked:** En **51 mm** coexisten tres estándares incompatibles entre sí: **2 orejas** (De’Longhi Stilosa/ECP), **3 orejas finas de 4.0 mm** (De’Longhi Dedica EC685/EC885M) y **3 orejas gruesas de 4.8 mm** (CASABREWS CM5418 y 3700Essential).",
+        "**Elige anillos dosificadores magnéticos (Dosing Funnels) con borde exterior:** Los embudos que se apoyan por fuera del labio (**outer ring**) en cestas de **51 mm** y **54 mm** permiten pasar las agujas WDT y compactar directamente a través del embudo sin dejar un escalón sin prensar en el perímetro.",
+        "**Respeta la holgura térmica del Puck Screen:** En cestas Breville de **54 mm**, compra siempre discos difusores marcados como **53.3 mm**; uno de **53.5 mm** puede trabarse contra la pared cónica si dosificas menos de **17 gramos**."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Advertencia Crítica sobre la Incompatibilidad Cruzada en Cafeteras de 51 mm"
     },
     {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Jamás compres un portafiltro sin fondo etiquetado genéricamente como «Universal 51 mm de 3 orejas». Aunque la **De’Longhi Dedica Arte (EC885M)** y la **CASABREWS CM5418** utilizan exactamente las mismas cestas internas de **51 mm**, el anillo de bayoneta de la CASABREWS tiene una ranura más alta pensada para orejas de **4.8 a 5.0 mm**, mientras que el grupo de la Dedica solo admite orejas de **4.0 a 4.2 mm**. Si intentas forzar un portafiltro de CASABREWS en una Dedica, dañarás el collarín plástico del grupo; si pones el de Dedica en la CASABREWS, quedará flojo y escupirá agua caliente bajo presión. Confirma siempre el código exacto de tu modelo en la ficha del accesorio.",
+      "title": "No confundas 51 mm de De’Longhi Dedica con 51 mm de CASABREWS"
+    },
+    {
+      "type": "cta",
+      "text": "¿Dudas sobre si un portafiltro sin fondo, cesta IMS o tamper autoniivelante encajará en tu modelo exacto? Consulta a nuestro Asesor IA indicando la marca y referencia de tu cafetera o revisa la disponibilidad y fichas técnicas actualizadas en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre tabla medidas portafiltro todas las marcas cafeteras?",
-      "a": "Consulta en 5 segundos la medida exacta de Casabrews, Breville, De’Longhi, Gaggia, HiBREW, Gevi, SMEG, Solis, Lelit, Calphalon, Krups y Ninja. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Sirven las mismas cestas y tampers de 51 mm para la De’Longhi Dedica y la CASABREWS CM5418?",
+      "a": "Las cestas de filtro internas de **51 mm** sin presurizar, los tampers de **51.0 mm**, los discos *puck screen* y los embudos magnéticos son 100 % intercambiables entre la **De’Longhi Dedica Arte** y la **CASABREWS CM5418**. Lo único que NO puedes intercambiar es el portafiltro completo debido al distinto grosor de sus **3 orejas**."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué los tampers para Breville Bambino miden 53.3 mm si el portafiltro es de 54 mm?",
+      "a": "Las cestas originales de **54 mm** de la **Breville Bambino (BES450)** y **Bambino Plus (BES500)** tienen un ligero ahusamiento hacia la base y un diámetro interior útil de **53.4 a 53.5 mm**. Un tamper de **53.3 mm** cubre el 99.5 % de la superficie sin rozar las paredes ni atascarse cuando la dosis baja a **17 gramos**."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Puedo usar un portafiltro de De’Longhi Dedica en una De’Longhi Stilosa EC260?",
+      "a": "No. La **De’Longhi Stilosa (EC260)** y la serie **ECP3420** utilizan un mecanismo de bloqueo de **2 orejas opuestas**, mientras que toda la familia **De’Longhi Dedica (EC685, EC885M y EC950M)** emplea un cabezal de **3 orejas**. Necesitas adquirir un portafiltro de **51 mm** fabricado específicamente con **2 pestañas**."
     }
   ],
   "related": [
-    "/basculas-y-accesorios-barista/",
-    "/basculas-y-accesorios-barista/que-medida-de-accesorios-usa-casabrews-cm5418-51mm-3-orejas/",
-    "/basculas-y-accesorios-barista/para-que-sirve-la-marca-interna-en-las-cestas-de-cafe-linea-de-nivel/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/basculas-y-accesorios-barista/como-evitar-el-efecto-succion-del-tamper-al-levantarlo-de-la-cesta/",
+    "/basculas-y-accesorios-barista/adaptadores-de-capsulas-nespresso-para-portafiltros-de-51mm-funcionan/",
+    "/basculas-y-accesorios-barista/pulverizador-atomizador-de-perfume-para-tecnica-rdt-cual-comprar/",
+    "/basculas-y-accesorios-barista/cucharas-dosificadoras-con-tamper-de-plastico-por-que-guardarlas-en-el-cajon/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/guia-definitiva-compatibilidad-accesorios-todas-las-marcas-amazon.webp"
 }

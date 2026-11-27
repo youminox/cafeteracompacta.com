@@ -4,161 +4,122 @@
   "path": "/basculas-y-accesorios-barista/se-puede-prensar-con-el-tamper-a-traves-del-embudo-dosificador/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "prensar con el embudo dosificador puesto",
   "title": "Embudos Dosificadores con Reborde Interno vs Embudos de Paso Directo (Tamper-Through)",
-  "seoTitle": "Embudos Dosificadores con Reborde Interno vs Embudos de Paso Directo (Tamper-Through) | Guía Barista Compacta",
-  "metaDescription": "Embudos Dosificadores con Reborde Interno vs Embudos de Paso Directo (Tamper-Through): Elige siempre un embudo cuyo diámetro interior sea idéntico al de la cesta para poder meter el tamper antes de retirar el anillo. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Elige siempre un embudo cuyo diámetro interior sea idéntico al de la cesta para poder meter el tamper antes de retirar el anillo.",
-  "quickAnswer": "Sobre prensar con el embudo dosificador puesto: Elige siempre un embudo cuyo diámetro interior sea idéntico al de la cesta para poder meter el tamper antes de retirar el anillo. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Embudos Dosificadores con Reborde Interno vs Embudos de Paso Directo (Tamper-Through) | cafeteracompacta.com",
+  "metaDescription": "Descubre si puedes prensar con el embudo dosificador puesto y la diferencia técnica entre collares con reborde interno y modelos de paso directo.",
+  "excerpt": "Analizamos la geometría interna de los embudos magnéticos de 51 mm, 54 mm y 58 mm para evitar que tu tamper choque contra el escalón metálico o deje un anillo sin compactar en el borde de la cesta.",
+  "quickAnswer": "Solo puedes **prensar con el embudo dosificador puesto** si utilizas un collar de fijación exterior (*over-the-rim*) o de paso directo (*tamper-through*), cuyo diámetro interior libre supera en **0.3 a 0.5 mm** al de la cesta. Si tu embudo tiene pestaña interna, reducirá la boca entre **1.5 y 2 mm**, impidiendo el paso de tampers de precisión de **51 mm**, **53.3 mm** o **58.5 mm**.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Elige siempre un embudo cuyo diámetro interior sea idéntico al de la cesta para poder meter el tamper antes de retirar el anillo., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating 'Embudos Dosificadores con Reborde Interno vs Embudos de Paso Directo (Tamper-Through)' (prensar con el embudo dosificador puesto) for cafeteracompacta.com, featuring equipment in warm sand beige with matte black hardware, on a warm walnut table beside a sunlit window, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Embudos Dosificadores con Reborde Interno vs Embudos de Paso Directo (Tamper-Through)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **prensar con el embudo dosificador puesto** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Elige siempre un embudo cuyo diámetro interior sea idéntico al de la cesta para poder meter el tamper antes de retirar el anillo."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Basculas Y Accesorios Barista](/basculas-y-accesorios-barista/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Cuando mueles **18 gramos** de café fresco de tueste medio para la cesta de **51 mm** de tu **CASABREWS CM5418** o **De’Longhi Dedica Arte (EC885M)**, la montaña de café esponjoso sobresale más de un centímetro por encima del borde metálico. Si retiras el collar magnético inmediatamente después de remover con las agujas WDT, parte de la molienda acaba desparramada sobre la encimera antes siquiera de tocar el compactador. De ahí surge la duda técnica clave: ¿se puede **prensar con el embudo dosificador puesto** directamente? La respuesta depende por completo de si tu anillo apoya una pestaña dentro del filtro o si utiliza una arquitectura de [embudo dosificador de borde exterior over-the-rim](/basculas-y-accesorios-barista/que-es-un-collar-dosificador-interno-vs-externo-over-the-rim/) con paso libre para la base del tamper."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: prensar con el embudo dosificador puesto"
+      "text": "Geometría del escalón interno: por qué tu tamper calibrado choca a mitad de recorrido"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **prensar con el embudo dosificador puesto** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Los embudos económicos o universales suelen mantenerse centrados mediante una **pestaña o reborde interior** que se introduce entre **2 y 3 mm** dentro de la boca del filtro. Ese labio metálico reduce el diámetro libre del cilindro: en una cesta de **51 mm**, el paso útil cae a unos **49.2 mm**, y en una de **54 mm** (como la de la **Breville Bambino BES450**), se estrecha hasta **52 mm**. Si intentas introducir un tamper calibrado de precisión (**51.0 mm**, **53.3 mm** o **58.5 mm**) a través de un collar con reborde interno, la base de acero impactará en seco contra el escalón metálico sin llegar a compactar el café. Además, para trabajar con comodidad necesitas verificar [cómo agarran los imanes del embudo en tu cesta](/basculas-y-accesorios-barista/como-comprobar-si-los-imanes-de-tu-embudo-agarran-bien-en-tu-cesta/) y consultar nuestro catálogo de [básculas mini y accesorios barista compatibles](/basculas-y-accesorios-barista/) según el milimetraje exacto de tu portafiltro."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: prensar con el embudo dosificador puesto",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Tipo de embudo dosificador",
+        "Asiento sobre la cesta",
+        "Diámetro interior libre",
+        "¿Permite prensar a través (Tamper-Through)?"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Elige siempre un embudo cuyo diámetro interior sea idéntico al de la cesta para poder meter el tamper antes de retirar el anillo.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Con reborde interno clásico",
+          "Pestaña se inserta 2–3 mm dentro del filtro",
+          "1.5 a 2.0 mm menor que la cesta",
+          "No; la base del tamper choca contra el escalón interno"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "De borde exterior (Over-the-Rim)",
+          "Abraza la pared externa superior del filtro",
+          "0.3 a 0.6 mm mayor que el tamper calibrado",
+          "Sí; permite recorrido completo hasta la pastilla"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Alto de paso recto con imanes planos",
+          "Apoya a ras sobre el labio plano superior",
+          "Idéntico al diámetro interno de la cesta",
+          "Sí, siempre que quede perfectamente centrado"
         ]
-      ]
+      ],
+      "caption": "Comparativa técnica de embudos según su compatibilidad de prensado directo"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo funcionan los collares de paso directo (Tamper-Through) en 51 mm, 54 mm y 58 mm"
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de barista sobre prensar con el embudo dosificador puesto",
-      "text": "Elige siempre un embudo cuyo diámetro interior sea idéntico al de la cesta para poder meter el tamper antes de retirar el anillo. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "Cuando ya dispones de un embudo con pestaña interior, nunca compres un tamper más pequeño para forzar el paso: dejarías un anillo perimetral de **1 mm** de café suelto alrededor de la pared de la cesta, provocando canalización (*channeling*) inmediata. En su lugar, aplica un golpe seco y totalmente vertical del portafiltro sobre tu alfombrilla de silicona tras usar el WDT; la gravedad asentará el café por debajo del borde para que retires el collar y prenses limpio.",
+      "title": "El truco del golpe vertical si tu embudo actual tiene pestaña interna"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar prensar con el embudo dosificador puesto hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Secuencia correcta para compactar con un embudo Tamper-Through sin desajustar el anillo"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Acopla el collar magnético de borde externo",
+          "text": "Asegúrate de que los **8 a 10 imanes de neodimio** asienten planos sobre el labio superior de la cesta de **51 mm**, **54 mm** o **58 mm** sin holgura lateral."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Distribuye con WDT hasta el borde externo",
+          "text": "Rompe los grumos con agujas de **0.35 a 0.4 mm** aprovechando que las paredes rectas del embudo evitan salpicaduras de molienda fina."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Introduce el tamper calibrado en vertical",
+          "text": "Desliza tu tamper de **51 mm**, **53.3 mm** o **58.5 mm** por el conducto libre del embudo y ejerce presión firme hasta sentir el tope de la pastilla o el muelle calibrado."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Retira primero el tamper y luego el collar",
+          "text": "Extrae el compactador hacia arriba en línea recta y despega el anillo magnético con un leve giro lateral para no levantar vacío sobre la superficie pulida del café."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con prensar con el embudo dosificador puesto en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Dudas sobre qué embudo de paso directo encaja con la medida exacta de tu tamper y portafiltro? Consulta a nuestro Asesor IA o revisa la disponibilidad actual de collares magnéticos en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre prensar con el embudo dosificador puesto?",
-      "a": "Elige siempre un embudo cuyo diámetro interior sea idéntico al de la cesta para poder meter el tamper antes de retirar el anillo. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Se puede prensar a través del embudo de plástico original de Breville de 54 mm?",
+      "a": "No. El accesorio de bayoneta incluido en modelos como la Breville Barista Express o ciertos kits para la Breville Bambino tiene una pestaña interior pronunciada. Debes dar un toque vertical contra la alfombrilla para bajar el nivel del café, retirar el embudo de plástico y prensar después con tu tamper de 53.3 mm."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Prensar con un embudo Tamper-Through puesto aumenta el riesgo de canalización?",
+      "a": "Si retiras el embudo tirando bruscamente hacia arriba mientras el tamper sigue dentro, puedes generar succión o golpear lateralmente la pastilla recién compactada. Esa microfractura en la unión entre el café y el acero inoxidable permite que el agua a 9 bares se cuele por el borde exterior."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cómo identifico en Amazon si un embudo magnético permite el paso del tamper?",
+      "a": "Busca en la ficha técnica la denominación Over-the-Rim (fijación por borde externo) o verifica en el plano de medidas que el diámetro interior inferior sea al menos de 51.2 mm para cestas de 51 mm, 54.0 mm para cestas de 54 mm o 58.6 mm para cestas comerciales de 58 mm."
     }
   ],
   "related": [
-    "/basculas-y-accesorios-barista/",
-    "/basculas-y-accesorios-barista/como-elegir-una-bascula-digital-para-la-bandeja-de-la-delonghi-dedica/",
-    "/basculas-y-accesorios-barista/para-que-sirve-el-embudo-dosificador-magnetico-dosing-funnel/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/basculas-y-accesorios-barista/que-es-un-collar-dosificador-interno-vs-externo-over-the-rim/",
+    "/basculas-y-accesorios-barista/jarra-de-leche-sin-asa-handleless-pitcher-vs-jarra-con-asa/",
+    "/basculas-y-accesorios-barista/como-comprobar-si-los-imanes-de-tu-embudo-agarran-bien-en-tu-cesta/",
+    "/basculas-y-accesorios-barista/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/se-puede-prensar-con-el-tamper-a-traves-del-embudo-dosificador.webp"
 }

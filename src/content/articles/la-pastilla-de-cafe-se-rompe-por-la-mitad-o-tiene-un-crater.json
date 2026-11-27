@@ -4,161 +4,118 @@
   "path": "/problemas-y-soluciones/la-pastilla-de-cafe-se-rompe-por-la-mitad-o-tiene-un-crater/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "pastilla de cafe rota o con agujero",
   "title": "Por Qué la Pastilla de Café Aparece Agrietada o con un Agujero al Quitar el Portafiltro",
-  "seoTitle": "Por Qué la Pastilla de Café Aparece Agrietada o con un Agujero al Quitar el Portafiltro | Guía Barista Compacta",
-  "metaDescription": "Por Qué la Pastilla de Café Aparece Agrietada o con un Agujero al Quitar el Portafiltro: Ocurre por el golpe de ariete al encajar el portafiltro con brusquedad o porque falta café en la cesta y el chorro de agua excava un cráter. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Ocurre por el golpe de ariete al encajar el portafiltro con brusquedad o porque falta café en la cesta y el chorro de agua excava un cráter.",
-  "quickAnswer": "Sobre pastilla de cafe rota o con agujero: Ocurre por el golpe de ariete al encajar el portafiltro con brusquedad o porque falta café en la cesta y el chorro de agua excava un cráter. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué la Pastilla de Café Aparece Agrietada o con un Agujero al Quitar el Portafiltro | cafeteracompacta.com",
+  "metaDescription": "¿Tu pastilla de café sale rota por la mitad o con un agujero? Aprende a distinguir una grieta por canalización real del vacío de la válvula solenoide.",
+  "excerpt": "No todas las grietas en el puck indican un mal espresso: descubre cuándo un cráter se debe a sobredosificación contra la ducha y cuándo la fractura ocurre al despresurizar el grupo.",
+  "quickAnswer": "Una pastilla de café partida por la mitad al retirar el portafiltro suele producirse **después** de terminar el espresso por el efecto de succión de la **válvula solenoide de 3 vías** o el vacío al girar el mango, sin afectar el sabor en taza. En cambio, un cráter localizado revela un chorro concentrado por suciedad en la ducha o exceso de gramos tocando el tornillo.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Ocurre por el golpe de ariete al encajar el portafiltro con brusquedad o porque falta café en la cesta y el chorro de agua excava un cráter., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Over-the-shoulder hands-on demonstration perspective in natural light: realistic scene illustrating 'Por Qué la Pastilla de Café Aparece Agrietada o con un Agujero al Quitar el Portafiltro' (pastilla de cafe rota o con agujero) for cafeteracompacta.com, featuring equipment in sleek titanium silver with carbon-gray texture, on a warm walnut table beside a sunlit window, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué la Pastilla de Café Aparece Agrietada o con un Agujero al Quitar el Portafiltro"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **pastilla de cafe rota o con agujero** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Ocurre por el golpe de ariete al encajar el portafiltro con brusquedad o porque falta café en la cesta y el chorro de agua excava un cráter."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Terminas de extraer un espresso que en taza luce cremoso y equilibrado, giras el mango del portafiltro para sacarlo del grupo y, al mirar dentro de la cesta, te encuentras la pastilla de café (*puck*) partida por la mitad con una grieta profunda o marcada con un cráter circular en el centro. La primera reacción de muchos baristas caseros es pensar que toda la extracción sufrió canalización severa, pero la inspección forense de la pastilla tiene una trampa técnica: la mayoría de las fracturas de lado a lado ocurren **después** de haber apagado la bomba o en el preciso instante en que desenroscas el portafiltro. En nuestro [hub de problemas y soluciones](/problemas-y-soluciones/) te enseñamos a distinguir una herida pre-extracción de una rotura mecánica post-extracción."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: pastilla de cafe rota o con agujero"
+      "text": "Por qué la válvula solenoide de 3 vías parte la pastilla al terminar el espresso"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **pastilla de cafe rota o con agujero** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "En cafeteras compactas equipadas con **válvula solenoide de 3 vías**, como la **Breville Bambino Plus (BES500)** o la **Gaggia Classic Evo Pro** (cuyas particularidades térmicas también explicamos al ver el [truco para espumar antes de la luz de vapor en la Gaggia Classic](/problemas-y-soluciones/mi-cafetera-gaggia-classic-tarda-mucho-en-dar-vapor/)), la cámara situada encima del café se encuentra a **9 bares** de presión durante el tiro. En el milisegundo en que pulsas el botón para detener la extracción, la electroválvula abre un conducto de escape directo hacia la bandeja de goteo para despresurizar el grupo de golpe. Esa descompresión súbita genera una fuerza de succión ascendente que levanta la pastilla húmeda contra la ducha del grupo y la deja caer de nuevo sobre el fondo de la cesta, agrietándola por la mitad cuando el espresso ya está servido en tu taza. En máquinas sin solenoide como la **CASABREWS CM5418**, la **Breville Bambino (BES450)** o la **De’Longhi Dedica Arte (EC885M)**, esa misma fractura suele producirse al girar el portafiltro demasiado rápido mientras aún queda agua a presión sobre el café, creando un efecto ventosa que parte el bloque."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: pastilla de cafe rota o con agujero",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Aspecto de la pastilla al quitar el portafiltro",
+        "¿Ocurrió durante o después del tiro?",
+        "¿Afecta al sabor del espresso?",
+        "Causa mecánica y solución"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Ocurre por el golpe de ariete al encajar el portafiltro con brusquedad o porque falta café en la cesta y el chorro de agua excava un cráter.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Grieta limpia que parte la pastilla por la mitad o en tres trozos grandes",
+          "Después (al cortar la válvula solenoide o girar el portafiltro)",
+          "No, si el flujo y el tiempo (25–30 s) fueron estables",
+          "Succión por descompresión súbita de los 9 bares o efecto ventosa al desencajar el mango"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Cráter u hoyo circular limpio justo en el centro de la superficie",
+          "Antes / Al inicio de la infusión",
+          "Sí, provoca flujo desigual en el centro",
+          "Exceso de gramos (la pastilla hinchada choca con el tornillo central de la ducha de Gaggia o Dedica)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Agujero profundo del tamaño de un lápiz cerca del borde de la cesta",
+          "Durante toda la extracción",
+          "Sí, genera sub-extracción ácida y astringencia",
+          "Chorro concentrado por ducha obstruida con aceites viejos o golpe lateral al portafiltro tras prensar"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Superficie enfangada con charco de agua y depresión blanda en el medio",
+          "Durante y al final del tiro",
+          "No necesariamente (común en máquinas sin solenoide)",
+          "Dosis baja (demasiado espacio libre o headspace > 4 mm) o cafetera sin válvula de 3 vías"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre pastilla de cafe rota o con agujero",
-      "text": "Ocurre por el golpe de ariete al encajar el portafiltro con brusquedad o porque falta café en la cesta y el chorro de agua excava un cráter. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Lectura de la pastilla gastada (Puckology): qué indica cada marca y si afecta al sabor"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar pastilla de cafe rota o con agujero hoy mismo en tu cocina"
+      "text": "Cuándo un agujero o cráter sí revela un chorro perforador o exceso de dosis"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "h2",
+      "text": "Cómo eliminar los cráteres hidráulicos y proteger la superficie del café"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Desmonta y limpia la placa de ducha del grupo cada 2 semanas",
+          "text": "Si los micro-poros de la ducha están taponados por aceites rancios, el agua sale por los pocos agujeros libres con una presión brutal que taladra un cráter en el borde de la pastilla. Retira el tornillo central y cepilla la malla con detergente específico."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Ajusta la dosis en gramos según el volumen real de tu cesta",
+          "text": "En cestas de 51 mm (Dedica o CASABREWS) la capacidad real suele ser de 14 g a 16 g según el tueste, y en cestas de 54 mm (Breville) de 17 g a 18 g. Si metes 18 g de tueste oscuro en una cesta de 15 g, el café se expandirá contra la ducha y se agrietará."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Instala un Puck Screen de acero inoxidable de 1.7 mm sobre el café prensado",
+          "text": "La malla metálica actúa como un escudo físico entre los chorros de la ducha y la pastilla, repartiendo el agua en lluvia uniforme y evitando el impacto de succión. Al vaciar el portafiltro, aplica nuestro [truco del imán o golpe en la palma para que el puck screen no caiga al knock box](/problemas-y-soluciones/el-puck-screen-se-cae-dentro-del-knock-box-junto-con-la-pastilla/)."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con pastilla de cafe rota o con agujero en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Quieres eliminar por completo los cráteres en la pastilla y mantener limpia la ducha de tu cafetera con un puck screen de 51 mm, 53.3 mm o 58.5 mm? Consulta a nuestro Asesor IA o revisa la disponibilidad en tiempo real en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre pastilla de cafe rota o con agujero?",
-      "a": "Ocurre por el golpe de ariete al encajar el portafiltro con brusquedad o porque falta café en la cesta y el chorro de agua excava un cráter. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Si la pastilla sale húmeda o con un pequeño charco arriba significa que el café salió mal?",
+      "a": "No. En cafeteras compactas sin válvula solenoide de 3 vías, como la CASABREWS CM5418, la De’Longhi Dedica Arte o la Breville Bambino estándar, el agua residual sobre la pastilla no tiene por dónde evacuarse al terminar el tiro. Es totalmente normal que la superficie quede húmeda si esperas 20 segundos antes de sacarla."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Qué diferencia hay entre un cráter grande arriba y un agujero fino como un alfiler (pinhole)?",
+      "a": "Los agujeros diminutos del grosor de un alfiler (pinholes) que atraviesan la pastilla de arriba abajo sí son huellas reales de micro-canalización ocurrida durante los 9 bares de extracción. Se corrigen rompiendo los grumos con una herramienta WDT de agujas finas antes de pasar el tamper."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué mi pastilla sale con la marca del tornillo incluso usando un puck screen?",
+      "a": "Porque al usar una malla metálica (puck screen) debes reducir la dosis entre 0.5 g y 1 g si tu cesta ya iba al límite. Si mantienes la misma cantidad de café y añades una malla de 1.7 mm encima, la ducha aplastará la malla contra el grano y partirá el bloque."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/el-puck-screen-se-cae-dentro-del-knock-box-junto-con-la-pastilla/",
+    "/problemas-y-soluciones/el-vaporizador-automatico-de-la-bambino-plus-deja-la-leche-fria/",
     "/problemas-y-soluciones/como-quitar-una-cesta-atascada-cuando-metiste-una-de-51mm-equivocada/",
-    "/problemas-y-soluciones/el-cafe-sale-con-espuma-grande-que-salpica-con-filtro-no-presurizado/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/mi-cafetera-gaggia-classic-tarda-mucho-en-dar-vapor/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/la-pastilla-de-cafe-se-rompe-por-la-mitad-o-tiene-un-crater.webp"
 }

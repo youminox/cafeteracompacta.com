@@ -4,161 +4,114 @@
   "path": "/mantenimiento-y-descalcificacion/cada-cuanto-cambiar-el-filtro-ablandador-de-resina-del-tanque/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cada cuanto cambiar filtro de agua tanque cafetera",
   "title": "Filtros de Agua del Tanque (Clarissa / De’Longhi / Breville): Cada Cuánto Cambiarlos",
-  "seoTitle": "Filtros de Agua del Tanque (Clarissa / De’Longhi / Breville) | Guía Barista Compacta",
-  "metaDescription": "Filtros de Agua del Tanque (Clarissa / De’Longhi / Breville): Cada Cuánto Cambiarlos: Los cartuchos de resina de intercambio iónico se saturan a los 60 días o 40 litros; dejarlos más tiempo no filtra la cal. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Los cartuchos de resina de intercambio iónico se saturan a los 60 días o 40 litros; dejarlos más tiempo no filtra la cal.",
-  "quickAnswer": "Sobre cada cuanto cambiar filtro de agua tanque cafetera: Los cartuchos de resina de intercambio iónico se saturan a los 60 días o 40 litros; dejarlos más tiempo no filtra la cal. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Filtros de Agua del Tanque (Clarissa / De’Longhi / Breville): Cada Cuánto Cambiarlos | cafeteracompacta.com",
+  "metaDescription": "Descubre cada cuánto cambiar el filtro de agua del tanque en cafeteras Breville y De’Longhi según los litros filtrados, la dureza y el límite sanitario.",
+  "excerpt": "Guía técnica sobre la vida útil real de los cartuchos de resina catiónica y carbón activado ClaroSwiss y De’Longhi DLSC002: cuántos litros ablandan, cómo purgarlos y por qué caducan a los 60-90 días.",
+  "quickAnswer": "Debes cambiar el filtro de agua del tanque cada **60 días** en cartuchos **De’Longhi DLSC002** (o tras **50 litros** filtrados) y cada **90 días** en filtros **Breville ClaroSwiss / Clarissa** (o tras **40–50 litros** en zonas de agua dura). Aunque prepares pocos cafés, nunca superes los **3 meses** con el mismo cartucho sumergido, ya que el carbón activado húmedo pierde capacidad bacteriostática y la resina catiónica deja de retener calcio.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Los cartuchos de resina de intercambio iónico se saturan a los 60 días o 40 litros; dejarlos más tiempo no filtra la cal., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Split comparison composition showing two complementary setups side by side: realistic scene illustrating 'Filtros de Agua del Tanque (Clarissa / De’Longhi / Breville): Cada Cuánto Cambiarlos' (cada cuanto cambiar filtro de agua tanque cafetera) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, on a clean stone countertop with neatly arranged accessories, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Filtros de Agua del Tanque (Clarissa / De’Longhi / Breville): Cada Cuánto Cambiarlos"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cada cuanto cambiar filtro de agua tanque cafetera** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Los cartuchos de resina de intercambio iónico se saturan a los 60 días o 40 litros; dejarlos más tiempo no filtra la cal."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Girar el dial fechador superior del cartucho **Breville ClaroSwiss (Clarissa)** o del filtro **De’Longhi DLSC002** al instalarlo en el tanque y olvidarse de él durante medio año porque «solo preparo cuatro cafés por semana» es uno de los errores más costosos en el cuidado de una cafetera espresso compacta. Estos pequeños cilindros blancos no son mallas mecánicas eternas, sino reactores químicos en miniatura con una capacidad finita de adsorción e intercambio iónico. Comprender cuándo se saturan por volumen de agua y cuándo caducan por higiene microbiológica es clave dentro del [hub de mantenimiento y descalcificación](/mantenimiento-y-descalcificacion/) de tu estación doméstica."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cada cuanto cambiar filtro de agua tanque cafetera"
+      "text": "Cómo funciona por dentro el lecho mixto de resina catiónica y carbón activado"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cada cuanto cambiar filtro de agua tanque cafetera** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Cada vez que la bomba de tu **Breville Bambino (BES450)** o **De’Longhi Dedica Arte (EC885M)** succiona agua desde la base del tanque, el líquido atraviesa dos cámaras internas dentro del cartucho. La primera contiene **carbón activado granular**, encargado de atrapar el cloro libre, pesticidas y compuestos orgánicos volátiles que apagan las notas florales del grano. La segunda alberga micro-esferas de **resina de intercambio iónico catiónica**, que capturan los iones de calcio ($Ca^{2+}$) y magnesio ($Mg^{2+}$) antes de que precipiten como carbonato cálcico dentro del bloque térmico. Por eso, sincronizar su reemplazo con tu [tabla resumen de mantenimiento diario, semanal y bimestral](/mantenimiento-y-descalcificacion/guia-visual-de-mantenimiento-diario-semanal-y-bimestral/) y tu [revisión trimestral de 20 minutos para tu estación barista](/mantenimiento-y-descalcificacion/checklist-de-mantenimiento-trimestral-para-tu-estacion-barista/) evita obstrucciones prematuras en los capilares internos."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: cada cuanto cambiar filtro de agua tanque cafetera",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Modelo de Filtro / Cafetera",
+        "Capacidad Volumétrica (Agua Media ~150 ppm)",
+        "Capacidad en Zona de Agua Dura (> 250 ppm)",
+        "Límite Higiénico Máximo Sumergido",
+        "Equivalencia Aproximada en Tazas (Con Purgas)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Los cartuchos de resina de intercambio iónico se saturan a los 60 días o 40 litros; dejarlos más tiempo no filtra la cal.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Breville ClaroSwiss / Clarissa (Bambino y Bambino Plus)",
+          "40 a 50 litros",
+          "30 a 35 litros (aprox. 4–6 semanas)",
+          "90 días (3 meses) máximo",
+          "250 a 300 espressos"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "De’Longhi DLSC002 / SER3017 (Dedica EC685 y Arte EC885M)",
+          "50 litros",
+          "35 litros (aprox. 4–5 semanas)",
+          "60 días (2 meses) máximo",
+          "250 a 320 espressos"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Bolsitas de Resina Catiónica Universal (CASABREWS CM5418)",
+          "35 a 45 litros",
+          "25 a 30 litros (aprox. 4 semanas)",
+          "60 días (2 meses) máximo",
+          "200 a 250 espressos"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre cada cuanto cambiar filtro de agua tanque cafetera",
-      "text": "Los cartuchos de resina de intercambio iónico se saturan a los 60 días o 40 litros; dejarlos más tiempo no filtra la cal. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Intervalos técnicos de reemplazo de filtros de agua internos según modelo y dureza local"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar cada cuanto cambiar filtro de agua tanque cafetera hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con cada cuanto cambiar filtro de agua tanque cafetera en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Los 4 criterios prácticos para saber exactamente cuándo reemplazar y cómo cebar el cartucho"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Regla del doble límite (Volumen vs. Tiempo)**: Cambia el cartucho al alcanzar los **40–50 litros** filtrados o al cumplirse los **60 días (De’Longhi)** / **90 días (Breville)** desde que tocó el agua por primera vez, lo que ocurra antes. Pasados tres meses sumergido en agua sin cloro, el carbón activado húmedo puede colonizarse con bacterias aunque la resina aún no esté agotada.",
+        "**Ajuste por dureza severa**: Si el agua de tu grifo supera las **250 ppm (más de 14 °dH)**, las micro-esferas de resina catiónica de un cartucho compacto se saturan en apenas **30 a 35 litros**; en ese escenario, adelanta el cambio a cada **4 o 5 semanas** o alimenta el tanque con agua previamente pasada por jarra filtrante.",
+        "**Purga obligatoria de aire por inmersión horizontal (5 minutos)**: Antes de encajar un filtro nuevo en el soporte del tanque, sumérgelo horizontalmente en un bol con agua fría durante **5 minutos** y agítalo suavemente hasta que dejen de salir burbujas; si queda una bolsa de aire atrapada dentro, la bomba trabajará en vacío con un ruido metálico agudo.",
+        "**Cuándo resulta redundante usar filtro de tanque**: Si rellenas tu cafetera exclusivamente con **agua mineral embotellada de mineralización débil** (residuo seco entre **50 y 100 mg/L** y libre de cloro), no necesitas gastar en cartuchos internos del tanque, siempre que laves el depósito semanalmente."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Precaución crítica antes de iniciar cualquier ciclo de descalcificación ácida"
     },
     {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Jamás viertas líquido descalcificador (**ácido láctico**, **ácido cítrico** o **Urnex Dezcal**) en el depósito de agua sin haber **desmontado y retirado antes el cartucho filtrante**. Si haces pasar la solución ácida a través del filtro **ClaroSwiss** o **De’Longhi DLSC002**, el ácido reaccionará violentamente con la resina catiónica saturada, liberando de golpe todo el calcio retenido hacia el interior del **ThermoJet** y destruyendo químicamente el carbón activado, lo que inutilizará el cartucho al instante y contaminará el circuito con sabor químico.",
+      "title": "Retira siempre el filtro del tanque antes de echar ácido descalcificador"
+    },
+    {
+      "type": "cta",
+      "text": "¿Toca renovar el cartucho ablandador de tu Breville Bambino o De’Longhi Dedica? Comprueba los packs originales y compatibles en las tarjetas de Amazon integradas en esta página o consulta a nuestro Asesor IA cuál encaja en el soporte de tu depósito."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cada cuanto cambiar filtro de agua tanque cafetera?",
-      "a": "Los cartuchos de resina de intercambio iónico se saturan a los 60 días o 40 litros; dejarlos más tiempo no filtra la cal. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Si uso el filtro de agua del tanque ya no necesito descalcificar nunca la cafetera?",
+      "a": "No. El filtro de resina catiónica reduce entre un **60 % y un 80 %** la formación de carbonato cálcico pero no la elimina al 100 %. Su función es espaciar las descalcificaciones ácidas de cada mes a cada **3 o 4 meses** y eliminar el sabor a cloro en taza."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Se puede regenerar el filtro del tanque sumergiéndolo en agua con sal?",
+      "a": "Los cartuchos sellados como **Breville ClaroSwiss** o **De’Longhi DLSC002** no se pueden regenerar con sal de cocina en casa porque mezclan carbón activado con resina: la salmuera no reactiva el carbón agotado ni elimina la biopelícula acumulada tras **60–90 días** de inmersión."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué hago si me fui de vacaciones y dejé el filtro seco dentro del tanque vacío?",
+      "a": "Si el filtro se secó por completo durante más de **3 días**, debes desecharlo e instalar uno nuevo. Al secarse tras haber estado en uso, las perlas de resina se contraen y agrietan, y la humedad residual interna favorece el crecimiento rápido de esporas de moho."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/como-limpiar-el-exterior-de-acero-inoxidable-cepillado-sin-dejar-marcas/",
-    "/mantenimiento-y-descalcificacion/como-limpiar-el-tanque-de-agua-para-evitar-biofilm-y-moho/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/checklist-de-mantenimiento-trimestral-para-tu-estacion-barista/",
+    "/mantenimiento-y-descalcificacion/como-descalcificar-cafetera-smeg-ecf02-y-apagar-boton-naranja/",
+    "/mantenimiento-y-descalcificacion/por-que-el-vaporizador-huele-a-leche-agria-y-como-desinfectarlo/",
+    "/mantenimiento-y-descalcificacion/guia-visual-de-mantenimiento-diario-semanal-y-bimestral/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/cada-cuanto-cambiar-el-filtro-ablandador-de-resina-del-tanque.webp"
 }

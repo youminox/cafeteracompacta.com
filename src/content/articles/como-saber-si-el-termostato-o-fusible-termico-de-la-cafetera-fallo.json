@@ -4,161 +4,128 @@
   "path": "/problemas-y-soluciones/como-saber-si-el-termostato-o-fusible-termico-de-la-cafetera-fallo/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cafetera espresso enciende pero no calienta el agua",
   "title": "Mi Cafetera Enciende las Luces y la Bomba Funciona pero el Agua Sale Totalmente Fría",
-  "seoTitle": "Mi Cafetera Enciende las Luces y la Bomba Funciona pero el Agua Sale Totalmente Fría | Guía Barista Compacta",
-  "metaDescription": "Mi Cafetera Enciende las Luces y la Bomba Funciona pero el Agua Sale Totalmente Fría: Si tras 2 minutos el agua sigue a temperatura ambiente, el protector térmico del Thermoblock se disparó o requiere asistencia de garantía. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Si tras 2 minutos el agua sigue a temperatura ambiente, el protector térmico del Thermoblock se disparó o requiere asistencia de garantía.",
-  "quickAnswer": "Sobre cafetera espresso enciende pero no calienta el agua: Si tras 2 minutos el agua sigue a temperatura ambiente, el protector térmico del Thermoblock se disparó o requiere asistencia de garantía. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Mi Cafetera Enciende las Luces y la Bomba Funciona pero el Agua Sale Totalmente Fría | cafeteracompacta.com",
+  "metaDescription": "¿Tu cafetera espresso enciende y bombea pero el agua sale fría? Aprende a diagnosticar si falló el fusible térmico, el termostato o el bloque calefactor.",
+  "excerpt": "Guía técnica paso a paso para identificar por qué una cafetera compacta deja de calentar el agua manteniendo la bomba activa: pruebas de fusible térmico, sensor NTC y resistencia del Thermoblock.",
+  "quickAnswer": "Si tu cafetera espresso enciende las luces y activa la bomba pero el agua sale fría (20–22 °C), la placa lógica funciona pero el circuito calefactor está interrumpido. En el 80 % de los casos se debe a la rotura del fusible térmico de seguridad (TCO de 167–192 °C) tras un sobrecalentamiento en vacío, y en el resto a un termostato abierto o una resistencia de Thermoblock quemada.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Si tras 2 minutos el agua sigue a temperatura ambiente, el protector térmico del Thermoblock se disparó o requiere asistencia de garantía., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Side-profile technical detail shot on 85mm prime lens: realistic scene illustrating 'Mi Cafetera Enciende las Luces y la Bomba Funciona pero el Agua Sale Totalmente Fría' (cafetera espresso enciende pero no calienta el agua) for cafeteracompacta.com, featuring equipment in arctic white with warm stone-gray details, on a solid oak workbench in a tidy modern home space, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Mi Cafetera Enciende las Luces y la Bomba Funciona pero el Agua Sale Totalmente Fría"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cafetera espresso enciende pero no calienta el agua** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Si tras 2 minutos el agua sigue a temperatura ambiente, el protector térmico del Thermoblock se disparó o requiere asistencia de garantía."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Pulsas el botón de encendido de tu **CASABREWS CM5418** o **De’Longhi Dedica Arte (EC885M)** a primera hora de la mañana, los indicadores LED terminan su secuencia y la bomba vibratoria **ULKA de 15 a 20 bares** arranca con su zumbido habitual; sin embargo, al tocar la taza descubres que el líquido sale a **20 °C**, exactamente a la misma temperatura del depósito. Cuando una cafetera espresso ilumina su panel y mueve caudal sin elevar la temperatura, la placa lógica de control y el circuito hidráulico están sanos, pero el lazo eléctrico de potencia que alimenta la resistencia del **Thermoblock de 1100 W a 1350 W** ha quedado abierto. Dentro de nuestro [centro de problemas y soluciones para cafeteras compactas](/problemas-y-soluciones/), este síntoma apunta directamente a tres componentes térmicos en serie: el fusible térmico de seguridad, el termostato o sensor **NTC** y la propia bobina calefactora."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cafetera espresso enciende pero no calienta el agua"
+      "text": "Por Qué la Placa Da Orden de Bombeo Aunque el Bloque Calefactor Esté Frío"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cafetera espresso enciende pero no calienta el agua** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: cafetera espresso enciende pero no calienta el agua",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "Si tras 2 minutos el agua sigue a temperatura ambiente, el protector térmico del Thermoblock se disparó o requiere asistencia de garantía.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "En máquinas con control por termostato bimetálico o sonda externa, el microcontrolador verifica el estado del sensor antes de habilitar los botones frontales, pero si el **fusible térmico de corte único (TCO de 167 °C a 192 °C, 10 A / 250 V)** se ha fundido tras un sobrecalentamiento en modo vapor o por encender la máquina sin agua después de limpiar el circuito —algo frecuente tras incidentes como cuando [echaste café molido en el tanque de agua por error](/problemas-y-soluciones/que-hacer-si-echaste-cafe-molido-en-el-tanque-de-agua-por-error/) y vaciaste la caldera sin purgarla—, la energía nunca llega al aluminio del bloque. En cambio, modelos con arquitectura **ThermoJet** y control **PID** como la **Breville Bambino (BES450)** monitorizan la derivada térmica en vivo: si el sensor **NTC** no detecta un ascenso de al menos **15 °C en los primeros 6 segundos**, bloquea la extracción. Si tu equipo tiene menos de doce o veinticuatro meses, antes de abrir el chasis te conviene revisar [cómo contactar con la garantía de CASABREWS, Breville y De’Longhi en Amazon EE. UU.](/problemas-y-soluciones/como-contactar-con-la-garantia-de-casabrews-breville-y-delonghi-en-amazon-usa/) para no invalidar la cobertura oficial al romper los sellos de fábrica."
     },
     {
       "type": "callout",
       "variant": "aviso",
-      "title": "Precaución técnica sobre cafetera espresso enciende pero no calienta el agua",
-      "text": "Si tras 2 minutos el agua sigue a temperatura ambiente, el protector térmico del Thermoblock se disparó o requiere asistencia de garantía. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "Nunca puentees ni elimines un fusible térmico TCO quemado para hacer funcionar la cafetera de forma provisional. Este cilindro metálico engarzado al cable de fase es la única barrera física que impide que un relé o triac pegado eleve el bloque de aluminio por encima de los **220 °C** y derrita el chasis plástico.",
+      "title": "Regla crítica de seguridad eléctrica en bloques de 120V y 220V"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar cafetera espresso enciende pero no calienta el agua hoy mismo en tu cocina"
+      "text": "Diagnóstico con Multímetro: Fusible Térmico vs. Termostato vs. Resistencia"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "table",
+      "headers": [
+        "Componente térmico",
+        "Lectura sana en multímetro (20 °C)",
+        "Lectura de fallo",
+        "Comportamiento en la cafetera"
+      ],
+      "rows": [
+        [
+          "Fusible térmico TCO (167 °C – 192 °C)",
+          "Continuidad directa (< 0.5 Ω y pitido)",
+          "Circuito abierto (OL / infinito)",
+          "Enciende luces y bombea agua totalmente fría"
+        ],
+        [
+          "Termostato bimetálico de café (105 °C)",
+          "Continuidad cerrada (0.2 Ω – 0.8 Ω)",
+          "Abierto en frío (OL) o pegado",
+          "No calienta o pasa directo a vapor hirviendo"
+        ],
+        [
+          "Sensor termistor NTC (CASABREWS / Breville)",
+          "50 kΩ a 100 kΩ según curva a 25 °C",
+          "0 Ω (corto) o infinito (cable roto)",
+          "Parpadeo de alarma LED en el panel frontal"
+        ],
+        [
+          "Resistencia del Thermoblock (120V / 1300W)",
+          "Entre 10.5 Ω y 13.8 Ω constantes",
+          "Circuito abierto (OL) o derivación a tierra",
+          "Agua fría permanente aunque lleguen 120V AC"
+        ]
+      ],
+      "caption": "Valores eléctricos de referencia para comprobar el circuito de calentamiento con la cafetera desenchufada"
+    },
+    {
+      "type": "h2",
+      "text": "Protocolo de Comprobación de 4 Pasos Sin Desmontar el Chasis"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Prueba de tacto en la bandeja calienta-tazas superior",
+          "text": "Enciende la cafetera durante 3 minutos sin accionar la bomba y apoya la palma sobre la placa metálica superior en tu CASABREWS CM5418 o De’Longhi Dedica: si el chasis sigue totalmente frío a temperatura ambiente, la resistencia no recibe corriente."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Verificación del selector de vapor y purga de aire (Air-Lock)",
+          "text": "Comprueba que la perilla lateral o botón de vapor no haya quedado semi-activado tras espumar leche; si el termostato de vapor (140 °C) disparó el protector térmico por falta de caudal, deja enfriar la máquina 30 minutos desenchufada."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Reinicio de fábrica de la lógica térmica (Reset PID)",
+          "text": "En la Breville Bambino (BES450) o Dedica Arte (EC885M), ejecuta el reinicio de parámetros manteniendo pulsados los botones de programación indicados en el manual durante 5 segundos para descartar un bloqueo lógico tras un corte de luz."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Medición de consumo o continuidad de los terminales Faston",
+          "text": "Conecta la máquina a un medidor de enchufe: al encender debe demandar entre 1100 W y 1350 W durante los primeros 40 segundos; si solo marca 2 W en reposo y 48 W al pulsar el botón de café (el consumo exclusivo de la bomba ULKA), el fusible térmico o la resistencia están abiertos."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con cafetera espresso enciende pero no calienta el agua en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Tu cafetera sigue bombeando agua fría y necesitas confirmar si tu modelo cuenta con cobertura vigente o qué reemplazo compacto elegir? Consulta ahora a nuestro Asesor IA o revisa la disponibilidad actual de cafeteras y repuestos en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cafetera espresso enciende pero no calienta el agua?",
-      "a": "Si tras 2 minutos el agua sigue a temperatura ambiente, el protector térmico del Thermoblock se disparó o requiere asistencia de garantía. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿El fusible térmico de una cafetera espresso se reinicia solo al enfriarse?",
+      "a": "En la mayoría de cafeteras compactas el fusible térmico TCO es de un solo uso (no rearmable): contiene una pastilla de aleación que se funde de forma irreversible al superar los 170–192 °C. Solo algunos modelos con termostato mecánico de rearme manual incorporan un pequeño botón rojo en el chasis interno."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿El exceso de sarro puede hacer que la cafetera deje de calentar de un día para otro?",
+      "a": "Una acumulación severa de carbonato cálcico retiene el calor dentro del aluminio del Thermoblock e impide que el agua absorba la energía térmica. Ese exceso de temperatura local termina disparando el fusible térmico de seguridad para evitar que la caldera se funda, dejando la máquina fría de forma repentina."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Merece la pena cambiar el fusible térmico si la garantía ya venció?",
+      "a": "Sí, siempre que la resistencia del Thermoblock marque entre 10 y 15 ohmios sanos en el multímetro. El fusible térmico es un componente económico que se instala con conectores crimpados de alta temperatura sin soldadura de estaño, ya que el estaño común se derretiría con el calor del bloque."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/por-que-el-cafe-deja-la-boca-seca-astringencia-y-channeling/",
+    "/problemas-y-soluciones/que-hacer-si-echaste-cafe-molido-en-el-tanque-de-agua-por-error/",
     "/problemas-y-soluciones/como-contactar-con-la-garantia-de-casabrews-breville-y-delonghi-en-amazon-usa/",
-    "/problemas-y-soluciones/por-que-el-agua-caliente-de-la-cafetera-sale-blanca-o-con-microburbujas/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/como-evitar-que-el-embudo-magnetico-levante-el-cafe-al-quitarlo/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-saber-si-el-termostato-o-fusible-termico-de-la-cafetera-fallo.webp"
 }

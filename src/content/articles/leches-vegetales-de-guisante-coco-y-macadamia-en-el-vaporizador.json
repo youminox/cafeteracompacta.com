@@ -4,161 +4,113 @@
   "path": "/espumadores-y-latte-art/leches-vegetales-de-guisante-coco-y-macadamia-en-el-vaporizador/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "espumar leche de coco y guisante para cafe",
   "title": "Prueba de Espumado: Leche de Coco Barista, Guisante (Ripple) y Macadamia con Espresso",
-  "seoTitle": "Prueba de Espumado | Guía Barista Compacta",
-  "metaDescription": "Prueba de Espumado: Leche de Coco Barista, Guisante (Ripple) y Macadamia con Espresso: La proteína de guisante crea una microespuma sorprendentemente densa y neutra, mientras el coco pide temperaturas bajas (<58 °C). Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "La proteína de guisante crea una microespuma sorprendentemente densa y neutra, mientras el coco pide temperaturas bajas (<58 °C).",
-  "quickAnswer": "Sobre espumar leche de coco y guisante para cafe: La proteína de guisante crea una microespuma sorprendentemente densa y neutra, mientras el coco pide temperaturas bajas (<58 °C). Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Prueba de Espumado: Leche de Coco Barista, Guisante (Ripple) y Macadamia con Espresso | cafeteracompacta.com",
+  "metaDescription": "Prueba técnica para espumar leche de coco, guisante (Ripple) y macadamia en cafetera espresso: temperaturas máximas, tiempos de aireación y estabilidad.",
+  "excerpt": "No todas las bebidas vegetales reaccionan igual al vapor y a la acidez del café. Comparamos el comportamiento proteico y graso del guisante, el coco barista y la macadamia para hacer latte art.",
+  "quickAnswer": "Al vaporizar alternativas vegetales en una cafetera espresso compacta, la **leche de guisante barista (Ripple / Sproud)** ofrece la microespuma más estable para tulipanes y rosettas gracias a sus **8 g de proteína por taza**, admitiendo **3–4 segundos de estiramiento** hasta **60–62 °C**. En cambio, las bebidas de **coco barista y macadamia** dependen de grasas de rápida fusión: requieren parar el vapor a **55–58 °C** y verter de inmediato para evitar que la espuma se desinfle.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: La proteína de guisante crea una microespuma sorprendentemente densa y neutra, mientras el coco pide temperaturas bajas (<58 °C)., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Side-profile technical detail shot on 85mm prime lens: realistic scene illustrating 'Prueba de Espumado: Leche de Coco Barista, Guisante (Ripple) y Macadamia con Espresso' (espumar leche de coco y guisante para cafe) for cafeteracompacta.com, featuring equipment in sleek titanium silver with carbon-gray texture, in a clean modern garage or studio corner with slate flooring, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Prueba de Espumado: Leche de Coco Barista, Guisante (Ripple) y Macadamia con Espresso"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **espumar leche de coco y guisante para cafe** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. La proteína de guisante crea una microespuma sorprendentemente densa y neutra, mientras el coco pide temperaturas bajas (<58 °C)."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Espumadores Y Latte Art](/espumadores-y-latte-art/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Más allá de la avena, la soja y la almendra, tres alternativas vegetales han ganado terreno en las barras de café de especialidad: la bebida de **proteína de guisante amarillo (como Ripple Barista o Sproud)**, la **leche de coco edición barista** y la **leche de macadamia (como Milkadamia Latte Da)**. Cuando las sometes a la lanceta de vapor de una **Breville Bambino (BES450)**, una **De’Longhi Dedica Arte (EC885M)** o una **CASABREWS CM5418**, cada una responde a leyes químicas muy distintas debido a su proporción de proteínas globulares frente a ácidos grasos de cadena media y monoinsaturados, un análisis que amplía las pruebas de nuestro [hub sobre espumadores y latte art](/espumadores-y-latte-art/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: espumar leche de coco y guisante para cafe"
+      "text": "Radiografía química bajo el vapor: proteína de guisante frente a grasas de coco y macadamia"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **espumar leche de coco y guisante para cafe** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "La estabilidad de la microespuma depende de la red proteica, mientras que la sedosidad en boca depende de los lípidos. La bebida de **guisante barista** es la única alternativa vegetal que iguala los **8 gramos de proteína por cada 240 ml** de la leche de vaca (frente a solo **1 g** en la macadamia y **menos de 0.5 g** en el coco natural, que suele reforzarse en versiones *Barista* con una pizca de proteína de haba o soja). Gracias a esa densidad proteica y a los correctores de acidez como el fosfato dipotásico, el guisante resiste cafés de tueste ligero con **pH ácido (4.8 a 5.0)** sin cortarse. En cambio, el coco y la macadamia destacan por sus grasas tropicales y monoinsaturadas: si las pasas de **58 °C**, sus lípidos pierden viscosidad y funden la espuma en segundos. Para aprovechar al máximo cada una, parte siempre de la regla básica sobre [por qué la leche y la jarra deben estar frías a 4 °C de nevera](/espumadores-y-latte-art/por-que-la-leche-y-la-jarra-deben-estar-frias-de-nevera-4-grados/) y aplica las alturas de vertido que explicamos al [dibujar tu primer corazón de latte art en casa paso a paso](/espumadores-y-latte-art/como-hacer-tu-primer-corazon-de-latte-art-paso-a-paso/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: espumar leche de coco y guisante para cafe",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Bebida vegetal (Edición Barista)",
+        "Proteína / Grasa por 240 ml",
+        "Tiempo de estiramiento (Stretching)",
+        "Temperatura máxima de corte",
+        "Estabilidad de Latte Art y resistencia al ácido"
       ],
       "rows": [
         [
-          "Clave principal",
-          "La proteína de guisante crea una microespuma sorprendentemente densa y neutra, mientras el coco pide temperaturas bajas (<58 °C).",
-          "Mejora la consistencia y evita errores de extracción"
+          "Guisante amarillo (Ripple / Sproud Barista)",
+          "8.0 g proteína / 4.5 a 5.0 g grasa (girasol)",
+          "3 a 4 segundos (se infla rápido como la entera)",
+          "60 – 62 °C (140 – 144 °F)",
+          "Alta: dibuja tulipanes y rosettas; no se corta en espressos ácidos"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Coco Edición Barista (Califia / Alpro)",
+          "1.0 a 1.5 g proteína / 4.5 g grasa saturada MCT",
+          "5 a 6 segundos (requiere más aire inicial)",
+          "55 – 57 °C (131 – 135 °F)",
+          "Media: ideal para corazones; colapsa rápido si supera los 60 °C"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Macadamia Barista (Milkadamia Latte Da)",
+          "1.0 g proteína / 5.0 g grasa monoinsaturada",
+          "4 a 4.5 segundos suaves",
+          "56 – 58 °C (133 – 136 °F)",
+          "Media-alta: brillo mantecoso; exige atemperar el espresso antes de dibujar"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre espumar leche de coco y guisante para cafe",
-      "text": "La proteína de guisante crea una microespuma sorprendentemente densa y neutra, mientras el coco pide temperaturas bajas (<58 °C). Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Resultados de prueba de espumado y latte art en cafeteras compactas (para 150 ml a 4 °C)"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar espumar leche de coco y guisante para cafe hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con espumar leche de coco y guisante para cafe en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Ajustes específicos de vaporizado y vertido para guisante, coco y macadamia"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Para leche de guisante (Ripple / Sproud):** Su alto contenido en aislado de proteína de guisante atrapa el aire a gran velocidad. Limita el estiramiento a **3 o 4 segundos**, mantén un vórtice enérgico hasta los **60 °C** y deja reposar la jarra **5 segundos** dando giros circulares antes de verter para que la espuma se relaje y no quede acartonada en el centro de la taza.",
+        "**Para leche de coco edición barista:** Al estar compuesta por triglicéridos de cadena media (MCT) con un punto de fusión muy bajo (**24–25 °C**), nunca uses leche de coco en lata para cocinar ni tetrabriks sin sello *Barista*. Estira durante **5 a 6 segundos** desde los **4 °C**, corta el vapor en cuanto la jarra esté tibia-caliente (**55–57 °C**) y vierte de inmediato un corazón o tulipán simple antes de que las burbujas drenen.",
+        "**Para leche de macadamia barista:** Su perfil graso monoinsaturado regala una textura mantecosa extraordinaria con notas dulces de fruto seco que no tapan el origen del café. Vaporízala hasta **57–58 °C** y, antes de hacer el dibujo, vierte unas gotas de leche caliente sobre el espresso y gira la taza **3 segundos** para igualar el pH y evitar cualquier micro-floculación."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Cómo identificar en la lista de ingredientes si una marca vegetal servirá para latte art"
     },
     {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "callout",
+      "variant": "etiqueta",
+      "text": "Si compras una bebida de coco, guisante o macadamia por primera vez, revisa la lista de ingredientes en el reverso del envase antes de meterla bajo la lanceta. Para que soporte la presión de vapor de tu **Breville Bambino** o **CASABREWS CM5418** y no se separe al tocar el ácido clorogénico del espresso, debe incluir tres elementos funcionales: un **regulador de acidez o tampón de pH** (*fosfato dipotásico* o *carbonato cálcico*), al menos **0.5 g a 3 g de proteína emulsionante por cada 100 ml** (guisante, soja o haba) y un **hidrocoloide estabilizante en micro-dosis** (*gomaellan* o *goma guar*) que mantenga las grasas en suspensión.",
+      "title": "Qué buscar en la etiqueta nutricional de las leches vegetales alternativas"
+    },
+    {
+      "type": "cta",
+      "text": "Pide recomendaciones personalizadas a nuestro Asesor IA según el tueste de tu café y tu cafetera compacta, o consulta las opciones de jarras y accesorios disponibles en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre espumar leche de coco y guisante para cafe?",
-      "a": "La proteína de guisante crea una microespuma sorprendentemente densa y neutra, mientras el coco pide temperaturas bajas (<58 °C). Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cuál de las tres (guisante, coco o macadamia) hace la mejor microespuma para latte art?",
+      "a": "La bebida de proteína de guisante edición barista (como Ripple o Sproud) es la que ofrece la estructura más parecida a la leche entera de vaca gracias a sus 8 gramos de proteína por taza. Crea una microespuma densa, elástica y muy resistente al calor, mientras que la macadamia aporta un sabor más neutro y mantecoso pero con una espuma ligeramente más delicada."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Puedo usar leche de coco en lata diluida con agua para espumar en mi cafetera espresso?",
+      "a": "No. La leche de coco en lata tiene entre un 17 % y un 24 % de grasa saturada pura y carece de proteínas emulsionantes y fosfatos estabilizadores; bajo la lanceta de vapor solo se calienta como un aceite líquido sin retener microburbujas. Debes utilizar exclusivamente bebida de coco formulada como Edición Barista."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué a veces la leche de macadamia parece cortarse al contacto con el espresso?",
+      "a": "Ocurre por choque térmico y ácido: los cafés de tueste claro tienen un pH cercano a 4.8 y, si viertes leche de macadamia calentada por encima de 62 °C, las pocas proteínas vegetales coagulan al instante. Soluciónalo cortando el vapor a 57 °C y mezclando primero un chorrito de leche con el espresso en el fondo de la taza antes de dibujar."
     }
   ],
   "related": [
-    "/espumadores-y-latte-art/",
-    "/espumadores-y-latte-art/como-cuidar-jarras-de-leche-con-recubrimiento-de-teflon-o-color/",
-    "/espumadores-y-latte-art/como-evitar-el-chirrido-agudo-al-empezar-a-vaporizar-la-leche/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/espumadores-y-latte-art/diferencia-entre-espuma-seca-de-cappuccino-y-microespuma-de-latte-art/",
+    "/espumadores-y-latte-art/mejor-leche-para-espumar-entera-vs-semidesnatada-vs-sin-lactosa/",
+    "/espumadores-y-latte-art/por-que-la-leche-y-la-jarra-deben-estar-frias-de-nevera-4-grados/",
+    "/espumadores-y-latte-art/como-hacer-tu-primer-corazon-de-latte-art-paso-a-paso/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/leches-vegetales-de-guisante-coco-y-macadamia-en-el-vaporizador.webp"
 }

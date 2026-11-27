@@ -4,161 +4,116 @@
   "path": "/cafe-en-grano-y-agua/que-agua-usar-en-tu-cafetera-espresso-el-98-por-ciento-de-tu-taza/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "que tipo de agua usar en cafetera espresso",
   "title": "La Química del Agua para Espresso: Por Qué el 98% de tu Taza Determina la Crema y la Vida de tu Máquina",
-  "seoTitle": "La Química del Agua para Espresso | Guía Barista Compacta",
-  "metaDescription": "La Química del Agua para Espresso: Por Qué el 98% de tu Taza Determina la Crema y la Vida de tu Máquina: Un agua demasiado dura calcifica el Thermoblock en 2 meses; un agua demasiado blanda o con cloro arruina los aromas del café. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Un agua demasiado dura calcifica el Thermoblock en 2 meses; un agua demasiado blanda o con cloro arruina los aromas del café.",
-  "quickAnswer": "Sobre que tipo de agua usar en cafetera espresso: Un agua demasiado dura calcifica el Thermoblock en 2 meses; un agua demasiado blanda o con cloro arruina los aromas del café. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "La Química del Agua para Espresso: Por Qué el 98% de tu Taza Determina la Crema y la Vida de tu Máquina | cafeteracompacta.com",
+  "metaDescription": "Descubre qué tipo de agua usar en tu cafetera espresso compacta para proteger el bloque térmico de la cal y lograr una extracción dulce, densa y aromática.",
+  "excerpt": "Un espresso contiene más de un 90% de agua y un americano roza el 98%. Analizamos cómo actúan el magnesio, el calcio y los bicarbonatos en cafeteras con Thermoblock y ThermoJet.",
+  "quickAnswer": "Para saber qué tipo de agua usar en una cafetera espresso compacta, busca una mineralización débil o agua filtrada que mantenga entre **50 y 100 ppm** de sólidos disueltos totales (TDS), **0 ppm** de cloro libre y una alcalinidad moderada de **40 a 70 ppm**. Los iones de magnesio extraen los compuestos aromáticos frutales y dulces del café, mientras que un bajo nivel de carbonato cálcico evita obstrucciones en los conductos capilares del **Thermoblock** o **ThermoJet**.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Un agua demasiado dura calcifica el Thermoblock en 2 meses; un agua demasiado blanda o con cloro arruina los aromas del café., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Close-up ergonomic grip and control panel perspective in crisp daylight: realistic scene illustrating 'La Química del Agua para Espresso: Por Qué el 98% de tu Taza Determina la Crema y la Vida de tu Máquina' (que tipo de agua usar en cafetera espresso) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, on a clean stone countertop with neatly arranged accessories, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "La Química del Agua para Espresso: Por Qué el 98% de tu Taza Determina la Crema y la Vida de tu Máquina"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **que tipo de agua usar en cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Un agua demasiado dura calcifica el Thermoblock en 2 meses; un agua demasiado blanda o con cloro arruina los aromas del café."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Cafe En Grano Y Agua](/cafe-en-grano-y-agua/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Invertir en café de especialidad recién tostado y calibrar un molino cónico al milímetro en tu **Breville Bambino (BES450)** o **CASABREWS CM5418** sirve de muy poco si llenas el depósito de **1.4 litros** directamente con agua dura o clorada del grifo. Mientras que los sólidos solubles del grano tostado representan apenas entre el **1.5 % y el 10 %** de la bebida final, el agua constituye entre el **90 % y el 92 %** de un espresso doble y llega al **98 %** en un café americano o de filtro. Comprender este principio dentro de nuestra [guía principal de café en grano y agua](/cafe-en-grano-y-agua/) es el paso más determinante para transformar un tiro plano, metálico o astringente en una taza dulce con crema elástica color avellana, al mismo tiempo que evitas obstrucciones calcáreas irreversibles en el circuito hidráulico."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: que tipo de agua usar en cafetera espresso"
+      "text": "Cómo extraen sabor el magnesio y el calcio frente al efecto tampón del bicarbonato"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **que tipo de agua usar en cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "A nivel molecular, el agua de tu cafetera actúa como un solvente selectivo impulsado a **9 bares** de presión y entre **92 °C y 94 °C** de temperatura. Si el agua carece de minerales, pasa a través de la pastilla de café del portafiltro de **51 mm** o **54 mm** sin fuerza iónica para adherirse a los compuestos aromáticos. Aquí entran en juego dos cationes clave: el ion **magnesio (Mg²⁺)** posee una alta densidad de carga que se enlaza con moléculas ricas en oxígeno, extrayendo las notas frutales, florales y los azúcares complejos si respetas la [ventana óptima desde la fecha de tueste](/cafe-en-grano-y-agua/fecha-de-tueste-roast-date-vs-fecha-de-caducidad-best-by-en-el-cafe/). Por su parte, el ion **calcio (Ca²⁺)** arrastra compuestos más pesados que aportan cuerpo cremoso y notas achocolatadas, pero presenta un inconveniente grave: al calentarse junto a iones **bicarbonato (HCO₃⁻)** en el bloque térmico de una **De’Longhi Dedica Arte (EC885M)**, precipita en forma de carbonato cálcico (**CaCO₃**). Además, un exceso de bicarbonato actúa como amortiguador alcalino (*buffer*), neutralizando los ácidos orgánicos brillantes incluso cuando aplicas la [combinación ideal de grano y agua para tu primer mes](/cafe-en-grano-y-agua/resumen-el-combo-perfecto-de-grano-y-agua-para-tu-primer-mes/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: que tipo de agua usar en cafetera espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Tipo de agua en el depósito",
+        "Mineralización (TDS)",
+        "Impacto sensorial en el espresso",
+        "Riesgo mecánico en Thermoblock / ThermoJet"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Un agua demasiado dura calcifica el Thermoblock en 2 meses; un agua demasiado blanda o con cloro arruina los aromas del café.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Agua del grifo dura sin filtrar",
+          "200 – 450 ppm",
+          "Sabor plano, amargor terroso y pérdida de acidez frutal por exceso de bicarbonato",
+          "Crítico: precipitación rápida de cal en tubos capilares y válvula solenoide de 3 vías"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Agua filtrada o mineral débil ideal",
+          "50 – 100 ppm",
+          "Extracción equilibrada, crema densa, dulzor pronunciado y retrogusto limpio",
+          "Mínimo: preserva el caudal constante y la precisión del control térmico PID"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Agua destilada o de ósmosis pura",
+          "0 – 10 ppm",
+          "Acidez punzante, cuerpo acuoso y subextracción por ausencia de iones extractores",
+          "Alto: lixiviación corrosiva de metales y fallos en sensores de nivel electrónicos"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Agua de descalcificador doméstico con sal",
+          "180 – 350 ppm (sodio)",
+          "Textura jabonosa y notas salinas que enmascaran los aceites esenciales del grano",
+          "Moderado: acumulación de bicarbonato sódico que altera el pH de extracción"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre que tipo de agua usar en cafetera espresso",
-      "text": "Un agua demasiado dura calcifica el Thermoblock en 2 meses; un agua demasiado blanda o con cloro arruina los aromas del café. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Comportamiento químico de los principales tipos de agua en cafeteras espresso compactas"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar que tipo de agua usar en cafetera espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con que tipo de agua usar en cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Por qué los sistemas Thermoblock y ThermoJet de 3 segundos son tan sensibles a la cal"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Conductos capilares de calentamiento instantáneo:** En tecnologías como el sistema **ThermoJet** de la **Breville Bambino Plus (BES500)**, que alcanza **93 °C en solo 3 segundos**, el agua circula por microcanales de diámetro muy reducido; una película de sarro de apenas **0.5 mm** actúa como aislante térmico y hace caer la temperatura real de infusión entre **4 °C y 6 °C**.",
+        "**Atasco en la válvula solenoide de 3 vías:** Cuando el agua supera los **120 ppm** de dureza cálcica, las escamas minerales desprendidas se alojan en el asiento de cierre del solenoide, provocando que la ducha del grupo siga goteando tras finalizar el tiro o que no descargue la presión al cajón de goteo.",
+        "**Bloqueo de las boquillas de vapor de 1 y 2 orificios:** Al elevar la temperatura a **125 °C – 130 °C** para espumar leche, la velocidad de precipitación del carbonato cálcico se triplica, reduciendo el caudal de vapor seco necesario para crear microespuma sedosa.",
+        "**Descalibración de la válvula de sobrepresión (OPV):** Las micropartículas calcáreas se depositan en el muelle tarado a **9 bares**, causando oscilaciones bruscas en el manómetro frontal de máquinas como la **CASABREWS CM5418**."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Errores domésticos frecuentes al seleccionar el agua de tu estación barista"
     },
     {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Nunca rellenes el depósito con agua 100 % destilada o desionizada sin añadir minerales: al estar hambrienta de iones, ataca las soldaduras metálicas internas y no conduce la electricidad en cafeteras con sondas electrónicas de nivel. Tampoco hiervas agua dura del grifo antes de echarla al tanque pensando que así eliminas la cal; aunque precipite una fracción de dureza temporal, la evaporación concentra aún más los sulfatos y cloruros permanentes.",
+      "title": "El peligro oculto de usar agua destilada pura o agua hervida del grifo"
+    },
+    {
+      "type": "cta",
+      "text": "Consulta a nuestro Asesor IA qué filtro o agua embotellada se adapta mejor a la dureza de tu ciudad y revisa la disponibilidad actual de cafeteras compactas y cartuchos filtrantes en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre que tipo de agua usar en cafetera espresso?",
-      "a": "Un agua demasiado dura calcifica el Thermoblock en 2 meses; un agua demasiado blanda o con cloro arruina los aromas del café. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Puedo usar agua de un sistema de ósmosis inversa doméstico en mi cafetera espresso?",
+      "a": "No es recomendable usar agua de ósmosis inversa pura si su lectura cae por debajo de **20 o 30 ppm**, ya que carece de iones de magnesio y calcio para extraer los azúcares del café y puede corroer componentes internos. Si tienes ósmosis en casa, instala un cartucho remineralizador final que eleve el TDS a **60–90 ppm**."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Sirve el agua tratada con un descalcificador de sal de toda la casa para hacer espresso?",
+      "a": "Los descalcificadores centrales de vivienda intercambian calcio y magnesio por **iones de sodio (Na⁺)**. Aunque protegen las tuberías de la cal, dejan intacta la alcalinidad de bicarbonatos y añaden un exceso de sodio que altera la tensión superficial de la crema y da un sabor plano o salino al espresso."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cada cuánto tiempo debo cambiar el agua del depósito de mi cafetera compacta?",
+      "a": "Incluso usando agua filtrada, en el depósito plástico se forma biofilm si el agua permanece estancada varios días sin cloro residual. Lo ideal es renovar el agua a diario, vaciar y enjuagar el depósito con agua tibia (sin detergentes perfumados) cada **3 o 4 días** y mantener la cafetera lejos de ventanas soleadas."
     }
   ],
   "related": [
-    "/cafe-en-grano-y-agua/",
-    "/cafe-en-grano-y-agua/dureza-ideal-del-agua-en-ppm-y-tds-para-cafeteras-espresso-50-a-100-ppm/",
-    "/cafe-en-grano-y-agua/los-4-enemigos-del-cafe-en-grano-oxigeno-luz-calor-y-humedad/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/cafe-en-grano-y-agua/resumen-el-combo-perfecto-de-grano-y-agua-para-tu-primer-mes/",
+    "/cafe-en-grano-y-agua/fecha-de-tueste-roast-date-vs-fecha-de-caducidad-best-by-en-el-cafe/",
+    "/cafe-en-grano-y-agua/por-que-los-granos-negros-brillantes-y-aceitosos-french-roast-ensucian-tu-molino/",
+    "/cafe-en-grano-y-agua/analisis-illy-classico-vs-illy-intenso-en-grano-lata-presurizada/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-agua-usar-en-tu-cafetera-espresso-el-98-por-ciento-de-tu-taza.webp"
 }

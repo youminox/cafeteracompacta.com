@@ -4,161 +4,128 @@
   "path": "/mantenimiento-y-descalcificacion/como-limpiar-el-sensor-de-temperatura-en-la-base-de-la-bambino-plus/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "limpiar sensor temperatura bandeja breville bambino plus",
   "title": "Por Qué Debes Limpiar el Sensor Térmico Circular de la Bandeja en la Breville Bambino Plus",
-  "seoTitle": "Por Qué Debes Limpiar el Sensor Térmico Circular de la Bandeja en la Breville Bambino Plus | Guía Barista Compacta",
-  "metaDescription": "Por Qué Debes Limpiar el Sensor Térmico Circular de la Bandeja en la Breville Bambino Plus: Si cae café sobre el disco metálico de la bandeja donde apoya la jarra, el sensor leerá mal los 65 °C de la leche. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Si cae café sobre el disco metálico de la bandeja donde apoya la jarra, el sensor leerá mal los 65 °C de la leche.",
-  "quickAnswer": "Sobre limpiar sensor temperatura bandeja breville bambino plus: Si cae café sobre el disco metálico de la bandeja donde apoya la jarra, el sensor leerá mal los 65 °C de la leche. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué Debes Limpiar el Sensor Térmico Circular de la Bandeja en la Breville Bambino Plus | cafeteracompacta.com",
+  "metaDescription": "Aprende por qué y cómo limpiar el sensor de temperatura en la bandeja de la Breville Bambino Plus (BES500) para evitar que la leche hierva o salga tibia.",
+  "excerpt": "Una capa microscópica de grasa o café seco sobre el disco térmico de la rejilla de goteo descalibra el sistema Auto MilQ de la Bambino Plus. Mantenlo preciso en 15 segundos.",
+  "quickAnswer": "El sensor circular elevado en la rejilla de goteo de la **Breville Bambino Plus (BES500)** mide por contacto directo el calor de la base de la jarra de acero durante el espumado automático. Si acumula grasa láctea, gotas de café seco o cal, actúa como un aislante térmico que retrasa la lectura entre **4 y 8 °C**, quemando la leche por encima de **70 °C** y destruyendo su microespuma.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Si cae café sobre el disco metálico de la bandeja donde apoya la jarra, el sensor leerá mal los 65 °C de la leche., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Eye-level 35mm editorial documentary photograph: realistic scene illustrating 'Por Qué Debes Limpiar el Sensor Térmico Circular de la Bandeja en la Breville Bambino Plus' (limpiar sensor temperatura bandeja breville bambino plus) for cafeteracompacta.com, featuring equipment in arctic white with warm stone-gray details, on a solid oak workbench in a tidy modern home space, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué Debes Limpiar el Sensor Térmico Circular de la Bandeja en la Breville Bambino Plus"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **limpiar sensor temperatura bandeja breville bambino plus** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Si cae café sobre el disco metálico de la bandeja donde apoya la jarra, el sensor leerá mal los 65 °C de la leche."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Una de las mayores ventajas de la **Breville Bambino Plus (BES500)** frente a la Bambino estándar es su sistema de espumado manos libres **Auto MilQ**, capaz de cortar la inyección de vapor en el segundo exacto en que la leche alcanza la temperatura elegida. Sin embargo, cuando después de algunas semanas notas que en el nivel intermedio la leche empieza a hervir por encima de **72 °C**, huele a proteína quemada o, por el contrario, se detiene estando tibia, casi nunca es un fallo electrónico. El responsable es el **disco sensor térmico circular de unos 18 mm** que sobresale en el lado derecho de la rejilla de la bandeja de goteo. Dentro de nuestras [guías de mantenimiento y descalcificación](/mantenimiento-y-descalcificacion/), limpiar esta pieza de contacto es un gesto de **15 segundos** que devuelve la precisión de fábrica."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: limpiar sensor temperatura bandeja breville bambino plus"
+      "text": "Cómo funciona el termistor de contacto de la Bambino Plus y por qué la suciedad lo engaña"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **limpiar sensor temperatura bandeja breville bambino plus** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "A diferencia de la **De’Longhi Dedica Maestro Plus (EC950M)**, que lee la temperatura de la jarra a distancia mediante un ojo infrarrojo lateral, la **Breville Bambino Plus** utiliza un **termistor NTC de contacto físico directo** montado sobre un muelle flexible en la bandeja inferior. Cuando apoyas la jarra de acero inoxidable de **480 ml**, su base metálica presiona ese botón circular hacia abajo para transferir el calor por conducción. Si sobre ese disco se depositan salpicaduras de espresso seco, grasa láctea del autopurgado de la lanceta o una película calcárea, se crea una barrera aislante. Incluso una costra de apenas **0.2 mm de grosor** retrasa la transferencia térmica varios segundos, haciendo que la placa electrónica siga inyectando vapor cuando la leche real ya superó su punto dulce de **60–65 °C**. Este descuido cotidiano descalibra la máquina tanto como olvidar [cómo resetear el aviso de limpieza de 200 ciclos en la Breville Bambino](/mantenimiento-y-descalcificacion/como-resetear-el-aviso-de-limpieza-de-200-ciclos-en-breville-bambino/) o ignorar [cada cuánto cambiar el filtro ablandador de resina del tanque](/mantenimiento-y-descalcificacion/cada-cuanto-cambiar-el-filtro-ablandador-de-resina-del-tanque/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: limpiar sensor temperatura bandeja breville bambino plus",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Nivel de temperatura en panel",
+        "Temperatura objetivo real (sensor limpio)",
+        "Temperatura alcanzada con sensor sucio",
+        "Impacto en la leche y la microespuma"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Si cae café sobre el disco metálico de la bandeja donde apoya la jarra, el sensor leerá mal los 65 °C de la leche.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Nivel 1 (Templado / Bebidas vegetales)",
+          "55 °C – 58 °C",
+          "63 °C – 66 °C (retraso de lectura)",
+          "Separación de proteínas en bebidas de avena o soja"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Nivel 2 (Ideal / Latte Art estándar)",
+          "60 °C – 65 °C",
+          "70 °C – 74 °C (sobrecalentamiento) pérdida de dulzor",
+          "Ruptura de la lactosa, burbujas grandes y espuma seca y rígida"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Nivel 3 (Extra caliente)",
+          "68 °C – 70 °C",
+          "> 76 °C (ebullición y desbordamiento)",
+          "Olor a leche hervida (desnaturalización de proteínas del suero) y rebose"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Error por base de jarra mojada o cóncava",
+          "Lectura errática por colchón de vapor/agua",
+          "Corte prematuro a 45 °C o sobrecalentamiento",
+          "Leche fría sin texturizar o aviso luminoso de error en el panel"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre limpiar sensor temperatura bandeja breville bambino plus",
-      "text": "Si cae café sobre el disco metálico de la bandeja donde apoya la jarra, el sensor leerá mal los 65 °C de la leche. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Desviación térmica del sistema Auto MilQ cuando el sensor de la bandeja está sucio"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar limpiar sensor temperatura bandeja breville bambino plus hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Protocolo seguro para limpiar el disco sensor y la base de la jarra"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Pasada húmeda inmediata tras el autopurgado de la lanceta",
+          "text": "Recuerda que cuando levantas la jarra de la **Bambino Plus**, la lanceta ejecuta un purgado automático hacia los agujeros de la bandeja que salpica agua con trazas de leche alrededor del sensor. Pasa un **paño de microfibra húmedo y tibio (40 °C)** sobre la corona circular después de cada sesión."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Desengrase semanal del disco metálico y su faldón de silicona",
+          "text": "Al retirar la rejilla metálica superior para vaciar la bandeja de goteo, aplica **una gota de lavavajillas neutro** sobre una esponja suave y limpia tanto la superficie plana del sensor como el anillo de goma flexible que lo rodea. Aclara bajo un hilo suave de agua del grifo sin sumergir toda la pieza a presión."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Comprobación del recorrido elástico de 2 a 3 mm del muelle",
+          "text": "Presiona suavemente el centro del disco sensor con la yema del dedo para verificar que desciende unos **2 a 3 mm** con suavidad y regresa arriba al soltarlo. Si se siente pegajoso o duro, hay caramelo de café seco atrapado en el borde perimetral."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Secado del disco y de la base exterior de la jarra Breville",
+          "text": "Antes de iniciar un ciclo **Auto MilQ**, asegúrate de que tanto el sensor como el **fondo exterior de la jarra de acero inoxidable** estén limpios y secos; una gota de agua fría atrapada entre ambos falsea la curva de calentamiento inicial."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Qué productos jamás debes aplicar sobre el sensor térmico de la bandeja"
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Nunca frotes la cápsula metálica del sensor con **estropajos verdes abrasivos, lana de acero ni polvos limpiadores**. Si rayas la superficie pulida del disco, crearás micro-surcos llenos de aire que reducen permanentemente el área de contacto térmico con la jarra. Tampoco introduzcas la bandeja de plástico que aloja el sensor en el **lavavajillas** ni dejes el sensor sumergido en líquido descalcificador ácido concentrado, ya que deteriorarías el sello elastomérico que protege el termistor interno.",
+      "title": "Prohibido usar estropajos abrasivos o meter el soporte del sensor al lavavajillas"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con limpiar sensor temperatura bandeja breville bambino plus en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Buscas jarras de acero inoxidable de fondo plano compatibles con el sensor de la Bambino Plus, paños de microfibra barista o pastillas limpiadoras para tu Breville? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre limpiar sensor temperatura bandeja breville bambino plus?",
-      "a": "Si cae café sobre el disco metálico de la bandeja donde apoya la jarra, el sensor leerá mal los 65 °C de la leche. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿El sensor de la bandeja funciona con cualquier jarra de leche o solo con la original de Breville?",
+      "a": "Sí, puedes usar cualquier jarra de leche de **acero inoxidable de fondo plano y sin recubrimiento grueso de esmalte o pintura cerámica en la base**. Si la base exterior tiene un reborde demasiado profundo que impide que el centro toque el botón con muelle del sensor, la lectura térmica fallará."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué el sensor circular de la bandeja se hunde cuando lo presiono con el dedo?",
+      "a": "No es un botón electrónico que active un interruptor al bajar; su muelle interno tiene una función puramente mecánica: empujar el disco sensor hacia arriba con tensión constante para garantizar un **contacto metal con metal de 100 %** contra la base de la jarra aunque esta no pese mucho."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué la Bambino Plus detiene el espumado automático cuando la leche aún está tibia?",
+      "a": "Si el sensor está limpio pero la máquina corta el vapor antes de tiempo, suele deberse a que has colocado una jarra recién sacada del congelador con condensación exterior en la base, o a que la boquilla de **4 orificios** de la lanceta está parcialmente obstruida y la máquina agota su tiempo máximo de seguridad de vaporizado."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/como-limpiar-las-agujas-del-distribuidor-wdt-y-la-base-del-tamper/",
-    "/mantenimiento-y-descalcificacion/es-seguro-usar-agua-de-osmosis-inversa-para-no-descalcificar-nunca/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/cada-cuanto-cambiar-el-filtro-ablandador-de-resina-del-tanque/",
+    "/mantenimiento-y-descalcificacion/por-que-no-debes-dejar-la-pastilla-de-cafe-mojada-puesta-todo-el-dia/",
+    "/mantenimiento-y-descalcificacion/se-puede-meter-el-portafiltro-al-lavavajillas-peligro-en-aluminio/",
+    "/mantenimiento-y-descalcificacion/como-resetear-el-aviso-de-limpieza-de-200-ciclos-en-breville-bambino/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-limpiar-el-sensor-de-temperatura-en-la-base-de-la-bambino-plus.webp"
 }

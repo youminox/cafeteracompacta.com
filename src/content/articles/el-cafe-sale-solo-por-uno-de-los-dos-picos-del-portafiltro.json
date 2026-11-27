@@ -4,161 +4,128 @@
   "path": "/problemas-y-soluciones/el-cafe-sale-solo-por-uno-de-los-dos-picos-del-portafiltro/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cafe sale solo por un lado del portafiltro",
   "title": "Por Qué el Espresso Cae Solo por el Pico Izquierdo o Derecho del Portafiltro Doble",
-  "seoTitle": "Por Qué el Espresso Cae Solo por el Pico Izquierdo o Derecho del Portafiltro Doble | Guía Barista Compacta",
-  "metaDescription": "Por Qué el Espresso Cae Solo por el Pico Izquierdo o Derecho del Portafiltro Doble: Revisa que la encimera esté nivelada, limpia el canal interior debajo de la cesta y asegúrate de no prensar inclinado con el tamper. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Revisa que la encimera esté nivelada, limpia el canal interior debajo de la cesta y asegúrate de no prensar inclinado con el tamper.",
-  "quickAnswer": "Sobre cafe sale solo por un lado del portafiltro: Revisa que la encimera esté nivelada, limpia el canal interior debajo de la cesta y asegúrate de no prensar inclinado con el tamper. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Por Qué el Espresso Cae Solo por el Pico Izquierdo o Derecho del Portafiltro Doble | cafeteracompacta.com",
+  "metaDescription": "¿Tu café sale solo por un lado del portafiltro doble? Aprende a nivelar el tampeado, limpiar el difusor plástico interno y equilibrar los dos chorros hoy.",
+  "excerpt": "Guía de diagnóstico para equilibrar la caída del espresso en ambos picos: corrección de compactación inclinada, limpieza de aceites rancios bajo el inserto del portafiltro y nivelación de la encimera.",
+  "quickAnswer": "Si el **café sale solo por un lado del portafiltro** doble, la causa principal es un prensado (*tampeado*) inclinado que canaliza el agua hacia la zona más baja de la pastilla, o bien aceites secos taponando el divisor interno del mango. También influye una encimera con más de **2 grados** de desnivel. Desmontar el difusor inferior para limpiarlo y compactar a **90 grados** nivela ambos chorros.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Revisa que la encimera esté nivelada, limpia el canal interior debajo de la cesta y asegúrate de no prensar inclinado con el tamper., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Dynamic action-ready placement on clean counter surface with subtle reflections: realistic scene illustrating 'Por Qué el Espresso Cae Solo por el Pico Izquierdo o Derecho del Portafiltro Doble' (cafe sale solo por un lado del portafiltro) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, inside a bright contemporary apartment with minimalist decor, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué el Espresso Cae Solo por el Pico Izquierdo o Derecho del Portafiltro Doble"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cafe sale solo por un lado del portafiltro** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Revisa que la encimera esté nivelada, limpia el canal interior debajo de la cesta y asegúrate de no prensar inclinado con el tamper."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Colocas dos tazas pequeñas de espresso bajo los dos picos del portafiltro de tu **CASABREWS CM5418**, **De’Longhi Dedica Arte EC885M** o **Breville Bambino BES450** para compartir un tiro doble y, al arrancar la extracción, ves con frustración cómo la taza izquierda se llena hasta el borde mientras por la boquilla derecha apenas caen tres gotas sueltas. Cuando el **café sale solo por un lado del portafiltro** doble, es tentador culpar a la bomba o pensar que la ducha del grupo está rota, pero el agua a **9 bares** sigue una ley física implacable: atraviesa primero el lado de la pastilla que ofrece menor resistencia y después resbala por la gravedad hacia el pico más limpio o más bajo. Si además el chorro cae descontrolado y muy veloz, conviene revisar también nuestro diagnóstico cuando [el espresso sale en 8 segundos como agua sucia y sin crema](/problemas-y-soluciones/mi-espresso-sale-en-8-segundos-como-agua-sucia-sin-crema/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cafe sale solo por un lado del portafiltro"
+      "text": "Las 3 causas ocultas del caudal asimétrico: tampeado inclinado, inserto sucio y desnivel"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cafe sale solo por un lado del portafiltro** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Para que un caudal de **36 a 40 ml** se reparta exactamente a **18–20 ml por cada pico**, el líquido debe gotear centrado desde la base de la cesta hacia el lomo divisor de la cámara inferior del portafiltro. Hay tres culpables que rompen esa simetría: en primer lugar, un **prensado (*tampeado*) inclinado** de apenas **2 o 3 grados** (muy habitual al usar el *tamper* plástico ligero que viene en la caja) deja un lado de la cama de café **1.5 mm** más bajo que el otro; el agua a presión se canaliza en masa hacia ese flanco delgado y cae directamente sobre uno de los agujeros de salida, esquivando el divisor central. En segundo lugar, los portafiltros originales de **51 mm** y **54 mm** de la **De’Longhi Dedica**, **CASABREWS CM5418** y **Breville Bambino** llevan una **pieza plástica deflectora interna** debajo de la cesta donde se acumulan aceites rancios y partículas finas que taponan uno de los dos canales laterales. Y en tercer lugar, una encimera con más de **1.5 grados** de inclinación desvía la caída libre del líquido antes de tocar la rampa divisora, algo que puedes comprobar en segundos junto con el resto de guías de nuestro [hub de problemas y soluciones para cafeteras compactas](/problemas-y-soluciones/) o después de un mantenimiento térmico similar a cuando [el espresso sale frío o tibio en tu cafetera compacta](/problemas-y-soluciones/el-espresso-sale-frio-o-tibio-en-mi-cafetera-compacta/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: cafe sale solo por un lado del portafiltro",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Comportamiento al sacar solo agua sin café en la cesta",
+        "Diagnóstico técnico exacto",
+        "Componente responsable",
+        "Acción correctiva inmediata"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Revisa que la encimera esté nivelada, limpia el canal interior debajo de la cesta y asegúrate de no prensar inclinado con el tamper.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Sin café sale 50/50 por ambos picos, pero con café sale solo por uno",
+          "Canalización por distribución irregular o tampeado inclinado",
+          "Preparación de la pastilla (Puck Prep) y tamper",
+          "Usar distribuidor de agujas WDT y prensar comprobando con los dedos que el tamper entra recto"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Incluso solo con agua limpia sale todo el chorro por un único pico",
+          "Conducto interno obstruido por grasa de café solidificada o cal",
+          "Inserto deflector plástico debajo de la cesta o pico roscado",
+          "Sacar la cesta, desatornillar o desencajar el deflector negro y desincrustar con agua caliente y detergente"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "El agua sale siempre hacia el mismo lado aunque gires los picos 180°",
+          "Desnivel físico de la encimera de la cocina o patas mal apoyadas",
+          "Superficie de apoyo o bandeja de goteo mal encajada",
+          "Comprobar horizontalidad sobre el chasis con nivel de burbuja (o app del móvil) y calzar la base"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Sale de un lado porque la ducha del grupo escupe un solo chorro lateral",
+          "Rejilla difusora del cabezal de la cafetera obstruida en una mitad",
+          "Ducha metálica superior del grupo de extracción",
+          "Cepillar la ducha en caliente o desmontar su tornillo central para limpiar los micro-orificios"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre cafe sale solo por un lado del portafiltro",
-      "text": "Revisa que la encimera esté nivelada, limpia el canal interior debajo de la cesta y asegúrate de no prensar inclinado con el tamper. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Prueba rápida sin café para localizar el origen del desbalance en los picos del portafiltro"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar cafe sale solo por un lado del portafiltro hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Protocolo de limpieza del difusor interno y nivelación de pastilla en 4 pasos"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Prueba de flujo en vacío sin cesta para descartar desnivel u obstrucción",
+          "text": "Acopla el portafiltro **sin la cesta metálica puesta** y pulsa el botón de **1 taza**; si el agua ya sale por un solo pico, el fallo está en la limpieza del canal divisor del portafiltro o en la inclinación de tu encimera, no en tu forma de prensar el café."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Desmontaje y desengrasado del inserto plástico del portafiltro",
+          "text": "Retira la cesta y mira el fondo interior del portafiltro: en la **De’Longhi Dedica** verás un tornillo en la base exterior que sujeta el difusor interno, y en **Breville Bambino** o **CASABREWS** un inserto plástico que acumula costras negras de café debajo; desmóntalo o sumerge el cabezal **20 minutos** en agua caliente con detergente desincrustante de aceites (*Cafiza*)."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Distribución con agujas WDT antes de bajar el tamper",
+          "text": "Remueve el café molido dentro de la cesta con una herramienta **WDT** de agujas de **0.35 a 0.4 mm** haciendo círculos de abajo hacia arriba para romper grumos y dejar una superficie completamente horizontal antes de tocar el *tamper*."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Compactación nivelada con agarre de tres dedos o tamper autonivelante",
+          "text": "Apoya el pulgar, el índice y el corazón sobre el borde metálico del *tamper* tocando simultáneamente el labio de la cesta mientras presionas hacia abajo; así sentirás al tacto si la base está **100 % paralela** al aro del filtro, o utiliza un **tamper calibrado con falda autonivelante** de **51 mm** o **53.3 mm**."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Por qué un desbalance del 60/40 en un tiro simple no arruina el sabor de tu espresso"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Si estás preparando un **espresso doble en una sola taza grande** colocando ambos picos dentro del mismo vaso y notas que un caño saca un poco más de caudal que el otro, primero verifica la prueba sin café. Si el inserto está limpio y el tiempo total de extracción se mantiene en **25 a 30 segundos** para un ratio **1:2**, una ligera diferencia entre los dos picos se debe simplemente a la tensión superficial de la crema al dividirse en la rampa inferior. Si quieres ver exactamente cómo nace la extracción en toda la base del filtro sin que ningún deflector plástico interfiera, el paso definitivo es usar un **portafiltro sin fondo (*bottomless*)**.",
+      "title": "Cuándo preocuparse y cuándo es simple tensión superficial de la crema"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con cafe sale solo por un lado del portafiltro en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Si quieres solucionar de raíz los prensados torcidos con un *tamper* autonivelante con tope de borde de **51 mm** o **53.3 mm**, un distribuidor de agujas **WDT** o un portafiltro sin fondo (*bottomless*) de un solo chorro central, consulta al Asesor IA del sitio o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cafe sale solo por un lado del portafiltro?",
-      "a": "Revisa que la encimera esté nivelada, limpia el canal interior debajo de la cesta y asegúrate de no prensar inclinado con el tamper. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Debo quitar la pieza de plástico negro que viene dentro del portafiltro original?",
+      "a": "No es obligatorio quitarlo, pero sí debes desmontarlo y limpiarlo al menos una vez al mes. Ese deflector plástico ayuda a repartir y conservar el calor del café al salir hacia los dos picos, pero debajo de él se forma una capa de grasa de café rancia que desvía el flujo hacia un solo lado y da sabor amargo."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿El filtro presurizado de doble pared hace que el café se vaya más hacia un solo pico?",
+      "a": "Muchísimo. Los filtros presurizados descargan todo el espresso por un único agujero central diminuto a gran velocidad; si ese chorro único no golpea exactamente en el milímetro central de la rampa divisora inferior del portafiltro (por un leve desnivel o suciedad), todo el caudal se desvía hacia un solo pico."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué accesorio corrige mejor el problema de prensar el café inclinado?",
+      "a": "El tamper autonivelante con labio de apoyo (self-leveling palm o spring tamper) se apoya directamente sobre el aro superior de la cesta metálica de 51 mm o 54 mm antes de bajar el pistón, haciendo físicamente imposible prensar torcido. Es la herramienta más efectiva para lograr extracciones simétricas en ambos picos desde el primer día."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/la-bomba-hace-ruido-fuerte-pero-no-sale-agua-como-cebar-airlock/",
+    "/problemas-y-soluciones/el-espresso-sale-frio-o-tibio-en-mi-cafetera-compacta/",
     "/problemas-y-soluciones/mi-espresso-sale-en-8-segundos-como-agua-sucia-sin-crema/",
-    "/problemas-y-soluciones/la-cesta-se-queda-pegada-a-la-ducha-del-grupo-al-quitar-el-portafiltro/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/delonghi-dedica-parpadean-las-dos-luces-de-tazas-despues-del-vapor/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/el-cafe-sale-solo-por-uno-de-los-dos-picos-del-portafiltro.webp"
 }

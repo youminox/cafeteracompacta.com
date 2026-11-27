@@ -4,161 +4,132 @@
   "path": "/mantenimiento-y-descalcificacion/como-descalcificar-gaggia-classic-evo-pro-sin-danar-la-caldera/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como descalcificar gaggia classic evo pro",
   "title": "Guía de Descalcificación Segura para Gaggia Classic Evo Pro (Caldera y Válvula Solenoide)",
-  "seoTitle": "Guía de Descalcificación Segura para Gaggia Classic Evo Pro (Caldera y Válvula Solenoide) | Guía Barista Compacta",
-  "metaDescription": "Guía de Descalcificación Segura para Gaggia Classic Evo Pro (Caldera y Válvula Solenoide): Uso del descalcificador oficial Gaggia o Dezcal extrayendo tanto por la lanceta de vapor como por el grupo de 58 mm. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Uso del descalcificador oficial Gaggia o Dezcal extrayendo tanto por la lanceta de vapor como por el grupo de 58 mm.",
-  "quickAnswer": "Sobre como descalcificar gaggia classic evo pro: Uso del descalcificador oficial Gaggia o Dezcal extrayendo tanto por la lanceta de vapor como por el grupo de 58 mm. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Guía de Descalcificación Segura para Gaggia Classic Evo Pro (Caldera y Válvula Solenoide) | cafeteracompacta.com",
+  "metaDescription": "Aprende cómo descalcificar tu Gaggia Classic Evo Pro paso a paso protegiendo la caldera de aluminio y la válvula solenoide de 3 vías sin obstrucciones.",
+  "excerpt": "Protocolo específico para desincrustar la caldera de aluminio de 100 ml y el grupo de latón cromado de 58 mm de la Gaggia Classic Evo Pro alternando el flujo por la lanceta y la ducha sin corroer el metal.",
+  "quickAnswer": "Para descalcificar la **Gaggia Classic Evo Pro** sin corroer su caldera de aluminio de **100 ml**, diluye **100 ml** de descalcificador de ácido láctico en **1 L** de agua tibia y haz circular la mezcla alternando entre la lanceta de vapor sin boquilla y la ducha de **58 mm** solo a temperatura de café (**90–93 °C**). Deja actuar en pausas de **15 minutos** con la máquina apagada y finaliza aclarando con **2 L** de agua limpia.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Uso del descalcificador oficial Gaggia o Dezcal extrayendo tanto por la lanceta de vapor como por el grupo de 58 mm., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Three-quarter 50mm studio-natural close-up shot: realistic scene illustrating 'Guía de Descalcificación Segura para Gaggia Classic Evo Pro (Caldera y Válvula Solenoide)' (como descalcificar gaggia classic evo pro) for cafeteracompacta.com, featuring equipment in arctic white with warm stone-gray details, on a light terrazzo surface in a contemporary living space, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Guía de Descalcificación Segura para Gaggia Classic Evo Pro (Caldera y Válvula Solenoide)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como descalcificar gaggia classic evo pro** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Uso del descalcificador oficial Gaggia o Dezcal extrayendo tanto por la lanceta de vapor como por el grupo de 58 mm."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Cuando el caudal por el grupo comercial de **58 mm** de tu **Gaggia Classic Evo Pro** cae a un hilo débil o el vapor pierde fuerza a mitad de la jarra, el sarro acumulado dentro de su caldera de **100 ml** está estrangulando el paso hidráulico. A diferencia de las cafeteras con termobloque de acero inoxidable como la **Breville Bambino (BES450)**, la Gaggia combina un cuerpo superior de **aluminio fundido** con un grupo inferior de **latón cromado (CW510L)** y una **válvula solenoide de 3 vías** cuyo orificio interno mide apenas **1.2 mm**. Si aplicas un ácido agresivo o dejas la solución en reposo prolongado, las escamas desprendidas atascarán la electroválvula y picarán las paredes de aluminio. Antes de preparar la mezcla, conviene revisar qué agente químico elegir en nuestra comparativa sobre [ácido láctico EcoDecalk vs ácido cítrico vs ácido sulfámico Urnex Dezcal](/mantenimiento-y-descalcificacion/acido-lactico-ecodecalk-vs-acido-citrico-vs-urnex-dezcal/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como descalcificar gaggia classic evo pro"
+      "text": "Química segura para la caldera de aluminio de 100 ml y el grupo de latón de 58 mm"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como descalcificar gaggia classic evo pro** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "El aluminio de la caldera de la **Gaggia Classic Evo Pro** posee una capa natural de óxido pasivo que se disuelve rápidamente cuando se expone a soluciones de **ácido cítrico puro** en concentraciones superiores al **3 %** o a temperaturas de vapor (**145 °C**). Para evitar la corrosión galvánica entre la cúpula de aluminio y el bloque de latón de **58 mm**, el fabricante italiano formula su descalcificador oficial a base de **ácido láctico tamponado** con inhibidores de corrosión. Debes diluir **100 ml** de descalcificador líquido en **1 litro** de agua filtrada tibia en el depósito de **2.1 litros**, manteniendo el interruptor de vapor siempre **apagado** para que el termostato de extracción limite la temperatura interna a **90–93 °C**. Puedes ajustar la frecuencia de este proceso consultando el [calendario de descalcificación según la dureza del agua de tu ciudad](/mantenimiento-y-descalcificacion/cada-cuanto-tiempo-hay-que-descalcificar-segun-la-dureza-del-agua/) o contrastar el método con el de un sistema ThermoJet en nuestra guía para [descalcificar la Breville Bambino y Bambino Plus en 15 minutos](/mantenimiento-y-descalcificacion/como-descalcificar-breville-bambino-y-bambino-plus/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: como descalcificar gaggia classic evo pro",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Componente interno",
+        "Material y medida real",
+        "Riesgo por mala práctica",
+        "Protocolo seguro recomendado"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Uso del descalcificador oficial Gaggia o Dezcal extrayendo tanto por la lanceta de vapor como por el grupo de 58 mm.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Caldera principal",
+          "Aluminio fundido (100 ml) con 2 resistencias externas",
+          "Picaduras anódicas por ácido cítrico concentrado o calor excesivo",
+          "Ácido láctico tamponado al 8-10 % a temperatura de café (93 °C)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Grupo y portafiltro",
+          "Latón cromado comercial de 58 mm (sin plomo CW510L)",
+          "Pérdida de brillo cromado si se sumerge la cabeza en ácido",
+          "Quitar el portafiltro y purgar la solución solo por la ducha"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Válvula solenoide de 3 vías",
+          "Paso calibrado de 1.2 mm con núcleo magnético móvil",
+          "Bloqueo total por escamas de cal grandes sueltas de golpe",
+          "Drenar el 60 % por la lanceta abierta antes de usar la ducha sin presión"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Lanceta profesional",
+          "Acero inoxidable con boquilla de 2 orificios",
+          "Obstrucción de los microorificios de 1.0 mm por carbonato cálcico",
+          "Desenroscar la punta metálica durante el drenaje inicial"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre como descalcificar gaggia classic evo pro",
-      "text": "Uso del descalcificador oficial Gaggia o Dezcal extrayendo tanto por la lanceta de vapor como por el grupo de 58 mm. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Parámetros técnicos de descalcificación para la Gaggia Classic Evo Pro"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como descalcificar gaggia classic evo pro hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Protocolo de drenaje alternado entre la lanceta de 2 orificios y la ducha del grupo"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Preparación del grupo y desmontaje de filtro y boquilla",
+          "text": "Retira el portafiltro de **58 mm**, desenrosca la punta de **2 orificios** de la lanceta de vapor para evitar que una partícula de cal la tapone, y extrae cualquier filtro ablandador del depósito de **2.1 L**. Vierte **1 L** de agua tibia mezclada con **100 ml** de solución de ácido láctico."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Primera purga por la lanceta con interruptor de café activo",
+          "text": "Enciende la máquina, espera a que se ilumine el piloto de temperatura de café (**~93 °C**), abre el pomo lateral de vapor **1.5 vueltas** y activa el botón de extracción de café (nunca el de vapor). Extrae **250 ml** de solución por el tubo de vapor y apaga el interruptor principal."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Reposo controlado de 15 minutos con caldera templada",
+          "text": "Deja que el ácido láctico actúe durante **15 minutos** con la cafetera apagada para disolver el carbonato cálcico adherido a las paredes de la caldera de **100 ml** sin generar presión de vapor ni sobrecalentar el aluminio."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Drenaje fraccionado alternando ducha de 58 mm y tubo de vapor",
+          "text": "Vuelve a encender la máquina y extrae tandas de **200 ml** cada **5 minutos**, cerrando y abriendo el pomo de vapor para que la solución circule tanto por la **válvula solenoide de 3 vías** y la ducha del grupo como por la válvula de aguja del vaporizador hasta vaciar el tanque."
+        },
+        {
+          "name": "Aclarado profundo de 2.5 litros y limpieza del tubo de descarga",
+          "text": "Lava el depósito con agua y jabón neutro, llénalo hasta el borde (**2.1 L**) con agua limpia y haz pasar todo el volumen alternando grupo y lanceta en ciclos de **45 segundos** de bombeo y **60 segundos** de pausa para proteger la bomba vibratoria Ulka."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Por qué nunca debes activar el botón de vapor ni el disco ciego durante la descalcificación"
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Uno de los errores más destructivos en la **Gaggia Classic Evo Pro** consiste en colocar el disco ciego de goma (**blind basket**) en el portafiltro de **58 mm** mientras hay líquido descalcificador en el tanque. Hacer un retrolavado (*backflush*) con ácido empuja fragmentos minerales directamente hacia el asiento de la **válvula solenoide de 3 vías** y la **válvula OPV de 9 bares**, provocando que el grupo gotee de forma continua o pierda presión de extracción. El disco ciego se reserva exclusivamente para el desengrasado con detergente alcalino como **Urnex Cafiza** una vez finalizado el aclarado con agua limpia.",
+      "title": "Alerta del fabricante sobre la válvula solenoide de 3 vías"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con como descalcificar gaggia classic evo pro en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Buscas el descalcificador de ácido láctico compatible o repuestos originales de **58 mm** para tu **Gaggia Classic Evo Pro**? Revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página o consulta a nuestro Asesor IA para calcular la dosis exacta según el agua de tu zona."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como descalcificar gaggia classic evo pro?",
-      "a": "Uso del descalcificador oficial Gaggia o Dezcal extrayendo tanto por la lanceta de vapor como por el grupo de 58 mm. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Qué hago si después de descalcificar mi Gaggia Classic Evo Pro sale agua por la lanceta pero no por el grupo?",
+      "a": "Si tras descalcificar no sale agua por la ducha de 58 mm pero sí por la lanceta de vapor, una escama de cal ha obstruido el paso de 1.2 mm de la válvula solenoide de 3 vías. Activa el botón de café y abre y cierra repetidamente el pomo de vapor 10 veces seguidas para generar golpes de presión que liberen la partícula."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Puedo descalcificar la Gaggia Classic Evo Pro con ácido cítrico en polvo?",
+      "a": "No es recomendable usar ácido cítrico puro sin tamponar en la Gaggia Classic Evo Pro, especialmente en dosis altas, porque ataca la capa protectora de la caldera de aluminio de 100 ml. Utiliza siempre fórmulas de ácido láctico como el descalcificador oficial Gaggia o De’Longhi EcoDecalk diluidas en 1 litro de agua."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Hay que desmontar la ducha del grupo antes o después de descalcificar la Gaggia?",
+      "a": "Debes retirar la ducha de acero inoxidable de 58 mm destornillando su tornillo Phillips central una vez terminado todo el ciclo de descalcificación y antes del último tanque de enjuague. Así eliminarás cualquier arenilla calcárea retenida detrás de la malla perforada y limpiarás el bloque difusor de latón."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/como-descalcificar-hibrew-h10a-y-h10b-modo-automatico/",
-    "/mantenimiento-y-descalcificacion/como-resetear-la-luz-naranja-de-descalcificacion-en-delonghi-stilosa-y-linea/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/como-descalcificar-breville-bambino-y-bambino-plus/",
+    "/mantenimiento-y-descalcificacion/acido-lactico-ecodecalk-vs-acido-citrico-vs-urnex-dezcal/",
+    "/mantenimiento-y-descalcificacion/se-puede-hacer-backflush-en-casabrews-cm5418-o-delonghi-dedica/",
+    "/mantenimiento-y-descalcificacion/cada-cuanto-tiempo-hay-que-descalcificar-segun-la-dureza-del-agua/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-descalcificar-gaggia-classic-evo-pro-sin-danar-la-caldera.webp"
 }

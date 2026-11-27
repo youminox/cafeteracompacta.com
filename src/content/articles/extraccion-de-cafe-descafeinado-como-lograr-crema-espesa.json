@@ -4,161 +4,130 @@
   "path": "/extraccion-y-recetas-espresso/extraccion-de-cafe-descafeinado-como-lograr-crema-espesa/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "lograr crema en espresso descafeinado",
   "title": "3 Ajustes para que tu Espresso Descafeinado Tenga Tanta Crema y Cuerpo como el Café Normal",
-  "seoTitle": "3 Ajustes para que tu Espresso Descafeinado Tenga Tanta Crema y Cuerpo como el Café Normal | Guía Barista Compacta",
-  "metaDescription": "3 Ajustes para que tu Espresso Descafeinado Tenga Tanta Crema y Cuerpo como el Café Normal: Usa descafeinado de tueste reciente (<30 días), cierra 2 clics el molino y sube 0.5 g la dosis en la cesta. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Usa descafeinado de tueste reciente (<30 días), cierra 2 clics el molino y sube 0.5 g la dosis en la cesta.",
-  "quickAnswer": "Sobre lograr crema en espresso descafeinado: Usa descafeinado de tueste reciente (<30 días), cierra 2 clics el molino y sube 0.5 g la dosis en la cesta. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "3 Ajustes para que tu Espresso Descafeinado Tenga Tanta Crema y Cuerpo como el Café Normal | cafeteracompacta.com",
+  "metaDescription": "Aprende a lograr crema en espresso descafeinado ajustando molienda, dosis y ratio en tu Breville Bambino, Dedica o CASABREWS sin amargor ni subextracción.",
+  "excerpt": "El grano descafeinado pierde CO2 y celulosa antes del tueste. Descubre los 3 ajustes técnicos de molienda, gramaje y temperatura para extraer un espresso denso, dulce y con crema avellana persistente.",
+  "quickAnswer": "Para lograr crema en espresso descafeinado debes compensar la porosidad del grano cerrando la molienda entre 2 y 3 puntos respecto a tu café con cafeína, aumentando la dosis en 0.5 a 1 gramo y acortando el ratio a 1:1.6 (por ejemplo, 18.5 g de entrada para 30 g en taza en 26 segundos). Además, conviene bajar la temperatura a 90–91 °C para evitar sabores cenicientos.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Usa descafeinado de tueste reciente (<30 días), cierra 2 clics el molino y sube 0.5 g la dosis en la cesta., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating '3 Ajustes para que tu Espresso Descafeinado Tenga Tanta Crema y Cuerpo como el Café Normal' (lograr crema en espresso descafeinado) for cafeteracompacta.com, featuring equipment in graphite gray with subtle amber indicator details, on a light terrazzo surface in a contemporary living space, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "3 Ajustes para que tu Espresso Descafeinado Tenga Tanta Crema y Cuerpo como el Café Normal"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **lograr crema en espresso descafeinado** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Usa descafeinado de tueste reciente (<30 días), cierra 2 clics el molino y sube 0.5 g la dosis en la cesta."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Cambiar a café sin cafeína a las ocho de la noche suele terminar en una decepción visual y gustativa en la mayoría de cocinas domésticas: colocas tu dosis habitual de **18.0 g** en el portafiltro de tu **Breville Bambino (BES450)** o **16.0 g** en tu **CASABREWS CM5418**, pulsas el botón y en apenas **14 segundos** cae un chorro pálido, acuoso y con una película de espuma blanquecina que desaparece antes de llegar a la mesa. El culpable no es la bomba de tu cafetera ni la falta de cafeína en sí, sino la alteración estructural que sufre la semilla verde durante el proceso de descafeinización (ya sea mediante **Swiss Water**, acetato de etilo de caña de azúcar o agua de montaña). Al someter el grano crudo a baños térmicos para extraer el alcaloide, las paredes de celulosa se debilitan, la madera pierde densidad y gran parte del **CO2** queda liberado mucho antes de entrar al tambor de tueste. Dominar la técnica para **lograr crema en espresso descafeinado** dentro de nuestro [catálogo de extracción y recetas espresso](/extraccion-y-recetas-espresso/) exige compensar hidráulicamente esa fragilidad celular."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: lograr crema en espresso descafeinado"
+      "text": "Por qué la pastilla descafeinada ofrece un 30 % menos de resistencia al agua a 9 bares"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **lograr crema en espresso descafeinado** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Un grano descafeinado tostado es más poroso, quebradizo y oscuro por fuera que su equivalente normal del mismo origen. Cuando lo pasas por las muelas cónicas de un **Baratza Encore ESP** o un **Fellow Opus** en el mismo número de ajuste que usas por la mañana, las paredes celulares rotas ceden ante la presión de **9 bares** de la válvula OPV casi sin hincharse durante la pre-infusión. Además, como el grano retiene menos gas carbónico interno, la emulsión de aceites e hidrocoloides se agota en los primeros **18 a 20 segundos** del disparo; si prolongas la extracción hasta un ratio clásico de **1:2.2**, el agua final solo arrastra fibra vegetal seca y diluye el cuerpo. Por ello, aparte de cerrar las muelas y acortar la bebida, resulta fundamental controlar la energía térmica realizando un buen [temperature surfing en cafeteras sin chip PID](/extraccion-y-recetas-espresso/como-hacer-temperature-surfing-en-cafeteras-sin-pid/) para no quemar unos compuestos aromáticos ya sensibilizados, y recordar siempre [remover la crema del espresso con cucharilla antes de catar](/extraccion-y-recetas-espresso/como-catar-tu-propio-espresso-por-que-es-obligatorio-remover-la-crema-con-cuchara/) para integrar las capas densas del fondo."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: lograr crema en espresso descafeinado",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Parámetro de Extracción",
+        "Café Arábica Normal (Tueste Medio)",
+        "Café Descafeinado (Swiss Water / Caña EA)",
+        "Efecto Físico en la Taza"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Usa descafeinado de tueste reciente (<30 días), cierra 2 clics el molino y sube 0.5 g la dosis en la cesta.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Ajuste de molienda (ej. Encore ESP / Opus)",
+          "Punto base de referencia (ej. clic 12)",
+          "2 a 3 micro-pasos más fino (ej. clic 9–10)",
+          "Restaura la presión real de 9 bares en la pastilla"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Dosis en cesta de 51 mm (Dedica / CASABREWS)",
+          "15.5 g – 16.0 g",
+          "16.5 g – 17.0 g (+0.8 g de compensación)",
+          "Aumenta la altura de cama y frena la canalización"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Dosis en cesta de 54 mm (Breville Bambino)",
+          "18.0 g",
+          "18.5 g – 19.0 g (+0.7 g de compensación)",
+          "Mayor concentración de lípidos emulsionables"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "Ratio de extracción objetivo (Brew Ratio)",
+          "1:2.0 (18 g → 36 g en 28–30 s)",
+          "1:1.6 a 1:1.7 (18.5 g → 30–31 g en 25–27 s)",
+          "Corta el flujo antes del blonding acuoso final"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Temperatura del grupo / PID",
+          "92 °C – 93 °C",
+          "90 °C – 91 °C (o perfil Bajo en Dedica Arte)",
+          "Evita notas cenicientas y amargor de celulosa tostada"
         ]
-      ]
+      ],
+      "caption": "Ajustes técnicos comparativos entre grano arábica normal y grano descafeinado (cesta despresurizada)"
+    },
+    {
+      "type": "h2",
+      "text": "Ventana de frescura y oxidación acelerada del grano sin cafeína"
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de barista sobre lograr crema en espresso descafeinado",
-      "text": "Usa descafeinado de tueste reciente (<30 días), cierra 2 clics el molino y sube 0.5 g la dosis en la cesta. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "El café descafeinado se desgasifica aproximadamente un **40 % más rápido** que el café tradicional debido a su estructura alveolar abierta. Si compras bolsas comerciales en supermercado con más de **60 días** desde el tueste, será físicamente imposible generar crema verdadera en un filtro no presurizado (solo obtendrás espuma artificial si montas la cesta presurizada de doble pared en tu **De’Longhi Dedica Arte EC885M** o **CASABREWS 3700Essential**). Busca siempre lotes de especialidad procesados con **acetato de etilo de caña de azúcar (Sugarcane EA)** o **Swiss Water** con fecha de tueste entre **5 y 21 días**, y conserva los granos en botes herméticos de vacío o congélalos en dosis individuales de **18.5 g** para frenar la pérdida de **CO2**.",
+      "title": "Regla de oro sobre la fecha de tueste en descafeinados"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar lograr crema en espresso descafeinado hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Los 3 ajustes paso a paso para extraer un descafeinado con crema atigrada y cuerpo sedoso"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Cierra el molino entre 2 y 3 micro-ajustes y sube 0.7 g la dosis",
+          "text": "Antes de cambiar de grano, purga **1.5 g** en tu molino y cierra el anillo entre **2 y 3 clics** más fino que tu receta diurna. Incrementa la dosis hasta **18.5 g** en portafiltros de **54 mm** (**Breville Bambino BES450** / **BES500**) o **16.5 g** en cestas de **51 mm** (**CASABREWS CM5418**) para compensar el menor volumen de hinchamiento de la fibra vegetal."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Aplica distribución WDT suave y baja la temperatura de infusión a 90–91 °C",
+          "text": "El grano descafeinado es quebradizo y genera más micropartículas (*fines*) durante la molienda. Usa una herramienta WDT con agujas de **0.35 mm** para homogeneizar la densidad sin compactar en exceso antes del *tamping* y selecciona el perfil térmico bajo en tu **De’Longhi Dedica Maestro Plus (EC950M)** o **Dedica Arte (EC885M)** para extraer cerca de **90 °C**."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Corta la extracción en ratio corto 1:1.6 justo al iniciar el blonding",
+          "text": "Coloca tu báscula bajo la taza y detén la bomba cuando alcances entre **29 g y 31 g** de líquido extraído (a partir de **18.5 g** de café seco) en un tiempo de **25 a 27 segundos**. Al cortar **6 g** antes que en un espresso normal, concentrarás toda la crema avellana y el dulzor achocolatado sin arrastrar el agua pálida del final."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con lograr crema en espresso descafeinado en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Quieres saber qué molino con micro-ajustes o cesta despresurizada se adapta mejor a tu cafetera para extraer descafeinados cremosos? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre lograr crema en espresso descafeinado?",
-      "a": "Usa descafeinado de tueste reciente (<30 días), cierra 2 clics el molino y sube 0.5 g la dosis en la cesta. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué el café descafeinado siempre sale más rápido aunque use el mismo punto de molienda?",
+      "a": "El proceso de extracción de la cafeína en verde (con agua o acetato de caña) hincha el grano y degrada parcialmente su matriz de celulosa. Una vez tostado, ofrece mucha menos oposición mecánica al paso del agua a 9 bares, obligando a moler entre 2 y 3 puntos más fino para igualar el caudal."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Qué método de descafeinización da mejor crema y sabor en espresso: Swiss Water o Caña de Azúcar (EA)?",
+      "a": "El proceso Sugarcane EA (acetato de etilo fermentado de caña de azúcar, típico de Colombia) conserva mejor los ácidos orgánicos brillantes y las notas a panela y cacao, además de mantener una estructura celular ligeramente más firme que facilita la formación de crema densa frente a lavados industriales agresivos."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Conviene usar el filtro presurizado de doble pared si mi descafeinado tiene más de un mes de tostado?",
+      "a": "Sí. Si utilizas café descafeinado comercial o ya molido que ha perdido su gas carbónico interno, la cesta presurizada de doble pared incluida de serie en la De’Longhi Dedica o la CASABREWS CM5418 genera una contrapresión mecánica artificial que emulsiona los aceites restantes, aunque tendrá menos persistencia que la microcrema real."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/por-que-el-primer-espresso-de-la-manana-siempre-sale-mas-rapido/",
     "/extraccion-y-recetas-espresso/como-hacer-temperature-surfing-en-cafeteras-sin-pid/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/receta-de-spanish-latte-con-leche-fresca-y-un-toque-de-condensada/",
+    "/extraccion-y-recetas-espresso/receta-de-vanilla-sweet-cream-cold-brew-y-espresso-shaken/",
+    "/extraccion-y-recetas-espresso/como-catar-tu-propio-espresso-por-que-es-obligatorio-remover-la-crema-con-cuchara/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/extraccion-de-cafe-descafeinado-como-lograr-crema-espesa.webp"
 }

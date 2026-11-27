@@ -4,161 +4,128 @@
   "path": "/problemas-y-soluciones/breville-bambino-plus-error-de-lanceta-bloqueada-tres-luces/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "error lanceta obstruida breville bambino plus",
   "title": "Cómo Solucionar el Error de Lanceta Obstruida o Sobrecalentamiento en la Breville Bambino Plus",
-  "seoTitle": "Cómo Solucionar el Error de Lanceta Obstruida o Sobrecalentamiento en la Breville Bambino Plus | Guía Barista Compacta",
-  "metaDescription": "Cómo Solucionar el Error de Lanceta Obstruida o Sobrecalentamiento en la Breville Bambino Plus: Limpia los 4 agujeros de la punta con la aguja situada bajo el depósito de agua y comprueba que la lanceta esté bajada en vertical. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Limpia los 4 agujeros de la punta con la aguja situada bajo el depósito de agua y comprueba que la lanceta esté bajada en vertical.",
-  "quickAnswer": "Sobre error lanceta obstruida breville bambino plus: Limpia los 4 agujeros de la punta con la aguja situada bajo el depósito de agua y comprueba que la lanceta esté bajada en vertical. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Cómo Solucionar el Error de Lanceta Obstruida o Sobrecalentamiento en la Breville Bambino Plus | cafeteracompacta.com",
+  "metaDescription": "Soluciona el error de lanceta obstruida y las luces parpadeantes en tu Breville Bambino Plus (BES500): limpieza de los 4 orificios y sensor.",
+  "excerpt": "Guía paso a paso para desbloquear la lanceta automática MilQ de la Breville Bambino Plus BES500: cómo desmontar la boquilla de 4 perforaciones, desincrustar proteína láctea y forzar la purga.",
+  "quickAnswer": "El parpadeo alterno de los indicadores de temperatura y espuma en la Breville Bambino Plus (BES500) señala que el sistema ThermoJet detectó una obstrucción por leche seca o cal en los cuatro micro-orificios de la punta de la lanceta. Para borrar la alerta, desenrosca la boquilla metálica, limpia cada perforación con la aguja incluida bajo el tanque de agua, sumérgela 20 minutos en agua caliente y mantén pulsado el botón Steam durante 5 segundos.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Limpia los 4 agujeros de la punta con la aguja situada bajo el depósito de agua y comprueba que la lanceta esté bajada en vertical., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating 'Cómo Solucionar el Error de Lanceta Obstruida o Sobrecalentamiento en la Breville Bambino Plus' (error lanceta obstruida breville bambino plus) for cafeteracompacta.com, featuring equipment in arctic white with warm stone-gray details, on a warm walnut table beside a sunlit window, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Solucionar el Error de Lanceta Obstruida o Sobrecalentamiento en la Breville Bambino Plus"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **error lanceta obstruida breville bambino plus** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Limpia los 4 agujeros de la punta con la aguja situada bajo el depósito de agua y comprueba que la lanceta esté bajada en vertical."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Retiras la jarra de acero inoxidable tras espumar leche en tu **Breville Bambino Plus (BES500)** (conocida en Europa como **Sage Bambino Plus SES500**), bajas el tubo de vapor a su posición vertical y, en lugar de ejecutar su habitual purga automática, **las tres luces de temperatura de leche y las tres luces de nivel de espuma empiezan a parpadear**. La máquina queda bloqueada y no permite extraer espresso ni volver a activar el vaporizador MilQ. Si además el circuito lleva semanas acumulando sarro, este bloqueo puede coincidir con que [la cafetera solo gotea muy lento y tarda casi un minuto](/problemas-y-soluciones/mi-cafetera-tarda-mas-de-50-segundos-en-sacar-medio-vaso-goteando/) al sacar café."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: error lanceta obstruida breville bambino plus"
+      "text": "Por qué el sensor del sistema ThermoJet bloquea la lanceta de 4 orificios en la Bambino Plus"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **error lanceta obstruida breville bambino plus** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "A diferencia de la **Breville Bambino estándar (BES450)**, cuya boquilla tiene **1 solo orificio**, la **Breville Bambino Plus (BES500)** monta una punta profesional de **4 micro-perforaciones** combinada con un sensor óptico-térmico en la base de la bandeja y un caudalímetro de alta sensibilidad. Cuando finalizas el espumado y bajas la lanceta a **90 grados**, la cafetera intenta inyectar una ráfaga de limpieza (Auto-Purge) para expulsar restos de leche hacia abajo —un proceso independiente del alivio de la válvula solenoide por el que [cae mucha agua directo a la bandeja de goteo después de cada café](/problemas-y-soluciones/sale-mucho-agua-a-la-bandeja-de-goteo-despues-de-cada-cafe/)—. Si la proteína de la leche cocida o las sales de calcio taponan siquiera **2 de los 4 orificios**, la contrapresión sube en el bloque **ThermoJet** y la electrónica activa el código de **lanceta obstruida** para evitar que el tubo reviente internamente. Consulta más códigos de Breville en nuestro [centro de problemas y soluciones](/problemas-y-soluciones/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: error lanceta obstruida breville bambino plus",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Combinación de LEDs parpadeando",
+        "Significado del diagnóstico interno",
+        "Causa raíz en la BES500",
+        "Cómo borrar el error y desbloquearla"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Limpia los 4 agujeros de la punta con la aguja situada bajo el depósito de agua y comprueba que la lanceta esté bajada en vertical.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Parpadeo de las 3 luces de Temp + las 3 luces de Froth (Espuma)",
+          "Alerta de lanceta de vapor bloqueada o sobrepresión en ThermoJet",
+          "Leche caramelizada en la punta de 4 agujeros o tubo interno con sarro",
+          "Desenroscar la punta, destapar los 4 agujeros con la aguja y pulsar Steam 5 segundos"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Parpadeo alterno de los botones 1 Cup y 2 Cup",
+          "Contador de 200 ciclos cumplido: pide ciclo de limpieza backflush o descalcificación",
+          "Acumulación de aceites de café en la válvula solenoide de 3 vías",
+          "Ejecutar el ciclo de limpieza de 5 minutos con el disco de silicona y pastilla limpiadora"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "La luz inferior de Temp de leche parpadea aunque la jarra esté puesta",
+          "Error de lectura del sensor térmico en la bandeja de goteo",
+          "La jarra no apoya sobre el disco sensor plateado o el sensor tiene leche seca encima",
+          "Limpiar el disco metálico de la bandeja y centrar la base de la jarra original Breville"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Todas las luces se apagan a mitad del vaporizado automático",
+          "Tanque trasero de 1.9 L sin agua o corte por tiempo máximo de seguridad",
+          "Depósito vacío o ciclo continuo superior a 90 segundos",
+          "Rellenar el tanque de 1.9 L y pulsar el botón Steam durante 3 segundos para cebar"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre error lanceta obstruida breville bambino plus",
-      "text": "Limpia los 4 agujeros de la punta con la aguja situada bajo el depósito de agua y comprueba que la lanceta esté bajada en vertical. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Guía de códigos de luces de error en la Breville Bambino Plus (BES500)"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar error lanceta obstruida breville bambino plus hoy mismo en tu cocina"
+      "text": "Dónde está escondida la herramienta oficial de limpieza en tu Breville Bambino Plus"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "No uses palillos de madera ni agujas de coser domésticas que puedan partirse dentro de la boquilla. Si levantas y retiras por completo el **tanque de agua trasero de 1.9 litros** de tu **Breville Bambino Plus (BES500)**, verás encajada bajo la base plástica del chasis la **herramienta original de limpieza (Steam Wand Cleaning Tool)**. Este accesorio integra en un extremo una aguja de acero calibrada exactamente al diámetro de los **4 orificios de la lanceta** y, en el centro, una llave hexagonal hueca diseñada para aflojar la punta metálica sin rayarla con alicates.",
+      "title": "Ubicación secreta: la llave y aguja desatascadora está debajo del tanque de agua"
+    },
+    {
+      "type": "h2",
+      "text": "Procedimiento en 4 pasos para desmontar la punta de 4 agujeros y resetear las luces"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Insertar la aguja calibrada en los 4 orificios exteriores",
+          "text": "Con la lanceta fría o protegiéndote con un paño húmedo, introduce el pin metálico de la herramienta Breville varias veces en cada una de las 4 perforaciones de la punta para romper la película de caseína láctea seca."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Desenroscar la boquilla con la ranura central de la herramienta",
+          "text": "Encaja el hueco redondo de la herramienta de limpieza alrededor de la punta de la lanceta y gira en sentido antihorario para desenroscarla. Sumérgela 15 minutos en una taza con agua muy caliente y unas gotas de lavavajillas o líquido limpiador de leche para disolver los restos internos de grasa."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Purgar el tubo abierto y volver a enroscar la punta limpia",
+          "text": "Antes de recolocar la boquilla, pon una jarra debajo del tubo sin punta y mantén presionado el botón Steam durante 5 segundos para que salga un chorro libre de agua caliente que arrastre cualquier residuo del conducto. Enrosca de nuevo la punta asegurándote de que la pequeña junta tórica de goma esté en su sitio."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Bajar la lanceta a posición vertical para completar el Auto-Purge",
+          "text": "Coloca la lanceta totalmente recta hacia abajo apuntando a la rejilla de la bandeja. Las luces de Temp y Froth dejarán de parpadear tras ejecutar una purga de vapor de 4 segundos, devolviendo la Bambino Plus al modo operativo normal."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con error lanceta obstruida breville bambino plus en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Necesitas pastillas de limpieza originales para el backflush de tu Breville Bambino Plus, filtros de agua ClaroSwiss o un portafiltro de 54 mm? Consulta a nuestro Asesor IA o revisa el stock actualizado en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre error lanceta obstruida breville bambino plus?",
-      "a": "Limpia los 4 agujeros de la punta con la aguja situada bajo el depósito de agua y comprueba que la lanceta esté bajada en vertical. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué se tapona la lanceta de la Breville Bambino Plus si se supone que se purga sola?",
+      "a": "La purga automática de la Breville Bambino Plus solo se activa si bajas la lanceta inmediatamente a su posición vertical de 90 grados tras terminar de espumar. Si la dejas levantada en ángulo mientras sirves la leche, la máquina espera unos segundos y cancela el Auto-Purge para no quemarte las manos, permitiendo que la leche restante se seque dentro de la punta."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿La leche de avena o almendras obstruye más rápido la lanceta de la Bambino Plus?",
+      "a": "Las bebidas vegetales (especialmente las de avena y soja edición barista) contienen almidones, gomas estabilizantes y azúcares añadidos que se caramelizan a menor temperatura que la leche de vaca. Al calentarse a 65 °C en la punta metálica, forman una costra vítrea mucho más adherente que tapona los 4 micro-orificios si no limpias con paño húmedo al instante."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué hago si quito la punta de la lanceta y las luces siguen parpadeando sin sacar vapor?",
+      "a": "Si ya limpiaste por completo la boquilla desenroscada y al pulsar Steam durante 5 segundos sin la punta puesta sigue sin salir agua y vuelven a parpadear las 6 luces, el bloqueo está más arriba: hay sarro de cal en el serpentín ThermoJet. Debes iniciar el ciclo forzado de descalcificación con ácido cítrico o descalcificador líquido en el tanque."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/la-cesta-se-queda-pegada-a-la-ducha-del-grupo-al-quitar-el-portafiltro/",
+    "/problemas-y-soluciones/mi-cafetera-tarda-mas-de-50-segundos-en-sacar-medio-vaso-goteando/",
     "/problemas-y-soluciones/sale-mucho-agua-a-la-bandeja-de-goteo-despues-de-cada-cafe/",
-    "/problemas-y-soluciones/delonghi-dedica-parpadean-las-dos-luces-de-tazas-despues-del-vapor/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/sabor-a-quemado-o-goma-en-una-cafetera-espresso-recien-comprada/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/breville-bambino-plus-error-de-lanceta-bloqueada-tres-luces.webp"
 }

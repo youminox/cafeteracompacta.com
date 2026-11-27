@@ -4,161 +4,128 @@
   "path": "/extraccion-y-recetas-espresso/que-es-el-channeling-canalizacion-en-el-espresso-y-como-eliminarlo/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "que es channeling canalizacion en espresso",
   "title": "Qué Es el Channeling (Canalización) en la Pastilla de Café y las 4 Formas de Eliminarlo al 100%",
-  "seoTitle": "Qué Es el Channeling (Canalización) en la Pastilla de Café y las 4 Formas de Eliminarlo al 100% | Guía Barista Compacta",
-  "metaDescription": "Qué Es el Channeling (Canalización) en la Pastilla de Café y las 4 Formas de Eliminarlo al 100%: El agua a 9 bares siempre busca la grieta más fácil: cómo el WDT, el prensado recto y el Puck Screen fuerzan una extracción uniforme. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "El agua a 9 bares siempre busca la grieta más fácil: cómo el WDT, el prensado recto y el Puck Screen fuerzan una extracción uniforme.",
-  "quickAnswer": "Sobre que es channeling canalizacion en espresso: El agua a 9 bares siempre busca la grieta más fácil: cómo el WDT, el prensado recto y el Puck Screen fuerzan una extracción uniforme. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Qué Es el Channeling (Canalización) en la Pastilla de Café y las 4 Formas de Eliminarlo al 100% | cafeteracompacta.com",
+  "metaDescription": "Descubre qué es el channeling o canalización en la pastilla de café espresso, cómo detectarlo en tu portafiltro y las 4 técnicas para eliminarlo al 100%.",
+  "excerpt": "Cuando el agua a 9 bares encuentra un grumo o una fisura en el borde de la cesta, perfora la pastilla y arruina el sabor. Aplica este protocolo de distribución WDT, compactación nivelada y malla difusora.",
+  "quickAnswer": "El **channeling** o canalización ocurre cuando el agua presurizada entre **9 y 15 bares** atraviesa grietas o zonas de menor densidad dentro de la pastilla de café en lugar de filtrarse de forma homogénea. Esto genera chorros erráticos y una taza simultáneamente ácida y astringente, pero se elimina al 100 % combinando agujas **WDT de 0.4 mm**, un tamper nivelador del calibre exacto y un **puck screen de 1.7 mm**.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: El agua a 9 bares siempre busca la grieta más fácil: cómo el WDT, el prensado recto y el Puck Screen fuerzan una extracción uniforme., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Eye-level 35mm editorial documentary photograph: realistic scene illustrating 'Qué Es el Channeling (Canalización) en la Pastilla de Café y las 4 Formas de Eliminarlo al 100%' (que es channeling canalizacion en espresso) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, on a light terrazzo surface in a contemporary living space, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Qué Es el Channeling (Canalización) en la Pastilla de Café y las 4 Formas de Eliminarlo al 100%"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **que es channeling canalizacion en espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. El agua a 9 bares siempre busca la grieta más fácil: cómo el WDT, el prensado recto y el Puck Screen fuerzan una extracción uniforme."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Imagina que estás frente a tu **Breville Bambino (BES450)**, tu **De’Longhi Dedica Arte (EC885M)** o tu **CASABREWS CM5418** con un portafiltro sin fondo (*bottomless*): pulsas el botón y, en lugar de formarse un único cono central de color miel avellana, la base de la cesta escupe dos micro-chorros oblicuos hacia los lados mientras una esquina del filtro permanece seca y otra se vuelve rubia pálida a los **10 segundos**. Eso es el **channeling o canalización**. Bajo una presión hidráulica de **9 a 15 bares**, el agua se comporta de forma perezosa y busca siempre el camino de menor resistencia física: basta un grumo de café apelmazado por la electricidad estática del molino, una bolsa de aire interna o un desnivel de **2 grados** al compactar para que el caudal perfore un túnel milimétrico. Como explicamos en nuestro portal de [extracción y recetas espresso](/extraccion-y-recetas-espresso/), esa fractura arruina por completo la taza porque quema las paredes del túnel (arrastrando taninos astringentes) y deja el resto del disco de café crudo y ácido."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: que es channeling canalizacion en espresso"
-    },
-    {
-      "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **que es channeling canalizacion en espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Tabla de Autopsia Visual: Qué Te Dicen el Portafiltro Sin Fondo y la Pastilla Usada"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: que es channeling canalizacion en espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Síntoma Visual en Extracción o Pastilla Seca",
+        "Tipo de Canalización Física",
+        "Causa Raíz en la Preparación (*Puck Prep*)",
+        "Solución Técnica Definitiva"
       ],
       "rows": [
         [
-          "Clave principal",
-          "El agua a 9 bares siempre busca la grieta más fácil: cómo el WDT, el prensado recto y el Puck Screen fuerzan una extracción uniforme.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Micro-chorros (*spritzers*) que salpican fuera de la taza y agujeros tipo alfiler (*pinholes*) en la pastilla",
+          "Canalización por Grumos Internos (*Clump Channeling*)",
+          "Grumos densos del molino que desvían el agua hacia bolsas de aire adyacentes",
+          "Rastrillar de abajo arriba con distribuidor WDT de agujas finas de 0.35 a 0.4 mm"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "El café sale primero en anillo por todo el borde exterior de la cesta antes de unirse al centro",
+          "Canalización Perimetral (*Side-Channeling* o *Donut Shot*)",
+          "Tamper de diámetro inferior (ej. plástico de 49.5 mm) o golpear el lateral del portafiltro tras prensar",
+          "Usar tamper calibrado exacto (51.0 mm o 53.3 mm) y prohibir golpes laterales post-compactado"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "El chorro se desvía permanentemente hacia un lado de la cesta y se rubia antes por esa mitad",
+          "Canalización por Desnivel (*Tilted Puck*)",
+          "Compactado torcido: un lado de la pastilla tiene 2 mm menos de espesor y se satura antes",
+          "Emplear un tamper con collarín de autonivelación apoyado sobre el labio de la cesta"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Cráter profundo en un punto concreto de la cara superior de la pastilla al sacar el portafiltro",
+          "Erosión de Ducha (*Shower Screen Jetting*)",
+          "Chorro de agua directo del tornillo o salida de ducha que excava la superficie del café seco",
+          "Colocar una malla difusora (Puck Screen) de acero inoxidable de 1.7 mm y 150 micras sobre la pastilla"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre que es channeling canalizacion en espresso",
-      "text": "El agua a 9 bares siempre busca la grieta más fácil: cómo el WDT, el prensado recto y el Puck Screen fuerzan una extracción uniforme. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Diagnóstico de los 4 tipos de canalización en cestas despresurizadas de 51 mm, 54 mm y 58 mm"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar que es channeling canalizacion en espresso hoy mismo en tu cocina"
+      "text": "Por Qué la Canalización Provoca Acidez y Amargor al Mismo Tiempo en Tu Taza"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Cuando el flujo se canaliza, deja de cumplirse cualquier cálculo de tiempo o peso: aunque tu báscula marque **36 gramos en 27 segundos**, esa cifra es un promedio engañoso. Por la grieta abierta circula el **70 % del agua**, elevando la extracción local en esa fisura por encima del **28 %** (extrayendo compuestos leñosos y secos), mientras que las zonas densas intactas apenas alcanzan un **13 %** de extracción (aportando ácidos cítricos agresivos). Esa mezcla caótica explica la paradoja que analizamos en nuestra guía sobre la [diferencia entre un espresso subextraído ácido y uno sobreextraído amargo](/extraccion-y-recetas-espresso/diferencia-entre-espresso-subextraido-acido-y-sobreextraido-amargo/) y que puedes comprobar empíricamente haciendo [el experimento del Salami Shot para separar las fases del espresso](/extraccion-y-recetas-espresso/que-es-el-salami-shot-el-experimento-para-entender-las-3-fases-del-espresso/). Incluso al preparar bebidas con leche como en nuestra [receta de café cortado y Gibraltar en proporción 1:1](/extraccion-y-recetas-espresso/receta-de-cafe-cortado-y-gibraltar-proporcion-1-a-1-con-leche/), un disparo canalizado corta el dulzor natural de la lactosa con un retrogusto áspero inconfundible."
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "1. Técnica WDT Profunda con Agujas de 0.35 mm a 0.4 mm",
+          "text": "Coloca un anillo dosificador magnético sobre la cesta, vierte la molienda y utiliza una herramienta **WDT (Weiss Distribution Technique)** con agujas de acupuntura de **0.35 a 0.4 mm** (nunca alfileres gruesos de más de 0.8 mm que abren surcos). Dibuja pequeños círculos desde el fondo de la cesta subiendo en espiral hasta dejar la superficie esponjosa y 100 % libre de grumos."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "2. Un Único Golpe Vertical contra la Alfombrilla Antes de Compactar",
+          "text": "Con el embudo aún puesto, da un solo toque suave y totalmente vertical con la base del portafiltro sobre tu alfombrilla de silicona (*tamping mat*). Esto colapsa las bolsas de aire microscópicas creadas por las agujas sin desplazar el café hacia los lados."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "3. Compactación Firme con Tamper Autonivelante del Calibre Exacto",
+          "text": "Usa un tamper con guía de apoyo perimetral de **51.0 mm** (para Dedica y CASABREWS) o **53.3 mm** (para Breville Bambino). Presiona verticalmente hasta que el café deje de comprimirse (unos **10 a 15 kg de fuerza** o hasta el clic del muelle calibrado); ejercer más fuerza no compacta más la cama y solo fatiga tu muñeca."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "4. Instalación del Puck Screen de 1.7 mm Sobre la Pastilla Prensada",
+          "text": "Deposita con suavidad un disco difusor (**Puck Screen**) de malla sinterizada de **1.7 mm de grosor y 150 µm** encima del café compactado. Este escudo metálico reparte el impacto del chorro de agua del termobloque uniformemente por cada milímetro cuadrado de la pastilla y mantiene limpia la ducha de tu cafetera."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "El Error Fatal del «Golpecito Lateral» con el Tamper Después de Prensar"
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Uno de los peores vicios heredados de las cafeterías comerciales antiguas es golpear el costado del portafiltro con el mango del tamper después de compactar para «hacer caer las motas de café adheridas a la pared de la cesta» y volver a prensar. **Nunca lo hagas en casa**. Una vez que has comprimido el disco de café a **15 kg**, ese impacto lateral despega microscópicamente el borde de la pastilla respecto al acero inoxidable de la cesta. Aunque pases el tamper por encima una segunda vez, la fractura perimetral ya está creada y, en cuanto entren los **9 bares** de agua, verás cómo el disparo se escapa en forma de anillo por todo el contorno exterior (*side-channeling*). Si queda algún grano suelto en la pared tras prensar, sóplalo suavemente o déjalo ahí: no afecta en absoluto a la extracción.",
+      "title": "Prohibido golpear el portafiltro una vez que ya has compactado la pastilla"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con que es channeling canalizacion en espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Quieres armar tu kit anti-channeling definitivo con distribuidor WDT de 0.4 mm, tamper autonivelante calibrado y puck screen de la medida exacta de tu cesta? Consulta a nuestro Asesor IA o revisa la disponibilidad en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre que es channeling canalizacion en espresso?",
-      "a": "El agua a 9 bares siempre busca la grieta más fácil: cómo el WDT, el prensado recto y el Puck Screen fuerzan una extracción uniforme. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Si la pastilla sale con una grieta o húmeda por arriba significa que hubo channeling?",
+      "a": "No siempre. En cafeteras con **válvula solenoide de 3 vías** (como la **Breville Bambino Plus**) o cuando quitas el portafiltro rápido, el vacío de succión final suele levantar o partir la pastilla *después* de haber terminado el disparo. Es canalización real solo si ves **agujeros redondos profundos (pinholes)** que atraviesan la pastilla de arriba abajo."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Es mejor usar un distribuidor giratorio plano o una herramienta de agujas WDT?",
+      "a": "Los distribuidores giratorios planos (tipo *palm leveler* de 3 aspas) solo aplanan los **3 o 4 milímetros superiores** del café y de hecho comprimen zonas desiguales si la montaña de molienda estaba cargada hacia un lado. Una herramienta **WDT con agujas de 0.4 mm** rompe los grumos desde el fondo mismo de la cesta y hace innecesario el nivelador giratorio."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cómo puedo saber si tengo channeling si todavía no tengo un portafiltro sin fondo?",
+      "a": "Aunque con el portafiltro original de dos picos no ves la base desnuda de la cesta, puedes detectar el channeling por tres señales claras: **1)** un chorro cae mucho más rápido y pálido que el otro pico, **2)** el flujo da tirones o salpica con burbujas grandes, y **3)** en boca aparecen acidez punzante y sequedad astringente simultáneamente."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/como-programar-el-volumen-y-tiempo-de-los-botones-en-casabrews-cm5418/",
     "/extraccion-y-recetas-espresso/diferencia-entre-espresso-subextraido-acido-y-sobreextraido-amargo/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/como-ajustar-las-3-temperaturas-y-el-volumen-en-la-delonghi-dedica-arte/",
+    "/extraccion-y-recetas-espresso/que-es-el-salami-shot-el-experimento-para-entender-las-3-fases-del-espresso/",
+    "/extraccion-y-recetas-espresso/receta-de-cafe-cortado-y-gibraltar-proporcion-1-a-1-con-leche/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-es-el-channeling-canalizacion-en-el-espresso-y-como-eliminarlo.webp"
 }

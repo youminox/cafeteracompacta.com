@@ -4,161 +4,118 @@
   "path": "/extraccion-y-recetas-espresso/receta-de-cafe-viennese-espresso-con-nata-montada-y-chocolate/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "receta cafe vienes espresso con nata",
   "title": "Cómo Preparar un Espresso Vienés (Einspänner) con Corona de Crema Batida Fría",
-  "seoTitle": "Cómo Preparar un Espresso Vienés (Einspänner) con Corona de Crema Batida Fría | Guía Barista Compacta",
-  "metaDescription": "Cómo Preparar un Espresso Vienés (Einspänner) con Corona de Crema Batida Fría: Beber el espresso caliente de 93 °C a través de una capa superior de nata montada fría sin mezclar con cuchara. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Beber el espresso caliente de 93 °C a través de una capa superior de nata montada fría sin mezclar con cuchara.",
-  "quickAnswer": "Sobre receta cafe vienes espresso con nata: Beber el espresso caliente de 93 °C a través de una capa superior de nata montada fría sin mezclar con cuchara. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Preparar un Espresso Vienés (Einspänner) con Corona de Crema Batida Fría | cafeteracompacta.com",
+  "metaDescription": "Aprende la auténtica receta de café vienés o Einspänner con espresso doble y corona de nata semimontada fría al 35 % de grasa que flota sin hundirse.",
+  "excerpt": "La nata en spray se derrite en segundos sobre el café caliente. Descubre cómo semimontar crema fría al 35 % de materia grasa para crear el contraste térmico perfecto del auténtico Einspänner vienés.",
+  "quickAnswer": "El auténtico café vienés (Einspänner) se prepara extrayendo un espresso doble de 38 a 40 g en una taza de cristal precalentada y coronándolo con una capa de 3 cm de nata líquida (mínimo 35 % de grasa) batida en frío a punto semimontado con un 8 % de azúcar glas. A diferencia de la nata en aerosol, esta densidad flota como un sello térmico y permite beber el café caliente a través de la crema fría.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Beber el espresso caliente de 93 °C a través de una capa superior de nata montada fría sin mezclar con cuchara., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "High-angle 45-degree workbench/tabletop perspective on 28mm lens: realistic scene illustrating 'Cómo Preparar un Espresso Vienés (Einspänner) con Corona de Crema Batida Fría' (receta cafe vienes espresso con nata) for cafeteracompacta.com, featuring equipment in graphite gray with subtle amber indicator details, on a warm walnut table beside a sunlit window, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Preparar un Espresso Vienés (Einspänner) con Corona de Crema Batida Fría"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **receta cafe vienes espresso con nata** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Beber el espresso caliente de 93 °C a través de una capa superior de nata montada fría sin mezclar con cuchara."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Pocas experiencias cafeteras superan el contraste sensorial de un auténtico **Einspänner** o café vienés: acercas los labios a la copa de cristal y el espresso negro a **80 °C** atraviesa una nube espesa y helada de crema batida (**4 °C**), combinando en un solo sorbo el amargor achocolatado del grano caliente con la suavidad láctea fría sin que ambas capas lleguen a mezclarse. Sin embargo, cuando intentas preparar en casa la **receta cafe vienes espresso con nata** coronando tu taza con un bote de nata montada en spray de supermercado, el resultado dura exactamente veinte segundos antes de que la espuma se desplome con un siseo, se licúe en charcos de grasa amarilla flotante y entibie toda la bebida. Aprender la técnica austriaca de semimontado en frío dentro de nuestro espacio de [extracción y recetas espresso](/extraccion-y-recetas-espresso/) te permitirá servir en tu **Breville Bambino (BES450)**, **De’Longhi Dedica Arte (EC885M)** o **CASABREWS CM5418** una corona de pastelería vienesa impecable."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: receta cafe vienes espresso con nata"
+      "text": "Física de la flotación: por qué la nata en spray se derrite en 25 segundos y la crema semimontada al 35 % flota como aislante"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **receta cafe vienes espresso con nata** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "La nata en aerosol comercial (*squirty cream*) utiliza óxido nitroso (**N2O**) a presión para expandir instantáneamente hasta cuatro veces el volumen de una leche grasienta con estabilizantes. Esas celdas de gas enormes tienen paredes líquidas ultrafinas: apenas entran en contacto con el vapor ascendente de un espresso a **85 °C**, el gas se dilata, las burbujas estallan y la grasa fundida cae al fondo. Por el contrario, los históricos cafés de Viena utilizan **nata líquida para montar con un 35 % a 38 % de materia grasa** enfriada a **4 °C** y batida mecánicamente con varillas solo hasta un **punto semimontado (picos suaves o ~80 % de montado)**, un punto ligeramente más denso que la corona que preparamos en la [receta de Vanilla Sweet Cream y Espresso Shaken](/extraccion-y-recetas-espresso/receta-de-vanilla-sweet-cream-cold-brew-y-espresso-shaken/). En este estado, la red de glóbulos de grasa atrapa microburbujas de aire con una densidad de unos **0.55 g/cm³** (muy inferior a los **1.01 g/cm³** del espresso), flotando sobre la crema del café como un tapón térmico hermético. Además, como esta receta emplea un disparo doble completo, conviene conocer [cuánta cafeína tiene un espresso doble comparado con un café de filtro](/extraccion-y-recetas-espresso/cuanta-cafeina-tiene-un-espresso-doble-comparado-con-un-cafe-de-filtro/) si lo preparas como postre de sobremesa nocturna."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: receta cafe vienes espresso con nata",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Tipo de Crema / Nata",
+        "Materia Grasa y Punto de Batido",
+        "Estabilidad sobre Espresso a 85 °C",
+        "Sensación en Boca al Beber a Través de la Capa"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Beber el espresso caliente de 93 °C a través de una capa superior de nata montada fría sin mezclar con cuchara.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Nata en Spray Comercial (Aerosol N2O)",
+          "20 % – 25 % MG (espuma hiper-aireada)",
+          "Colapsa en 20–30 segundos y suelta suero graso",
+          "Espuma hueca que desaparece y deja película aceitosa tibia"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Nata Montada Dura de Repostería (100 % batida)",
+          "35 % MG batida hasta picos rígidos firmes",
+          "Aguanta 4–5 min pero forma un bloque rígido aislado",
+          "No fluye con el café; obliga a comerla con cuchara por separado"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Crema Semimontada Vienesa (Punto Einspänner)",
+          "35 % – 38 % MG batida al 75–80 % (picos suaves) + 8 % azúcar glas",
+          "Flota intacta 8–10 minutos creando un sello térmico perfecto",
+          "El café caliente fluye por debajo atravesando una crema fría aterciopelada"
         ]
-      ]
+      ],
+      "caption": "Comparativa técnica de estabilidad térmica sobre espresso a 85 °C según el tipo de nata utilizada"
+    },
+    {
+      "type": "h2",
+      "text": "El protocolo de degustación vienés: por qué jamás debes remover el Einspänner con la cucharilla"
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de barista sobre receta cafe vienes espresso con nata",
-      "text": "Beber el espresso caliente de 93 °C a través de una capa superior de nata montada fría sin mezclar con cuchara. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "En las cafeterías clásicas de Viena (como el *Café Central* o el *Café Sperl*), el **Einspänner** nació para los cocheros de caballos de un solo tiro, quienes necesitaban un café que se mantuviera muy caliente bajo la intemperie invernal gracias al grueso tapón aislante de nata fría. Si al servir tu café vienés metes la cucharilla y remueves la nata con el espresso, destruyes por completo la arquitectura térmica de la bebida y la conviertes en un simple café con nata tibio (**45 °C**). La regla tradicional exige **beber directamente del borde de la taza sin remover**, dejando que el líquido caliente de abajo pase a través del collar frío de nata en cada trago.",
+      "title": "Bebe siempre el espresso caliente a través de la corona fría sin remover con cucharilla"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar receta cafe vienes espresso con nata hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Receta paso a paso para preparar un Espresso Vienés (Einspänner) con corona de nata y cacao en casa"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Semimonta 70 ml de nata fría (35 % MG) con 6 g de azúcar glas hasta lograr picos suaves y fluidos",
+          "text": "Vierte en un vaso metálico o bol frío recién sacado de la nevera **70 ml** de nata líquida para montar (**mínimo 35 % de materia grasa**, a **4 °C**), **6 g** de azúcar glas (el almidón del azúcar glas estabiliza la emulsión sin dejar cristales) y **2 gotas** de extracto de vainilla. Bate con varillas manuales o un espumador eléctrico durante **20 a 30 segundos** y detente cuando la crema tenga cuerpo de yogur griego denso que cae lentamente de la cuchara sin llegar a formar picos duros."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Extrae un espresso doble largo (38–40 g) o Verlängerter en una copa de cristal precalentada",
+          "text": "Precalienta con agua caliente una taza o copa de vidrio grueso con asa de **160 a 180 ml** y sécala. Extrae en tu **Breville Bambino (BES450)**, **De’Longhi Dedica Arte (EC885M)** o **CASABREWS CM5418** un espresso doble ligeramente largo de **38 a 40 g** (ratio **1:2.2** en **28–30 segundos**) y, si deseas el estilo *Verlängerter* vienés auténtico, añade **20 ml** de agua caliente a **90 °C** (más media cucharadita de azúcar o **5 g** de salsa de chocolate negro fundido en el fondo si prefieres la base endulzada)."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Deposita la corona fría con el dorso de una cuchara y espolvorea cacao puro o virutas de chocolate 70 %",
+          "text": "Coloca el dorso de una cuchara sopera justo a ras de la crema avellana del espresso y desliza suavemente la nata semimontada fría por encima hasta formar una cúpula de **2.5 a 3 cm** de espesor que cubra toda la boca de la copa. Termina tamizando **1 g** de cacao alcalinizado puro en polvo o rallando virutas finas de chocolate negro al **70 %** sobre la cima blanca y sírvelo al instante sin remover."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con receta cafe vienes espresso con nata en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Quieres descubrir qué tazas térmicas de cristal de doble pared, espumadores o cafeteras compactas con control PID elevarán tus recetas en casa? Pregunta a nuestro Asesor IA o consulta la disponibilidad actual en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre receta cafe vienes espresso con nata?",
-      "a": "Beber el espresso caliente de 93 °C a través de una capa superior de nata montada fría sin mezclar con cuchara. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué no puedo montar nata ligera de cocinar (18 % de grasa) para hacer café vienés?",
+      "a": "La nata etiquetada 'para cocinar' solo contiene entre un 15 % y un 18 % de materia grasa y suele llevar almidones modificados para no cortarse en salsas, pero carece de la red de glóbulos grasos necesaria (mínimo 32 % a 35 % de grasa) para atrapar aire al batirla. Si la viertes sobre el espresso, se hundirá directamente al fondo."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Qué diferencia hay entre el Einspänner (Café Vienés) y el Franziskaner austriaco?",
+      "a": "El Einspänner se prepara sobre una base de espresso doble o Verlängerter (café negro concentrado sin leche caliente) coronado por partes casi iguales de nata batida fría, mientras que el Franziskaner vienés es un Melange (espresso mezclado con leche vaporizada caliente tipo cappuccino) al que se le añade encima una cucharada de nata montada."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Puedo usar un sifón de repostería de acero inoxidable con cargas de N2O para el café vienés?",
+      "a": "Sí, un sifón de cocina cargado con cápsulas de N2O funciona muy bien siempre que lo llenes con nata fresca real del 35 % de grasa y azúcar glas, y utilices una sola carga de gas para una botella de 0.5 L agitando únicamente 3 o 4 veces; así obtienes una textura densa y cremosa en lugar de una espuma seca y quebradiza."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/receta-de-red-eye-y-black-eye-cafe-de-filtro-con-shot-de-espresso/",
     "/extraccion-y-recetas-espresso/receta-de-vanilla-sweet-cream-cold-brew-y-espresso-shaken/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/diferencia-de-extraccion-entre-cesta-recta-y-cesta-conica/",
+    "/extraccion-y-recetas-espresso/como-afecta-la-presion-de-tamping-fuerte-vs-suave-al-tiempo-del-shot/",
+    "/extraccion-y-recetas-espresso/cuanta-cafeina-tiene-un-espresso-doble-comparado-con-un-cafe-de-filtro/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/receta-de-cafe-viennese-espresso-con-nata-montada-y-chocolate.webp"
 }

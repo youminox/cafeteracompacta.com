@@ -4,161 +4,115 @@
   "path": "/molinos-y-molienda/ajuste-molino-manual-1zpresso-j-ultra-y-jx-pro/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "ajustes 1zpresso j ultra para espresso",
   "title": "Guía de Rotaciones y Clics en 1Zpresso J-Ultra para Espresso Despresurizado",
-  "seoTitle": "Guía de Rotaciones y Clics en 1Zpresso J-Ultra para Espresso Despresurizado | Guía Barista Compacta",
-  "metaDescription": "Guía de Rotaciones y Clics en 1Zpresso J-Ultra para Espresso Despresurizado: Cómo aprovechar sus escalones de 8 micras por clic para ajustar la extracción de 2 en 2 segundos. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Cómo aprovechar sus escalones de 8 micras por clic para ajustar la extracción de 2 en 2 segundos.",
-  "quickAnswer": "Sobre ajustes 1zpresso j ultra para espresso: Cómo aprovechar sus escalones de 8 micras por clic para ajustar la extracción de 2 en 2 segundos. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Guía de Rotaciones y Clics en 1Zpresso J-Ultra para Espresso Despresurizado | cafeteracompacta.com",
+  "metaDescription": "Domina las rotaciones y clics del 1Zpresso J-Ultra y JX-Pro para espresso despresurizado: calibración a cero y ajustes de 8 micras para 51 mm, 54 mm y 58 mm.",
+  "excerpt": "Desciframos la nomenclatura de vueltas, números y puntos de 1Zpresso para que aproveches los pasos de 8 micras del J-Ultra y claves extracciones sin canalización en tu cafetera compacta.",
+  "quickAnswer": "En el **1Zpresso J-Ultra**, que ofrece **100 clics por vuelta** con pasos ultra-precisos de **8 micras**, el rango para espresso despresurizado se ubica entre **1.1.0 y 1.4.5** (una rotación completa más 10 a 45 clics desde el punto cero). Para portafiltros de **51 mm** inicia en **1.3.5**, para cestas de **54 mm** como la **Breville Bambino** parte de **1.2.5**, y en el **1Zpresso JX-Pro** (40 clics/vuelta) sitúa el dial entre **1.3.0 y 1.5.2**.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Cómo aprovechar sus escalones de 8 micras por clic para ajustar la extracción de 2 en 2 segundos., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Three-quarter 50mm studio-natural close-up shot: realistic scene illustrating 'Guía de Rotaciones y Clics en 1Zpresso J-Ultra para Espresso Despresurizado' (ajustes 1zpresso j ultra para espresso) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, in a bright family home interior with clean architectural lines, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Guía de Rotaciones y Clics en 1Zpresso J-Ultra para Espresso Despresurizado"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **ajustes 1zpresso j ultra para espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Cómo aprovechar sus escalones de 8 micras por clic para ajustar la extracción de 2 en 2 segundos."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Cuando das el salto a un filtro sin fondo y descubres la enorme [diferencia de molienda entre un filtro presurizado y uno no presurizado](/molinos-y-molienda/diferencia-molienda-filtro-presurizado-vs-no-presurizado/), muchos molinos por pasos dejan un vacío frustrante entre un clic que ahoga la cafetera en **42 segundos** y el siguiente que deja escapar el espresso en **21 segundos**. Ahí es donde brillan los dos referentes manuales de alta ingeniería: el **1Zpresso J-Ultra**, con **muelas cónicas de 48 mm recubiertas de titanio** y un avance microscópico de **8 micras (0.008 mm) por clic**, y su hermano todoterreno **1Zpresso JX-Pro**, equipado con pasos de **12.5 micras**. Sin embargo, su sistema de numeración por rotaciones, dígitos y subdivisiones suele confundir en la primera calibración dentro de nuestra guía de [molinos de café compactos para espresso y calibración de molienda](/molinos-y-molienda/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: ajustes 1zpresso j ultra para espresso"
+      "text": "Cómo leer la nomenclatura de 3 cifras (Rotación . Número . Clic) en 1Zpresso"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **ajustes 1zpresso j ultra para espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: ajustes 1zpresso j ultra para espresso",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "Cómo aprovechar sus escalones de 8 micras por clic para ajustar la extracción de 2 en 2 segundos.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre ajustes 1zpresso j ultra para espresso",
-      "text": "Cómo aprovechar sus escalones de 8 micras por clic para ajustar la extracción de 2 en 2 segundos. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
-    },
-    {
-      "type": "h2",
-      "text": "Paso a paso para aplicar ajustes 1zpresso j ultra para espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con ajustes 1zpresso j ultra para espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Para compartir recetas exactas sin contar más de cien chasquidos de memoria, la comunidad de baristas utiliza una notación de tres bloques separados por puntos (**R.N.C**). El primer dígito indica el número de **vueltas completas (rotaciones)** desde el punto cero calibrado; el segundo dígito señala el **número grande impreso en el anillo (del 0 al 9)**; y el tercer dígito representa los **pequeños puntos intermedios** entre un número y el siguiente. Esta resolución te permite hilar muchísimo más fino que cuando buscas [en qué clic poner el Baratza Encore ESP para CASABREWS CM5418 y De’Longhi Dedica](/molinos-y-molienda/ajuste-baratza-encore-esp-para-casabrews-y-dedica/) o cuando necesitas cerrar apenas **16 micras** al aplicar la guía sobre [cómo ajustar tu molino para Iced Latte y espresso sobre hielo](/molinos-y-molienda/molienda-para-cafe-helado-iced-espresso-y-affogato/)."
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**En el 1Zpresso J-Ultra (100 clics por vuelta / 8 micras):** Hay **10 números (0 al 9)** y **10 clics entre cada número**. Por tanto, el ajuste **1.2.5** significa dar **1 vuelta completa (100 clics)** + llegar al **número 2 (20 clics)** + avanzar **5 marquitas adicionales**, sumando **125 clics totales** (una apertura vertical exacta de **1.00 mm**).",
+        "**En el 1Zpresso JX-Pro (40 clics por vuelta / 12.5 micras):** Hay **10 números (0 al 9)** pero solo **4 clics entre cada número** (marcados por puntos). Así, el ajuste **1.4.2** equivale a **1 vuelta completa (40 clics)** + el **número 4 (16 clics)** + **2 clics adicionales**, sumando **58 clics totales**.",
+        "**Sensibilidad real en taza del J-Ultra:** Debido a sus **8 micras por paso**, mover un solo clic apenas varía el tiempo de extracción en **1.5 a 2 segundos**; para notar un cambio claro al iniciar tu calibración, muévete en bloques de **3 en 3 clics** (por ejemplo, de **1.2.5 a 1.2.8**) y usa los clics individuales para el ajuste fino final."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Tabla comparativa de ajustes para espresso en 1Zpresso J-Ultra y JX-Pro"
     },
     {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "table",
+      "headers": [
+        "Portafiltro y tipo de tueste",
+        "Ajuste en 1Zpresso J-Ultra (8 µm/clic)",
+        "Equivalencia en clics totales J-Ultra",
+        "Ajuste en 1Zpresso JX-Pro (12.5 µm/clic)"
+      ],
+      "rows": [
+        [
+          "51 mm (CASABREWS / Dedica) – Tueste medio-oscuro",
+          "1.3.2 a 1.4.5",
+          "132 a 145 clics",
+          "1.4.2 a 1.6.0 (58 a 64 clics)"
+        ],
+        [
+          "51 mm (CASABREWS / Dedica) – Tueste medio-claro",
+          "1.2.4 a 1.3.2",
+          "124 a 132 clics",
+          "1.3.2 a 1.4.2 (54 a 58 clics)"
+        ],
+        [
+          "54 mm (Breville Bambino) – Tueste medio clásico",
+          "1.2.0 a 1.3.2",
+          "120 a 132 clics",
+          "1.3.0 a 1.4.2 (52 a 58 clics)"
+        ],
+        [
+          "58 mm Comercial – Tueste medio a claro",
+          "1.0.5 a 1.2.2",
+          "105 a 122 clics",
+          "1.1.3 a 1.3.1 (47 a 53 clics)"
+        ]
+      ],
+      "caption": "Rangos de rotaciones y clics para filtros despresurizados (25 a 30 segundos en ratio 1:2)"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo calibrar a cero el anillo exterior del 1Zpresso J-Ultra tras la limpieza"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "A diferencia de otros molinos manuales donde el cero cambia según aprietes la tuerca interna, el **1Zpresso J-Ultra** permite alinear exactamente el **#0 con la marca triangular** sin herramientas. Coloca el dial externo en el **número 0**, introduce el eje con la muela cónica desde abajo presionándolo firmemente contra el cuerpo con el pulgar, y enrosca la **tuerca moleteada superior** hasta que sientas resistencia y la manivela no caiga por gravedad al poner el molino en horizontal. Si al probarlo el bloqueo cae en **0.0.3**, afloja un cuarto de vuelta la tuerca moleteada con la muela presionada hasta clavarlo en **0.0.0**.",
+      "title": "Método oficial de puesta a cero en el 1Zpresso J-Ultra sin herramientas"
+    },
+    {
+      "type": "cta",
+      "text": "¿Estás decidiendo entre la precisión extrema de 8 micras del 1Zpresso J-Ultra o un molino eléctrico compacto para tu cocina? Revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página o consulta a nuestro Asesor IA para comparar tiempos de molienda y compatibilidad con tu cafetera."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre ajustes 1zpresso j ultra para espresso?",
-      "a": "Cómo aprovechar sus escalones de 8 micras por clic para ajustar la extracción de 2 en 2 segundos. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Qué diferencia real hay en taza entre el 1Zpresso J-Ultra y el antiguo JX-Pro para espresso?",
+      "a": "El 1Zpresso J-Ultra es un molino especializado en espresso con muelas recubiertas de titanio que generan la cantidad justa de finos para dar cuerpo y textura cremosa a 9 bares, además de contar con un vaso receptor magnético y pasos de 8 micras frente a las 12.5 micras del JX-Pro."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Es complicado volver a calibrar el 1Zpresso J-Ultra después de desmontarlo para limpiar?",
+      "a": "Nunca debes desmontar ni tocar el tornillo hexagonal profundo del rodamiento central, pero sí puedes desenroscar a mano la tuerca moleteada superior para extraer el eje con la muela inferior y cepillar los restos de café cada 3 o 4 semanas, recalibrando el punto 0.0.0 al volver a montar."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Sirve el 1Zpresso J-Ultra también para preparar café de filtro o V60?",
+      "a": "Sí. Para prensa francesa, V60 o Chemex en el 1Zpresso J-Ultra debes abrir el dial entre las rotaciones 2.2.0 y 2.6.0 (220 a 260 clics). No obstante, al tener una geometría de muela pensada para espresso, produce algo más de partículas finas en filtro que los modelos de la serie K-Ultra."
     }
   ],
   "related": [
+    "/molinos-y-molienda/molienda-para-cafe-helado-iced-espresso-y-affogato/",
     "/molinos-y-molienda/",
-    "/molinos-y-molienda/ajuste-breville-smart-grinder-pro-muela-interna/",
-    "/molinos-y-molienda/ajuste-molino-manual-kingrinder-k6-para-espresso/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/ajuste-baratza-encore-esp-para-casabrews-y-dedica/",
+    "/molinos-y-molienda/diferencia-molienda-filtro-presurizado-vs-no-presurizado/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/ajuste-molino-manual-1zpresso-j-ultra-y-jx-pro.webp"
 }

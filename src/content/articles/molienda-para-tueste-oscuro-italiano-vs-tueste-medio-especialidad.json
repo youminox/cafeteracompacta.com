@@ -3,162 +3,116 @@
   "pillar": "molinos-y-molienda",
   "path": "/molinos-y-molienda/molienda-para-tueste-oscuro-italiano-vs-tueste-medio-especialidad/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "ajuste molienda tueste oscuro vs tueste medio",
   "title": "Diferencia de Ajuste de Molienda Entre un Tueste Oscuro Italiano y un Tueste Medio de Especialidad",
-  "seoTitle": "Diferencia de Ajuste de Molienda Entre un Tueste Oscuro Italiano y un Tueste Medio de Especialidad | Guía Barista Compacta",
-  "metaDescription": "Diferencia de Ajuste de Molienda Entre un Tueste Oscuro Italiano y un Tueste Medio de Especialidad: El tueste oscuro es más quebradizo y soluble (pide molienda más gruesa y 22–25 s), mientras el tueste medio pide molienda más fina y 28–32 s. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "El tueste oscuro es más quebradizo y soluble (pide molienda más gruesa y 22–25 s), mientras el tueste medio pide molienda más fina y 28–32 s.",
-  "quickAnswer": "Sobre ajuste molienda tueste oscuro vs tueste medio: El tueste oscuro es más quebradizo y soluble (pide molienda más gruesa y 22–25 s), mientras el tueste medio pide molienda más fina y 28–32 s. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Diferencia de Ajuste de Molienda Entre un Tueste Oscuro Italiano y un Tueste Medio de Especialidad | cafeteracompacta.com",
+  "metaDescription": "Guía práctica para ajustar la molienda entre café de tueste oscuro italiano y tueste medio de especialidad en Baratza Encore ESP, Fellow Opus y Turin DF54.",
+  "excerpt": "Descubre cuántos clics abrir o cerrar tu molino compacto al cambiar de un grano italiano tradicional a un café de especialidad según su porosidad, densidad y solubilidad.",
+  "quickAnswer": "Un café de **tueste medio de especialidad** es más denso, menos poroso y menos soluble que un **tueste oscuro italiano**, por lo que ofrece menor resistencia al paso del agua y exige una molienda **significativamente más fina**. En la práctica, al pasar de un grano oscuro a uno medio en cafeteras como la **Breville Bambino** o la **CASABREWS CM5418**, deberás cerrar entre **3 y 5 clics** en el **Baratza Encore ESP** (pasando de **#15–17** a **#9–12**) o bajar de **#17** a **#12** en el **Turin DF54**.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: El tueste oscuro es más quebradizo y soluble (pide molienda más gruesa y 22–25 s), mientras el tueste medio pide molienda más fina y 28–32 s., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Side-profile technical detail shot on 85mm prime lens: realistic scene illustrating 'Diferencia de Ajuste de Molienda Entre un Tueste Oscuro Italiano y un Tueste Medio de Especialidad' (ajuste molienda tueste oscuro vs tueste medio) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, beside a neat storage shelf in a sunlit modern room, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Diferencia de Ajuste de Molienda Entre un Tueste Oscuro Italiano y un Tueste Medio de Especialidad"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **ajuste molienda tueste oscuro vs tueste medio** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. El tueste oscuro es más quebradizo y soluble (pide molienda más gruesa y 22–25 s), mientras el tueste medio pide molienda más fina y 28–32 s."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Acabas de terminar una bolsa de mezcla italiana clásica con la que tu **CASABREWS CM5418** o tu **Breville Bambino Plus BES500** entregaba **36 gramos** de espresso cremoso en **28 segundos** clavados. Abres un paquete recién tostado de café de especialidad colombiano de tueste medio, mantienes exactamente el mismo número en tu [molino eléctrico de muelas](/molinos-y-molienda/) y pulsas el botón de extracción: el líquido sale disparado como un grifo abierto, sin apenas crema, completando la taza en **14 segundos** con un sabor ácido y hueco. No se ha descalibrado tu equipo; acabas de chocar contra la diferencia estructural más importante de la física del café tostado."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: ajuste molienda tueste oscuro vs tueste medio"
+      "text": "Porosidad celular y fragilidad: por qué el grano oscuro frena el agua con molienda más gruesa"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **ajuste molienda tueste oscuro vs tueste medio** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Un café de tueste oscuro estilo italiano ha superado el segundo *crack* en el tambor tostador (**220 °C a 228 °C**), perdiendo entre un **18 % y un 22 %** de su masa original por evaporación y pirólisis de fibras. Sus paredes de celulosa quedan tan porosas y quebradizas que, al pasar por las muelas, se fracturan generando una alta cantidad de microfinos que hinchan la pastilla rápidamente al contacto con el agua a **9 bares**. En cambio, un tueste medio de especialidad (**205 °C a 212 °C**) conserva una matriz celular compacta, elástica y mucho menos porosa; el agua atraviesa el lecho sin apenas absorción interna, exigiéndote cerrar el dial entre **3 y 6 puntos** hacia el extremo fino para crear la misma resistencia hidráulica (una exigencia de cierre parecida, aunque por causas distintas, a la que experimentamos [al calibrar un café descafeinado al agua](/molinos-y-molienda/como-moler-cafe-descafeinado-para-espresso-por-que-pide-mas-fino/)). Además, la mayor dureza mecánica de los tuestes medios y claros obliga al motor a trabajar con más par torsor, por lo que conviene conocer [cómo evitar bloqueos de embrague en granos muy densos](/molinos-y-molienda/como-desatascar-un-molino-de-espresso-bloqueado-por-tueste-claro/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: ajuste molienda tueste oscuro vs tueste medio",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Parámetro o modelo de molino",
+        "Tueste Oscuro Italiano (2.º crack / aceitoso)",
+        "Tueste Medio-Oscuro (chocolate / frutos secos)",
+        "Tueste Medio Especialidad (origen único / frutal)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "El tueste oscuro es más quebradizo y soluble (pide molienda más gruesa y 22–25 s), mientras el tueste medio pide molienda más fina y 28–32 s.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Baratza Encore ESP (muelas cónicas 40 mm M2)",
+          "Clics #15 a #18 (rango alto de micro-espresso)",
+          "Clics #12 a #14 (centro de la escala espresso)",
+          "Clics #8 a #11 (cerrar de 3 a 5 clics adicionales)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Fellow Opus (muelas cónicas 40 mm C6-40)",
+          "Dial #2.1 a #2.3 (ajuste macro exterior)",
+          "Dial #1.6 a #2.0 (combinado con anillo Bevel)",
+          "Dial #1.1 a #1.5 (usar micro-ajuste interno Bevel)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Turin DF54 (muelas planas 54 mm desde cero real)",
+          "Marcas #16 a #19 del collarín continuo",
+          "Marcas #13 a #15 del collarín continuo",
+          "Marcas #10 a #13 del collarín continuo"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Temperatura ideal en cafetera con PID (EC950M / EC885M)",
+          "Baja (88 °C – 90 °C) para evitar amargor ceniciento",
+          "Media (91 °C – 92 °C) para equilibrio de dulzor",
+          "Alta (93 °C – 94 °C) para extraer azúcares densos"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre ajuste molienda tueste oscuro vs tueste medio",
-      "text": "El tueste oscuro es más quebradizo y soluble (pide molienda más gruesa y 22–25 s), mientras el tueste medio pide molienda más fina y 28–32 s. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Referencias de dial y parámetros para 18 g de dosis (ratio 1:2 en 26–30 s) según perfil de tueste"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar ajuste molienda tueste oscuro vs tueste medio hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con ajuste molienda tueste oscuro vs tueste medio en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Tres ajustes simultáneos al pasar de café comercial italiano a grano de especialidad"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Compensación de volumen en la cesta por diferencia de densidad**: Como el grano oscuro está más expandido y pesa menos por unidad de volumen, **18 gramos** de tueste italiano ocupan mucho más espacio vertical en un portafiltro de **51 mm** (**CASABREWS CM5418**) o **54 mm** (**Breville Bambino BES450**) que **18 gramos** de tueste medio; al pasar a especialidad, a menudo podrás subir la dosis en **0.5 g a 1.0 g** sin tocar la ducha del grupo.",
+        "**Cierre progresivo del molino con motor encendido**: Cuando cierres de un ajuste **#16** a un **#11** en el **Baratza Encore ESP** o el **Turin DF54**, gira siempre el collarín con el motor en marcha o la cámara libre de granos para no aplastar fragmentos duros contra las muelas.",
+        "**Alargamiento de la relación de extracción (Brew Ratio)**: Mientras un tueste oscuro brilla en proporciones cortas de **1:1.5 a 1:1.8** (**18 g** en seco para **27 g a 32 g** en taza) que cortan los compuestos amargos finales, un tueste medio de especialidad necesita ratios de **1:2 a 1:2.3** (**36 g a 42 g** líquidos) para disolver su acidez compleja y equilibrar la taza."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Cómo gestionar los granos aceitosos sin contaminar tu siguiente bolsa de especialidad"
     },
     {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "callout",
+      "variant": "tip",
+      "text": "Los tuestes italianos oscuros exudan lípidos a la superficie del grano a partir del quinto día tras el tueste. Esos aceites recubren las paredes del conducto de salida y la tolva de tu **Baratza Encore ESP** o **Fellow Opus**, oxidándose en menos de **48 horas** y frenando por adherencia el deslizamiento del polvo seco cuando cambias a un café de especialidad. Antes de cargar tu nueva bolsa de tueste medio, cepilla el conducto antiestático, acciona el fuelle de silicona y purga **5 gramos** del nuevo grano en el ajuste más fino para arrastrar los restos oscuros adheridos a los dientes de corte.",
+      "title": "Purgado de aceites superficiales entre cambios de tueste"
+    },
+    {
+      "type": "cta",
+      "text": "Pide a nuestro Asesor IA la receta exacta de clic y gramaje para tu combinación de molino y cafetera o revisa la disponibilidad actual del Baratza Encore ESP, Fellow Opus y Turin DF54 en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre ajuste molienda tueste oscuro vs tueste medio?",
-      "a": "El tueste oscuro es más quebradizo y soluble (pide molienda más gruesa y 22–25 s), mientras el tueste medio pide molienda más fina y 28–32 s. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cómo puedo alternar entre un café oscuro por la mañana y uno de especialidad por la tarde en el mismo molino?",
+      "a": "La forma más práctica sin desperdiciar media bolsa es mantener las tolvas vacías y trabajar por dosis única (single dosing), pesando exactamente los 16 g o 18 g de cada café antes de moler. Anota el número de clic exacto de cada grano y purga 1 a 2 gramos al cambiar de uno a otro."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué mi café de tueste medio produce menos espuma o crema visual que el tueste italiano?",
+      "a": "El tueste oscuro libera mucho más gas carbónico residual y lípidos emulsionables, creando una crema espesa y atigrada incluso con extracciones rápidas. En el tueste medio de especialidad, una crema más fina y avellanada es completamente normal y no indica falta de presión en tu cafetera de 15 o 20 bares."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Debo cerrar tanto el molino para tueste medio si todavía uso los filtros presurizados de fábrica?",
+      "a": "En una cesta presurizada de doble pared, la válvula inferior ya genera la contrapresión de 9 bares, por lo que si cierras la molienda del tueste medio al nivel de una cesta no presurizada bloquearás el único orificio de salida. Cierra solo 1 o 2 clics respecto al tueste oscuro en lugar de 5."
     }
   ],
   "related": [
-    "/molinos-y-molienda/",
-    "/molinos-y-molienda/que-son-las-pastillas-urnex-grindz-y-cada-cuanto-usarlas/",
-    "/molinos-y-molienda/alineacion-de-muelas-planas-con-rotulador-pizarra-marker-test/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/como-desatascar-un-molino-de-espresso-bloqueado-por-tueste-claro/",
+    "/molinos-y-molienda/temperatura-de-las-muelas-afecta-moler-varios-cafes-seguidos/",
+    "/molinos-y-molienda/como-moler-cafe-descafeinado-para-espresso-por-que-pide-mas-fino/",
+    "/molinos-y-molienda/molienda-para-cestas-de-1-taza-single-shot-vs-2-tazas-double/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/molienda-para-tueste-oscuro-italiano-vs-tueste-medio-especialidad.webp"
 }

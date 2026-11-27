@@ -3,162 +3,116 @@
   "pillar": "molinos-y-molienda",
   "path": "/molinos-y-molienda/muelas-conicas-vs-muelas-planas-en-espresso-compacto/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "muelas conicas vs muelas planas espresso",
   "title": "Muelas Cónicas vs Muelas Planas en Casa: Diferencias Reales en Cuerpo, Claridad y Espacio",
-  "seoTitle": "Muelas Cónicas vs Muelas Planas en Casa | Guía Barista Compacta",
-  "metaDescription": "Muelas Cónicas vs Muelas Planas en Casa: Diferencias Reales en Cuerpo, Claridad y Espacio: Las muelas cónicas (Encore ESP, Niche) resaltan la textura achocolatada y ocupan menos; las muelas planas (DF54, Eureka) destacan notas frutales y florales. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Las muelas cónicas (Encore ESP, Niche) resaltan la textura achocolatada y ocupan menos; las muelas planas (DF54, Eureka) destacan notas frutales y florales.",
-  "quickAnswer": "Sobre muelas conicas vs muelas planas espresso: Las muelas cónicas (Encore ESP, Niche) resaltan la textura achocolatada y ocupan menos; las muelas planas (DF54, Eureka) destacan notas frutales y florales. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Muelas Cónicas vs Muelas Planas en Casa: Diferencias Reales en Cuerpo, Claridad y Espacio | cafeteracompacta.com",
+  "metaDescription": "Comparativa técnica entre muelas cónicas y muelas planas para espresso en casa: distribución bimodal vs unimodal, cuerpo en leche, claridad y tamaño real.",
+  "excerpt": "Analizamos cara a cara los molinos de muelas cónicas (Baratza Encore ESP, Fellow Opus) frente a muelas planas (Turin DF54) para saber cuál rinde mejor con tu cafetera espresso compacta.",
+  "quickAnswer": "Las **muelas cónicas** (**38 a 40 mm**, como en el **Baratza Encore ESP** o **Fellow Opus**) generan una distribución **bimodal** de partículas que aporta **mayor textura sedosa, cuerpo denso en bebidas con leche y una calibración más indulgente**. Las **muelas planas** (**54 mm**, como en el **Turin DF54**) producen una molienda **unimodal** ultra-uniforme que destaca la **claridad aromática y dulzor en espressos solos**, pero exigen mayor precisión al ajustar.",
+  "readingMinutes": 8,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Las muelas cónicas (Encore ESP, Niche) resaltan la textura achocolatada y ocupan menos; las muelas planas (DF54, Eureka) destacan notas frutales y florales., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Dynamic action-ready placement on clean counter surface with subtle reflections: realistic scene illustrating 'Muelas Cónicas vs Muelas Planas en Casa: Diferencias Reales en Cuerpo, Claridad y Espacio' (muelas conicas vs muelas planas espresso) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, in a bright family home interior with clean architectural lines, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Muelas Cónicas vs Muelas Planas en Casa: Diferencias Reales en Cuerpo, Claridad y Espacio"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **muelas conicas vs muelas planas espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Las muelas cónicas (Encore ESP, Niche) resaltan la textura achocolatada y ocupan menos; las muelas planas (DF54, Eureka) destacan notas frutales y florales."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Tienes en tu encimera una **Breville Bambino (BES450)**, una **De’Longhi Dedica Maestro Plus (EC950M)** o una **CASABREWS CM5418** y ha llegado el momento de elegir su compañero definitivo: ¿un molino de **muelas cónicas** como el **Baratza Encore ESP** o el **Fellow Opus**, o un molino de **muelas planas** como el **Turin DF54**? Lejos de ser un simple detalle estético, la geometría interna del acero transforma la distribución de tamaños de partícula en la cesta, la facilidad para clavar el tiempo de extracción y la textura en boca de tu bebida, tal como analizamos en nuestro [hub de molinos de café compactos para espresso](/molinos-y-molienda/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: muelas conicas vs muelas planas espresso"
+      "text": "Distribución Bimodal (Cónicas) vs Unimodal (Planas): Cómo Cambia la Textura y el Sabor"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **muelas conicas vs muelas planas espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Las **muelas cónicas de 38 a 40 mm** (**Baratza Encore ESP**, **Fellow Opus**) alimentan el grano por gravedad a bajas revoluciones (**450 a 550 RPM**) y generan una distribución **bimodal**: crean dos picos de partículas, uno en el grosor principal (**250 micras**) y otro de micro-finos (**menos de 100 micras**). Esos micro-finos sellan los poros de la pastilla de forma progresiva, haciendo que la calibración sea mucho más indulgente y entregando un **cuerpo denso, viscoso y achocolatado** que destaca sobre la leche vaporizada o cuando decides [ajustar tu molino para preparar iced latte y espresso sobre hielo](/molinos-y-molienda/molienda-para-cafe-helado-iced-espresso-y-affogato/). En cambio, las **muelas planas de 54 mm** (**Turin DF54**) trabajan con dos anillos paralelos a **1400 RPM** que expulsan el café por fuerza centrífuga en cuanto alcanza el diámetro exacto (**curva unimodal**), maximizando la **claridad aromática, el dulzor limpio y las notas frutales** en espressos solos, especialmente si mantienes una estación ordenada aplicando [accesorios para evitar que el polvo de café caiga en la encimera](/molinos-y-molienda/como-evitar-que-el-polvo-de-cafe-caiga-en-la-encimera-al-moler/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: muelas conicas vs muelas planas espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Factor Técnico y Sensorial",
+        "Muelas Cónicas Compactas (Encore ESP / Fellow Opus)",
+        "Muelas Planas Compactas (Turin DF54)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Las muelas cónicas (Encore ESP, Niche) resaltan la textura achocolatada y ocupan menos; las muelas planas (DF54, Eureka) destacan notas frutales y florales.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Distribución granulométrica",
+          "Bimodal (combina partículas medias y micro-finos que dan textura)",
+          "Unimodal (alta uniformidad de tamaño con mínimos micro-finos)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Perfil sensorial en taza",
+          "Cuerpo cremoso, textura densa, notas de cacao, caramelo y nuez",
+          "Claridad superior, separación nítida de notas florales y frutales"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Tolerancia al calibrar (Dial-In)",
+          "Amplia: perdona variaciones de 0.3 g o preparación rápida",
+          "Estricta: exige WDT cuidadoso y micro-ajustes de pocos milímetros"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "Huella en encimera (Ancho)",
+          "12.0 cm (Encore ESP) a 12.9 cm (Fellow Opus)",
+          "11.4 cm de ancho x 30 cm de alto (chasis metálico single-dose)"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Retención típica por dosis",
+          "0.4 g a 1.0 g (requiere palmada sobre la tapa)",
+          "Inferior a 0.1 g gracias al fuelle (bellows) e inclinación frontal"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre muelas conicas vs muelas planas espresso",
-      "text": "Las muelas cónicas (Encore ESP, Niche) resaltan la textura achocolatada y ocupan menos; las muelas planas (DF54, Eureka) destacan notas frutales y florales. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Comparativa Técnica: Muelas Cónicas (40 mm) vs Muelas Planas (54 mm) en Casa"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar muelas conicas vs muelas planas espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con muelas conicas vs muelas planas espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Guía de Elección Según tu Cafetera Compacta y el Tipo de Café que Bebes"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Compra muelas cónicas (Baratza Encore ESP o Fellow Opus)** si el **70 % o más** de tus cafés son bebidas con leche (**cappuccino, flat white, latte**), consumes tuestes medios o medios-oscuros tradicionales y valoras un ajuste por clics numerados fácil de repetir por cualquier persona en casa.",
+        "**Compra muelas planas (Turin DF54)** si tomas **espresso solo, cortado o americano**, compras cafés de especialidad de **tueste medio-claro** de origen único y disfrutas del flujo *single-dosing* pesando **18.0 g** exactos en cada extracción.",
+        "**Comportamiento según diámetro de portafiltro**: En cafeteras de **51 mm** (**CASABREWS CM5418, De’Longhi Dedica**) la molienda bimodal cónica ayuda a estabilizar el flujo a **15 bares**; en **54 mm** con válvula **OPV de 9 bares** (**Breville Bambino**), las muelas planas despliegan todo su potencial."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Ruido en la Cocina, Velocidad de Corte y Temperatura del Grano"
     },
     {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "Los molinos cónicos compactos utilizan un motor de alta velocidad acoplado a una caja reductora de engranajes para bajar el giro de la muela a unas 450-550 RPM; ese tren de engranajes produce un sonido mecánico más notorio (78 a 82 dB). Por el contrario, un molino de muelas planas como el Turin DF54 monta la muela directamente sobre el eje de un motor de inducción sin engranajes reductores: en vacío apenas emite un murmullo de 60 dB y tritura 18 g para espresso en unos 11 a 13 segundos sin transferir calor al café.",
+      "title": "Por qué un molino de muelas planas directo al eje suena mucho más silencioso"
+    },
+    {
+      "type": "cta",
+      "text": "Compara la disponibilidad actual del Baratza Encore ESP, Fellow Opus y Turin DF54 en las tarjetas de Amazon integradas en esta página, o consulta a nuestro Asesor IA para elegir el molino perfecto para tu rincón cafetero."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre muelas conicas vs muelas planas espresso?",
-      "a": "Las muelas cónicas (Encore ESP, Niche) resaltan la textura achocolatada y ocupan menos; las muelas planas (DF54, Eureka) destacan notas frutales y florales. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Qué tipo de muelas da mejor sabor en cappuccinos y lattes con leche?",
+      "a": "Con leche vaporizada, la mayoría de los paladares prefieren las muelas cónicas (como el Baratza Encore ESP o el Fellow Opus). Su distribución bimodal genera mayor viscosidad y notas achocolatadas que atraviesan mejor los 150 ml de leche de un cappuccino o latte sin diluirse."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Es más fácil cambiar entre espresso y café de filtro en muelas cónicas o planas?",
+      "a": "Si alternas a diario entre espresso por la mañana y V60 o prensa francesa por la tarde, un molino cónico escalonado con doble resolución como el Baratza Encore ESP resulta más práctico: pasas del clic 15 (espresso) al clic 28 (filtro) en dos segundos con retorno exacto al mismo clic."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué muelas duran más años en casa: las cónicas de 40 mm o las planas de 54 mm?",
+      "a": "Ambos duran muchos años en uso doméstico: un juego de muelas cónicas M2 de 40 mm en acero endurecido procesa unos 250 a 300 kg de café (más de 15.000 espressos), mientras que las muelas planas de 54 mm en acero inoxidable superan los 350 a 400 kg antes de perder filo."
     }
   ],
   "related": [
-    "/molinos-y-molienda/",
-    "/molinos-y-molienda/por-que-nunca-usar-molino-de-cuchillas-para-cafetera-espresso/",
-    "/molinos-y-molienda/diferencia-molienda-filtro-presurizado-vs-no-presurizado/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/como-evitar-que-el-polvo-de-cafe-caiga-en-la-encimera-al-moler/",
+    "/molinos-y-molienda/como-calibrar-el-molino-integrado-de-la-delonghi-la-specialista-arte/",
+    "/molinos-y-molienda/molienda-para-cafe-helado-iced-espresso-y-affogato/",
+    "/molinos-y-molienda/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/muelas-conicas-vs-muelas-planas-en-espresso-compacto.webp"
 }

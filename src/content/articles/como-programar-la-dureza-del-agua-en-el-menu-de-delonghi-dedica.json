@@ -4,161 +4,130 @@
   "path": "/mantenimiento-y-descalcificacion/como-programar-la-dureza-del-agua-en-el-menu-de-delonghi-dedica/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "configurar dureza del agua delonghi dedica",
   "title": "Cómo Configurar el Nivel de Dureza del Agua (Nivel 1, 2 o 3) en tu De’Longhi Dedica Arte",
-  "seoTitle": "Cómo Configurar el Nivel de Dureza del Agua (Nivel 1, 2 o 3) en tu De’Longhi Dedica Arte | Guía Barista Compacta",
-  "metaDescription": "Cómo Configurar el Nivel de Dureza del Agua (Nivel 1, 2 o 3) en tu De’Longhi Dedica Arte: Ajustar la máquina a agua blanda si usas jarra filtrante retrasa legítimamente el encendido de la alarma naranja de descalcificación. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Ajustar la máquina a agua blanda si usas jarra filtrante retrasa legítimamente el encendido de la alarma naranja de descalcificación.",
-  "quickAnswer": "Sobre configurar dureza del agua delonghi dedica: Ajustar la máquina a agua blanda si usas jarra filtrante retrasa legítimamente el encendido de la alarma naranja de descalcificación. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Configurar el Nivel de Dureza del Agua (Nivel 1, 2 o 3) en tu De’Longhi Dedica Arte | cafeteracompacta.com",
+  "metaDescription": "Aprende a configurar la dureza del agua en tu De’Longhi Dedica Arte (niveles 1, 2 y 3) para ajustar el contador interno del aviso de descalcificación.",
+  "excerpt": "Tutorial técnico para medir la dureza de tu agua y programar el menú oculto de tres botones en la De’Longhi Dedica EC685 y Dedica Arte EC885M, optimizando los avisos de descalcificación del bloque.",
+  "quickAnswer": "Para configurar la dureza del agua en la **De’Longhi Dedica Arte (EC885M)** o **EC685**, mantén pulsado el **botón de vapor durante 10 segundos** con la cafetera encendida hasta que los tres LED parpadeen. Luego presiona nuevamente el **botón de vapor** y elige el nivel según tu agua: **1 taza (Nivel 1, blanda)**, **2 tazas (Nivel 2, media)** o **vapor (Nivel 3, dura)** para recalibrar el contador volumétrico interno.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Ajustar la máquina a agua blanda si usas jarra filtrante retrasa legítimamente el encendido de la alarma naranja de descalcificación., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Low-angle dramatic hero perspective with soft background bokeh on 35mm lens: realistic scene illustrating 'Cómo Configurar el Nivel de Dureza del Agua (Nivel 1, 2 o 3) en tu De’Longhi Dedica Arte' (configurar dureza del agua delonghi dedica) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, in a clean modern garage or studio corner with slate flooring, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Configurar el Nivel de Dureza del Agua (Nivel 1, 2 o 3) en tu De’Longhi Dedica Arte"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **configurar dureza del agua delonghi dedica** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Ajustar la máquina a agua blanda si usas jarra filtrante retrasa legítimamente el encendido de la alarma naranja de descalcificación."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Sacar tu **De’Longhi Dedica Arte (EC885M)** o **Dedica Style (EC685)** de la caja y empezar a extraer espressos usando agua filtrada sin tocar la programación oculta tiene una consecuencia inevitable: apenas un mes después, el botón derecho de vapor se iluminará en color naranja fijo exigiéndote una descalcificación completa. Esto ocurre porque todas las unidades salen de fábrica configuradas por defecto en el **Nivel 3 (agua dura)**, el ajuste más conservador para proteger el **Thermoblock de 1300 W** frente a aguas de grifo con alta concentración calcárea. Si ya utilizas jarras filtrantes o agua mineral de mineralización débil dentro de tu plan de [mantenimiento y descalcificación de tu cafetera compacta](/mantenimiento-y-descalcificacion/), reprogramar este parámetro electrónico evitará alertas prematuras y desperdicio de líquido descalcificador."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: configurar dureza del agua delonghi dedica"
+      "text": "Cómo calcula el microprocesador de la Dedica cuándo encender el LED naranja"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **configurar dureza del agua delonghi dedica** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "A diferencia de lo que muchos usuarios creen, la familia **De’Longhi Dedica** no incorpora un conductímetro óptico ni un sensor químico dentro del tanque de **1.1 litros** para analizar la cal en tiempo real. En su lugar, la placa electrónica cuenta el volumen acumulado de agua impulsado por la **bomba vibratoria de 15 bares** (incluyendo las purgas de calentamiento y la generación de vapor para la lanceta **MyLatte Art**). Al cambiar el ajuste interno al **Nivel 1** o **Nivel 2**, modificas directamente el umbral volumétrico del contador antes de que salte la alarma luminosa. Mantener esta calibración al día es tan importante para la precisión térmica de tu estación como [proteger la rejilla metálica de la bandeja de goteo](/mantenimiento-y-descalcificacion/como-evitar-que-la-rejilla-de-acero-de-la-bandeja-se-raye-con-las-tazas/) o evitar salpicaduras ácidas que luego obliguen a [quitar manchas de espresso en encimeras de cuarzo blanco](/mantenimiento-y-descalcificacion/como-limpiar-manchas-de-cafe-seco-en-encimeras-de-cuarzo-blanco/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: configurar dureza del agua delonghi dedica",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Nivel en Menú",
+        "Botón Selector",
+        "Rango de Dureza (ppm / °dH)",
+        "Tipo de Agua Habitual",
+        "Volumen Estimado Hasta Aviso Naranja"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Ajustar la máquina a agua blanda si usas jarra filtrante retrasa legítimamente el encendido de la alarma naranja de descalcificación.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Nivel 1 (Blanda)",
+          "Botón 1 Taza",
+          "0 – 120 ppm (< 7 °dH)",
+          "Agua embotellada débil, ósmosis remineralizada o jarra BWT/Brita nueva",
+          "~120 litros (aprox. 300 ciclos)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Nivel 2 (Media)",
+          "Botón 2 Tazas",
+          "120 – 250 ppm (7 – 14 °dH)",
+          "Agua potable de red municipal moderada o filtro de tanque a media vida",
+          "~80 litros (aprox. 200 ciclos)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Nivel 3 (Dura - Fábrica)",
+          "Botón de Vapor",
+          "> 250 ppm (> 14 °dH)",
+          "Agua de grifo calcárea sin filtrar en zonas costeras o mediterráneas",
+          "~40 litros (aprox. 100 ciclos)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre configurar dureza del agua delonghi dedica",
-      "text": "Ajustar la máquina a agua blanda si usas jarra filtrante retrasa legítimamente el encendido de la alarma naranja de descalcificación. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Relación técnica entre dureza del agua, botón asignado y autonomía del contador en De’Longhi Dedica (EC685 / EC885M)"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar configurar dureza del agua delonghi dedica hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Pasos exactos para entrar al menú oculto y fijar el Nivel 1, 2 o 3"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Encender y esperar temperatura de reposo",
+          "text": "Conecta la De’Longhi Dedica Arte y presiona cualquiera de los botones frontales hasta que los indicadores LED de 1 taza y 2 tazas queden encendidos en blanco fijo, confirmando que el Thermoblock está listo."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Activar el modo de programación (10 segundos)",
+          "text": "Mantén presionado el botón de Vapor (el tercer botón a la derecha) de forma continua durante 10 segundos exactos, hasta que las tres luces del panel frontal comiencen a parpadear en secuencia rápida."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Ingresar al submenú de dureza del agua",
+          "text": "Pulsa una sola vez el botón de Vapor para abrir el parámetro de dureza hídrica; verás que uno de los botones parpadea indicando el nivel actualmente guardado en la memoria EEPROM."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Seleccionar el nuevo nivel según tu agua",
+          "text": "Presiona el botón de 1 Taza para programar el Nivel 1 (agua blanda), el botón de 2 Tazas para el Nivel 2 (agua media) o el botón de Vapor para mantener el Nivel 3 (agua dura)."
+        },
+        {
+          "name": "Confirmar el parpadeo de guardado automático",
+          "text": "El botón elegido parpadeará rápidamente para confirmar el registro y, tras unos segundos sin tocar el panel, las luces de 1 y 2 tazas volverán a quedar fijas en modo de preparación normal."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Advertencia sobre tiras reactivas y reprogramación con aviso activo"
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Si el botón de vapor ya está iluminado en color **naranja fijo** pidiendo descalcificación, cambiar la dureza al **Nivel 1** no apagará la alerta actual. El microcontrolador exige completar primero un ciclo de enjuague ácido completo para reiniciar el contador volumétrico a cero; solo entonces aplicará el nuevo intervalo extendido de **120 litros**. Si tu unidad incluía en la caja la tira reactiva **Total Hardness Test**, sumérgela **1 segundo** en un vaso con el agua que usas a diario, sacude el exceso y espera **60 segundos**: una zona rojiza equivale a **Nivel 1**, dos zonas a **Nivel 2** y tres o cuatro zonas a **Nivel 3**.",
+      "title": "No cambies el nivel para intentar borrar una alerta naranja ya encendida"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con configurar dureza del agua delonghi dedica en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Necesitas tiras reactivas de dureza, cartuchos ablandadores o el descalcificador oficial De’Longhi EcoDecalk? Revisa las tarjetas de producto de Amazon integradas en esta página o consulta a nuestro Asesor IA para configurar tu Dedica según el agua de tu ciudad."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre configurar dureza del agua delonghi dedica?",
-      "a": "Ajustar la máquina a agua blanda si usas jarra filtrante retrasa legítimamente el encendido de la alarma naranja de descalcificación. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Se borra el ajuste de dureza del agua si desenchufas la De’Longhi Dedica?",
+      "a": "No. La memoria interna EEPROM de las cafeteras **De’Longhi Dedica EC685 y EC885M** es no volátil, por lo que conserva tanto el nivel de dureza del agua como la temperatura de infusión y el volumen de taza aunque desconectes el cable de la corriente eléctrica."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Qué nivel debo poner si uso agua filtrada con jarra o agua mineral embotellada?",
+      "a": "Debes elegir el **Nivel 1 (botón de 1 taza)** siempre que tu agua filtrada o embotellada se mantenga por debajo de **120 ppm (partes por millón)** de residuos minerales o menos de **7 °dH**. Así evitarás que la máquina te pida descalcificar cada pocas semanas sin necesidad real."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué al entrar al menú de programación cambié la temperatura en lugar de la dureza?",
+      "a": "Porque cuando presionas el botón de vapor durante **10 segundos**, el primer paso es pulsar una vez ese mismo botón para entrar al submenú de dureza; si en vez de eso pulsas el botón de 1 taza directamente, entrarás por error al menú de ajuste de temperatura de extracción."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/como-cambiar-la-junta-de-goma-del-grupo-cuando-gotea-el-portafiltro/",
-    "/mantenimiento-y-descalcificacion/cada-cuanto-tiempo-hay-que-descalcificar-segun-la-dureza-del-agua/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/como-limpiar-el-sensor-de-temperatura-en-la-base-de-la-bambino-plus/",
+    "/mantenimiento-y-descalcificacion/como-evitar-que-la-rejilla-de-acero-de-la-bandeja-se-raye-con-las-tazas/",
+    "/mantenimiento-y-descalcificacion/como-limpiar-manchas-de-cafe-seco-en-encimeras-de-cuarzo-blanco/",
+    "/mantenimiento-y-descalcificacion/como-limpiar-una-cafetera-manual-flair-neo-flex-y-wacaco-picopresso/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-programar-la-dureza-del-agua-en-el-menu-de-delonghi-dedica.webp"
 }

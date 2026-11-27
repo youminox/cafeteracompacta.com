@@ -4,161 +4,115 @@
   "path": "/mantenimiento-y-descalcificacion/como-saber-si-tu-cafetera-tiene-cal-acumulada-3-sintomas-claros/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "sintomas de cal en cafetera espresso",
   "title": "Los 3 Síntomas Inequívocos de que tu Cafetera Compacta Tiene Sarro Aunque No Se Encienda la Luz",
-  "seoTitle": "Los 3 Síntomas Inequívocos de que tu Cafetera Compacta Tiene Sarro Aunque No Se Encienda la Luz | Guía Barista Compacta",
-  "metaDescription": "Los 3 Síntomas Inequívocos de que tu Cafetera Compacta Tiene Sarro Aunque No Se Encienda la Luz: 1) El café sale tibio en vez de caliente, 2) el caudal sin portafiltro es un hilo débil y 3) la bomba suena más sorda y forzada. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "1) El café sale tibio en vez de caliente, 2) el caudal sin portafiltro es un hilo débil y 3) la bomba suena más sorda y forzada.",
-  "quickAnswer": "Sobre sintomas de cal en cafetera espresso: 1) El café sale tibio en vez de caliente, 2) el caudal sin portafiltro es un hilo débil y 3) la bomba suena más sorda y forzada. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Los 3 Síntomas Inequívocos de que tu Cafetera Compacta Tiene Sarro Aunque No Se Encienda la Luz | cafeteracompacta.com",
+  "metaDescription": "Identifica los 3 síntomas de cal en tu cafetera espresso antes de que salte el aviso luminoso: caída térmica, caudal errático y pérdida de presión de vapor.",
+  "excerpt": "Las cafeteras compactas no tienen sensores ópticos de sarro, sino simples contadores de ciclos. Aprende a detectar la calcificación real en tu Breville, Dedica o CASABREWS.",
+  "quickAnswer": "Los tres síntomas inequívocos de sarro en una cafetera espresso compacta son: una caída de la temperatura de extracción de **4 a 6 °C** (produciendo un espresso agrio y de crema pálida), una reducción del caudal libre sin portafiltro por debajo de **45 ml en 10 segundos**, y una lanceta de vapor que escupe gotas de agua intermitentes con un silbido ahogado al intentar texturizar leche.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: 1) El café sale tibio en vez de caliente, 2) el caudal sin portafiltro es un hilo débil y 3) la bomba suena más sorda y forzada., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating 'Los 3 Síntomas Inequívocos de que tu Cafetera Compacta Tiene Sarro Aunque No Se Encienda la Luz' (sintomas de cal en cafetera espresso) for cafeteracompacta.com, featuring equipment in graphite gray with subtle amber indicator details, in a well-organized domestic utility area with natural plants nearby, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Los 3 Síntomas Inequívocos de que tu Cafetera Compacta Tiene Sarro Aunque No Se Encienda la Luz"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **sintomas de cal en cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. 1) El café sale tibio en vez de caliente, 2) el caudal sin portafiltro es un hilo débil y 3) la bomba suena más sorda y forzada."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Uno de los malentendidos más extendidos entre quienes estrenan una **De’Longhi Dedica Arte EC885M**, una **Breville Bambino BES450** o una **CASABREWS CM5418** es creer que la máquina incorpora un sensor químico o láser capaz de detectar el sarro y encender la luz de alerta justo cuando hace falta. La realidad técnica es muy distinta: las cafeteras compactas **solo tienen un contador electrónico de ciclos o de segundos de bombeo** (normalmente programado para saltar cada **200 cafés** o cada **15 a 25 litros**). Si vives en una zona de agua dura, el bloque térmico puede calcificarse semanas antes de que parpadee el LED. En nuestras [guías de mantenimiento y descalcificación](/mantenimiento-y-descalcificacion/) te enseñamos a leer las tres señales físicas que delatan el sarro a tiempo."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: sintomas de cal en cafetera espresso"
+      "text": "Las 3 señales físicas y sensoriales de que el thermoblock está calcificado"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "**1. Sub-extracción repentina y espresso más ácido o frío en taza:** El carbonato cálcico es un aislante térmico formidable. Una costra de apenas **0.8 a 1 mm de espesor** adherida a las paredes internas del serpentín de aluminio o acero del thermoblock impide que el calor pase al agua en tránsito, reduciendo la temperatura real en el portafiltro de **92 °C a 85–86 °C** y produciendo un café agrio, aguado y con crema pálida.",
+        "**2. Caída del caudal libre en vacío y cambio de tono en la bomba:** Cuando el diámetro interno de los conductos hidráulicos (de **3.5 a 4 mm**) se estrecha por incrustaciones minerales, la bomba vibratoria suena más forzada y grave incluso sin el portafiltro puesto, y el chorro de la ducha cae lento o desviado hacia un lado en lugar de formar una lluvia uniforme.",
+        "**3. Lanceta de vapor sin fuerza continua o que escupe chorros de agua:** Para generar vapor seco a **125–130 °C**, el thermoblock recibe micro-pulsos de agua que deben vaporizarse al instante. Si hay sarro aislante, el agua no alcanza a evaporarse por completo y la lanceta pierde presión a mitad del texturizado de la leche, emitiendo un silbido entrecortado y mojando la jarra."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Por qué el contador electrónico de ciclos falla en ciudades de agua dura"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **sintomas de cal en cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: sintomas de cal en cafetera espresso",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "1) El café sale tibio en vez de caliente, 2) el caudal sin portafiltro es un hilo débil y 3) la bomba suena más sorda y forzada.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "De fábrica, la mayoría de las cafeteras compactas vienen configuradas en un nivel de dureza media (alrededor de **120 a 150 ppm de carbonato cálcico**). Si alimentas el tanque con agua del grifo o mineral embotellada que supera las **250 o 300 ppm**, la precipitación de sales al calentar por encima de **65 °C** ocurre al doble de velocidad que lo previsto por el algoritmo del fabricante. Por eso es fundamental combinar la observación del caudal con una [rutina de limpieza diaria de 30 segundos después de cada café](/mantenimiento-y-descalcificacion/rutina-de-limpieza-diaria-de-30-segundos-despues-de-cada-cafe/) para despejar la malla difusora, y recordar siempre [cómo vaciar las calderas y el thermoblock antes de guardar o mudar la cafetera](/mantenimiento-y-descalcificacion/como-vaciar-las-calderas-y-el-thermoblock-antes-de-guardar-o-mudar-la-cafetera/) para que el agua dura nunca se evapore estancada dentro del circuito."
     },
     {
       "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre sintomas de cal en cafetera espresso",
-      "text": "1) El café sale tibio en vez de caliente, 2) el caudal sin portafiltro es un hilo débil y 3) la bomba suena más sorda y forzada. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "tip",
+      "text": "¿Dudas si el problema es cal interna o simplemente café demasiado fino? Retira el portafiltro, coloca una taza sobre tu báscula digital debajo del grupo y activa la extracción de agua libre durante exactamente **10 segundos** con cronómetro. Una cafetera compacta limpia con bomba de **15 a 20 bares** debe entregar entre **55 y 75 gramos (ml) de agua** en ese lapso. Si recoge **menos de 42 gramos**, tienes una restricción interna por calcificación.",
+      "title": "La prueba de la báscula en 10 segundos para confirmar sarro interno"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar sintomas de cal en cafetera espresso hoy mismo en tu cocina"
+      "text": "Tabla de diagnóstico: diferencia entre sarro interno y obstrucción de molienda"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
+      "type": "table",
+      "headers": [
+        "Síntoma observado",
+        "Si ocurre SIN el portafiltro puesto",
+        "Si solo ocurre CON el portafiltro puesto",
+        "Acción correctiva inmediata"
+      ],
+      "rows": [
+        [
+          "Goteo lento o falta de caudal",
+          "Calcificación severa en thermoblock o ducha taponada",
+          "Molienda demasiado fina, exceso de dosis o cesta obstruida",
+          "Hacer test de 10 segundos en vacío; descalcificar si da < 42 ml"
+        ],
+        [
+          "Manómetro en zona máxima (> 14 bar)",
+          "Válvula OPV o tubo capilar interno obstruido por sarro",
+          "Filtro presurizado de doble pared atascado con aceites",
+          "Descalcificar circuito con ácido láctico y limpiar filtro en Cafiza"
+        ],
+        [
+          "Café tibio (< 60 °C en taza)",
+          "Costra calcárea aislando las paredes del bloque térmico",
+          "Portafiltro y taza fríos sin precalentamiento previo",
+          "Ejecutar ciclo de descalcificación con reposo de 10 min + purga térmica"
+        ],
+        [
+          "Vapor débil que se agota en 8 seg",
+          "Boquilla de lanceta o conducto de vapor calcificado",
+          "No aplica (el vapor no atraviesa el grupo de café)",
+          "Desmontar punta de lanceta, usar aguja de 0.4 mm y descalcificar vapor"
+        ]
+      ],
+      "caption": "Cómo distinguir la calcificación del thermoblock frente a un bloqueo en el portafiltro"
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con sintomas de cal en cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Detectaste alguno de estos tres síntomas en tu cafetera y necesitas descalcificador de ácido láctico, tiras reactivas de dureza o báscula con cronómetro? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre sintomas de cal en cafetera espresso?",
-      "a": "1) El café sale tibio en vez de caliente, 2) el caudal sin portafiltro es un hilo débil y 3) la bomba suena más sorda y forzada. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Puedo descalcificar mi cafetera aunque todavía no se haya encendido la luz de aviso?",
+      "a": "Sí, rotundamente. Ejecutar un ciclo de descalcificación antes de que se encienda el aviso luminoso es seguro y recomendable si notas pérdida de temperatura o de caudal. Eso sí, inicia el ciclo mediante la **combinación de botones oficial del menú** de tu cafetera para que el contador interno de 200 ciclos se reinicie a cero."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cómo afecta la acumulación de cal a la lectura del manómetro de presión?",
+      "a": "En modelos con manómetro frontal como la **CASABREWS CM5418** o la **De’Longhi Dedica Maestro Plus**, el sarro suele manifestarse de dos formas: si obstruye la salida hacia la ducha después del sensor del manómetro, la aguja sube bruscamente a la zona roja (**más de 14 bares**) incluso sin café; si bloquea la salida de la bomba, apenas levanta presión."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué mi cafetera sigue sacando poca agua después de un ciclo de descalcificación?",
+      "a": "Cuando el estrechamiento del thermoblock es moderado o severo, un único pase rápido de líquido descalcificador resbala sobre la costra sin disolverla del todo. El secreto técnico es **pausar la bomba durante 5 a 10 minutos** a mitad del depósito para dar tiempo de reacción química al ácido láctico dentro del serpentín caliente."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/es-seguro-usar-agua-de-osmosis-inversa-para-no-descalcificar-nunca/",
-    "/mantenimiento-y-descalcificacion/como-limpiar-la-rejilla-calientatazas-superior-sin-que-entre-agua/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/rutina-de-limpieza-diaria-de-30-segundos-despues-de-cada-cafe/",
+    "/mantenimiento-y-descalcificacion/como-limpiar-el-exterior-de-acero-inoxidable-cepillado-sin-dejar-marcas/",
+    "/mantenimiento-y-descalcificacion/como-vaciar-las-calderas-y-el-thermoblock-antes-de-guardar-o-mudar-la-cafetera/",
+    "/mantenimiento-y-descalcificacion/como-recuperar-un-portafiltro-de-aluminio-que-se-oxido-en-el-lavavajillas/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-saber-si-tu-cafetera-tiene-cal-acumulada-3-sintomas-claros.webp"
 }

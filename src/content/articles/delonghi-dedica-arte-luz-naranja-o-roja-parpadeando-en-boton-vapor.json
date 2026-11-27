@@ -4,161 +4,116 @@
   "path": "/problemas-y-soluciones/delonghi-dedica-arte-luz-naranja-o-roja-parpadeando-en-boton-vapor/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "quitar luz naranja boton vapor delonghi dedica",
   "title": "Cómo Quitar la Luz Naranja/Roja del Botón de Vapor en la De’Longhi Dedica Arte (EC885M y EC685M)",
-  "seoTitle": "Cómo Quitar la Luz Naranja/Roja del Botón de Vapor en la De’Longhi Dedica Arte (EC885M y EC685M) | Guía Barista Compacta",
-  "metaDescription": "Cómo Quitar la Luz Naranja/Roja del Botón de Vapor en la De’Longhi Dedica Arte (EC885M y EC685M): Si hiciste la descalcificación pero la luz sigue encendida, fue porque el enjuague final se hizo por el grupo en vez de abrir el mando de vapor. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Si hiciste la descalcificación pero la luz sigue encendida, fue porque el enjuague final se hizo por el grupo en vez de abrir el mando de vapor.",
-  "quickAnswer": "Sobre quitar luz naranja boton vapor delonghi dedica: Si hiciste la descalcificación pero la luz sigue encendida, fue porque el enjuague final se hizo por el grupo en vez de abrir el mando de vapor. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Cómo Quitar la Luz Naranja/Roja del Botón de Vapor en la De’Longhi Dedica Arte (EC885M y EC685M) | cafeteracompacta.com",
+  "metaDescription": "Aprende a quitar la luz naranja o roja del botón de vapor en tu De’Longhi Dedica Arte (EC885M y EC685M) completando el ciclo oficial y el enjuague de 1.1 L.",
+  "excerpt": "¿Descalcificaste tu De’Longhi Dedica y la luz naranja del botón de vapor sigue encendida? Descubre el error del sensor de flotador del tanque de 1.1 L que impide apagar la alarma y cómo solucionarlo.",
+  "quickAnswer": "La luz naranja parpadeante en el botón de vapor de la **De’Longhi Dedica Arte (EC885M)** y **EC685M** indica que debes ejecutar el programa automático de descalcificación. Si ya limpiaste la máquina y el aviso no se apaga, es porque vaciaste el tanque manualmente o no dejaste que el ciclo oficial consumiera el **tanque completo de 1.1 litros** de enjuague hasta activar el sensor magnético inferior.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Si hiciste la descalcificación pero la luz sigue encendida, fue porque el enjuague final se hizo por el grupo en vez de abrir el mando de vapor., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Candid real-world household usage perspective in bright natural morning light: realistic scene illustrating 'Cómo Quitar la Luz Naranja/Roja del Botón de Vapor en la De’Longhi Dedica Arte (EC885M y EC685M)' (quitar luz naranja boton vapor delonghi dedica) for cafeteracompacta.com, featuring equipment in arctic white with warm stone-gray details, in a bright family home interior with clean architectural lines, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Quitar la Luz Naranja/Roja del Botón de Vapor en la De’Longhi Dedica Arte (EC885M y EC685M)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **quitar luz naranja boton vapor delonghi dedica** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Si hiciste la descalcificación pero la luz sigue encendida, fue porque el enjuague final se hizo por el grupo en vez de abrir el mando de vapor."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Has vaciado medio bote de líquido descalcificador en el tanque de **1.1 litros** de tu **De’Longhi Dedica Arte (EC885M)** o **Dedica Style (EC685M)**, has pasado varios tanques de agua limpia pulsando los botones de café y, para tu frustración, el tercer botón de la derecha (el icono de **Vapor**) sigue parpadeando con una **luz naranja o rojiza** inamovible. En nuestra sección de [problemas y soluciones de cafeteras compactas](/problemas-y-soluciones/), esta es la consulta número uno de los propietarios de De’Longhi, y su explicación técnica es muy simple: la placa electrónica de la Dedica no tiene ningún sensor químico que \"huela\" si el termobloque está limpio; **la luz naranja solo se apaga si ejecutas la secuencia electrónica oficial del modo descalcificación y dejas que el flotador magnético del tanque baje hasta el fondo dos veces seguidas** (una con ácido y otra con el enjuague completo)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: quitar luz naranja boton vapor delonghi dedica"
+      "text": "Por qué sigue encendida la luz naranja después de descalcificar: los 3 errores de protocolo"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **quitar luz naranja boton vapor delonghi dedica** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Cuando intentas limpiar la máquina pulsando manualmente los botones de 1 o 2 tazas para sacar agua con descalcificador, el microcontrolador interpreta que estás preparando decenas de cafés largos: lejos de borrar la alerta, ¡sigues sumando ciclos al contador interno! Incluso quienes sí entran en el programa automático manteniendo pulsado el botón naranja durante **10 segundos** suelen cometer un error crítico en la segunda mitad del proceso: rellenar el tanque de **1.1 litros** solo hasta la mitad para el aclarado o cerrar la perilla superior de vapor antes de que la máquina se detenga sola, lo que también puede dejar residuos calcáreos en el asiento de la válvula y provocar que la [lanceta de vapor pierda fuerza o solo escupa agua caliente](/problemas-y-soluciones/la-lanceta-de-vapor-no-tiene-fuerza-o-solo-escupe-agua-caliente/) o que aparezca un molesto [goteo de la lanceta mientras haces el espresso](/problemas-y-soluciones/como-solucionar-el-goteo-de-la-lanceta-mientras-haces-el-espresso/). Para que la tarjeta lógica dé por válido el ciclo y apague el LED naranja, el imán del flotador situado en la base del depósito de agua debe tocar fondo tanto al terminar la fase ácida como al agotar el **litro entero de agua de enjuague** a flujo continuo."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: quitar luz naranja boton vapor delonghi dedica",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Estado de la luz en el botón de Vapor (derecha)",
+        "Estado de los botones 1 y 2 Tazas",
+        "Significado técnico en la Dedica",
+        "Cómo quitar el aviso al instante"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Si hiciste la descalcificación pero la luz sigue encendida, fue porque el enjuague final se hizo por el grupo en vez de abrir el mando de vapor.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Luz NARANJA / ROJA parpadeando (o fija al estar lista)",
+          "Blancos fijos (permite hacer café pero sigue avisando)",
+          "Alarma de descalcificación activa por contador de litros según dureza programada",
+          "Mantener pulsado el botón naranja 10 s, abrir perilla superior y completar ciclo ácido + enjuague hasta vaciar el tanque de 1.1 L"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Luz NARANJA parpadeando sola durante el lavado",
+          "Apagados por completo",
+          "La cafetera está dentro del programa automático de descalcificación o esperando el enjuague",
+          "Rellenar tanque hasta la marca MAX con agua limpia y abrir la perilla de vapor para finalizar el aclarado"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Luz BLANCA en botón de vapor parpadeando rápido (y 1/2 tazas parpadean)",
+          "Parpadean al intentar hacer café justo después de espumar leche",
+          "Sobretemperatura del termobloque (está a 140 °C de vapor y debe bajar a 93 °C para café)",
+          "Colocar taza bajo la lanceta y abrir la perilla superior de vapor 5 segundos hasta que salga un chorro de agua y se apaguen"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre quitar luz naranja boton vapor delonghi dedica",
-      "text": "Si hiciste la descalcificación pero la luz sigue encendida, fue porque el enjuague final se hizo por el grupo en vez de abrir el mando de vapor. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Guía visual de luces en el botón de vapor de la De’Longhi Dedica (EC885M / EC685M)"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar quitar luz naranja boton vapor delonghi dedica hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Procedimiento de 10 minutos para apagar la luz naranja sin volver a gastar líquido descalcificador"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Rellenar el tanque de 1.1 L hasta la línea MAX (solo con agua si ya descalcificaste hoy)",
+          "text": "Si ya pasaste el líquido ácido manualmente hace unos minutos y solo necesitas borrar la luz naranja de la memoria, llena el tanque hasta la marca **MAX** con agua limpia. Retira el portafiltro y coloca una jarra de **1.5 litros** bajo la lanceta de vapor y el grupo."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Entrar en el modo electrónico oficial (pulsar 10 segundos) y abrir la perilla superior",
+          "text": "Con la **De’Longhi Dedica** encendida y las luces listas, mantén presionado el **botón de vapor (luz naranja)** durante **10 segundos** hasta que los botones de 1 y 2 tazas se apaguen y solo quede parpadeando el LED naranja. En ese instante, **gira la palanca/perilla superior hacia la posición de vapor (abierta)** y pulsa una vez el botón naranja para iniciar."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "No tocar nada durante 20 minutos hasta que el tanque quede vacío",
+          "text": "La bomba lanzará chorros cortos por la lanceta cada varios minutos (si solo estás reseteando la luz con agua limpia y no quieres esperar las pausas, puedes mantener la perilla abierta hasta que el flotador del tanque llegue abajo y la bomba se pare sola)."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Ejecutar la fase de enjuague continuo de 1.1 L y cerrar la perilla",
+          "text": "Cuando la máquina se detenga al vaciar el primer tanque, **cierra la perilla superior**, saca el tanque, llénalo de nuevo hasta **MAX** con agua fresca, vuelve a colocarlo, **abre de nuevo la perilla superior** y deja que vacíe todo el tanque de corrido (tarda unos **2 minutos**). Al agotarse el agua, cierra la perilla superior: **la luz naranja se apagará de inmediato** y volverá al color blanco normal."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Cómo reprogramar la dureza del agua al Nivel 1 para que la luz naranja no vuelva a salir cada mes"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con quitar luz naranja boton vapor delonghi dedica en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Necesitas el descalcificador oficial **De’Longhi EcoDecalk de 500 ml** (ácido láctico vegetal) o filtros ablandadores para el depósito de **1.1 litros** de tu **Dedica Arte (EC885M)**? Consulta la disponibilidad actual en las tarjetas de Amazon integradas en esta página o pregunta a nuestro Asesor IA para configurar los menús ocultos de tu cafetera."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre quitar luz naranja boton vapor delonghi dedica?",
-      "a": "Si hiciste la descalcificación pero la luz sigue encendida, fue porque el enjuague final se hizo por el grupo en vez de abrir el mando de vapor. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Puedo seguir preparando café si el botón de vapor de mi De’Longhi Dedica parpadea en naranja?",
+      "a": "Sí, la **De’Longhi Dedica Arte (EC885M)** y la **EC685M** no bloquean la extracción de café cuando se ilumina el aviso naranja en el botón de vapor: es una alerta preventiva. No obstante, te recomendamos completar el ciclo antes de **1 o 2 semanas** para evitar que las escamas de cal obstruyan el termobloque de aluminio y acero."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué parpadean las luces de mi De’Longhi Dedica cuando intento hacer un café después de espumar leche?",
+      "a": "Significa que el termobloque sigue demasiado caliente (**135–140 °C**) porque acabas de usar la función de vapor o dejaste pulsado el botón de vapor por error. Pon una taza vacía debajo de la lanceta, abre la perilla superior durante **5 a 8 segundos** para que salga un chorro de agua caliente que enfríe la caldera a **93 °C** y las luces quedarán fijas al instante."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cómo se cambia la configuración de dureza del agua en la De’Longhi Dedica para que el aviso naranja tarde más en salir?",
+      "a": "Con la máquina apagada (pero enchufada), mantén pulsado el **botón de Vapor (el tercero) durante 10 segundos** hasta que los tres botones parpadeen. Pulsa el **botón de 2 Tazas** para entrar al menú de dureza y luego pulsa el **botón de 1 Taza** para elegir **Nivel 1 (agua blanda/filtrada)**. Espera **15 segundos** sin tocar nada y quedará guardado."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/como-solucionar-el-goteo-de-la-lanceta-mientras-haces-el-espresso/",
+    "/problemas-y-soluciones/manometro-casabrews-cm5418-no-sube-de-presion-causas-y-solucion/",
     "/problemas-y-soluciones/cafetera-espresso-gotea-agua-por-los-lados-del-portafiltro/",
-    "/problemas-y-soluciones/breville-bambino-dos-luces-parpadeando-alternativamente-o-fijas/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/la-lanceta-de-vapor-no-tiene-fuerza-o-solo-escupe-agua-caliente/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/delonghi-dedica-arte-luz-naranja-o-roja-parpadeando-en-boton-vapor.webp"
 }

@@ -4,161 +4,105 @@
   "path": "/extraccion-y-recetas-espresso/como-hacer-dos-espressos-individuales-con-el-portafiltro-de-dos-salidas/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "hacer dos espressos a la vez portafiltro doble salida",
   "title": "Cómo Usar el Portafiltro de Doble Pico (Double Spout) para Servir 2 Tazas Exactamente Iguales",
-  "seoTitle": "Cómo Usar el Portafiltro de Doble Pico (Double Spout) para Servir 2 Tazas Exactamente Iguales | Guía Barista Compacta",
-  "metaDescription": "Cómo Usar el Portafiltro de Doble Pico (Double Spout) para Servir 2 Tazas Exactamente Iguales: Nivela la cafetera para que ambos chorros caigan con el mismo caudal: cada taza recibirá 18 g de líquido a partir de tu dosis de 18 g. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Nivela la cafetera para que ambos chorros caigan con el mismo caudal: cada taza recibirá 18 g de líquido a partir de tu dosis de 18 g.",
-  "quickAnswer": "Sobre hacer dos espressos a la vez portafiltro doble salida: Nivela la cafetera para que ambos chorros caigan con el mismo caudal: cada taza recibirá 18 g de líquido a partir de tu dosis de 18 g. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Usar el Portafiltro de Doble Pico (Double Spout) para Servir 2 Tazas Exactamente Iguales | cafeteracompacta.com",
+  "metaDescription": "Aprende a hacer dos espressos iguales a la vez con el portafiltro de doble salida: nivelación del prensado, purga térmica y simetría de caudal.",
+  "excerpt": "Soluciona el desbalance clásico donde una taza se llena rápido y la otra gotea: protocolo paso a paso para dividir una extracción doble con menos de 1.5 gramos de diferencia.",
+  "quickAnswer": "Para servir dos espressos idénticos con el portafiltro de doble salida debes purgar agua caliente durante 4 segundos con el portafiltro vacío para igualar la tensión superficial de ambos picos, deshacer grumos con aguja WDT y prensar con un tamper auto-nivelante perfectamente horizontal. Una inclinación de apenas 1.5 grados en la pastilla desvía hasta el 70 % del caudal hacia el lado más delgado.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Nivela la cafetera para que ambos chorros caigan con el mismo caudal: cada taza recibirá 18 g de líquido a partir de tu dosis de 18 g., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Macro texture and build-quality detail shot with shallow depth of field: realistic scene illustrating 'Cómo Usar el Portafiltro de Doble Pico (Double Spout) para Servir 2 Tazas Exactamente Iguales' (hacer dos espressos a la vez portafiltro doble salida) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, on a solid oak workbench in a tidy modern home space, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Usar el Portafiltro de Doble Pico (Double Spout) para Servir 2 Tazas Exactamente Iguales"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **hacer dos espressos a la vez portafiltro doble salida** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Nivela la cafetera para que ambos chorros caigan con el mismo caudal: cada taza recibirá 18 g de líquido a partir de tu dosis de 18 g."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Colocas dos tazas de porcelana bajo el portafiltro de doble pico de tu **De’Longhi Dedica Arte EC885M**, **CASABREWS CM5418** o **Breville Bambino BES450**, pulsas el botón de extracción doble y a los **15 segundos** una taza ya rebosa con **26 g** de líquido pálido mientras la otra apenas recibe un goteo espeso de **10 g**. Esta asimetría no es un defecto de la bomba vibratoria, sino el resultado de una desviación milimétrica en la horizontalidad de la pastilla o de la tensión superficial en las boquillas, un problema con solución inmediata dentro de nuestro [manual de extracción y recetas espresso](/extraccion-y-recetas-espresso/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: hacer dos espressos a la vez portafiltro doble salida"
-    },
-    {
-      "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **hacer dos espressos a la vez portafiltro doble salida** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: hacer dos espressos a la vez portafiltro doble salida",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "Nivela la cafetera para que ambos chorros caigan con el mismo caudal: cada taza recibirá 18 g de líquido a partir de tu dosis de 18 g.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre hacer dos espressos a la vez portafiltro doble salida",
-      "text": "Nivela la cafetera para que ambos chorros caigan con el mismo caudal: cada taza recibirá 18 g de líquido a partir de tu dosis de 18 g. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
-    },
-    {
-      "type": "h2",
-      "text": "Paso a paso para aplicar hacer dos espressos a la vez portafiltro doble salida hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con hacer dos espressos a la vez portafiltro doble salida en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Las 3 Causas Físicas por las que un PicoEscupe Más Café que el Otro"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Inclinación del prensado superior a 1.5 grados**: Si al apoyar el tamper ejerces más fuerza con el pulgar que con el índice, un lado de la pastilla queda **0.8 mm** más bajo; el agua a **9 bares** busca siempre el camino de menor resistencia y drena hasta el **70 %** del caudal hacia ese flanco.",
+        "**Un canal del divisor seco o frío y el otro húmedo**: Cuando un pico conserva gotas calientes de una purga previa y el otro está seco, la menor tensión superficial del metal mojado atrae toda la corriente líquida que cae del centro de la cesta.",
+        "**Residuos de aceites rancios solidificados en el tabique interno**: En los portafiltros con base interna de polímero o aluminio de **51 mm** y **54 mm**, una película de grasa de café de apenas **0.3 mm** en una de las rampas desvía el chorro central hacia la salida opuesta."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Protocolo de Simetría para Lograr Menos de 1.5 g de Diferencia entre Tazas"
     },
     {
       "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Para que ambas tazas reciban exactamente **18 g** de bebida a partir de una dosis de **18 g** en **54 mm** (o **15 g** en cada taza desde **15 g** en **51 mm**), el flujo debe nacer centrado en la base del filtro antes de tocar la rampa divisora. Esto es vital tanto si sirves dos espressos puros a la temperatura óptima detallada en la [tabla de temperatura de extracción de 90 °C, 93 °C y 95 °C](/extraccion-y-recetas-espresso/temperatura-del-agua-90-vs-93-vs-96-grados-efectos-en-el-sabor/) como si preparas dos vasos idénticos siguiendo la [receta de café con hielo al estilo español y valenciano](/extraccion-y-recetas-espresso/receta-de-cafe-con-hielo-al-estilo-espanol-y-valenciano-del-tiempo/). Antes de moler, encaja el portafiltro vacío en el grupo y lanza una purga de agua caliente de **4 segundos** observando los dos picos: si el agua ya cae torcida sin café, necesitas nivelar las patas de la cafetera en la encimera o desenroscar y cepillar el divisor inferior."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Síntoma Visual en los 2 Picos",
+        "Causa Mecánica o de Preparación",
+        "Corrección Inmediata"
+      ],
+      "rows": [
+        [
+          "El pico izquierdo arranca 4 segundos antes y saca el doble de volumen",
+          "Tamper inclinado hacia la izquierda o grumos concentrados en el lado derecho",
+          "Aplicar WDT profundo y usar tamper auto-nivelante con apoyo en el borde de la cesta"
+        ],
+        [
+          "Ambos picos gotean igual al inicio, pero a mitad del tiro todo se pasa a un lado",
+          "Canalización lateral tardía por fractura del borde de la pastilla",
+          "No golpear el portafiltro con el tamper tras prensar; encajar con suavidad en el grupo"
+        ],
+        [
+          "Sale espuma por un pico y líquido negro oscuro por el otro",
+          "Rampa interna del portafiltro sucia o desnivel en la encimera de la cocina",
+          "Sumergir la cabeza del portafiltro en detergente Cafiza y verificar nivel de la máquina"
+        ]
+      ],
+      "caption": "Diagnóstico rápido de desviación de caudal en portafiltro de doble salida (Double Spout)"
+    },
+    {
+      "type": "h2",
+      "text": "Por Qué lasDos Tazas No Solo Difieren en Volumen sino en Sabor"
+    },
+    {
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "Cuando una taza recoge **25 g** y la otra **11 g**, no basta con verter un poco de la llena en la vacía al terminar: la taza que recibió el chorro rápido proviene de un canal sobre-extraído cargado de compuestos amargos y astringentes, mientras que la taza de goteo lento concentra los primeros ácidos y sales minerales de la extracción temprana. Si quieres precisión absoluta al servir a dos invitados y la distancia entre picos de tu **Breville Bambino** o **CASABREWS CM5418** te impide colocar dos tazas anchas juntas, extrae el tiro doble completo en una jarrita de acero precalentada o vaso medidor de vidrio borosilicato, remueve para homogeneizar las capas de crema y reparte **18 g** exactos en cada taza sobre la báscula.",
+      "title": "El truco barista del vaso intermedio precalentado"
+    },
+    {
+      "type": "cta",
+      "text": "Descubre en nuestro Asesor IA qué tampers auto-nivelantes de 51 mm y 53.3 mm garantizan un prensado 100 % horizontal, o revisa su disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre hacer dos espressos a la vez portafiltro doble salida?",
-      "a": "Nivela la cafetera para que ambos chorros caigan con el mismo caudal: cada taza recibirá 18 g de líquido a partir de tu dosis de 18 g. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Es mejor usar la cesta doble con dos tazas o hacer dos cafés seguidos con la cesta individual de 1 taza?",
+      "a": "Olvida el filtro individual de 7–9 g: su forma de embudo cónico estrecho provoca extracciones irregulares y canalización constante. Usa siempre la cesta doble (14–18 g) y divide el tiro por los dos picos para obtener dos espressos sencillos equilibrados."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cómo se desmonta y limpia el divisor interno del portafiltro de una De’Longhi Dedica o CASABREWS?",
+      "a": "En la De’Longhi Dedica Arte EC885M retira la cesta metálica, desatornilla el tornillo Phillips central del fondo interior del portafiltro para extraer el inserto plástico negro y cepilla ambos conductos con agua caliente y desengrasante cafetero."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cuántos gramos de diferencia entre ambas tazas se consideran aceptables en un tiro doble?",
+      "a": "Una desviación de hasta 1.5 o 2 gramos entre la taza izquierda y la derecha (por ejemplo, 17 g en una y 19 g en otra) entra dentro de la tolerancia hidráulica normal y no produce diferencias perceptibles en el paladar."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/por-que-nunca-debes-dejar-el-portafiltro-con-cafe-puesto-antes-de-extraer/",
     "/extraccion-y-recetas-espresso/que-es-el-turbo-shot-de-15-segundos-a-6-bares/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/temperatura-del-agua-90-vs-93-vs-96-grados-efectos-en-el-sabor/",
+    "/extraccion-y-recetas-espresso/por-que-el-primer-espresso-de-la-manana-siempre-sale-mas-rapido/",
+    "/extraccion-y-recetas-espresso/receta-de-cafe-con-hielo-al-estilo-espanol-y-valenciano-del-tiempo/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-hacer-dos-espressos-individuales-con-el-portafiltro-de-dos-salidas.webp"
 }

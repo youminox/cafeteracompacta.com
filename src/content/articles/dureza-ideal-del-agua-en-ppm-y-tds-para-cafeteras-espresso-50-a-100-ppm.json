@@ -4,161 +4,124 @@
   "path": "/cafe-en-grano-y-agua/dureza-ideal-del-agua-en-ppm-y-tds-para-cafeteras-espresso-50-a-100-ppm/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cuantos ppm debe tener el agua para cafetera espresso",
   "title": "Cuántos PPM de TDS y Dureza Debe Tener el Agua de tu Cafetera Espresso (Rango SCA 50–100 ppm)",
-  "seoTitle": "Cuántos PPM de TDS y Dureza Debe Tener el Agua de tu Cafetera Espresso (Rango SCA 50–100 ppm) | Guía Barista Compacta",
-  "metaDescription": "Cuántos PPM de TDS y Dureza Debe Tener el Agua de tu Cafetera Espresso (Rango SCA 50–100 ppm): Cómo medir en 3 segundos el agua de tu grifo o jarra con un medidor digital TDS de $10 de Amazon. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Cómo medir en 3 segundos el agua de tu grifo o jarra con un medidor digital TDS de $10 de Amazon.",
-  "quickAnswer": "Sobre cuantos ppm debe tener el agua para cafetera espresso: Cómo medir en 3 segundos el agua de tu grifo o jarra con un medidor digital TDS de $10 de Amazon. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cuántos PPM de TDS y Dureza Debe Tener el Agua de tu Cafetera Espresso (Rango SCA 50–100 ppm) | cafeteracompacta.com",
+  "metaDescription": "Aprende cuántos ppm debe tener el agua para cafetera espresso según el estándar SCA (50 a 100 ppm) y cómo diferenciar TDS, dureza GH y alcalinidad KH.",
+  "excerpt": "Un medidor digital de TDS solo cuenta partes por millón totales, pero no distingue qué minerales contiene tu depósito. Te explicamos los parámetros exactos de dureza general y alcalinidad para espresso.",
+  "quickAnswer": "Para responder cuántos ppm debe tener el agua para cafetera espresso según la Specialty Coffee Association (SCA), el punto óptimo de sólidos disueltos totales (TDS) se sitúa entre **75 y 150 ppm**, con una ventana ideal de seguridad para calderas compactas de **50 a 100 ppm**. Dentro de esa cifra, la dureza general (**GH**) debe mantenerse entre **50 y 85 ppm** y la alcalinidad o dureza de carbonatos (**KH**) cerca de **40 ppm** con un **pH de 7.0**.",
+  "readingMinutes": 8,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Cómo medir en 3 segundos el agua de tu grifo o jarra con un medidor digital TDS de $10 de Amazon., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Candid real-world household usage perspective in bright natural morning light: realistic scene illustrating 'Cuántos PPM de TDS y Dureza Debe Tener el Agua de tu Cafetera Espresso (Rango SCA 50–100 ppm)' (cuantos ppm debe tener el agua para cafetera espresso) for cafeteracompacta.com, featuring equipment in arctic white with warm stone-gray details, in a bright family home interior with clean architectural lines, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cuántos PPM de TDS y Dureza Debe Tener el Agua de tu Cafetera Espresso (Rango SCA 50–100 ppm)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cuantos ppm debe tener el agua para cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Cómo medir en 3 segundos el agua de tu grifo o jarra con un medidor digital TDS de $10 de Amazon."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Cafe En Grano Y Agua](/cafe-en-grano-y-agua/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Sumergir un medidor digital de bolsillo en un vaso de agua, leer **90 ppm** en la pantalla LCD y asumir que tu **De’Longhi Dedica Maestro Plus (EC950M)** o tu **Breville Bambino (BES450)** están totalmente a salvo del sarro es uno de los malentendidos técnicos más habituales en el barismo doméstico. Un lápiz de **TDS** (*Total Dissolved Solids*) no analiza la composición química del líquido: simplemente mide su conductividad eléctrica en microsiemens y estima las partes por millón (**mg/L**) totales. Como explicamos en [nuestro hub especializado en café en grano y agua](/cafe-en-grano-y-agua/), esos **90 ppm** pueden corresponder a sulfato de magnesio beneficioso que potencia la extracción o a bicarbonato cálcico puro listo para solidificarse dentro del circuito térmico a **93 °C**."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cuantos ppm debe tener el agua para cafetera espresso"
+      "text": "Diferencia técnica entre TDS, Dureza General (GH) y Alcalinidad (KH) en tu depósito"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cuantos ppm debe tener el agua para cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Para dominar la calidad del agua según los estándares de la **Specialty Coffee Association (SCA)**, debemos separar tres métricas expresadas como equivalente de carbonato de calcio (**CaCO₃**). En primer lugar, el **TDS** engloba cualquier sal inorgánica disuelta (calcio, magnesio, sodio, cloruros, sulfatos y bicarbonatos), cuyo rango ideal para proteger calderas compactas se sitúa entre **50 y 100 ppm** (hasta **150 ppm** máximos en extracción). En segundo lugar, la **Dureza General (GH)** mide exclusivamente los iones divalentes de calcio (**Ca²⁺**) y magnesio (**Mg²⁺**), que son los brazos químicos encargados de arrancar los compuestos de sabor bajo los **9 bares** de presión; el objetivo óptimo es de **50 a 85 ppm**. En tercer lugar, la **Alcalinidad Total o Dureza de Carbonatos (KH)** mide los iones bicarbonato (**HCO₃⁻**) que amortiguan los ácidos. Si preparas granos de [tostadores de especialidad como Stumptown o Intelligentsia](/cafe-en-grano-y-agua/mejores-tostadores-de-especialidad-en-amazon-usa-stumptown-intelligentsia-counter-culture/) con un **KH** superior a **75 ppm**, apagarás sus notas cítricas y florales; mientras que un **GH** en torno a **70 ppm** con un **KH** de **40 ppm** permite que tanto un origen único como un [blend 80/20 de arábica y robusta lavado](/cafe-en-grano-y-agua/arabica-100-vs-blend-80-20-con-robusta-lavado-para-crema-de-espresso/) brillen con dulzor redondo."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: cuantos ppm debe tener el agua para cafetera espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Parámetro del agua",
+        "Valor objetivo SCA",
+        "Rango seguro en cafeteras compactas",
+        "Consecuencia técnica si te sales del rango"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Cómo medir en 3 segundos el agua de tu grifo o jarra con un medidor digital TDS de $10 de Amazon.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Sólidos Disueltos Totales (TDS)",
+          "85 ppm (mg/L)",
+          "50 – 100 ppm (máximo 150 ppm)",
+          "< 40 ppm produce tiros ácidos y vacíos; > 150 ppm acelera la calcificación"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Dureza General (GH: Ca²⁺ + Mg²⁺)",
+          "68 ppm como CaCO₃",
+          "50 – 85 ppm (2.8 – 4.8 °dH)",
+          "< 35 ppm reduce el rendimiento de extracción; > 90 ppm de calcio incrusta el Thermoblock"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Alcalinidad / Buffer (KH: HCO₃⁻)",
+          "40 ppm como CaCO₃",
+          "40 – 70 ppm (2.2 – 3.9 °dH)",
+          "< 30 ppm genera acidez punzante; > 75 ppm aplana el café y deja regusto a tiza"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "pH, Sodio y Cloruros",
+          "pH 7.0 / Na 10 mg/L",
+          "pH 6.5 – 7.5 / Cloruros < 30 mg/L",
+          "Un pH < 6.5 o cloruros > 30 mg/L favorecen la corrosión por picadura en acero inoxidable"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre cuantos ppm debe tener el agua para cafetera espresso",
-      "text": "Cómo medir en 3 segundos el agua de tu grifo o jarra con un medidor digital TDS de $10 de Amazon. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Parámetros físico-químicos recomendados por la SCA para cafeteras espresso domésticas"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar cuantos ppm debe tener el agua para cafetera espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Cómo convertir grados alemanes (°dH) y franceses (°fH) a partes por millón (ppm) y verificar tu agua"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Paso 1: Convierte las unidades del informe municipal o botella a ppm equivalentes",
+          "text": "En Estados Unidos los reportes municipales suelen expresar la dureza en **ppm (mg/L)** o en **granos por galón (gpg)**, mientras que en España y Europa predominan los grados franceses (**°fH**) o alemanes (**°dH**). Multiplica cada **1 °dH por 17.85** (o cada **1 gpg por 17.1**, y cada **1 °fH por 10**) para obtener **ppm**: así, la ventana ideal de **50 a 85 ppm de GH** equivale exactamente a **2.8 – 4.8 °dH** o **5 – 8.5 °fH**."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Paso 2: Mide el TDS a temperatura ambiente de 20–25 °C con compensación térmica (ATC)",
+          "text": "Purga medio vaso de agua de tu filtro, introduce las puntas metálicas del medidor TDS y espera **10 segundos** hasta que la lectura se estabilice. Ten presente que la mayoría de medidores domésticos aplican un factor de conversión **0.5 (escala NaCl)** sobre la conductividad eléctrica; busca que la cifra oscile entre **60 y 95 ppm**."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Paso 3: Contrasta GH y KH con un test colorimétrico de gotas si usas agua de grifo filtrada",
+          "text": "Con un kit de titulación líquida de GH y KH (muy común en acuariofilia), añade gota a gota el reactivo en el tubo de ensayo de **5 ml**: cada gota necesaria para cambiar el color equivale a **1 °dH (17.85 ppm)**. Si el test cambia con **3 o 4 gotas de GH** y **2 o 3 gotas de KH**, tienes el agua perfecta para tu **CASABREWS CM5418**."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "La proporción áurea entre Dureza General y Alcalinidad para un espresso dulce"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Para que una extracción a 93 °C en un portafiltro de 54 mm o 58 mm ofrezca acidez jugosa sin resultar agria ni áspera, busca que la Dureza General (GH) sea aproximadamente 1.7 veces superior a la Alcalinidad (KH). Por ejemplo, 68 ppm de GH combinados con 40 ppm de KH permiten extraer los azúcares del grano manteniendo un pH en taza equilibrado.",
+      "title": "La regla barista de la proporción GH/KH 1.7 a 1"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con cuantos ppm debe tener el agua para cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Pide ayuda a nuestro Asesor IA para interpretar los ppm del agua de tu localidad y consulta la disponibilidad de medidores TDS digitales y sistemas de filtrado en las tarjetas de Amazon integradas en esta guía."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cuantos ppm debe tener el agua para cafetera espresso?",
-      "a": "Cómo medir en 3 segundos el agua de tu grifo o jarra con un medidor digital TDS de $10 de Amazon. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Es lo mismo ppm que mg/L en las etiquetas de agua y medidores TDS?",
+      "a": "En hidrología del café, **1 ppm (parte por millón)** equivale exactamente a **1 mg/L (miligramo por litro)** de agua. Por tanto, si la etiqueta de un agua embotellada indica un residuo seco a **180 °C de 75 mg/L**, significa que tiene **75 ppm** de sólidos disueltos totales."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Qué ocurre si el agua de mi cafetera marca 180 ppm en el medidor TDS?",
+      "a": "Con **180 ppm** estás por encima del techo máximo recomendado por la SCA (**150 ppm**). Si gran parte de esos sólidos son bicarbonato y calcio, el sabor del espresso perderá matices aromáticos y el **Thermoblock** de tu cafetera acumulará incrustaciones calcáreas en pocas semanas, por lo que debes usar una jarra de intercambio iónico."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Basta un medidor de TDS económico para saber si mi agua tiene cal?",
+      "a": "No basta por sí solo, aunque es una herramienta de control muy útil para detectar cuándo se agota un filtro como **ZeroWater** o una membrana de ósmosis. Para evaluar agua de grifo o jarras **BWT**, conviene acompañarlo de una tira reactiva o un test de gotas **GH/KH** que confirme la dureza cálcica real."
     }
   ],
   "related": [
     "/cafe-en-grano-y-agua/",
-    "/cafe-en-grano-y-agua/jarras-filtrantes-brita-vs-bwt-magnesium-vs-zerowater-para-espresso/",
-    "/cafe-en-grano-y-agua/que-agua-usar-en-tu-cafetera-espresso-el-98-por-ciento-de-tu-taza/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/cafe-en-grano-y-agua/por-que-un-cafe-recien-tostado-de-hace-2-dias-no-sirve-para-espresso/",
+    "/cafe-en-grano-y-agua/arabica-100-vs-blend-80-20-con-robusta-lavado-para-crema-de-espresso/",
+    "/cafe-en-grano-y-agua/mejores-tostadores-de-especialidad-en-amazon-usa-stumptown-intelligentsia-counter-culture/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/dureza-ideal-del-agua-en-ppm-y-tds-para-cafeteras-espresso-50-a-100-ppm.webp"
 }

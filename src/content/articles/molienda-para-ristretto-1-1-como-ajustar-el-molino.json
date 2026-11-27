@@ -4,161 +4,120 @@
   "path": "/molinos-y-molienda/molienda-para-ristretto-1-1-como-ajustar-el-molino/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como ajustar molino para ristretto",
   "title": "Cómo Ajustar tu Molino para Extraer un Ristretto Intenso (Ratio 1:1 a 1:1.5 en 25 s)",
-  "seoTitle": "Cómo Ajustar tu Molino para Extraer un Ristretto Intenso (Ratio 1 | Guía Barista Compacta",
-  "metaDescription": "Cómo Ajustar tu Molino para Extraer un Ristretto Intenso (Ratio 1:1 a 1:1.5 en 25 s): Cierra 1 o 2 clics respecto a tu punto de espresso normal para obtener 18–25 g de jarabe denso y dulce con 18 g de dosis. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Cierra 1 o 2 clics respecto a tu punto de espresso normal para obtener 18–25 g de jarabe denso y dulce con 18 g de dosis.",
-  "quickAnswer": "Sobre como ajustar molino para ristretto: Cierra 1 o 2 clics respecto a tu punto de espresso normal para obtener 18–25 g de jarabe denso y dulce con 18 g de dosis. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Cómo Ajustar tu Molino para Extraer un Ristretto Intenso (Ratio 1:1 a 1:1.5 en 25 s) | cafeteracompacta.com",
+  "metaDescription": "Guía práctica sobre cómo ajustar el molino para ristretto con ratios 1:1 a 1:1.5 en 25 segundos sin bloquear la bomba de tu cafetera espresso compacta.",
+  "excerpt": "Domina el arte del ristretto cerrando entre 1 y 3 clics tu molino respecto al punto de espresso estándar para frenar el caudal y concentrar azúcares y cuerpo almibarado en solo 18 a 27 gramos.",
+  "quickAnswer": "Para ajustar el molino para ristretto debes cerrar la molienda entre **1 y 2 micro-clics** más fina que tu receta de espresso normal (unas **15 a 25 micras** menos en un **Turin DF54**). Así frenas el caudal a **9 bares** para recolectar entre **18 g y 27 g** de líquido con **18 g** de dosis en **22 a 27 segundos**. Cortar antes un espresso sin afinar el grano solo entrega acidez agresiva.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Cierra 1 o 2 clics respecto a tu punto de espresso normal para obtener 18–25 g de jarabe denso y dulce con 18 g de dosis., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Candid real-world household usage perspective in bright natural morning light: realistic scene illustrating 'Cómo Ajustar tu Molino para Extraer un Ristretto Intenso (Ratio 1:1 a 1:1.5 en 25 s)' (como ajustar molino para ristretto) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, on a matte dark-gray technical mat with measuring tools nearby, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Ajustar tu Molino para Extraer un Ristretto Intenso (Ratio 1:1 a 1:1.5 en 25 s)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como ajustar molino para ristretto** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Cierra 1 o 2 clics respecto a tu punto de espresso normal para obtener 18–25 g de jarabe denso y dulce con 18 g de dosis."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Si alguna vez has intentado preparar un ristretto simplemente apagando la bomba de tu **Breville Bambino** o **CASABREWS CM5418** a los **14 segundos** de extracción cuando la báscula marcaba **18 gramos** de líquido, habrás comprobado el resultado: un trago agresivo, salado y punzante que te hace fruncir el ceño. Un ristretto auténtico (cuyo nombre en italiano significa literalmente «restringido») no es un espresso interrumpido a mitad de camino, sino una extracción completa en tiempo (**22 a 27 segundos**) cuyo caudal se ha frenado desde el molino. Aprender esta calibración fina eleva radicalmente tus resultados dentro de las técnicas avanzadas de nuestro [hub de molinos y molienda](/molinos-y-molienda/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como ajustar molino para ristretto"
+      "text": "Cuántos clics o micras debes cerrar tu molino para pasar de ratio 1:2 a 1:1.2"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como ajustar molino para ristretto** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Para que **18.0 g** de café seco entreguen únicamente entre **18.0 g y 25.0 g** de bebida siruposa en el mismo arco temporal de **24 a 28 segundos**, necesitas incrementar la superficie de contacto de las partículas reduciendo su diámetro medio entre **15 y 30 micras**. Al compactar una molienda más fina en un portafiltro de **54 mm** o **51 mm**, el espacio intergranular se estrecha y la bomba trabaja contra el límite de la válvula OPV (**9 bares** reales en la **Breville Bambino BES450** y **Bambino Plus BES500**), obligando al agua a avanzar gota a gota como miel tibia. Ten presente que al operar tan cerca del punto de bloqueo (*choking*), pequeñas variaciones atmosféricas obligan a retocar medio punto, tal como explicamos en nuestro estudio sobre [cómo afecta un día lluvioso o húmedo a la velocidad de extracción del molino](/molinos-y-molienda/efecto-de-la-humedad-ambiental-en-la-molienda-del-espresso/), y es fundamental mantener las fresas libres de grasas oxidadas revisando [cómo funcionan las pastillas limpiadoras Urnex Grindz](/molinos-y-molienda/que-son-las-pastillas-urnex-grindz-y-cada-cuanto-usarlas/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: como ajustar molino para ristretto",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Molino compacto",
+        "Resolución por paso / clic",
+        "Ajuste para Ristretto (respecto a tu punto Espresso 1:2)",
+        "Tiempo objetivo (con pre-infusión)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Cierra 1 o 2 clics respecto a tu punto de espresso normal para obtener 18–25 g de jarabe denso y dulce con 18 g de dosis.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Baratza Encore ESP",
+          "~20 micras por clic (rango 1–20)",
+          "Cerrar 1 a 2 clics hacia el número inferior (ej. del 12 al 10–11)",
+          "23 – 27 segundos"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Fellow Opus Conical Burr",
+          "~16 micras con anillo interno Bevel",
+          "Cerrar 1/3 a 2/3 de macro-paso usando el anillo Bevel interno",
+          "24 – 28 segundos"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Turin DF54 (Continuo / Stepless)",
+          "Infinita (sin escalones fijos)",
+          "Girar 1.5 a 2.5 marcas más fino hacia el punto cero real",
+          "22 – 26 segundos"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "1Zpresso J-Ultra (Manual de precisión)",
+          "8 micras verticales por clic",
+          "Cerrar de 2 a 4 micro-clics en el dial numérico superior",
+          "24 – 28 segundos"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre como ajustar molino para ristretto",
-      "text": "Cierra 1 o 2 clics respecto a tu punto de espresso normal para obtener 18–25 g de jarabe denso y dulce con 18 g de dosis. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Ajuste diferencial de molienda para Ristretto frente a Espresso 1:2 según el modelo de molino"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como ajustar molino para ristretto hoy mismo en tu cocina"
+      "text": "Qué tuestes brillan en ristretto y por qué los tuestes claros piden más temperatura"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Al reducir el volumen de agua que atraviesa la pastilla casi a la mitad (pasando de **36 g** a **18–22 g** de líquido), la capacidad disolvente total del agua disminuye. Esto convierte al ristretto en el método ideal para **tuestes medios y medios-oscuros** (con notas a chocolate negro, avellana tostada y caramelo): al restringir el solvente en el tramo final, capturas toda la viscosidad de los aceites emulsionados y los azúcares sin extraer ni rastro de la ceniza o el amargor final del tueste intenso. En cambio, si intentas extraer un café de tueste ligero nórdico en ratio **1:1**, la escasa masa de agua no logrará disolver los ácidos frutales densos y obtendrás una taza desequilibrada."
     },
     {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con como ajustar molino para ristretto en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Si al cerrar 2 clics tu molino la primera gota tarda más de 13 segundos en asomar por el portafiltro desnudo y luego saltan micro-chorros rubios por un lateral, has superado el límite de permeabilidad de la pastilla (choking con fractura). En lugar de seguir cerrando el molino, vuelve 1 clic atrás o aumenta 0.5 g la dosis manteniendo tu molienda original.",
+      "title": "Cuidado con ahogar la bomba (Choking) y provocar canalización inversa"
     },
     {
       "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Claves prácticas para clavar un Ristretto 1:1.2 sedoso y sin acidez punzante"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Alarga la pre-infusión a baja presión (7 a 9 segundos):** En cafeteras como la **Breville Bambino** o la **De’Longhi Dedica Maestro Plus (EC950M)**, mantén pulsado el botón manual para humedecer toda la pastilla extrafina a baja presión antes de soltar los 9 bares completos.",
+        "**Aumenta la temperatura 1 °C o 2 °C si tu cafetera tiene PID ajustable:** Subir de **92 °C a 94 °C** (o seleccionar el perfil Alto en la **Dedica Arte EC885M**) compensa el menor volumen de agua y evita que el ristretto quede subextraído o agrio.",
+        "**Extrema la distribución WDT en los bordes de la cesta:** Con granulometrías más cerradas, cualquier grieta perimetral en una cesta de **51 mm** o **54 mm** canalizará de inmediato al recibir el golpe de presión.",
+        "**Apunta a un ratio 1:1.25 como punto dulce moderno:** Con **18.0 g** de dosis en seco, detener el disparo sobre la báscula exactamente en **22.5 g** de líquido entre los segundos **24 y 26** ofrece el mejor equilibrio entre textura de jarabe y claridad aromática."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "¿Necesitas un molino con micro-ajuste suficiente para moverte entre ristretto y espresso sin saltos bruscos? Consulta a nuestro Asesor IA o revisa el stock actualizado en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como ajustar molino para ristretto?",
-      "a": "Cierra 1 o 2 clics respecto a tu punto de espresso normal para obtener 18–25 g de jarabe denso y dulce con 18 g de dosis. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué no basta con cortar antes el botón de la cafetera para hacer un ristretto?",
+      "a": "Porque al usar la mitad de agua (18–22 g en lugar de 36–40 g), el poder de extracción cae. Si solo cortas el tiempo a 14 segundos con molienda de espresso normal, solo habrás extraído la primera fase ácida sin llegar a disolver los azúcares del grano."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Qué receta en gramos debo usar para un ristretto en un portafiltro de 51 mm?",
+      "a": "En cestas dobles de 51 mm (como las de la CASABREWS CM5418 o De’Longhi Dedica Arte), utiliza tu dosis habitual de 14.0 g a 16.0 g en seco, cierra 1 clic el molino y detén la extracción con báscula cuando obtengas entre 15.0 g y 21.0 g en taza en unos 25 segundos."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿El ristretto tiene más cafeína que un espresso normal por ser más concentrado?",
+      "a": "Al contrario: un ristretto tiene casi el doble de concentración de sólidos disueltos (TDS del 12 % al 15 %), pero entre un 15 % y un 25 % menos de cafeína total en miligramos que un espresso largo, ya que pasa menos agua total a través del café."
     }
   ],
   "related": [
-    "/molinos-y-molienda/",
-    "/molinos-y-molienda/como-afecta-el-origen-del-cafe-etiopia-vs-brasil-al-molino/",
-    "/molinos-y-molienda/molienda-para-americanos-y-lungos-no-cambies-el-molino/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/ruido-en-decibelios-de-los-molinos-de-espresso-mas-vendidos/",
+    "/molinos-y-molienda/efecto-de-la-humedad-ambiental-en-la-molienda-del-espresso/",
+    "/molinos-y-molienda/como-viajar-con-un-molino-manual-de-espresso-en-el-equipaje-de-mano/",
+    "/molinos-y-molienda/que-son-las-pastillas-urnex-grindz-y-cada-cuanto-usarlas/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/molienda-para-ristretto-1-1-como-ajustar-el-molino.webp"
 }

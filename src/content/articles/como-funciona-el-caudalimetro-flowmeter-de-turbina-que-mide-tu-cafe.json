@@ -4,161 +4,110 @@
   "path": "/ciencia-y-tecnologia-espresso/como-funciona-el-caudalimetro-flowmeter-de-turbina-que-mide-tu-cafe/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como funciona el caudalimetro de una cafetera espresso",
   "title": "Cómo Sabe tu Cafetera Compacta Cuándo Parar el Café: El Caudalímetro de Turbina con Imán Hall",
-  "seoTitle": "Cómo Sabe tu Cafetera Compacta Cuándo Parar el Café | Guía Barista Compacta",
-  "metaDescription": "Cómo Sabe tu Cafetera Compacta Cuándo Parar el Café: El Caudalímetro de Turbina con Imán Hall: Una diminuta hélice antes de la bomba cuenta cada mililitro de agua fría que pasa y envía pulsos eléctricos a la placa para cortar el shot. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Una diminuta hélice antes de la bomba cuenta cada mililitro de agua fría que pasa y envía pulsos eléctricos a la placa para cortar el shot.",
-  "quickAnswer": "Sobre como funciona el caudalimetro de una cafetera espresso: Una diminuta hélice antes de la bomba cuenta cada mililitro de agua fría que pasa y envía pulsos eléctricos a la placa para cortar el shot. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Sabe tu Cafetera Compacta Cuándo Parar el Café: El Caudalímetro de Turbina con Imán Hall | cafeteracompacta.com",
+  "metaDescription": "Así funciona el caudalímetro de turbina con sensor Hall de tu cafetera espresso compacta para medir los mililitros de agua y cortar la extracción.",
+  "excerpt": "Radiografía del medidor volumétrico interno de las cafeteras compactas: cómo los pulsos magnéticos del rotor calculan el caudal bombeado y qué averías provocan las burbujas de aire o el sarro.",
+  "quickAnswer": "Tu cafetera compacta mide el volumen de agua mediante un **caudalímetro de turbina con sensor de efecto Hall** instalado entre el depósito y la bomba. Al pasar por una tobera tangencial de **1.2 mm**, el agua hace girar un rotor con **microimanes de neodimio** que emiten alrededor de **2 pulsos eléctricos por cada mililitro** (**~2000 pulsos/litro**) hacia la placa electrónica, la cual corta la extracción al alcanzar el conteo memorizado.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Una diminuta hélice antes de la bomba cuenta cada mililitro de agua fría que pasa y envía pulsos eléctricos a la placa para cortar el shot., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Over-the-shoulder hands-on demonstration perspective in natural light: realistic scene illustrating 'Cómo Sabe tu Cafetera Compacta Cuándo Parar el Café: El Caudalímetro de Turbina con Imán Hall' (como funciona el caudalimetro de una cafetera espresso) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, inside a bright contemporary apartment with minimalist decor, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Sabe tu Cafetera Compacta Cuándo Parar el Café: El Caudalímetro de Turbina con Imán Hall"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como funciona el caudalimetro de una cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Una diminuta hélice antes de la bomba cuenta cada mililitro de agua fría que pasa y envía pulsos eléctricos a la placa para cortar el shot."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Ciencia Y Tecnologia Espresso](/ciencia-y-tecnologia-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Pulsas el botón de dos tazas en tu **Breville Bambino (BES450)**, **De’Longhi Dedica Arte (EC885M)** o **CASABREWS CM5418** y te despreocupas: la máquina preinfusiona, bombea durante unos segundos y corta la corriente exactamente por sí sola. A diferencia de las cafeteras económicas antiguas que solo contaban con un temporizador ciego de **25 segundos** (o un interruptor manual basculante), las cafeteras compactas modernas con dosificación programable integran un instrumento electromecánico de precisión heredado de la hostelería italiana: el **caudalímetro volumétrico de turbina con sensor de efecto Hall**, pieza clave en la [revolución de la ingeniería del espresso doméstico](/ciencia-y-tecnologia-espresso/resumen-por-que-la-ingenieria-actual-hace-que-una-cafetera-de-200-dolares-supere-a-las-antiguas-de-1000/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como funciona el caudalimetro de una cafetera espresso"
+      "text": "Anatomía Interna del Caudalímetro: Tobera Tangencial, Turbina e Imanes de Neodimio"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como funciona el caudalimetro de una cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Si abres la carcasa de tu cafetera compacta y sigues la manguera de silicona que sale del depósito de agua fría antes de entrar a la bomba vibratoria, encontrarás una pequeña cápsula circular de polímero blanco o negro (**PVDF o poliacetal de grado alimentario**) del tamaño de una moneda con un conector de **3 cables**. En su interior, el agua es forzada a atravesar un orificio de entrada estrecho (**1.2 a 1.5 mm de diámetro**) orientado de forma tangencial respecto a una cámara cilíndrica. Ese chorro hace girar una microturbina ultraligera de cuatro aspas en cuyas puntas van encapsulados **dos microimanes bipolares de neodimio**. Justo encima de la tapa plástica —completamente aislado del agua para evitar cortocircuitos— se ubica un **transductor semiconductor de efecto Hall** alimentado a **5 V DC**. Cada vez que un polo magnético pasa bajo el chip al fluir el agua hacia la [válvula OPV del circuito de presión](/ciencia-y-tecnologia-espresso/que-es-la-valvula-opv-over-pressure-valve-en-la-breville-bambino-y-gaggia/), el sensor conmuta su voltaje y envía un pulso digital cuadrado al microcontrolador, que al llegar a la cifra programada corta la bomba y activa la [válvula solenoide de 3 vías](/ciencia-y-tecnologia-espresso/que-es-la-valvula-solenoide-de-3-vias-y-por-que-seca-la-pastilla-de-cafe/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: como funciona el caudalimetro de una cafetera espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Parámetro Técnico",
+        "Valor de Ingeniería Típico",
+        "Función en el Control del Disparo"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Una diminuta hélice antes de la bomba cuenta cada mililitro de agua fría que pasa y envía pulsos eléctricos a la placa para cortar el shot.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Diámetro de tobera de entrada",
+          "1.2 mm – 1.5 mm",
+          "Acelera la velocidad lineal del agua para mover el rotor incluso a caudales bajos de preinfusión"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Factor K (Resolución volumétrica)",
+          "1900 – 2200 pulsos por litro (~2 pulsos/ml)",
+          "Cada pulso magnético equivale a ~0.45 – 0.52 ml de agua aspirada desde el tanque"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Señal eléctrica de salida (Pin Out)",
+          "Onda cuadrada TTL de 0 V a 5 V DC (3 pines: VCC, GND, Signal)",
+          "Permite a la placa PCB contar el volumen exacto sin depender del tiempo del reloj"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Presión y temperatura de trabajo",
+          "0.1 a 2 bares / 5 °C a 40 °C (Lado frío)",
+          "Opera en la línea de aspiración antes de la bomba para no degradar los imanes con calor"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre como funciona el caudalimetro de una cafetera espresso",
-      "text": "Una diminuta hélice antes de la bomba cuenta cada mililitro de agua fría que pasa y envía pulsos eléctricos a la placa para cortar el shot. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Especificaciones técnicas de un caudalímetro de turbina estándar (tipo Gicar / Digmesa) en cafeteras compactas"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como funciona el caudalimetro de una cafetera espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con como funciona el caudalimetro de una cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Los 3 Fallos Reales que Engañan al Sensor Hall de tu Cafetera Compacta"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Burbujas de aire por depósito vacío (efecto turbina loca):** Si el tanque se queda sin agua a mitad de un espresso, la bomba aspira aire; al tener el aire una viscosidad **50 veces menor** que el agua, hace girar las aspas de la turbina a altísima velocidad, generando **120 pulsos en 2 segundos** y haciendo creer al cerebro electrónico que ya dispensó **60 ml** de café.",
+        "**Bloqueo del eje por biofilm o escamas de cal:** Si dejas agua estancada durante semanas en el depósito de tu **De’Longhi Dedica Arte** o **CASABREWS CM5418**, puede formarse una película viscosa (biofilm) o desprenderse una partícula calcárea que frene el eje de acero inoxidable de la turbina; si la placa no recibe pulsos durante **5 a 8 segundos** con la bomba encendida, detiene la máquina por seguridad o alarga el café indefinidamente.",
+        "**Obstrucción parcial de la tobera de 1.2 mm:** Una mota de suciedad alojada en la boquilla de entrada reduce su sección y multiplica la velocidad del chorro sobre las paletas (efecto manguera pellizcada), provocando que la turbina gire el doble de rápido por cada mililitro real y que tus botones de **1 taza y 2 tazas** entreguen de golpe la mitad del volumen habitual."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Cómo Reprogramar el Conteo de Pulsos de tus Botones Volumétricos"
     },
     {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "Cuando mantienes pulsado el botón de **1 o 2 tazas** en tu **Breville Bambino (BES450)**, **De’Longhi Dedica Arte (EC885M)** o **CASABREWS CM5418** para personalizar la dosis, no estás grabando segundos en un cronómetro: estás ordenando a la memoria EEPROM de la placa que guarde el **número exacto de pulsos magnéticos Hall** (por ejemplo, **140 pulsos ≈ 70 ml** de agua bruta bombeada) que debe contar en los próximos cafés antes de apagar la bomba.",
+      "title": "Qué guarda realmente la memoria de tu cafetera al programar un botón"
+    },
+    {
+      "type": "cta",
+      "text": "¿Quieres acompañar tu cafetera volumétrica con una báscula digital de espresso para controlar tus recetas al milímetro? Consulta al Asesor IA del sitio o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como funciona el caudalimetro de una cafetera espresso?",
-      "a": "Una diminuta hélice antes de la bomba cuenta cada mililitro de agua fría que pasa y envía pulsos eléctricos a la placa para cortar el shot. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué el depósito de agua de mi cafetera tiene una pequeña malla filtrante en la válvula inferior?",
+      "a": "Porque la tobera interna del caudalímetro mide apenas 1.2 mm de diámetro. Si no hay una rejilla fina de acero o nailon en la base del depósito, cualquier pelo, hebra de café molido o escama de cal que caiga al tanque pasará directo al rotor y trabará las aspas magnéticas de la turbina."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cómo sé si el caudalímetro de mi cafetera compacta está fallando?",
+      "a": "Si la cafetera corta sola a los 5 o 7 segundos tras encender la bomba, suele significar que el caudalímetro está bloqueado y envía 0 pulsos a la placa (activando el corte de protección por falta de agua), o bien que está entrando aire por la junta del tanque y haciendo girar la turbina en vacío a máxima velocidad."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿El líquido descalcificador limpia también el caudalímetro de turbina?",
+      "a": "Sí, parcialmente. Cuando programas el ciclo de descalcificación, la solución ácida pasa desde el tanque a través del caudalímetro frío antes de llegar a la bomba y al bloque térmico, disolviendo cualquier carbonato de calcio adherido al eje de la turbina."
     }
   ],
   "related": [
-    "/ciencia-y-tecnologia-espresso/",
-    "/ciencia-y-tecnologia-espresso/por-que-el-caudalimetro-esta-antes-de-la-valvula-opv-y-como-afecta-al-volumen/",
-    "/ciencia-y-tecnologia-espresso/termodinamica-del-vapor-seco-vs-vapor-humedo-en-cafeteras-compactas/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/ciencia-y-tecnologia-espresso/resumen-por-que-la-ingenieria-actual-hace-que-una-cafetera-de-200-dolares-supere-a-las-antiguas-de-1000/",
+    "/ciencia-y-tecnologia-espresso/que-es-la-valvula-opv-over-pressure-valve-en-la-breville-bambino-y-gaggia/",
+    "/ciencia-y-tecnologia-espresso/que-es-la-valvula-solenoide-de-3-vias-y-por-que-seca-la-pastilla-de-cafe/",
+    "/ciencia-y-tecnologia-espresso/fisica-del-filtro-presurizado-de-doble-pared-como-crea-espuma-por-venturi/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-funciona-el-caudalimetro-flowmeter-de-turbina-que-mide-tu-cafe.webp"
 }

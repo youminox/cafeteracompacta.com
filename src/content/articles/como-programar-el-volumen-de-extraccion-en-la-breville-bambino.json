@@ -4,161 +4,122 @@
   "path": "/extraccion-y-recetas-espresso/como-programar-el-volumen-de-extraccion-en-la-breville-bambino/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como programar volumen y preinfusion breville bambino",
   "title": "Cómo Programar la Dosis Personalizada y Controlar la Pre-Infusión Manual en la Breville Bambino",
-  "seoTitle": "Cómo Programar la Dosis Personalizada y Controlar la Pre-Infusión Manual en la Breville Bambino | Guía Barista Compacta",
-  "metaDescription": "Cómo Programar la Dosis Personalizada y Controlar la Pre-Infusión Manual en la Breville Bambino: En modo manual de la Bambino puedes mantener pulsado el botón hasta 8–10 segundos para alargar la pre-infusión a baja presión y soltar para extraer. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "En modo manual de la Bambino puedes mantener pulsado el botón hasta 8–10 segundos para alargar la pre-infusión a baja presión y soltar para extraer.",
-  "quickAnswer": "Sobre como programar volumen y preinfusion breville bambino: En modo manual de la Bambino puedes mantener pulsado el botón hasta 8–10 segundos para alargar la pre-infusión a baja presión y soltar para extraer. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Cómo Programar la Dosis Personalizada y Controlar la Pre-Infusión Manual en la Breville Bambino | cafeteracompacta.com",
+  "metaDescription": "Domina la programación de volumen y la pre-infusión manual en la Breville Bambino (BES450 y Plus) para clavar 36 gramos de espresso en cada extracción.",
+  "excerpt": "La Breville Bambino esconde un modo manual que permite extender la pre-infusión a baja presión hasta 10 segundos y cortar el disparo al décimo de gramo sobre la báscula. Descubre cómo dominarlo hoy.",
+  "quickAnswer": "La **Breville Bambino (BES450)** permite tanto reprogramar la memoria volumétrica (pulsando **1 Taza y 2 Tazas** a la vez durante **2 segundos**) como controlar cada disparo en tiempo real. Para ejecutar la **pre-infusión manual**, mantén presionado el botón de extracción durante **6 a 8 segundos** para humedecer la pastilla a baja presión, suéltalo para activar los **9 bares** y vuelve a pulsarlo al alcanzar **33–34 g** en tu báscula.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: En modo manual de la Bambino puedes mantener pulsado el botón hasta 8–10 segundos para alargar la pre-infusión a baja presión y soltar para extraer., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Low-angle dramatic hero perspective with soft background bokeh on 35mm lens: realistic scene illustrating 'Cómo Programar la Dosis Personalizada y Controlar la Pre-Infusión Manual en la Breville Bambino' (como programar volumen y preinfusion breville bambino) for cafeteracompacta.com, featuring equipment in terracotta copper accent with matte slate body, beside a neat storage shelf in a sunlit modern room, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Programar la Dosis Personalizada y Controlar la Pre-Infusión Manual en la Breville Bambino"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como programar volumen y preinfusion breville bambino** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. En modo manual de la Bambino puedes mantener pulsado el botón hasta 8–10 segundos para alargar la pre-infusión a baja presión y soltar para extraer."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Aunque la **Breville Bambino (BES450)** y su hermana mayor la **Breville Bambino Plus (BES500)** destacan por su minimalismo frontal de apenas tres o cuatro botones y calentamiento **ThermoJet en 3 segundos**, su placa electrónica con control **PID** oculta una función digna de máquinas profesionales mucho más costosas: el control manual del tiempo de pre-infusión y del corte de extracción en cada disparo. Si solo das un toque rápido al botón de **2 Tazas**, la cafetera ejecuta una pre-infusión fija y corta por caudalímetro en unos **60 ml** nominales, lo que suele pasarse del punto dulce cuando dosificas **18.0 g** de café de especialidad en su portafiltro de **54 mm**. Dominar los dos métodos de control —la reprogramación de memoria fija y el disparo manual en vivo— dentro de nuestro hub de [extracción y recetas espresso](/extraccion-y-recetas-espresso/) te permitirá adaptar tu Breville a cualquier nivel de tueste al décimo de gramo."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como programar volumen y preinfusion breville bambino"
-    },
-    {
-      "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como programar volumen y preinfusion breville bambino** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Comparativa de los 3 Modos de Extracción en la Breville Bambino (BES450 y BES500)"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: como programar volumen y preinfusion breville bambino",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Modo de Operación en Breville Bambino",
+        "Cómo se Activa en el Panel Frontal",
+        "Duración de la Pre-Infusión (Baja Presión)",
+        "Precisión en Taza y Caso de Uso Ideal"
       ],
       "rows": [
         [
-          "Clave principal",
-          "En modo manual de la Bambino puedes mantener pulsado el botón hasta 8–10 segundos para alargar la pre-infusión a baja presión y soltar para extraer.",
-          "Mejora la consistencia y evita errores de extracción"
+          "1. Automático de Fábrica (One-Touch)",
+          "1 toque corto en el botón 1 Taza o 2 Tazas",
+          "Automática fija (~4 a 5 segundos)",
+          "Baja precisión con grano fresco (~30 ml en 1 Taza / ~60 ml en 2 Tazas); pensado para cestas presurizadas"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "2. Volumétrico Personalizado (Guardado en Memoria)",
+          "Mantener 1 Taza + 2 Tazas 2 s → pulsar botón a grabar → pulsar de nuevo al peso deseado",
+          "Automática fija (~4 a 5 segundos)",
+          "Alta comodidad diaria cuando usas siempre el mismo café en grano ya calibrado a 18.0 g → 36.0 g"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "3. Modo Manual en Vivo (Pre-Infusión + Corte Manual)",
+          "Mantener presionado 1 Taza o 2 Tazas durante la pre-infusión → soltar a 9 bar → tocar para cortar",
+          "Totalmente variable por el barista (de 1 a 10 segundos máximo)",
+          "Máxima precisión barista: permite alargar pre-infusión a 8–10 s para tuestes medios/claros y clavar el peso en báscula"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre como programar volumen y preinfusion breville bambino",
-      "text": "En modo manual de la Bambino puedes mantener pulsado el botón hasta 8–10 segundos para alargar la pre-infusión a baja presión y soltar para extraer. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Diferencias operativas entre el disparo automático de fábrica, la dosis programada en memoria y el modo manual en vivo"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como programar volumen y preinfusion breville bambino hoy mismo en tu cocina"
+      "text": "Diferencia de Corte en Báscula entre Breville Bambino (BES450) y Bambino Plus (BES500)"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Antes de programar tu dosis tras revisar [cuántos gramos de café poner en tu cesta de 54 mm (17 a 19 g)](/extraccion-y-recetas-espresso/como-saber-cuantos-gramos-caben-en-tu-cesta-de-51mm-vs-54mm/), debes tener en cuenta una diferencia mecánica crucial entre las dos versiones de la Bambino. La **Breville Bambino Plus (BES500)** incorpora una **válvula solenoide de 3 vías** detrás del cabezal de grupo: en el instante en que pulsas el botón para detener la extracción, la válvula se abre con un chasquido y descarga toda la presión de agua sobrante directamente a la bandeja de goteo, por lo que apenas cae **0.5 a 1.0 g** residual en tu taza. En cambio, la **Breville Bambino estándar (BES450)** carece de válvula solenoide de 3 vías (igual que vimos al explicar [cómo programar el volumen de los botones en la CASABREWS CM5418](/extraccion-y-recetas-espresso/como-programar-el-volumen-y-tiempo-de-los-botones-en-casabrews-cm5418/)), de modo que al detener la bomba continúan cayendo entre **2.5 g y 3.5 g** de espresso por inercia; corta siempre en **33.0 g** sobre la báscula para aterrizar en **36.0 g** clavados, o en **24.0 g** si estás extrayendo un doble ristretto para nuestra [receta de Flat White auténtico australiano](/extraccion-y-recetas-espresso/receta-de-flat-white-autentico-australiano-en-cafetera-compacta/)."
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Método A (En Vivo): Mantén pulsado el botón para controlar la Pre-Infusión Manual",
+          "text": "Con tus **18.0 g** compactados en el portafiltro de **54 mm** y la taza tarada a **0.0 g** sobre la báscula, **mantén presionado el botón de 2 Tazas sin soltarlo**. Escucharás la bomba trabajar a pulsos suaves de baja presión humedeciendo la pastilla de manera uniforme. Puedes mantenerlo presionado durante **6 a 8 segundos** (hasta un tope de seguridad de **10 segundos**) hasta ver asomar las primeras gotas oscuras en la base del filtro."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Suelta el botón para desatar los 9 bares reales de la válvula OPV",
+          "text": "En cuanto sueltas el dedo del botón de **2 Tazas**, la **Breville Bambino** pasa instantáneamente a potencia máxima regulada por su válvula **OPV a 9 bares** y temperatura **PID de 93 °C**. Deja que el flujo corra vigilando el cronómetro y los gramos en tu báscula."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Da un toque simple para cortar el disparo al alcanzar tu peso objetivo",
+          "text": "Cuando la pantalla de tu báscula marque **33.0 g** (en la **Bambino BES450**) o **35.0 g** (en la **Bambino Plus BES500**) alrededor de los **27 a 30 segundos** totales, presiona una sola vez el botón de **2 Tazas** para detener la bomba al instante. (Este disparo manual no sobrescribe la memoria guardada)."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Método B (Guardar en Memoria): Pulsa 1 Taza + 2 Tazas a la vez durante 2 segundos",
+          "text": "Si prefieres dejar grabado un volumen fijo en la memoria para no usar el modo manual a diario, **mantén pulsados simultáneamente los botones 1 Taza y 2 Tazas durante 2 segundos** hasta que ambos parpadeen. Luego pulsa el botón que deseas programar (**2 Tazas**) para iniciar el café y vuelve a pulsarlo al llegar a **33.0 g** en la báscula para guardar el ajuste permanentemente."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Cómo Restaurar el Volumen de Fábrica en la Breville Bambino y Bambino Plus"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Si deseas borrar la programación volumétrica personalizada y devolver los botones de **1 Taza** y **2 Tazas** a los valores originales de fábrica de Breville, asegúrate de que la cafetera esté en modo de espera (*Standby* o encendida sin extraer) y **mantén presionados al mismo tiempo los botones de 1 Taza y 2 Tazas durante 5 segundos completos** (pasando de largo el parpadeo inicial de los 2 segundos). Cuando las luces de ambos botones parpadeen **3 veces seguidas** y queden fijas, la placa electrónica habrá restaurado los volúmenes predeterminados de serie.",
+      "title": "Secuencia de 5 segundos para resetear la memoria de la Breville Bambino"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con como programar volumen y preinfusion breville bambino en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Quieres exprimir al máximo tu Breville Bambino con un portafiltro sin fondo de 54 mm, tamper calibrado de 53.3 mm y cesta de precisión IMS? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como programar volumen y preinfusion breville bambino?",
-      "a": "En modo manual de la Bambino puedes mantener pulsado el botón hasta 8–10 segundos para alargar la pre-infusión a baja presión y soltar para extraer. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Qué pasa si mantengo pulsado el botón de pre-infusión manual más de 10 segundos?",
+      "a": "Si mantienes presionado el botón de **1 Taza** o **2 Tazas** durante más de **10 segundos** seguidos, el firmware de la **Breville Bambino** finaliza automáticamente la fase de baja presión y activa por sí solo la presión completa de extracción de **9 bares** para proteger la bomba y garantizar el flujo, aunque sigas teniendo el dedo apoyado."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Usar el modo de pre-infusión manual borra el volumen que tenía guardado en el botón?",
+      "a": "No. Esa es la gran ventaja del diseño de Breville: cuando mantienes pulsado el botón de **2 Tazas** directamente para hacer pre-infusión manual y luego tocas para cortar, ese disparo funciona solo para esa taza. Para modificar la memoria permanente tienes que entrar antes al modo programación pulsando **1 Taza y 2 Tazas a la vez durante 2 segundos**."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cuándo conviene alargar la pre-infusión manual a 8 o 9 segundos en la Bambino?",
+      "a": "Sí. Para granos de **tueste medio o ligero de especialidad** (que son más densos y difíciles de extraer porque la Bambino tiene temperatura PID fija a **93 °C**), prolongar la pre-infusión manual a **8 o 9 segundos** satura el corazón de la pastilla con agua caliente antes de aplicar los **9 bares**, reduciendo drásticamente la acidez y el riesgo de canalización."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/como-ajustar-las-3-temperaturas-y-el-volumen-en-la-delonghi-dedica-arte/",
     "/extraccion-y-recetas-espresso/como-programar-el-volumen-y-tiempo-de-los-botones-en-casabrews-cm5418/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/como-saber-cuantos-gramos-caben-en-tu-cesta-de-51mm-vs-54mm/",
+    "/extraccion-y-recetas-espresso/receta-de-flat-white-autentico-australiano-en-cafetera-compacta/",
+    "/extraccion-y-recetas-espresso/receta-de-iced-latte-y-iced-americano-de-verano/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-programar-el-volumen-de-extraccion-en-la-breville-bambino.webp"
 }

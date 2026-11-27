@@ -4,161 +4,128 @@
   "path": "/problemas-y-soluciones/la-bomba-hace-ruido-fuerte-pero-no-sale-agua-como-cebar-airlock/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cafetera espresso hace ruido pero no sale agua",
   "title": "La Cafetera Hace Ruido de Bomba pero No Sale Nada de Agua: Cómo Eliminar una Burbuja de Aire (Airlock)",
-  "seoTitle": "La Cafetera Hace Ruido de Bomba pero No Sale Nada de Agua | Guía Barista Compacta",
-  "metaDescription": "La Cafetera Hace Ruido de Bomba pero No Sale Nada de Agua: Cómo Eliminar una Burbuja de Aire (Airlock): Cuando es nueva o se quedó sin agua entra aire a la bomba Ulka: quita el portafiltro, abre el vapor al máximo y pulsa extracción 10 segundos. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Cuando es nueva o se quedó sin agua entra aire a la bomba Ulka: quita el portafiltro, abre el vapor al máximo y pulsa extracción 10 segundos.",
-  "quickAnswer": "Sobre cafetera espresso hace ruido pero no sale agua: Cuando es nueva o se quedó sin agua entra aire a la bomba Ulka: quita el portafiltro, abre el vapor al máximo y pulsa extracción 10 segundos. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "La Cafetera Hace Ruido de Bomba pero No Sale Nada de Agua: Cómo Eliminar una Burbuja de Aire (Airlock) | cafeteracompacta.com",
+  "metaDescription": "¿Tu cafetera espresso hace ruido pero no sale agua por el grupo? Aprende a purgar una burbuja de aire (airlock) y cebar la bomba Ulka en 60 segundos.",
+  "excerpt": "Procedimiento paso a paso para desbloquear bombas vibratorias en máquinas nuevas o tras vaciar el depósito: cebado por lanceta de vapor, asentamiento de válvula del tanque y purga sin dañar el solenoide.",
+  "quickAnswer": "Si tu **cafetera espresso hace ruido pero no sale agua**, la bomba vibratoria sufre un bloqueo por aire (*airlock*) en la línea de admisión, muy común al estrenar el equipo o agotar el depósito. Como el pistón oscilante no puede comprimir gases, vibra con un tableteo seco sin generar caudal hacia el grupo. Asentar el tanque al máximo y purgar por la lanceta durante **15 segundos** restaura el flujo.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Cuando es nueva o se quedó sin agua entra aire a la bomba Ulka: quita el portafiltro, abre el vapor al máximo y pulsa extracción 10 segundos., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Over-the-shoulder hands-on demonstration perspective in natural light: realistic scene illustrating 'La Cafetera Hace Ruido de Bomba pero No Sale Nada de Agua: Cómo Eliminar una Burbuja de Aire (Airlock)' (cafetera espresso hace ruido pero no sale agua) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, on a solid oak workbench in a tidy modern home space, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "La Cafetera Hace Ruido de Bomba pero No Sale Nada de Agua: Cómo Eliminar una Burbuja de Aire (Airlock)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cafetera espresso hace ruido pero no sale agua** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Cuando es nueva o se quedó sin agua entra aire a la bomba Ulka: quita el portafiltro, abre el vapor al máximo y pulsa extracción 10 segundos."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Acabas de sacar tu **Breville Bambino BES450**, **CASABREWS CM5418** o **De’Longhi Dedica Arte EC885M** de la caja —o simplemente te despistaste y dejaste que el depósito trasero se vaciara por completo a mitad de un café—, pulsas el botón de extracción y escuchas un tableteo metálico estridente, mucho más seco y agudo de lo normal, mientras la taza sigue totalmente vacía. Cuando una **cafetera espresso hace ruido pero no sale agua**, no estás ante un motor quemado: la bomba vibratoria ha aspirado una bolsa de aire (*airlock*) y ha perdido su cebado hidráulico. Si la máquina además muestra alertas luminosas tras varios intentos fallidos, conviene revisar también qué indica cuando [parpadean las dos luces en la Breville Bambino](/problemas-y-soluciones/breville-bambino-dos-luces-parpadeando-alternativamente-o-fijas/) para no confundir falta de caudal con bloqueo electrónico."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cafetera espresso hace ruido pero no sale agua"
+      "text": "Por qué las bombas vibratorias Ulka no pueden empujar aire en seco"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cafetera espresso hace ruido pero no sale agua** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Todas las cafeteras compactas de **15 bares** y **20 bares** emplean bombas electromagnéticas oscilantes (generalmente **Ulka EP5**, **EX5** o equivalentes de **48W a 65W**) que mueven un pequeño pistón de acero dentro de un cilindro con dos válvulas antirretorno de bola y muelle. A diferencia de una bomba de vacío industrial, este pistón está calibrado para desplazar un fluido incompresible como el agua. Cuando entra una burbuja de aire en el tubo de silicona que va desde la base del depósito de **1.1 L a 1.5 L** hasta la entrada de la bomba, el aire simplemente se comprime y descomprime **50 o 60 veces por segundo** sin lograr vencer la resistencia del muelle de salida hacia el *Thermoblock* o *ThermoJet*. Del mismo modo que la ausencia de válvula de descarga deja una [pastilla de café con charco de agua encima del portafiltro](/problemas-y-soluciones/pastilla-de-cafe-aguada-o-con-charco-de-agua-encima-es-un-defecto/), aquí la física de fluidos exige evacuar el gas sin contrapresión para que el líquido vuelva a inundar la cámara del pistón, un procedimiento básico dentro de nuestra [guía general de problemas y soluciones para cafeteras compactas](/problemas-y-soluciones/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: cafetera espresso hace ruido pero no sale agua",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Sonido de la bomba al pulsar el botón",
+        "Causa técnica en el circuito",
+        "Flujo en la lanceta de vapor",
+        "Acción correctiva recomendada"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Cuando es nueva o se quedó sin agua entra aire a la bomba Ulka: quita el portafiltro, abre el vapor al máximo y pulsa extracción 10 segundos.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Claqueteo muy fuerte, rápido y metálico",
+          "Burbuja de aire (airlock) o tanque mal encajado en la válvula base",
+          "Nulo o pequeños soplidos de aire",
+          "Cebar abriendo el circuito de agua caliente por la lanceta sin portafiltro"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Zumbido grave que se apaga a los 3 segundos",
+          "Portafiltro taponado por molienda tipo talco (choking)",
+          "Sale agua normal si abres el grifo lateral",
+          "Retirar el portafiltro; si cae agua de la ducha, engrosar la molienda"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Silencio total (solo clic de relé electrónico)",
+          "Termofusible abierto o bloqueo por código de descalcificación",
+          "Totalmente inactivo",
+          "Reiniciar a valores de fábrica o completar ciclo de limpieza pendiente"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Sonido normal pero el agua cae a la bandeja inferior",
+          "Válvula OPV o junta del tanque dañada derivando caudal al retorno",
+          "Débil e intermitente",
+          "Inspeccionar el sello de silicona en la base donde apoya el depósito"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre cafetera espresso hace ruido pero no sale agua",
-      "text": "Cuando es nueva o se quedó sin agua entra aire a la bomba Ulka: quita el portafiltro, abre el vapor al máximo y pulsa extracción 10 segundos. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Diferencias acústicas y operativas según el origen de la falta de agua"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar cafetera espresso hace ruido pero no sale agua hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Método de cebado en 4 pasos para expulsar la burbuja de aire sin dañar la bomba"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Retirar el portafiltro y llenar el tanque al máximo",
+          "text": "Quita el portafiltro del grupo para eliminar cualquier resistencia y llena el depósito hasta la línea **MAX**; una columna de agua alta genera mayor presión hidrostática por gravedad sobre la válvula inferior."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Bombear verticalmente el depósito 3 veces en su asiento",
+          "text": "Con la cafetera apagada, encaja y levanta el tanque **2 o 3 centímetros** un par de veces seguidas hasta ver subir pequeñas burbujas desde el tapón de resorte inferior, asegurando que el pin central abre la válvula de paso."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Activar la función de agua caliente por la lanceta de vapor",
+          "text": "Enciende la máquina, coloca una jarra bajo la lanceta y abre la perilla o botón de agua caliente (no de vapor puro) durante ráfagas de **10 a 15 segundos**; al no pasar por la ducha del grupo, el aire sale libremente."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Usar una perilla de succión o jeringa sin aguja si persiste el bloqueo",
+          "text": "Si tras **3 intentos** la bomba sigue sonando hueca, retira el depósito, llena una jeringa limpia de **20 ml** o una pera de goma con agua e inyéctala suavemente en el orificio de admisión de la base mientras pulsas el botón de 1 taza."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Precaución térmica al cebar bombas vibratorias en seco"
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Las bombas electromagnéticas de cafeteras compactas utilizan la propia agua fría que las atraviesa para refrigerar su bobina de cobre. **Jamás mantengas la bomba funcionando en seco durante más de 30 segundos continuos**: si el agua no empieza a salir en los primeros **15 a 20 segundos**, detén el ciclo y deja reposar la máquina **1 minuto** entre intentos para no fundir el protector térmico interno.",
+      "title": "Límite de seguridad de 20 segundos por intento de cebado"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con cafetera espresso hace ruido pero no sale agua en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Si necesitas filtros ablandadores de repuesto para el depósito, jeringas de cebado o accesorios compatibles con tu cafetera de **51 mm** o **54 mm**, pregunta al Asesor IA de la web o consulta la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cafetera espresso hace ruido pero no sale agua?",
-      "a": "Cuando es nueva o se quedó sin agua entra aire a la bomba Ulka: quita el portafiltro, abre el vapor al máximo y pulsa extracción 10 segundos. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿El filtro de agua del depósito puede causar una burbuja de aire?",
+      "a": "Sí. Los cartuchos filtrantes nuevos están rellenos de resina de intercambio iónico y carbón activo secos llenos de aire. Si no los sumerges boca abajo en un bol con agua durante 5 minutos antes de instalarlos en el tanque, liberarán aire directamente hacia la bomba provocando un airlock inmediato."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué mi cafetera deja de sacar agua justo después de usar el vaporizador?",
+      "a": "Porque después de espumar leche a 130 °C, el interior del bloque térmico queda lleno de vapor a presión en lugar de agua líquida. Si intentas extraer café inmediatamente sin purgar agua por la lanceta para enfriar y rellenar el circuito, el vapor frena la entrada de agua fría de la bomba."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué hago si la cafetera lleva meses guardada y la bomba no chupa agua?",
+      "a": "No intentes aspirar con la boca ni soplar aire comprimido de lata, ya que podrías dañar la membrana del flujómetro interno. Una jeringa culinaria o farmacéutica de 20 a 50 ml llena de agua filtrada aplicada sobre la toma del depósito basta para empujar la burbuja en 3 segundos."
     }
   ],
   "related": [
     "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/breville-bambino-dos-luces-parpadeando-alternativamente-o-fijas/",
     "/problemas-y-soluciones/pastilla-de-cafe-aguada-o-con-charco-de-agua-encima-es-un-defecto/",
-    "/problemas-y-soluciones/cafetera-espresso-gotea-agua-por-los-lados-del-portafiltro/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/el-portafiltro-esta-muy-duro-y-no-gira-hasta-el-centro/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/la-bomba-hace-ruido-fuerte-pero-no-sale-agua-como-cebar-airlock.webp"
 }

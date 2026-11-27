@@ -3,162 +3,134 @@
   "pillar": "espacios-pequenos-y-coffee-corner",
   "path": "/espacios-pequenos-y-coffee-corner/lista-de-verificacion-antes-de-comprar-tu-cafetera-mide-estos-4-puntos/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "que medir en la cocina antes de comprar cafetera espresso",
   "title": "Mide Estos 4 Puntos con Cinta Métrica en tu Cocina Antes de Pedir tu Cafetera en Amazon",
-  "seoTitle": "Mide Estos 4 Puntos con Cinta Métrica en tu Cocina Antes de Pedir tu Cafetera en Amazon | Guía Barista Compacta",
-  "metaDescription": "Mide Estos 4 Puntos con Cinta Métrica en tu Cocina Antes de Pedir tu Cafetera en Amazon: 1) Ancho libre, 2) Altura bajo el mueble superior, 3) Distancia al enchufe y 4) Espacio de 10 cm a la derecha para la lanceta. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "1) Ancho libre, 2) Altura bajo el mueble superior, 3) Distancia al enchufe y 4) Espacio de 10 cm a la derecha para la lanceta.",
-  "quickAnswer": "Sobre que medir en la cocina antes de comprar cafetera espresso: 1) Ancho libre, 2) Altura bajo el mueble superior, 3) Distancia al enchufe y 4) Espacio de 10 cm a la derecha para la lanceta. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Mide Estos 4 Puntos con Cinta Métrica en tu Cocina Antes de Pedir tu Cafetera en Amazon | cafeteracompacta.com",
+  "metaDescription": "Descubre qué medir en la cocina antes de comprar tu cafetera espresso: altura libre bajo alacenas, fondo útil con cables, giro del portafiltro y enchufe.",
+  "excerpt": "Guía práctica con cinta métrica para verificar los 4 puntos críticos de tu encimera antes de encargar una Breville Bambino, De’Longhi Dedica o CASABREWS CM5418 sin sorpresas de espacio.",
+  "quickAnswer": "Para saber **qué medir en la cocina antes de comprar una cafetera espresso**, debes comprobar cuatro cotas reales: **15 a 20 cm** de ancho frontal, al menos **42 cm** de altura libre bajo los armarios superiores para extraer el depósito de agua, y **38 cm** de fondo útil incluyendo el codo del cable. Además, verifica un arco despejado de **25 cm** hacia la derecha para articular la lanceta de vapor sin golpear paredes laterales.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: 1) Ancho libre, 2) Altura bajo el mueble superior, 3) Distancia al enchufe y 4) Espacio de 10 cm a la derecha para la lanceta., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating 'Mide Estos 4 Puntos con Cinta Métrica en tu Cocina Antes de Pedir tu Cafetera en Amazon' (que medir en la cocina antes de comprar cafetera espresso) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, on a solid oak workbench in a tidy modern home space, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Mide Estos 4 Puntos con Cinta Métrica en tu Cocina Antes de Pedir tu Cafetera en Amazon"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **que medir en la cocina antes de comprar cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. 1) Ancho libre, 2) Altura bajo el mueble superior, 3) Distancia al enchufe y 4) Espacio de 10 cm a la derecha para la lanceta."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Espacios Pequenos Y Coffee Corner](/espacios-pequenos-y-coffee-corner/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Desembalar una **CASABREWS CM5418** o una **De’Longhi Dedica Arte (EC885M)** confiando únicamente en que su chasis mide **15 cm** de ancho suele terminar en un problema clásico: la cafetera entra en el hueco, pero el armario superior situado a **36 cm** de la encimera impide extraer verticalmente el depósito de agua de **1.1 a 1.3 litros**. Antes de confirmar tu pedido, dedicar tres minutos a [planificar tu rincón de café en espacios reducidos](/espacios-pequenos-y-coffee-corner/) con una cinta métrica en la mano evitará devoluciones y cables tensados al límite."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: que medir en la cocina antes de comprar cafetera espresso"
+      "text": "Las 4 cotas críticas en milímetros: más allá del ancho oficial de la ficha técnica"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **que medir en la cocina antes de comprar cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Las dimensiones publicadas por los fabricantes reflejan solo la carcasa metálica desnuda, sin contar el radio de operación real del barista. Por ejemplo, aunque una **Breville Bambino (BES450)** declara **31 cm** de profundidad, el enchufe trasero y la curvatura segura del cable de alimentación exigen sumar entre **3.5 y 4.5 cm** adicionales contra el salpicadero. Asimismo, insertar el portafiltro de **51 mm** o **54 mm** a las ocho en punto y trabarlo a las seis requiere un barrido frontal despejado, además de conocer las [diferencias entre tanques de extracción superior y llenado con jarra](/espacios-pequenos-y-coffee-corner/cafeteras-con-tanque-de-extraccion-frontal-vs-extraccion-superior/) y respetar los [márgenes de ventilación y disipación térmica en nichos cerrados](/espacios-pequenos-y-coffee-corner/ventilacion-y-disipacion-de-calor-en-cafeteras-compactas-encastradas/) para no sobrecalentar la placa electrónica del Thermoblock."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: que medir en la cocina antes de comprar cafetera espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Modelo compacto",
+        "Ancho de chasis",
+        "Fondo real con cable",
+        "Altura mínima para sacar tanque",
+        "Radio libre para vaporizador"
       ],
       "rows": [
         [
-          "Clave principal",
-          "1) Ancho libre, 2) Altura bajo el mueble superior, 3) Distancia al enchufe y 4) Espacio de 10 cm a la derecha para la lanceta.",
-          "Mejora la consistencia y evita errores de extracción"
+          "CASABREWS CM5418 (51 mm)",
+          "15.0 cm",
+          "35.5 cm",
+          "44.0 cm",
+          "22.0 cm a la derecha"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "De’Longhi Dedica Arte EC885M (51 mm)",
+          "14.9 cm",
+          "36.5 cm",
+          "43.5 cm",
+          "20.0 cm a la derecha"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Breville Bambino BES450 (54 mm)",
+          "19.5 cm",
+          "35.0 cm",
+          "42.0 cm",
+          "24.0 cm a la derecha"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Breville Bambino Plus BES500 (54 mm)",
+          "19.5 cm",
+          "35.5 cm",
+          "42.5 cm",
+          "18.0 cm (vertical MilQ)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre que medir en la cocina antes de comprar cafetera espresso",
-      "text": "1) Ancho libre, 2) Altura bajo el mueble superior, 3) Distancia al enchufe y 4) Espacio de 10 cm a la derecha para la lanceta. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Medidas reales de operación frente a dimensiones de chasis en cafeteras compactas"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar que medir en la cocina antes de comprar cafetera espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Secuencia de medición con cinta métrica sobre tu encimera paso a paso"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Cota 1: Altura vertical bajo el faldón del mueble alto",
+          "text": "Mide desde el cuarzo o granito hasta el borde inferior del armario, descontando 2 cm si tienes tiras LED o molduras frontales. Si dispones de menos de 42 cm libres, necesitarás rellenar el depósito in situ con una jarra de pico vertedor o colocar la máquina sobre una base deslizante de teflón."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Cota 2: Profundidad útil hasta el filo frontal de la mesada",
+          "text": "Apoya el metro contra el azulejo trasero y marca 36 cm hacia ti. Comprueba que las patas de goma delanteras de la cafetera queden a un mínimo de 3 cm del borde de la encimera para garantizar estabilidad al encajar el portafiltro a presión."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Cota 3: Arco de giro del portafiltro y holgura de la lanceta",
+          "text": "Reserva al menos 12 cm despejados a la izquierda para introducir el mango del portafiltro sin chocar con otros electrodomésticos, más 20 a 24 cm a la derecha para inclinar la jarra lechera de 350 ml en ángulo de 15 grados."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Cota 4: Distancia a la toma eléctrica y carga del circuito",
+          "text": "Los cables de las cafeteras espresso miden entre 75 y 90 cm por normativa de seguridad eléctrica. Asegúrate de alcanzar un enchufe directo con toma de tierra capaz de alimentar picos de 1300 W a 1600 W sin alargadores ni regletas finas."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Errores de ubicación que arruinan la ergonomía al preparar espresso diario"
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "En máquinas ultradelgadas de **15 cm** como la **CASABREWS CM5418** o la **De’Longhi Dedica Arte**, la rótula articulada de la lanceta de vapor se ubica en el extremo derecho del frontal. Si pegas ese costado derecho contra un muro lateral o el panel del frigorífico, bloquearás el ángulo de apertura necesario para generar el vórtice de microespuma en la jarra de acero y te quemarás los nudillos con el vapor al purgar la boquilla.",
+      "title": "Nunca pegues el lado derecho de la cafetera contra una pared o refrigerador"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con que medir en la cocina antes de comprar cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Compara las cotas exactas de cada modelo en las tarjetas de Amazon integradas en esta guía o abre nuestro Asesor IA indicando los centímetros libres de tu encimera para recibir la recomendación exacta."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre que medir en la cocina antes de comprar cafetera espresso?",
-      "a": "1) Ancho libre, 2) Altura bajo el mueble superior, 3) Distancia al enchufe y 4) Espacio de 10 cm a la derecha para la lanceta. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Qué hago si mis alacenas bajas están a solo 38 cm de la encimera y no sale el tanque por arriba?",
+      "a": "No necesitas descartar una cafetera compacta de 30 o 31 cm de alto. Basta con levantar la tapa superior del depósito y rellenarlo in situ usando una jarra filtrante con pico vertedor, o colocar la máquina sobre una bandeja deslizante para adelantarla 15 cm solo cuando toque lavar el tanque."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cuánta fuerza lateral soporta una cafetera de 15 cm de ancho al apretar el portafiltro?",
+      "a": "Al pesar entre 3.8 y 4.9 kg en vacío, los chasis ultradelgados tienden a girar si no sujetas el cuerpo con la mano izquierda mientras trabas el portafiltro con la derecha. Por eso es vital dejar espacio libre a ambos lados para abrazar el cabezal del grupo con firmeza."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Puedo enchufar el molino eléctrico y la cafetera espresso en la misma toma doble de pared?",
+      "a": "Sí, porque nunca operan al máximo consumo simultáneamente. Un molino compacto como el Baratza Encore ESP o el Fellow Opus consume apenas entre 100 W y 150 W durante 15 segundos antes de que actives la caldera o el bloque térmico de 1350 W a 1560 W de la cafetera."
     }
   ],
   "related": [
-    "/espacios-pequenos-y-coffee-corner/",
-    "/espacios-pequenos-y-coffee-corner/inspiracion-7-distribuciones-reales-de-coffee-corner-en-apartamentos/",
-    "/espacios-pequenos-y-coffee-corner/como-guardar-una-cafetera-ultracompacta-en-el-armario-si-no-la-dejas-fija/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/espacios-pequenos-y-coffee-corner/cafeteras-con-tanque-de-extraccion-frontal-vs-extraccion-superior/",
+    "/espacios-pequenos-y-coffee-corner/ventilacion-y-disipacion-de-calor-en-cafeteras-compactas-encastradas/",
+    "/espacios-pequenos-y-coffee-corner/como-organizar-sirope-de-vainilla-y-caramelo-sin-que-gotee-azucar/",
+    "/espacios-pequenos-y-coffee-corner/seguridad-con-gatos-y-mascotas-en-la-encimera-del-cafe/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/lista-de-verificacion-antes-de-comprar-tu-cafetera-mide-estos-4-puntos.webp"
 }

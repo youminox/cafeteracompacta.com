@@ -4,161 +4,112 @@
   "path": "/cafe-en-grano-y-agua/cuantos-gramos-de-agua-retiene-la-pastilla-de-cafe-absorcion-2x/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cuanta agua absorbe la pastilla de cafe espresso",
   "title": "Por Qué si Entran 72 ml de Agua del Tanque Solo Caen 36 g de Espresso en tu Taza",
-  "seoTitle": "Por Qué si Entran 72 ml de Agua del Tanque Solo Caen 36 g de Espresso en tu Taza | Guía Barista Compacta",
-  "metaDescription": "Por Qué si Entran 72 ml de Agua del Tanque Solo Caen 36 g de Espresso en tu Taza: El café seco retiene aproximadamente el doble de su peso en agua (18 g de café absorben ~36 ml de agua dentro del portafiltro). Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "El café seco retiene aproximadamente el doble de su peso en agua (18 g de café absorben ~36 ml de agua dentro del portafiltro).",
-  "quickAnswer": "Sobre cuanta agua absorbe la pastilla de cafe espresso: El café seco retiene aproximadamente el doble de su peso en agua (18 g de café absorben ~36 ml de agua dentro del portafiltro). Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué si Entran 72 ml de Agua del Tanque Solo Caen 36 g de Espresso en tu Taza | cafeteracompacta.com",
+  "metaDescription": "Descubre cuánta agua absorbe la pastilla de café espresso y por qué tu cafetera bombea el doble de mililitros del tanque para entregar 36 gramos en taza.",
+  "excerpt": "Explicación física del coeficiente de retención hídrica de la celulosa del café molido, el volumen muerto del portafiltro y por qué debes medir tus recetas con báscula en gramos.",
+  "quickAnswer": "La pastilla de café molido absorbe y retiene dentro de sus paredes de celulosa aproximadamente el doble de su peso seco en agua (coeficiente de absorción 2x). Por eso, al extraer una dosis de 18 gramos, unos 36 gramos de agua quedan atrapados permanentemente en el poso y entre 4 y 6 ml llenan la cámara superior del portafiltro, obligando a la cafetera a bombear unos 75 ml del tanque para entregar 36 gramos de espresso en taza.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: El café seco retiene aproximadamente el doble de su peso en agua (18 g de café absorben ~36 ml de agua dentro del portafiltro)., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Low-angle dramatic hero perspective with soft background bokeh on 35mm lens: realistic scene illustrating 'Por Qué si Entran 72 ml de Agua del Tanque Solo Caen 36 g de Espresso en tu Taza' (cuanta agua absorbe la pastilla de cafe espresso) for cafeteracompacta.com, featuring equipment in terracotta copper accent with matte slate body, in a well-organized domestic utility area with natural plants nearby, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué si Entran 72 ml de Agua del Tanque Solo Caen 36 g de Espresso en tu Taza"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cuanta agua absorbe la pastilla de cafe espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. El café seco retiene aproximadamente el doble de su peso en agua (18 g de café absorben ~36 ml de agua dentro del portafiltro)."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Cafe En Grano Y Agua](/cafe-en-grano-y-agua/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Colocas una jarra medidora graduada bajo el grupo de tu **Breville Bambino BES450** sin el portafiltro puesto, pulsas el botón de espresso doble y compruebas que caen exactamente **75 ml de agua caliente**. Sin embargo, cuando cargas **18 gramos de café molido** en la cesta de **54 mm**, compactas con el tamper y vuelves a pulsar el mismo botón programado por caudalímetro, en tu taza apenas aterrizan **36 gramos de espresso líquido**. Muchos usuarios principiantes creen que su bomba vibratoria pierde fuerza o que el conducto interno tiene una fuga, cuando en realidad están presenciando un fenómeno físico ineludible que explicamos a fondo en nuestro [portal de café en grano y agua](/cafe-en-grano-y-agua/): la **retención higroscópica de la matriz de celulosa** y la descarga de la válvula solenoide."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cuanta agua absorbe la pastilla de cafe espresso"
+      "text": "El coeficiente de absorción 2x: qué ocurre dentro de las paredes celulares del café"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cuanta agua absorbe la pastilla de cafe espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "El grano de café tostado ha perdido cerca del **18 % de su masa original** durante la pirólisis y está compuesto en más de un **70 % por una estructura porosa e insoluble de polisacáridos y celulosa lignificada**. Al moler **18 gramos de café** a unas **250–350 micras** para espresso, expones millones de microcavidades vacías. Durante los primeros **5 a 8 segundos de pre-infusión**, antes de que caiga la primera gota negra por las boquillas del portafiltro, las fibras secas absorben y retienen entre **1.8 y 2.1 veces su propio peso seco en agua**. En términos matemáticos directos: una pastilla de **18 g de café seco** secuestra de forma permanente alrededor de **34 g a 36 g de agua (34–36 ml)** dentro de su tejido celular hinchado, agua que jamás llegará a tu taza y que terminarás tirando al cajón de posos (*knock box*)."
+    },
+    {
+      "type": "h2",
+      "text": "El espacio libre superior (Headspace) y la purga de la válvula solenoide de 3 vías"
+    },
+    {
+      "type": "p",
+      "text": "Además del agua atrapada dentro de las partículas de café, existe un segundo volumen que la bomba debe llenar antes de presurizar el sistema a **9 bares**: el **espacio libre superior (*headspace*)** entre la superficie de la pastilla compactada y la ducha de dispersión del grupo. Ese disco de cámara libre de **2 mm a 4 mm de altura** aloja entre **4 ml y 7 ml adicionales de agua libre**. En máquinas equipadas con **válvula solenoide de 3 vías** —como la **Breville Bambino Plus BES500**, la **De’Longhi Dedica Maestro Plus EC950M** o la **Gaggia Classic Evo Pro**—, al cortar la extracción ese remanente presurizado sobre la pastilla se desvía instantáneamente hacia la bandeja de goteo inferior para dejar el poso seco y compacto. En máquinas sin solenoide de descarga, como la **CASABREWS CM5418** o la **De’Longhi Dedica Arte EC885M**, parte de esa agua queda sobre la pastilla húmeda hasta que se absorbe lentamente o gotea durante unos segundos más."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: cuanta agua absorbe la pastilla de cafe espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Etapa del recorrido del agua",
+        "Cafetera con Solenoide de 3 Vías (ej. Bambino Plus BES500)",
+        "Cafetera con Válvula de Grupo Simple (ej. CASABREWS CM5418 / Dedica EC885M)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "El café seco retiene aproximadamente el doble de su peso en agua (18 g de café absorben ~36 ml de agua dentro del portafiltro).",
-          "Mejora la consistencia y evita errores de extracción"
+          "Agua total bombeada desde el tanque",
+          "76 – 80 ml (gramos de agua pura)",
+          "70 – 74 ml (gramos de agua pura)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Agua retenida en la celulosa del café (18 g x ~2.0)",
+          "35 – 36 g retenidos en la pastilla",
+          "34 – 36 g retenidos en la pastilla (poso más húmedo)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Agua evacuada a la bandeja de goteo al cortar el shot",
+          "5 – 8 ml descargados por la válvula solenoide",
+          "0 ml (permanece en el espacio superior del portafiltro)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Rendimiento líquido real en taza (Yield)",
+          "36 g de espresso (aprox. 42–48 ml con crema)",
+          "36 g de espresso (aprox. 42–48 ml con crema)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre cuanta agua absorbe la pastilla de cafe espresso",
-      "text": "El café seco retiene aproximadamente el doble de su peso en agua (18 g de café absorben ~36 ml de agua dentro del portafiltro). Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Balance hídrico real de una extracción doble estándar (Ratio 1:2 con 18 g de dosis)"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar cuanta agua absorbe la pastilla de cafe espresso hoy mismo en tu cocina"
+      "text": "Por qué los botones volumétricos fallan y necesitas una báscula bajo la taza"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con cuanta agua absorbe la pastilla de cafe espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Las cafeteras compactas con botones de **1 taza y 2 tazas** miden el agua mediante un pequeño **caudalímetro de turbina (*flowmeter*)** ubicado a la salida del tanque, antes de la bomba y del bloque calefactor. Ese sensor solo cuenta cuánta agua fría entra al circuito —parámetro que también explica [cómo afecta la temperatura del agua del tanque a la extracción](/cafe-en-grano-y-agua/como-afecta-la-temperatura-del-agua-del-tanque-a-la-extraccion/)—, pero ignora si hoy usaste **15 g o 18 g de café**, si cambiaste a un grano muy poroso como un [café descafeinado de proceso Swiss Water o caña de azúcar](/cafe-en-grano-y-agua/cafe-descafeinado-de-proceso-swiss-water-vs-acetato-de-etilo-cana-de-azucar/) o si la válvula OPV alivió presión de vuelta al depósito. Si apuras una molienda fina y la máquina alcanza el límite de presión, la válvula de sobrepresión desvía agua antes de llegar al portafiltro, engañando al caudalímetro y dejándote un espresso corto de **22 gramos**. Por eso los baristas miden siempre la salida real con una báscula digital de **0.1 g de precisión** directamente debajo de la taza."
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Multiplica tu dosis seca por 2** para estimar la pérdida por absorción: una cesta de **51 mm con 14 g de café** retendrá **~28 g de agua**, mientras una cesta comercial de **58 mm con 20 g** retendrá **~40 g de agua**.",
+        "**No juzgues una pastilla barrosa como un defecto de extracción:** si usas una **Breville Bambino BES450** o una **Dedica EC885M** (ambas sin válvula solenoide de 3 vías), la capa húmeda superior es simplemente los **5 ml de espacio libre** que no se purgan a la bandeja; el sabor en taza no se ve afectado.",
+        "**Corta el botón manual 2 gramos antes de tu objetivo:** para clavar **36.0 g en taza**, detén la bomba cuando la pantalla de la báscula marque **33.5 g – 34.0 g**, compensando la inercia de las últimas gotas que caen del portafiltro."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "¿Buscas una báscula ultra-delgada con temporizador automático que quepa en la bandeja de goteo de 15 cm de tu Dedica o CASABREWS? Consulta a nuestro Asesor IA o revisa las opciones compatibles en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cuanta agua absorbe la pastilla de cafe espresso?",
-      "a": "El café seco retiene aproximadamente el doble de su peso en agua (18 g de café absorben ~36 ml de agua dentro del portafiltro). Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Un café de tueste oscuro absorbe más o menos agua en el portafiltro que uno de tueste claro?",
+      "a": "Los granos de tueste oscuro han sufrido mayor pirólisis y pérdida de humedad estructural, volviéndose más porosos y esponjosos. Por eso una dosis de 18 g de tueste oscuro puede absorber hasta 2.1 o 2.2 veces su peso en agua (unos 38–40 g), mientras que un tueste claro y denso retiene alrededor de 1.8 veces (32–33 g)."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "Si mi cafetera gasta 80 ml del tanque, la pastilla retiene 35 g y en la taza caen 30 g, ¿adónde van los otros 15 ml?",
+      "a": "En una máquina con bomba funcionando correctamente, solo dos lugares pueden recibir esos 15 ml faltantes: la bandeja de goteo inferior (a través del tubo de descarga de la válvula OPV o de la solenoide de 3 vías) o una manguera de retorno que devuelve el exceso de presión directamente al tanque de agua trasero."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cómo debo programar el botón automático de 2 tazas de mi Breville Bambino o De'Longhi Dedica?",
+      "a": "Primero pesa tu dosis en seco, coloca la báscula tarada a cero bajo la taza y activa el modo de programación manual de tu cafetera. Detén el flujo exactamente cuando la báscula marque tus 36 g objetivo; así el caudalímetro memorizará los ~75 ml totales (36 g de bebida + ~39 ml de absorción y espacio muerto) para esa receta específica."
     }
   ],
   "related": [
-    "/cafe-en-grano-y-agua/",
-    "/cafe-en-grano-y-agua/como-limpiar-y-reactivar-un-bote-al-vacio-fellow-atmos-al-cambiar-de-grano/",
-    "/cafe-en-grano-y-agua/diferencia-entre-blend-de-espresso-y-cafe-de-origen-unico-single-origin/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/cafe-en-grano-y-agua/cafe-descafeinado-de-proceso-swiss-water-vs-acetato-de-etilo-cana-de-azucar/",
+    "/cafe-en-grano-y-agua/como-afecta-la-temperatura-del-agua-del-tanque-a-la-extraccion/",
+    "/cafe-en-grano-y-agua/por-que-el-cafe-bustelo-puede-tapar-el-filtro-presurizado-si-lo-aprietas/",
+    "/cafe-en-grano-y-agua/que-es-la-alcalinidad-kh-buffer-del-agua-y-como-controla-la-acidez/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/cuantos-gramos-de-agua-retiene-la-pastilla-de-cafe-absorcion-2x.webp"
 }

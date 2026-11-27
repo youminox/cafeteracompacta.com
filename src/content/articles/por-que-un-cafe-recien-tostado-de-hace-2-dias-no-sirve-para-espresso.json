@@ -4,161 +4,115 @@
   "path": "/cafe-en-grano-y-agua/por-que-un-cafe-recien-tostado-de-hace-2-dias-no-sirve-para-espresso/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "desgasificacion del cafe en grano para espresso",
   "title": "Qué Es la Desgasificación del Café (Degassing): Por Qué un Grano Tostado Ayer Saca Burbujas y Canaliza",
-  "seoTitle": "Qué Es la Desgasificación del Café (Degassing) | Guía Barista Compacta",
-  "metaDescription": "Qué Es la Desgasificación del Café (Degassing): Por Qué un Grano Tostado Ayer Saca Burbujas y Canaliza: Durante los primeros 5 a 7 días tras salir del tostador el grano expulsa tanto gas CO2 que impide que el agua a 9 bares extraiga los sólidos. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Durante los primeros 5 a 7 días tras salir del tostador el grano expulsa tanto gas CO2 que impide que el agua a 9 bares extraiga los sólidos.",
-  "quickAnswer": "Sobre desgasificacion del cafe en grano para espresso: Durante los primeros 5 a 7 días tras salir del tostador el grano expulsa tanto gas CO2 que impide que el agua a 9 bares extraiga los sólidos. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Qué Es la Desgasificación del Café (Degassing): Por Qué un Grano Tostado Ayer Saca Burbujas y Canaliza | cafeteracompacta.com",
+  "metaDescription": "Descubre qué es la desgasificación del café en grano para espresso y por qué un grano tostado hace 2 días genera burbujas, canalización y sabor ácido.",
+  "excerpt": "Explicación física y química del proceso de degassing: cuántos días debe reposar cada tipo de tueste antes de pasar por tu portafiltro para evitar espuma fugaz y sabores metálicos.",
+  "quickAnswer": "La **desgasificación del café en grano para espresso** (*degassing*) es la liberación natural del dióxido de carbono ($\\text{CO}_2$) atrapado en las paredes celulares durante el tueste, el cual representa hasta el **2 %** del peso del grano fresco. Si extraes un café tostado hace menos de **48 a 72 horas** a **9 bares**, el gas repele el agua caliente, fractura la pastilla y provoca una crema espumosa que desaparece en segundos.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Durante los primeros 5 a 7 días tras salir del tostador el grano expulsa tanto gas CO2 que impide que el agua a 9 bares extraiga los sólidos., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Dynamic action-ready placement on clean counter surface with subtle reflections: realistic scene illustrating 'Qué Es la Desgasificación del Café (Degassing): Por Qué un Grano Tostado Ayer Saca Burbujas y Canaliza' (desgasificacion del cafe en grano para espresso) for cafeteracompacta.com, featuring equipment in terracotta copper accent with matte slate body, in a bright family home interior with clean architectural lines, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Qué Es la Desgasificación del Café (Degassing): Por Qué un Grano Tostado Ayer Saca Burbujas y Canaliza"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **desgasificacion del cafe en grano para espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Durante los primeros 5 a 7 días tras salir del tostador el grano expulsa tanto gas CO2 que impide que el agua a 9 bares extraiga los sólidos."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Cafe En Grano Y Agua](/cafe-en-grano-y-agua/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Compras una bolsa en un microtostador artesanal tostada hace apenas **36 horas** bajo la idea de que \"cuanto más fresco, mejor\", la mueles para tu **De’Longhi Dedica Maestro Plus (EC950M)** o tu **Breville Bambino (BES450)** y del portafiltro brota un cono hinchado de espuma amarillenta que se desinfla en la taza dejando un líquido agrio y efervescente. Como analizamos en nuestras [guías técnicas sobre café en grano y extracción](/cafe-en-grano-y-agua/), el grano recién salido del tambor necesita cumplir un ciclo físico obligatorio antes de someterse a alta presión."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: desgasificacion del cafe en grano para espresso"
+      "text": "Física dentro del portafiltro: qué hace el exceso de CO2 bajo 9 bares de presión"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **desgasificacion del cafe en grano para espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Durante las reacciones de pirólisis y degradación de Strecker por encima de **195 °C** (*First Crack*), cada kilo de café tostado genera entre **5 y 10 litros de dióxido de carbono ($\\text{CO}_2$)** atrapados en su matriz celular. Mientras que en una cafetera de filtro por gravedad el gas escapa libremente hacia arriba durante la floración (*bloom*), en una cesta hermética de **51 mm**, **54 mm** o **58 mm** presurizada a **9 bares** el gas liberado forma bolsas hidrofóbicas que repelen el agua caliente, fracturan la pastilla provocando canalización severa (*channeling*) y se disuelven como ácido carbónico ($\\text{H}_2\\text{CO}_3$) de sabor metálico. Por ello conviene saber [cómo interpretar el proceso y la altitud en la etiqueta de un café de especialidad](/cafe-en-grano-y-agua/como-interpretar-la-etiqueta-de-un-cafe-de-especialidad-puntuacion-sca/) y aprovechar [el papel del magnesio y el calcio del agua en la extracción de dulzor](/cafe-en-grano-y-agua/impacto-del-magnesio-y-el-calcio-del-agua-en-la-extraccion-del-cafe/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: desgasificacion del cafe en grano para espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Perfil y densidad del grano",
+        "Porosidad celular",
+        "Días mínimos de reposo",
+        "Ventana óptima para espresso"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Durante los primeros 5 a 7 días tras salir del tostador el grano expulsa tanto gas CO2 que impide que el agua a 9 bares extraiga los sólidos.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Tueste Medio-Oscuro / Blend Italiano",
+          "Alta (paredes celulares quebradizas)",
+          "4 a 6 días",
+          "Días 6 al 30 post-tueste"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Tueste Medio 100 % Arábica Lavado",
+          "Media (estructura compacta)",
+          "7 a 10 días",
+          "Días 10 al 40 post-tueste"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Arábica de Alta Montaña (>1700 msnm) Natural/Honey",
+          "Baja (grano muy duro SHB)",
+          "10 a 14 días",
+          "Días 14 al 45 post-tueste"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Descafeinado (Swiss Water / Sugarcane EA)",
+          "Muy alta (pre-tratado con vapor/agua)",
+          "2 a 4 días",
+          "Días 4 al 21 post-tueste"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre desgasificacion del cafe en grano para espresso",
-      "text": "Durante los primeros 5 a 7 días tras salir del tostador el grano expulsa tanto gas CO2 que impide que el agua a 9 bares extraiga los sólidos. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Días óptimos de reposo (Degassing) antes de usar el grano en una cafetera espresso"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar desgasificacion del cafe en grano para espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con desgasificacion del cafe en grano para espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "3 síntomas visuales en tu extracción que delatan un grano sin desgasificar"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**El efecto \"cono volcánico\" en el portafiltro**: El chorro central se hincha hasta triplicar su diámetro normal con burbujas grandes visibles a simple vista, salpicando hacia los costados debido a microbolsas de gas que estallan al cruzar los agujeros del filtro.",
+        "**Crema jabonosa que se abre en el centro a los 10 segundos**: A diferencia de la microemulsión elástica de aceites y melanoidinas de un café reposado entre los **días 8 y 30**, la espuma de un grano de **2 días** colapsa rápidamente dejando un ojo negro sin cuerpo en el centro de la taza.",
+        "**Acidez punzante y salada que no mejora moliendo más fino**: Como la barrera gaseosa impide que el agua moje de forma homogénea los **16 a 18 gramos** de molienda, obtienes una subextracción crónica (por debajo del **16 % de rendimiento**) combinada con la mordida ácida del gas carbónico."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "La técnica de molienda anticipada si no puedes esperar una semana entera"
     },
     {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "callout",
+      "variant": "tip",
+      "text": "Si solo tienes en casa una bolsa tostada hace **2 o 3 días** y necesitas preparar un espresso hoy mismo, pesa tu dosis de **16 a 18 gramos**, muélela en el vaso dosificador y déjala reposar destapada sobre la encimera entre **15 y 25 minutos** antes de volcarla al portafiltro y compactar. Al triturar el grano en miles de partículas micrométricas, el área superficial se multiplica por mil y libera en **20 minutos** el exceso de $\\text{CO}_2$ que al grano entero le tomaría **5 días** evacuar.",
+      "title": "El truco barista de los 20 minutos tras moler para acelerar la desgasificación"
+    },
+    {
+      "type": "cta",
+      "text": "Explora los molinos de muelas cónicas y botes de conservación con válvula en las tarjetas de Amazon de esta página o consulta a nuestro Asesor IA para calibrar tu receta según los días de tueste de tu café."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre desgasificacion del cafe en grano para espresso?",
-      "a": "Durante los primeros 5 a 7 días tras salir del tostador el grano expulsa tanto gas CO2 que impide que el agua a 9 bares extraiga los sólidos. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Debo dejar la bolsa abierta sobre la encimera para que el café desgasifique más rápido?",
+      "a": "No abras la bolsa antes de tiempo. Déjala completamente sellada para que el dióxido de carbono salga por la válvula unidireccional de plástico mientras impide la entrada de oxígeno. Si abres el paquete el día 2, acelerarás la oxidación de los compuestos aromáticos volátiles antes de que el corazón del grano termine de estabilizarse."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué un bote al vacío como el Fellow Atmos pierde el vacío con café recién tostado?",
+      "a": "Porque durante los primeros 5 a 7 días un cuarto de kilo de café sigue emitiendo varios cientos de mililitros de gas CO2 dentro del recipiente cerrado, igualando la presión interna. Conviene dejar el grano en su bolsa original la primera semana y pasarlo al bote al vacío a partir del día 8."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Aumentar el tiempo de pre-infusión ayuda a extraer un café con solo 3 días de tueste?",
+      "a": "Sí. En máquinas como la De’Longhi Dedica Maestro Plus o la Breville Bambino, mantener el botón pulsado para alargar la pre-infusión a baja presión hasta 8 o 10 segundos permite que la pastilla se humedezca suavemente y evacúe gran parte del gas antes de que la bomba aplique los 9 bares completos."
     }
   ],
   "related": [
-    "/cafe-en-grano-y-agua/",
-    "/cafe-en-grano-y-agua/tueste-medio-vs-tueste-oscuro-en-cafeteras-compactas-thermoblock/",
-    "/cafe-en-grano-y-agua/fecha-de-tueste-roast-date-vs-fecha-de-caducidad-best-by-en-el-cafe/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/cafe-en-grano-y-agua/impacto-del-magnesio-y-el-calcio-del-agua-en-la-extraccion-del-cafe/",
+    "/cafe-en-grano-y-agua/se-pueden-mezclar-dos-sobrantes-de-cafe-en-grano-tu-propio-blend/",
+    "/cafe-en-grano-y-agua/como-interpretar-la-etiqueta-de-un-cafe-de-especialidad-puntuacion-sca/",
+    "/cafe-en-grano-y-agua/como-limpiar-y-reactivar-un-bote-al-vacio-fellow-atmos-al-cambiar-de-grano/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/por-que-un-cafe-recien-tostado-de-hace-2-dias-no-sirve-para-espresso.webp"
 }

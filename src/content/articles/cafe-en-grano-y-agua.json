@@ -3,159 +3,112 @@
   "pillar": "cafe-en-grano-y-agua",
   "path": "/cafe-en-grano-y-agua/",
   "isPillar": true,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "mejor café en grano y agua para cafetera espresso",
   "title": "Mejor Café en Grano, Tuestes y Agua Filtrada para Cafeteras Espresso Compactas",
-  "seoTitle": "Qué Café en Grano y Agua Usar en tu Cafetera Espresso Compacta",
-  "metaDescription": "Mejor Café en Grano, Tuestes y Agua Filtrada para Cafeteras Espresso Compactas: hub completo con 45 guías sobre selección de granos en Amazon EE. UU., tueste medio vs oscuro en máquinas Thermoblock, ventana de desgasificación desde fecha de tueste, botes al vacío y dureza del agua en ppm y ofertas en Amazon EE. UU. y España.",
-  "excerpt": "Explora las 45 guías especializadas de este silo sobre selección de granos en Amazon EE. UU., tueste medio vs oscuro en máquinas Thermoblock, ventana de desgasificación desde fecha de tueste, botes al vacío y dureza del agua en ppm.",
-  "quickAnswer": "En esta sección principal de Mejor Café en Grano, Tuestes y Agua Filtrada para Cafeteras Espresso Compactas reunimos 45 guías verificadas sobre selección de granos en Amazon EE. UU., tueste medio vs oscuro en máquinas Thermoblock, ventana de desgasificación desde fecha de tueste, botes al vacío y dureza del agua en ppm, diseñadas para ayudarte a comprar, calibrar y mantener tu cafetera espresso compacta y sus accesorios compatibles en Amazon.",
-  "readingMinutes": 8,
+  "seoTitle": "Mejor Café en Grano, Tuestes y Agua Filtrada para Cafeteras Espresso Compactas | cafeteracompacta.com",
+  "metaDescription": "Elige el mejor café en grano y agua para cafetera espresso compacta: perfiles de tueste medio, ventana de desgasificación y dureza ideal en ppm.",
+  "excerpt": "Guía química y sensorial para máquinas Thermoblock: cómo combinar granos 100 % Arábica de tueste medio con agua filtrada entre 50 y 120 ppm para lograr crema densa y cero cal.",
+  "quickAnswer": "El mejor café en grano y agua para cafetera espresso compacta combina un **tueste medio (Agtron 55–65)** con entre **7 y 28 días desde su tueste** y agua filtrada con una mineralización total de **50 a 120 ppm de TDS**. Este equilibrio garantiza suficiente resistencia hidráulica en portafiltros de **51 y 54 mm** sin corroer ni calcificar el circuito **Thermoblock** de aluminio o acero inoxidable.",
+  "readingMinutes": 7,
   "image": {
-    "prompt": "Freshly roasted medium-dark espresso coffee beans in a ceramic bowl next to a vacuum canister and a glass pitcher of filtered water on a warm wooden table",
-    "alt": "Granos de café tostado para espresso junto a un bote hermético al vacío y jarra de agua filtrada"
+    "prompt": "Eye-level 35mm editorial documentary photograph: realistic scene illustrating 'Mejor Café en Grano, Tuestes y Agua Filtrada para Cafeteras Espresso Compactas' (mejor café en grano y agua para cafetera espresso) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, on a warm walnut table beside a sunlit window, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Mejor Café en Grano, Tuestes y Agua Filtrada para Cafeteras Espresso Compactas"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub central de **Mejor Café en Grano, Tuestes y Agua Filtrada para Cafeteras Espresso Compactas** en **CafeteraCompacta.com**. Aquí reunimos toda la ingeniería barista, pruebas de extracción y criterios de compra sobre **selección de granos en Amazon EE. UU., tueste medio vs oscuro en máquinas Thermoblock, ventana de desgasificación desde fecha de tueste, botes al vacío y dureza del agua en ppm**, organizados bajo una arquitectura sin canibalización para que encuentres el modelo o accesorio compatible exacto antes de comprar en Amazon Estados Unidos (`amazon.com`) o España (`amazon.es`)."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si buscas tu primera cafetera espresso por menos de $150 como la **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, un diseño italiano ultra-delgado de 15 cm con lanceta profesional como la **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)** o el estándar de cafetería en 3 segundos con la **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, dominar las medidas y parámetros de este silo multiplicará la calidad de tus cafés cada mañana."
+      "text": "Adquieres una **Breville Bambino (BES450)** junto a un molino de precisión, pero al cargar el depósito con agua directa del grifo y usar un paquete de café comercial sin fecha de tueste, el líquido cae plano, con una espuma rubia que desaparece en **10 segundos** y una aspereza seca en el paladar. En una bebida concentrada de **30 a 40 ml** donde el **98 % es agua** y el resto son lípidos emulsionados, azúcares y ácidos orgánicos extraídos a **9 bares**, la composición mineral del agua y la estructura celular del grano dictan tanto el cuerpo en taza como la longevidad del bloque calefactor, empezando por entender [cómo afecta el cloro del agua del grifo al aroma del espresso](/cafe-en-grano-y-agua/como-afecta-el-cloro-del-agua-del-grifo-al-aroma-del-espresso/)."
     },
     {
       "type": "h2",
-      "text": "Criterios técnicos en Mejor Café en Grano, Tuestes y Agua Filtrada para Cafeteras Espresso Compactas"
+      "text": "Perfiles de tueste y ventana de desgasificación óptima para sistemas Thermoblock"
     },
     {
       "type": "p",
-      "text": "En cada una de las **45 guías especializadas** de esta categoría evaluamos cifras reales y verificables: ancho en centímetros y pulgadas para encimeras pequeñas, diámetro y número de orejas del portafiltro (**51 mm**, **54 mm** y **58 mm**), estabilidad térmica PID (93 °C), regulación de presión a 9 bares reales mediante válvula OPV y potencia de vaporización para Latte Art."
+      "text": "Las cafeteras compactas como la **CASABREWS CM5418** o la **De’Longhi Dedica Arte (EC885M)** operan con una temperatura de infusión calibrada entre **91 y 93 °C**. A ese régimen térmico, los granos de tueste muy claro (light roast) resultan demasiado densos y poco porosos, produciendo subextracción ácida y canalización en cestas de **51 mm**; en el extremo opuesto, los tuestes muy oscuros o torrefactos carbonizan la celulosa y exudan aceites pegajosos que atascan las muelas del molino. La franja de máximo rendimiento se sitúa en el **tueste medio a medio-oscuro (Agtron 55–65)** consumido entre el **día 7 y el día 28 tras el tueste**, destacando [los mejores orígenes de café en grano para beber con leche como Brasil y Colombia](/cafe-en-grano-y-agua/mejores-origenes-de-cafe-para-beber-con-leche-brasil-y-colombia/) por sus notas de cacao, avellana y baja acidez cítrica, siempre que cuides [los 4 enemigos del café en grano: oxígeno, luz, calor y humedad](/cafe-en-grano-y-agua/los-4-enemigos-del-cafe-en-grano-oxigeno-luz-calor-y-humedad/)."
     },
     {
       "type": "table",
-      "caption": "Índice destacado de guías en Mejor Café en Grano, Tuestes y Agua Filtrada para Cafeteras Espresso Compactas",
       "headers": [
-        "Guía Barista Especializada",
-        "Acceso Directo"
+        "Parámetro de control",
+        "Rango técnico ideal",
+        "Efecto fuera de rango en taza y máquina"
       ],
       "rows": [
         [
-          "Cómo Elegir un Buen Café en Grano para Espresso en Amazon Estados Unidos (En Qué Fijarte)",
-          "[Ver guía completa](/cafe-en-grano-y-agua/como-elegir-cafe-en-grano-para-espresso-en-amazon-estados-unidos/)"
+          "Ventana desde fecha de tueste",
+          "7 a 28 días post-tueste",
+          "Menos de 5 días: exceso de gas CO₂ y sabor metálico; más de 45 días: sin crema ni resistencia hidráulica"
         ],
         [
-          "Fecha de Tueste (Roast Date) vs Fecha de Consumo Preferente (Best By): La Ventana de los 7 a 45 Días",
-          "[Ver guía completa](/cafe-en-grano-y-agua/fecha-de-tueste-roast-date-vs-fecha-de-caducidad-best-by-en-el-cafe/)"
+          "Sólidos Disueltos Totales (TDS) del agua",
+          "50 a 120 ppm (mg/L)",
+          "Menos de 30 ppm: extracción agresiva y hueca; más de 180 ppm: calcificación rápida del Thermoblock"
         ],
         [
-          "Qué Es la Desgasificación del Café (Degassing): Por Qué un Grano Tostado Ayer Saca Burbujas y Canaliza",
-          "[Ver guía completa](/cafe-en-grano-y-agua/por-que-un-cafe-recien-tostado-de-hace-2-dias-no-sirve-para-espresso/)"
+          "Dureza de carbonatos (Alcalinidad KH)",
+          "40 a 70 ppm como CaCO₃",
+          "Baja alcalinidad: acidez descontrolada; alta alcalinidad: sabor plano a tiza y depósitos de sarro blanco"
         ],
         [
-          "Por Qué el Tueste Medio y Medio-Oscuro Es el Mejor Amigo de una Cafetera Compacta con Thermoblock",
-          "[Ver guía completa](/cafe-en-grano-y-agua/tueste-medio-vs-tueste-oscuro-en-cafeteras-compactas-thermoblock/)"
-        ],
-        [
-          "Alerta con el 'French Roast' Aceitoso: Por Qué los Granos Brillantes de Aceite Atascan tu Molino y saben a Carbón",
-          "[Ver guía completa](/cafe-en-grano-y-agua/por-que-los-granos-negros-brillantes-y-aceitosos-french-roast-ensucian-tu-molino/)"
-        ],
-        [
-          "100% Arábica vs Blend Italiano (80% Arábica + 20% Robusta Lavado): Cuál Da Más Crema en Casa",
-          "[Ver guía completa](/cafe-en-grano-y-agua/arabica-100-vs-blend-80-20-con-robusta-lavado-para-crema-de-espresso/)"
-        ],
-        [
-          "Lavazza Super Crema vs Qualità Oro vs Gran Crema en Amazon EE. UU.: Cuál Elegir para tu Cafetera",
-          "[Ver guía completa](/cafe-en-grano-y-agua/analisis-lavazza-super-crema-vs-lavazza-qualita-oro-vs-espresso-barista/)"
-        ],
-        [
-          "Café en Grano Illy Classico vs Intenso en Lata Presurizada con Nitrógeno:Cómo Conserva el Aroma",
-          "[Ver guía completa](/cafe-en-grano-y-agua/analisis-illy-classico-vs-illy-intenso-en-grano-lata-presurizada/)"
-        ],
-        [
-          "Cafés de Especialidad en Amazon US (Stumptown Hair Bender, Intelligentsia Black Cat y Counter Culture)",
-          "[Ver guía completa](/cafe-en-grano-y-agua/mejores-tostadores-de-especialidad-en-amazon-usa-stumptown-intelligentsia-counter-culture/)"
-        ],
-        [
-          "Proceso Lavado (Washed) vs Natural (Secado al Sol) vs Honey: Qué Sabor Da Cada Uno en Espresso",
-          "[Ver guía completa](/cafe-en-grano-y-agua/cafe-proceso-lavado-washed-vs-natural-vs-honey-en-espresso/)"
-        ],
-        [
-          "Cómo Congelar Café en Grano Correctamente por Meses (La Regla de Descongelar Antes de Abrir)",
-          "[Ver guía completa](/cafe-en-grano-y-agua/como-congelar-cafe-en-grano-en-dosis-o-bolsas-al-vacio-sin-que-coja-humedad/)"
-        ],
-        [
-          "Por Qué Jamás Debes Guardar el Bote de Café que Abres Cada Mañana Dentro del Frigorífico",
-          "[Ver guía completa](/cafe-en-grano-y-agua/por-que-nunca-guardar-el-cafe-de-uso-diario-en-la-nevera/)"
+          "Cloro libre en el agua de entrada",
+          "0.0 ppm (eliminación del 99 %)",
+          "Con solo 0.5 ppm de cloro se forman clorofenoles al calentar a 93 °C con olor medicinal o a piscina"
         ]
-      ]
+      ],
+      "caption": "Estándares químicos y físicos de agua y grano para cafeteras espresso compactas"
+    },
+    {
+      "type": "h2",
+      "text": "Química del agua filtrada: equilibrio entre calcio, magnesio y protección antical"
     },
     {
       "type": "callout",
       "variant": "etiqueta",
-      "title": "Compatibilidad milimétrica verificada (51 mm vs 54 mm vs 58 mm)",
-      "text": "Antes de pedir un portafiltro Bottomless, tamper calibrado o Puck Screen en Amazon, verifica siempre la medida de tu grupo: la CASABREWS CM5418 y la De’Longhi Dedica Arte usan 51 mm (3 orejas); la De’Longhi Stilosa usa 51 mm (2 orejas); la Breville Bambino usa 54 mm (tamper 53.3 mm); y la Gaggia Classic Evo Pro o HiBREW H10A usan 58 mm."
+      "text": "Los iones de **magnesio (Mg²⁺)** poseen mayor densidad de carga que el calcio, lo que les permite enlazarse con los compuestos aromáticos frutales y achocolatados del café durante los **25 a 30 segundos** de extracción sin precipitar incrustaciones de sarro tan rápido en las tuberías de acero del **ThermoJet**. Nunca alimentes tu cafetera con agua destilada ni de **0 ppm** (que además corroe metales por lixiviación), y revisa nuestra prueba técnica de [jarras filtrantes Brita vs BWT Magnesium vs ZeroWater para espresso](/cafe-en-grano-y-agua/jarras-filtrantes-brita-vs-bwt-magnesium-vs-zerowater-para-espresso/) para elegir el cartucho adecuado según la dureza del grifo de tu ciudad.",
+      "title": "Por qué el ion magnesio mejora el cuerpo del espresso sin calcificar el circuito"
     },
     {
       "type": "h2",
-      "text": "Cómo aprovechar nuestras comparativas y enlaces de Amazon"
+      "text": "4 reglas prácticas para acertar con tu materia prima desde el primer paquete"
     },
     {
       "type": "ol",
       "items": [
-        "**Mide el hueco de tu cocina:** las cafeteras ultra-compactas de 15 cm caben en cualquier rincón; recuerda dejar 10 cm a la derecha para mover la lanceta de vapor con comodidad.",
-        "**Elige el molino y accesorios de tu diámetro exacto:** combinar tu cafetera con un molino de muelas para espresso (como el [Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/) o el [Fellow Opus](/resenas-cafeteras/fellow-opus-conical-burr-grinder/)) y una báscula mini de 0.1 g transforma por completo la crema en taza.",
-        "**Consulta el precio y ofertas en tu tienda Amazon:** nuestras tarjetas están optimizadas por defecto para **Amazon Estados Unidos (`cafeteracompacta-20`)** y detectan automáticamente si navegas desde **España (`cafeteracompacta-21`)**."
+        "**Exige fecha de tueste (\"Roasted on\") en el envase:** Descarta las bolsas que solo imprimen una fecha de consumo preferente a 18 o 24 meses vista y prioriza tostadores que envasen en bolsas opacas con válvula desgasificadora unidireccional.",
+        "**Evita el café torrefacto (tostado con azúcar) al 100 %:** El azúcar caramelizado en la superficie del grano se funde con el calor de las muelas cónicas y obstruye los microagujeros de las cestas presurizadas de **51 y 54 mm** en pocas semanas.",
+        "**Adapta el grano al tipo de filtro que uses:** Con las cestas presurizadas originales de fábrica puedes obtener crema aceptable con mezclas **80 % Arábica / 20 % Robusta** lavadas, mientras que para cestas no presurizadas (Single Wall) brilla el **100 % Arábica de tueste medio fresco**.",
+        "**Muele únicamente la dosis exacta antes de cada extracción:** El café molido pierde hasta el **60 % de su dióxido de carbono y compuestos volátiles en los primeros 15 minutos** de contacto con el oxígeno ambiental."
       ]
     },
     {
       "type": "cta",
-      "text": "¿No estás seguro de qué cafetera, molino o accesorio de este silo elegir? Pregúntale en vivo a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Las 5 reglas de oro del barismo compacto en casa"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Ratio 1:2 en 25 a 30 segundos:** pesa 16 a 18 gramos de café en seco y detén la extracción cuando la báscula mini marque 32 a 36 gramos de espresso líquido.",
-        "**Purga de calentamiento ('Blank Shot'):** pasa siempre 4 segundos de agua caliente por el portafiltro vacío antes de poner el café para que el metal alcance los 90 °C.",
-        "**Distribución WDT + Prensado nivelado:** rompe los grumos con agujas de 0.3 mm y prensa recto con un tamper calibrado para eliminar el channeling.",
-        "**Descalcificación cada 60–90 días:** utiliza ácido láctico (De’Longhi EcoDecalk o Urnex Dezcal) y nunca vinagre blanco para proteger el Thermoblock."
-      ]
+      "text": "¿No sabes qué perfil de grano o qué sistema de filtrado de agua elegir para la dureza de tu ciudad y tu modelo de cafetera? Consulta a nuestro Asesor IA para recibir una recomendación personalizada o revisa la disponibilidad de jarras filtrantes, cartuchos y accesorios de conservación en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué guías incluye la sección de Mejor Café en Grano, Tuestes y Agua Filtrada para Cafeteras Espresso Compactas?",
-      "a": "Incluye 45 artículos técnicos detallados sobre selección de granos en Amazon EE. UU., tueste medio vs oscuro en máquinas Thermoblock, ventana de desgasificación desde fecha de tueste, botes al vacío y dureza del agua en ppm, con tablas de medidas, parámetros de extracción y enlaces directos a los productos compatibles en Amazon Estados Unidos y España."
+      "q": "¿Es mejor usar café 100 % Arábica o mezcla con Robusta en una cafetera espresso compacta?",
+      "a": "El café 100 % Arábica aporta mayor complejidad aromática, dulzor natural y acidez equilibrada, siendo el estándar para cestas no presurizadas en máquinas como la Breville Bambino. Un blend con un 10 % a 20 % de Robusta de calidad añade más cuerpo, cafeína y una espuma más densa y persistente para bebidas con leche."
     },
     {
-      "q": "¿Todas las recomendaciones son compatibles con cocinas pequeñas?",
-      "a": "Sí, en CafeteraCompacta.com nos especializamos exclusivamente en cafeteras espresso de huella reducida (14 a 23 cm de ancho), molinos compactos Single Dose y básculas mini de 10×10 cm."
+      "q": "¿Puedo usar agua mineral embotellada en lugar de una jarra filtrante para mi cafetera?",
+      "a": "Sí, siempre que verifiques en la etiqueta de composición química que el residuo seco a 180 °C se sitúe entre 50 y 120 mg/L (ppm) y el contenido de bicarbonatos entre 40 y 80 mg/L. Evita las aguas minerales de manantial de mineralización fuerte (superiores a 250 mg/L), ya que saturan de cal el Thermoblock más rápido que el agua del grifo filtrada."
     },
     {
-      "q": "¿Puedo pedir una recomendación personalizada según mi presupuesto?",
-      "a": "Por supuesto: abre el widget del Barista IA en la esquina inferior derecha, indícale tu presupuesto en dólares o euros y te armará el combo exacto en Amazon."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Espresso Standards",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Coffee Quality Institute – Barista & Extraction Science",
-      "url": "https://www.coffeeinstitute.org/"
+      "q": "¿Se debe guardar el café en grano dentro de la nevera o el congelador para que dure más?",
+      "a": "Solo conviene congelar granos enteros si has comprado un lote grande y los divides en bolsas individuales selladas al vacío que no volverás a abrir hasta descongelarlas por completo a temperatura ambiente. Nunca metas y saques la bolsa de uso diario de la nevera o congelador, porque la condensación de humedad estropea el grano al instante."
     }
   ],
   "related": [
-    "/cafe-en-grano-y-agua/como-elegir-cafe-en-grano-para-espresso-en-amazon-estados-unidos/",
-    "/cafe-en-grano-y-agua/fecha-de-tueste-roast-date-vs-fecha-de-caducidad-best-by-en-el-cafe/",
-    "/cafe-en-grano-y-agua/por-que-un-cafe-recien-tostado-de-hace-2-dias-no-sirve-para-espresso/",
-    "/cafe-en-grano-y-agua/tueste-medio-vs-tueste-oscuro-en-cafeteras-compactas-thermoblock/"
+    "/cafe-en-grano-y-agua/los-4-enemigos-del-cafe-en-grano-oxigeno-luz-calor-y-humedad/",
+    "/cafe-en-grano-y-agua/jarras-filtrantes-brita-vs-bwt-magnesium-vs-zerowater-para-espresso/",
+    "/cafe-en-grano-y-agua/como-afecta-el-cloro-del-agua-del-grifo-al-aroma-del-espresso/",
+    "/cafe-en-grano-y-agua/mejores-origenes-de-cafe-para-beber-con-leche-brasil-y-colombia/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/cafe-en-grano-y-agua.webp"
 }

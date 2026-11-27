@@ -3,159 +3,135 @@
   "pillar": "mantenimiento-y-descalcificacion",
   "path": "/mantenimiento-y-descalcificacion/",
   "isPillar": true,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "cómo descalcificar cafetera espresso compacta",
   "title": "Cómo Descalcificar y Limpiar tu Cafetera Espresso Compacta Paso a Paso",
-  "seoTitle": "Cómo Descalcificar tu Cafetera Espresso Compacta: Casabrews, Bambino y Dedica",
-  "metaDescription": "Cómo Descalcificar y Limpiar tu Cafetera Espresso Compacta Paso a Paso: hub completo con 55 guías sobre protocolos de descalcificación con ácido láctico (EcoDecalk y Urnex Dezcal), reseteo de luces de alerta, backflushing con Cafiza, limpieza de lanceta y cambio de junta del grupo y ofertas en Amazon EE. UU. y España.",
-  "excerpt": "Explora las 55 guías especializadas de este silo sobre protocolos de descalcificación con ácido láctico (EcoDecalk y Urnex Dezcal), reseteo de luces de alerta, backflushing con Cafiza, limpieza de lanceta y cambio de junta del grupo.",
-  "quickAnswer": "En esta sección principal de Cómo Descalcificar y Limpiar tu Cafetera Espresso Compacta Paso a Paso reunimos 55 guías verificadas sobre protocolos de descalcificación con ácido láctico (EcoDecalk y Urnex Dezcal), reseteo de luces de alerta, backflushing con Cafiza, limpieza de lanceta y cambio de junta del grupo, diseñadas para ayudarte a comprar, calibrar y mantener tu cafetera espresso compacta y sus accesorios compatibles en Amazon.",
+  "seoTitle": "Cómo Descalcificar y Limpiar tu Cafetera Espresso Compacta Paso a Paso | cafeteracompacta.com",
+  "metaDescription": "Guía paso a paso sobre cómo descalcificar tu cafetera espresso compacta: limpieza de Thermoblock, retrolavado de solenoide, purga de lanceta y calendario.",
+  "excerpt": "Protege la bomba y el bloque térmico de tu Breville Bambino, De’Longhi Dedica o CASABREWS CM5418: aprende a descalcificar sin dañar juntas, limpiar aceites rancios y evitar bloqueos.",
+  "quickAnswer": "Saber **cómo descalcificar una cafetera espresso compacta** exige diferenciar dos circuitos: el **sistema hidráulico interno** (que se limpia cada **2 a 3 meses** o cada **200 ciclos** con solución descalcificadora a base de **ácido láctico o cítrico** para disolver el carbonato cálcico del **Thermoblock**) y el **grupo de extracción** (que requiere limpieza semanal con detergente alcalino tipo **Cafiza** para eliminar aceites de café rancios).",
   "readingMinutes": 8,
   "image": {
-    "prompt": "A gleaming clean stainless steel compact espresso machine on a bright kitchen counter with a clear water tank, clean portafilter and microfiber cloth, natural daylight",
-    "alt": "Cafetera espresso compacta impecable durante su rutina de limpieza y descalcificación"
+    "prompt": "Macro texture and build-quality detail shot with shallow depth of field: realistic scene illustrating 'Cómo Descalcificar y Limpiar tu Cafetera Espresso Compacta Paso a Paso' (cómo descalcificar cafetera espresso compacta) for cafeteracompacta.com, featuring equipment in arctic white with warm stone-gray details, on a warm walnut table beside a sunlit window, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Cómo Descalcificar y Limpiar tu Cafetera Espresso Compacta Paso a Paso"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub central de **Cómo Descalcificar y Limpiar tu Cafetera Espresso Compacta Paso a Paso** en **CafeteraCompacta.com**. Aquí reunimos toda la ingeniería barista, pruebas de extracción y criterios de compra sobre **protocolos de descalcificación con ácido láctico (EcoDecalk y Urnex Dezcal), reseteo de luces de alerta, backflushing con Cafiza, limpieza de lanceta y cambio de junta del grupo**, organizados bajo una arquitectura sin canibalización para que encuentres el modelo o accesorio compatible exacto antes de comprar en Amazon Estados Unidos (`amazon.com`) o España (`amazon.es`)."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si buscas tu primera cafetera espresso por menos de $150 como la **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, un diseño italiano ultra-delgado de 15 cm con lanceta profesional como la **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)** o el estándar de cafetería en 3 segundos con la **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, dominar las medidas y parámetros de este silo multiplicará la calidad de tus cafés cada mañana."
+      "text": "Cuando tu **De’Longhi Dedica Arte** enciende su piloto naranja fijo, tu **Breville Bambino** parpadea alternando los botones de **1 y 2 tazas**, o el chorro de tu **CASABREWS CM5418** empieza a salir tibio y con un goteo lento, los conductos capilares del bloque térmico ya acumulan depósitos de carbonato cálcico y magnesio. Dominar **cómo descalcificar una cafetera espresso compacta** a tiempo no solo recupera la presión de **9 bares** y la potencia de la lanceta de vapor, sino que evita quemar la bomba vibratoria por sobrepresión. Dado que los avisos automáticos solo cuentan ciclos de uso y no miden los minerales de tu grifo, te recomendamos consultar nuestro [calendario de descalcificación según la dureza del agua de tu ciudad](/mantenimiento-y-descalcificacion/cada-cuanto-tiempo-hay-que-descalcificar-segun-la-dureza-del-agua/) para ajustar la frecuencia entre **30 y 90 días** según uses agua dura, media o filtrada."
     },
     {
       "type": "h2",
-      "text": "Criterios técnicos en Cómo Descalcificar y Limpiar tu Cafetera Espresso Compacta Paso a Paso"
+      "text": "Descalcificador Ácido vs Detergente de Aceites (Backflush): Dos Químicas Distintas"
     },
     {
       "type": "p",
-      "text": "En cada una de las **55 guías especializadas** de esta categoría evaluamos cifras reales y verificables: ancho en centímetros y pulgadas para encimeras pequeñas, diámetro y número de orejas del portafiltro (**51 mm**, **54 mm** y **58 mm**), estabilidad térmica PID (93 °C), regulación de presión a 9 bares reales mediante válvula OPV y potencia de vaporización para Latte Art."
+      "text": "Un error técnico muy común es intentar limpiar la ducha del grupo con líquido descalcificador o, peor aún, echar detergente desengrasante en el depósito de agua. El descalcificador líquido (como **De’Longhi EcoDecalk** a base de **ácido láctico**) disuelve cristales minerales dentro del **Thermoblock** o **ThermoJet**, mientras que el polvo alcalino (**Urnex Cafiza** o pastillas limpiadoras) saponifica las grasas oxidadas del café en las cestas, el portafiltro y la válvula solenoide. Además del ciclo químico trimestral, aplicar a diario nuestra [rutina de limpieza de 30 segundos después de cada café](/mantenimiento-y-descalcificacion/rutina-de-limpieza-diaria-de-30-segundos-despues-de-cada-cafe/) mantiene los orificios de la ducha despejados. Y si quieres conservar el chasis impecable o vas a transportar la máquina, revisa cómo [limpiar el exterior de acero inoxidable cepillado sin dejar marcas](/mantenimiento-y-descalcificacion/como-limpiar-el-exterior-de-acero-inoxidable-cepillado-sin-dejar-marcas/) y el protocolo de [vaciado interno del Thermoblock (Steam-Out) antes de una mudanza o viaje](/mantenimiento-y-descalcificacion/como-vaciar-las-calderas-y-el-thermoblock-antes-de-guardar-o-mudar-la-cafetera/)."
     },
     {
       "type": "table",
-      "caption": "Índice destacado de guías en Cómo Descalcificar y Limpiar tu Cafetera Espresso Compacta Paso a Paso",
       "headers": [
-        "Guía Barista Especializada",
-        "Acceso Directo"
+        "Modelo de Cafetera",
+        "Alerta de Descalcificación",
+        "Admite Backflush con Disco Ciego",
+        "Tiempo del Ciclo de Descalcificación"
       ],
       "rows": [
         [
-          "Cómo Descalcificar la CASABREWS CM5418 Paso a Paso y Resetear el Contador de Ciclos",
-          "[Ver guía completa](/mantenimiento-y-descalcificacion/como-descalcificar-casabrews-cm5418-paso-a-paso/)"
+          "Breville Bambino (BES450)",
+          "Parpadeo simultáneo 1 Cup + 2 Cup (200 ciclos)",
+          "No (carece de solenoide de 3 vías; limpieza manual de ducha)",
+          "Aprox. 15 minutos + 1 tanque de enjuague"
         ],
         [
-          "Cómo Descalcificar la Breville Bambino y Bambino Plus en 15 Minutos (Combinación de Botones)",
-          "[Ver guía completa](/mantenimiento-y-descalcificacion/como-descalcificar-breville-bambino-y-bambino-plus/)"
+          "Breville Bambino Plus (BES500)",
+          "Parpadeo alterno 1 Cup / 2 Cup / Vapor (200 ciclos)",
+          "Sí (incluye disco de silicona y pastilla alcalina para solenoide)",
+          "Aprox. 20 minutos + ciclo automático"
         ],
         [
-          "Cómo Descalcificar la De’Longhi Dedica Arte (EC885M y EC685M) y Apagar la Luz Naranja/Roja",
-          "[Ver guía completa](/mantenimiento-y-descalcificacion/como-descalcificar-delonghi-dedica-arte-ec885-y-ec685/)"
+          "De’Longhi Dedica Arte (EC885M)",
+          "Botón de vapor iluminado en naranja fijo",
+          "No (desmontar tornillo central Phillips de la ducha para lavar)",
+          "Aprox. 25 a 30 minutos con pausas de acción"
         ],
         [
-          "Por Qué Nunca Debes Descalcificar tu Cafetera Espresso Compacta con Vinagre Blanco de Cocina",
-          "[Ver guía completa](/mantenimiento-y-descalcificacion/por-que-nunca-descalcificar-tu-cafetera-espresso-con-vinagre-blanco/)"
+          "CASABREWS CM5418 / 3700Essential",
+          "Destello de todos los botones a los 500 ciclos",
+          "No (cepillar junta de silicona y remojar cestas en Cafiza)",
+          "Aprox. 15 minutos (grupo + lanceta de vapor)"
         ],
         [
-          "Ácido Láctico (EcoDecalk) vs Ácido Cítrico vs Ácido Sulfámico (Urnex Dezcal): Cuál Es Más Seguro",
-          "[Ver guía completa](/mantenimiento-y-descalcificacion/acido-lactico-ecodecalk-vs-acido-citrico-vs-urnex-dezcal/)"
-        ],
-        [
-          "Diferencia Entre Descalcificar (Quitar Sarro del Agua) y Limpiar Aceites de Café (Urnex Cafiza)",
-          "[Ver guía completa](/mantenimiento-y-descalcificacion/diferencia-entre-descalcificar-cal-y-desengrasar-con-cafiza/)"
-        ],
-        [
-          "Cómo Hacer un Backflush (Retrolavado con Disco Ciego y Pastilla Cafiza) Paso a Paso",
-          "[Ver guía completa](/mantenimiento-y-descalcificacion/como-hacer-backflushing-retrolavado-en-breville-bambino-plus-y-gaggia/)"
-        ],
-        [
-          "Alerta Técnica: Por Qué NO Debes Poner un Disco Ciego de Backflush en Cafeteras sin Válvula Solenoide",
-          "[Ver guía completa](/mantenimiento-y-descalcificacion/se-puede-hacer-backflush-en-casabrews-cm5418-o-delonghi-dedica/)"
-        ],
-        [
-          "Cómo Desmontar el Tornillo Central de la Ducha (Shower Screen) para Quitar el Café Incrustado",
-          "[Ver guía completa](/mantenimiento-y-descalcificacion/como-desatornillar-y-limpiar-la-ducha-del-grupo-en-delonghi-dedica-y-casabrews/)"
-        ],
-        [
-          "Cómo Desatascar un Filtro Presurizado de Doble Pared cuando Ya No Pasa el Café",
-          "[Ver guía completa](/mantenimiento-y-descalcificacion/como-destapar-los-microagujeros-de-un-filtro-presurizado-obstruido/)"
-        ],
-        [
-          "Calendario de Descalcificación según la Dureza del Agua de tu Ciudad (Blanda, Media o Dura)",
-          "[Ver guía completa](/mantenimiento-y-descalcificacion/cada-cuanto-tiempo-hay-que-descalcificar-segun-la-dureza-del-agua/)"
-        ],
-        [
-          "Cómo Configurar el Nivel de Dureza del Agua (Nivel 1, 2 o 3) en tu De’Longhi Dedica Arte",
-          "[Ver guía completa](/mantenimiento-y-descalcificacion/como-programar-la-dureza-del-agua-en-el-menu-de-delonghi-dedica/)"
+          "Gaggia Classic Evo Pro",
+          "Por calendario según dureza del agua (sin alerta LED)",
+          "Sí (válvula solenoide comercial de 3 vías y grupo de 58 mm)",
+          "Aprox. 20 minutos con solución específica aluminio/latón"
         ]
+      ],
+      "caption": "Protocolos de Mantenimiento y Ciclos de Descalcificación por Modelo"
+    },
+    {
+      "type": "h2",
+      "text": "Procedimiento Universal en 4 Fases para Descalcificar sin Dañar Juntas"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "1. Retirar el filtro ablandador del tanque y preparar la dilución",
+          "text": "Saca siempre el cartucho filtrante del depósito si lo usas. Mezcla **100 ml de descalcificador de ácido láctico** (o la dosis exacta del fabricante) con **500 a 1000 ml de agua tibia** en el tanque y retira el portafiltro del grupo."
+        },
+        {
+          "name": "2. Activar el modo de descalcificación por grupo y lanceta",
+          "text": "Coloca un recipiente de **1.5 L** bajo el grupo y la lanceta. Inicia la secuencia de botones de tu máquina para que la bomba alterne pulsos de solución por la ducha y el tubo de vapor con pausas que permiten al ácido disolver el sarro."
+        },
+        {
+          "name": "3. Ejecutar dos tanques completos de enjuague con agua limpia",
+          "text": "Al vaciarse el depósito, lávalo con agua y jabón neutro, llénalo hasta la marca **MAX** con agua fresca y haz correr el tanque entero por el grupo y la lanceta para eliminar cualquier rastro de sabor ácido y resetear la alerta LED."
+        },
+        {
+          "name": "4. Desmontar y desengrasar la ducha, las cestas y la boquilla de vapor",
+          "text": "Desenrosca la punta de la lanceta de vapor (limpia el orificio con la aguja incluida) y sumerge las cestas de **51, 54 o 58 mm** junto con la rejilla de la ducha en agua caliente con **3 g de detergente alcalino** durante **20 minutos**."
+        }
       ]
+    },
+    {
+      "type": "h2",
+      "text": "Por Qué Nunca Debes Usar Vinagre Blanco Doméstico en tu Cafetera"
     },
     {
       "type": "callout",
-      "variant": "etiqueta",
-      "title": "Compatibilidad milimétrica verificada (51 mm vs 54 mm vs 58 mm)",
-      "text": "Antes de pedir un portafiltro Bottomless, tamper calibrado o Puck Screen en Amazon, verifica siempre la medida de tu grupo: la CASABREWS CM5418 y la De’Longhi Dedica Arte usan 51 mm (3 orejas); la De’Longhi Stilosa usa 51 mm (2 orejas); la Breville Bambino usa 54 mm (tamper 53.3 mm); y la Gaggia Classic Evo Pro o HiBREW H10A usan 58 mm."
-    },
-    {
-      "type": "h2",
-      "text": "Cómo aprovechar nuestras comparativas y enlaces de Amazon"
-    },
-    {
-      "type": "ol",
-      "items": [
-        "**Mide el hueco de tu cocina:** las cafeteras ultra-compactas de 15 cm caben en cualquier rincón; recuerda dejar 10 cm a la derecha para mover la lanceta de vapor con comodidad.",
-        "**Elige el molino y accesorios de tu diámetro exacto:** combinar tu cafetera con un molino de muelas para espresso (como el [Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/) o el [Fellow Opus](/resenas-cafeteras/fellow-opus-conical-burr-grinder/)) y una báscula mini de 0.1 g transforma por completo la crema en taza.",
-        "**Consulta el precio y ofertas en tu tienda Amazon:** nuestras tarjetas están optimizadas por defecto para **Amazon Estados Unidos (`cafeteracompacta-20`)** y detectan automáticamente si navegas desde **España (`cafeteracompacta-21`)**."
-      ]
+      "variant": "aviso",
+      "text": "Nunca descalcifiques una cafetera espresso con **vinagre blanco (ácido acético)**. El ácido acético ataca y reseca las juntas tóricas de silicona y EPDM, corroe el aluminio de las calderas (**como la de la Gaggia Classic Evo Pro**) y se impregna en los tubos internos de teflón y silicona, dejando un olor y sabor avinagrado persistente que cuesta decenas de tanques eliminar. Utiliza siempre **ácido láctico** (**EcoDecalk**) o **ácido cítrico de grado alimentario al 3–5 %**.",
+      "title": "El riesgo químico del ácido acético (vinagre) sobre juntas y aluminio"
     },
     {
       "type": "cta",
-      "text": "¿No estás seguro de qué cafetera, molino o accesorio de este silo elegir? Pregúntale en vivo a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Las 5 reglas de oro del barismo compacto en casa"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Ratio 1:2 en 25 a 30 segundos:** pesa 16 a 18 gramos de café en seco y detén la extracción cuando la báscula mini marque 32 a 36 gramos de espresso líquido.",
-        "**Purga de calentamiento ('Blank Shot'):** pasa siempre 4 segundos de agua caliente por el portafiltro vacío antes de poner el café para que el metal alcance los 90 °C.",
-        "**Distribución WDT + Prensado nivelado:** rompe los grumos con agujas de 0.3 mm y prensa recto con un tamper calibrado para eliminar el channeling.",
-        "**Descalcificación cada 60–90 días:** utiliza ácido láctico (De’Longhi EcoDecalk o Urnex Dezcal) y nunca vinagre blanco para proteger el Thermoblock."
-      ]
+      "text": "Consulta nuestras guías de mantenimiento preventivo, pregunta al Asesor IA cómo resetear las luces de aviso de tu modelo exacto y revisa la disponibilidad de líquidos descalcificadores y kits de limpieza en las tarjetas de Amazon integradas."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué guías incluye la sección de Cómo Descalcificar y Limpiar tu Cafetera Espresso Compacta Paso a Paso?",
-      "a": "Incluye 55 artículos técnicos detallados sobre protocolos de descalcificación con ácido láctico (EcoDecalk y Urnex Dezcal), reseteo de luces de alerta, backflushing con Cafiza, limpieza de lanceta y cambio de junta del grupo, con tablas de medidas, parámetros de extracción y enlaces directos a los productos compatibles en Amazon Estados Unidos y España."
+      "q": "¿Por qué la luz de descalcificación sigue encendida después de limpiar mi cafetera?",
+      "a": "Si limpias la cafetera pulsando manualmente el botón de café sin entrar en el **modo oficial de descalcificación** (manteniendo pulsada la combinación de botones durante **5 a 10 segundos**) o si no completas el tanque entero de **enjuague con agua limpia hasta la marca MAX**, el contador interno no se reinicia."
     },
     {
-      "q": "¿Todas las recomendaciones son compatibles con cocinas pequeñas?",
-      "a": "Sí, en CafeteraCompacta.com nos especializamos exclusivamente en cafeteras espresso de huella reducida (14 a 23 cm de ancho), molinos compactos Single Dose y básculas mini de 10×10 cm."
+      "q": "¿Puedo hacer backflush con disco ciego en una De’Longhi Dedica o una CASABREWS CM5418?",
+      "a": "No debes hacerlo. Ni la **De’Longhi Dedica Arte** ni la **CASABREWS CM5418** tienen **válvula solenoide de 3 vías** para descargar la presión acumulada. Si bloqueas el portafiltro con un disco ciego, someterás la bomba y las mangueras a una sobrepresión peligrosa; en estos modelos debes desatornillar la ducha para limpiarla."
     },
     {
-      "q": "¿Puedo pedir una recomendación personalizada según mi presupuesto?",
-      "a": "Por supuesto: abre el widget del Barista IA en la esquina inferior derecha, indícale tu presupuesto en dólares o euros y te armará el combo exacto en Amazon."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Espresso Standards",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Coffee Quality Institute – Barista & Extraction Science",
-      "url": "https://www.coffeeinstitute.org/"
+      "q": "¿Qué agua debo usar a diario para evitar que se obstruya el Thermoblock?",
+      "a": "Utiliza agua filtrada por jarra con resina de intercambio iónico o agua mineral embotellada de **mineralización débil**, buscando un residuo seco o **TDS de entre 50 y 120 ppm (mg/L)** y una dureza cálcica moderada. Nunca uses agua destilada pura (**0 ppm**), ya que corroe metales y produce cafés planos."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/como-descalcificar-casabrews-cm5418-paso-a-paso/",
-    "/mantenimiento-y-descalcificacion/como-descalcificar-breville-bambino-y-bambino-plus/",
-    "/mantenimiento-y-descalcificacion/como-descalcificar-delonghi-dedica-arte-ec885-y-ec685/",
-    "/mantenimiento-y-descalcificacion/por-que-nunca-descalcificar-tu-cafetera-espresso-con-vinagre-blanco/"
+    "/mantenimiento-y-descalcificacion/cada-cuanto-tiempo-hay-que-descalcificar-segun-la-dureza-del-agua/",
+    "/mantenimiento-y-descalcificacion/rutina-de-limpieza-diaria-de-30-segundos-despues-de-cada-cafe/",
+    "/mantenimiento-y-descalcificacion/como-limpiar-el-exterior-de-acero-inoxidable-cepillado-sin-dejar-marcas/",
+    "/mantenimiento-y-descalcificacion/como-vaciar-las-calderas-y-el-thermoblock-antes-de-guardar-o-mudar-la-cafetera/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/mantenimiento-y-descalcificacion.webp"
 }

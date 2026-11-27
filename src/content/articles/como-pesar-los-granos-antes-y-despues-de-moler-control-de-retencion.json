@@ -4,161 +4,132 @@
   "path": "/molinos-y-molienda/como-pesar-los-granos-antes-y-despues-de-moler-control-de-retencion/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "pesar cafe antes y despues de moler retencion",
   "title": "Por Qué Debes Pesar 18.0 g en Grano y Volver a Pesar en el Portafiltro (Input vs Output)",
-  "seoTitle": "Por Qué Debes Pesar 18.0 g en Grano y Volver a Pesar en el Portafiltro (Input vs Output) | Guía Barista Compacta",
-  "metaDescription": "Por Qué Debes Pesar 18.0 g en Grano y Volver a Pesar en el Portafiltro (Input vs Output): Si metes 18.0 g y salen 17.2 g, hay 0.8 g retenidos en el conducto que debes liberar dando dos toques suaves a la tapa. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Si metes 18.0 g y salen 17.2 g, hay 0.8 g retenidos en el conducto que debes liberar dando dos toques suaves a la tapa.",
-  "quickAnswer": "Sobre pesar cafe antes y despues de moler retencion: Si metes 18.0 g y salen 17.2 g, hay 0.8 g retenidos en el conducto que debes liberar dando dos toques suaves a la tapa. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué Debes Pesar 18.0 g en Grano y Volver a Pesar en el Portafiltro (Input vs Output) | cafeteracompacta.com",
+  "metaDescription": "Aprende a pesar café antes y después de moler para controlar la retención de tu molino y clavar la dosis real de 18.0 g en tu portafiltro de espresso.",
+  "excerpt": "Descubre la diferencia crítica entre peso de entrada (Input) y salida (Output) en molienda espresso, cuánta retención ocultan los molinos compactos y cómo asegurar 18.0 gramos exactos en la cesta.",
+  "quickAnswer": "Pesar el café antes y después de moler es la única forma de detectar la retención interna de tu molino, que puede robar o escupir entre **0.3 g y 1.8 g** por dosis. Si introduces **18.0 g** en la tolva de un Baratza Encore ESP o Fellow Opus pero caen **16.7 g** al portafiltro, la pastilla perderá resistencia hidráulica y tu extracción saldrá aguada en menos de **18 segundos**.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Si metes 18.0 g y salen 17.2 g, hay 0.8 g retenidos en el conducto que debes liberar dando dos toques suaves a la tapa., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Split comparison composition showing two complementary setups side by side: realistic scene illustrating 'Por Qué Debes Pesar 18.0 g en Grano y Volver a Pesar en el Portafiltro (Input vs Output)' (pesar cafe antes y despues de moler retencion) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, in a clean modern garage or studio corner with slate flooring, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué Debes Pesar 18.0 g en Grano y Volver a Pesar en el Portafiltro (Input vs Output)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **pesar cafe antes y despues de moler retencion** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Si metes 18.0 g y salen 17.2 g, hay 0.8 g retenidos en el conducto que debes liberar dando dos toques suaves a la tapa."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Abres una bolsa recién tostada, colocas un cuenco sobre tu báscula de precisión, taras a cero y pesas exactamente **18.0 g** de café en grano. Los viertes en la tolva de tu **Baratza Encore ESP** o **Fellow Opus**, accionas el motor y recoges el café directamente en el portafiltro de **54 mm** de tu **Breville Bambino**. Sin embargo, al acoplar el portafiltro al grupo, el manómetro de presión apenas sube y el líquido cae a chorros en **16 segundos**. Cuando por fin decides pesar la cesta cargada, descubres el misterio: dentro del filtro solo había **16.4 g** de café molido. Esa pérdida oculta de **1.6 g** entre lo que entra (*Input*) y lo que sale (*Output*) es el fenómeno de retención, uno de los factores más decisivos que analizamos en nuestro [centro técnico de molinos y molienda](/molinos-y-molienda/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: pesar cafe antes y despues de moler retencion"
+      "text": "La física del Input vs Output: dónde se esconden hasta 2 gramos dentro del molino"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **pesar cafe antes y despues de moler retencion** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Todo molino eléctrico o manual posee cavidades muertas entre la cámara de fresas, el anillo portamuelas, la cortina antiestática y el túnel de descarga. Cuando mueles por primera vez tras limpiar el equipo —o cuando cambias la granulometría para [calibrar café descafeinado Swiss Water con molienda extrafina](/molinos-y-molienda/como-moler-cafe-descafeinado-para-espresso-por-que-pide-mas-fino/)—, una fracción del polvo queda compactada contra las paredes metálicas por fuerza centrífuga y atracción electrostática. En espresso a **9 bares**, una desviación de tan solo **±0.5 g** en la cesta modifica el grosor de la pastilla y altera el tiempo de extracción entre **4 y 7 segundos**, un margen que se vuelve todavía más crítico cuando intentas [ajustar la cesta de 1 taza (Single Shot de 9 g) frente a la doble de 18 g](/molinos-y-molienda/molienda-para-cestas-de-1-taza-single-shot-vs-2-tazas-double/). Además, la retención no solo resta masa: al día siguiente, ese **1.0 g a 1.5 g** oxidado durante **24 horas** es empujado hacia afuera por la dosis fresca, contaminando tu taza con notas rancias y falseando tu ajuste del dial."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: pesar cafe antes y despues de moler retencion",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Molino de referencia",
+        "Tipo de muelas y diámetro",
+        "Retención típica sin fuelle (g)",
+        "Diferencia máxima Input vs Output con RDT y fuelle (g)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Si metes 18.0 g y salen 17.2 g, hay 0.8 g retenidos en el conducto que debes liberar dando dos toques suaves a la tapa.",
-          "Mejora la consistencia y evita errores de extracción"
+          "1Zpresso J-Ultra / KINGrinder K6",
+          "Cónicas de acero 48 mm (manual)",
+          "0.05 – 0.15 g",
+          "< 0.1 g (virtualmente cero)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Turin DF54 (Single Dose)",
+          "Planas de acero 54 mm + ionizador",
+          "0.20 – 0.40 g",
+          "0.05 – 0.15 g"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Baratza Encore ESP (con tolva single dose)",
+          "Cónicas M2 de 40 mm",
+          "0.60 – 1.20 g",
+          "0.15 – 0.30 g"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Fellow Opus Conical Burr",
+          "Cónicas C6-40 de 40 mm",
+          "0.80 – 1.80 g",
+          "0.20 – 0.40 g (usando tapa como fuelle)"
         ]
-      ]
+      ],
+      "caption": "Retención media (Input vs Output) y tolerancia real en los molinos compactos más populares"
+    },
+    {
+      "type": "h2",
+      "text": "Retención estática vs retención de intercambio: por qué pesar solo antes engaña al barista"
+    },
+    {
+      "type": "p",
+      "text": "Los ingenieros de molienda distinguen dos conceptos que suelen confundirse en casa: la **retención temporal neta** (la diferencia matemática de peso entre los **18.0 g** que metes y los **17.3 g** que caen a la cesta) y la **retención de intercambio** (*exchange retention*). Incluso si pesas **18.0 g** de entrada y obtienes **18.0 g** de salida, en un molino de tolva tradicional hasta **1.5 g** de esa salida pertenecen a la molienda de la mañana anterior que estaba alojada en el conducto y fue desplazada mecánicamente por el grano nuevo. Pesar el portafiltro vacío antes de moler y volverlo a pesar cargado antes de pasar el tamper te garantiza consistencia hidráulica real en portafiltros compactos de **51 mm** (**CASABREWS CM5418** o **De’Longhi Dedica Arte EC885M**) y de **54 mm** (**Breville Bambino Plus BES500**)."
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de barista sobre pesar cafe antes y despues de moler retencion",
-      "text": "Si metes 18.0 g y salen 17.2 g, hay 0.8 g retenidos en el conducto que debes liberar dando dos toques suaves a la tapa. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "No utilices el peso completo del portafiltro con mango de acero sobre básculas que tengan un límite máximo de 500 g. Para proteger la celda de carga en básculas de espresso de 0.1 g de resolución, tara únicamente la cesta desnuda o el vaso dosificador de aluminio (dosing cup) de 51 mm o 54 mm; pesa ahí el Output real y luego transfiere al portafiltro.",
+      "title": "Regla de oro para no sobrecargar la celda de tu báscula digital"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar pesar cafe antes y despues de moler retencion hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Protocolo de doble pesaje en 4 pasos para clavar tus 18.0 g al décimo de gramo"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "1. Pesa el Input con +0.2 g de margen de sacrificio si tu molino está recién limpio",
+          "text": "Si acabas de desmontar las muelas para cepillarlas, añade entre 18.2 g y 18.4 g en la primera dosis para rellenar los intersticios metálicos de la cámara sin quedarte corto en la cesta."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "2. Aplica micro-neblina RDT antes de verter a la tolva Single Dose",
+          "text": "Pulveriza una sola atomización de agua (aproximadamente 0.1 g) sobre los granos enteros y agítalos. Esto neutraliza el efecto Triboeléctrico y reduce hasta un 70 % el café adherido al conducto de descarga."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "3. Tara el vaso receptor o el portafiltro con embudo dosificador puesto",
+          "text": "Coloca tu portafiltro de 51 mm, 54 mm o 58 mm con el anillo magnético (dosing funnel) sobre la báscula y pulsa TARE antes de recoger el café molido para medir exclusivamente la masa neta depositada."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "4. Verifica el Output y corrige con micro-cucharilla antes del WDT",
+          "text": "Al terminar de moler y accionar el fuelle (bellows), coloca el portafiltro en la báscula. Si marca 18.3 g tras un golpe de fuelle enérgico, retira los 0.3 g sobrantes con la punta de una cucharilla antes de distribuir y compactar."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con pesar cafe antes y despues de moler retencion en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Buscas una báscula con precisión de 0.1 g o un molino de baja retención compatible con tu encimera? Consulta ahora a nuestro Asesor IA o revisa la disponibilidad y stock en tiempo real en las tarjetas de Amazon integradas en esta guía."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre pesar cafe antes y despues de moler retencion?",
-      "a": "Si metes 18.0 g y salen 17.2 g, hay 0.8 g retenidos en el conducto que debes liberar dando dos toques suaves a la tapa. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cuánta diferencia de peso entre Input y Output es aceptable en espresso?",
+      "a": "En una cesta doble no presurizada de 51 mm o 54 mm, la tolerancia máxima aceptable es de ±0.1 g a ±0.2 g. Una variación superior a 0.4 g modifica el espacio libre (headspace) respecto a la ducha del grupo y cambia el caudal en más de 4 segundos a 9 bares."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué a veces meto 18.0 g en el molino y salen 18.5 g en el portafiltro?",
+      "a": "Ocurre cuando la electricidad estática acumulada de la dosis anterior se libera de golpe o cuando presionas el fuelle de silicona con más fuerza. El flujo de aire arrastra bolsas de café viejo adheridas al declumper y las suma a los 18.0 g nuevos."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Hace falta pesar el Output si uso un molino con temporizador y tolva llena?",
+      "a": "En absoluto; es incluso más importante. Si tu molino tiene tolva superior llena y dosificas por tiempo (segundos), el peso entregado varía hasta 1.5 g según el nivel de llenado de la tolva y la densidad del grano. Pesar el portafiltro antes y después de accionar el temporizador es indispensable."
     }
   ],
   "related": [
-    "/molinos-y-molienda/",
-    "/molinos-y-molienda/molienda-para-americanos-y-lungos-no-cambies-el-molino/",
-    "/molinos-y-molienda/guia-de-molienda-para-shardor-y-oxo-en-filtros-presurizados/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/como-moler-cafe-descafeinado-para-espresso-por-que-pide-mas-fino/",
+    "/molinos-y-molienda/molienda-para-cestas-de-1-taza-single-shot-vs-2-tazas-double/",
+    "/molinos-y-molienda/piedrecitas-en-el-cafe-en-grano-como-protegen-el-motor-los-fusibles/",
+    "/molinos-y-molienda/alineacion-de-muelas-planas-con-rotulador-pizarra-marker-test/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-pesar-los-granos-antes-y-despues-de-moler-control-de-retencion.webp"
 }

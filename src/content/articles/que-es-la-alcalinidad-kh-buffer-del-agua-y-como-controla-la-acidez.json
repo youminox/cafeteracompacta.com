@@ -4,161 +4,124 @@
   "path": "/cafe-en-grano-y-agua/que-es-la-alcalinidad-kh-buffer-del-agua-y-como-controla-la-acidez/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "alcalinidad kh ideal del agua para espresso",
   "title": "Por Qué la Alcalinidad (KH / Bicarbonatos de 30–50 ppm) Evita que tu Espresso Sea Demasiado Ácido",
-  "seoTitle": "Por Qué la Alcalinidad (KH / Bicarbonatos de 30–50 ppm) Evita que tu Espresso Sea Demasiado Ácido | Guía Barista Compacta",
-  "metaDescription": "Por Qué la Alcalinidad (KH / Bicarbonatos de 30–50 ppm) Evita que tu Espresso Sea Demasiado Ácido: Los bicarbonatos actúan como amortiguador natural (buffer) de los ácidos del café, dando una taza redonda y sedosa. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Los bicarbonatos actúan como amortiguador natural (buffer) de los ácidos del café, dando una taza redonda y sedosa.",
-  "quickAnswer": "Sobre alcalinidad kh ideal del agua para espresso: Los bicarbonatos actúan como amortiguador natural (buffer) de los ácidos del café, dando una taza redonda y sedosa. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Por Qué la Alcalinidad (KH / Bicarbonatos de 30–50 ppm) Evita que tu Espresso Sea Demasiado Ácido | cafeteracompacta.com",
+  "metaDescription": "Entiende qué es la alcalinidad KH del agua para espresso, por qué el rango de 30 a 50 ppm de bicarbonatos equilibra la acidez y cómo medirla en casa.",
+  "excerpt": "Explicamos la diferencia técnica entre dureza general (GH) y alcalinidad (KH), cómo actúa el tampón de bicarbonatos frente a los ácidos del café y qué ocurre cuando usas agua demasiado blanda o alcalina.",
+  "quickAnswer": "La **alcalinidad (KH)** mide la concentración de **iones bicarbonato (HCO₃⁻)** en el agua, que actúan como un tampón químico (*buffer*) neutralizando el exceso de ácidos orgánicos del espresso. El rango ideal recomendado por la SCA es de **30 a 50 ppm** (equivalentes a **36–61 mg/L de bicarbonatos**): por debajo de **20 ppm** el café resulta agresivamente agrio, y por encima de **90–100 ppm** los ácidos nobles desaparecen dejando un sabor plano y calcáreo.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Los bicarbonatos actúan como amortiguador natural (buffer) de los ácidos del café, dando una taza redonda y sedosa., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Close inspection angle highlighting materials, latches and finish: realistic scene illustrating 'Por Qué la Alcalinidad (KH / Bicarbonatos de 30–50 ppm) Evita que tu Espresso Sea Demasiado Ácido' (alcalinidad kh ideal del agua para espresso) for cafeteracompacta.com, featuring equipment in graphite gray with subtle amber indicator details, in a clean modern garage or studio corner with slate flooring, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué la Alcalinidad (KH / Bicarbonatos de 30–50 ppm) Evita que tu Espresso Sea Demasiado Ácido"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **alcalinidad kh ideal del agua para espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Los bicarbonatos actúan como amortiguador natural (buffer) de los ácidos del café, dando una taza redonda y sedosa."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Cafe En Grano Y Agua](/cafe-en-grano-y-agua/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Muchos baristas caseros en Estados Unidos y España instalan un sistema de ósmosis inversa o una jarra desmineralizadora total creyendo que un agua con **0 ppm** es el secreto definitivo contra la cal, y al preparar su primer espresso en una **Breville Bambino (BES450)** o una **De’Longhi Dedica Maestro Plus (EC950M)** se encuentran con un tiro agresivamente agrio, punzante y astringente que parece zumo de limón sin madurar. Aunque ajustes la molienda más fina o subas el PID a **94 °C**, la acidez sigue descontrolada porque al agua le falta su amortiguador químico: la **alcalinidad o dureza de carbonatos (KH)**, un parámetro distinto a la dureza general que desglosamos en nuestro [portal técnico sobre café en grano y química del agua](/cafe-en-grano-y-agua/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: alcalinidad kh ideal del agua para espresso"
+      "text": "Dureza General (GH) vs Alcalinidad (KH): La Diferencia entre Extraer Sabor y Amortiguar Ácidos"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **alcalinidad kh ideal del agua para espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "En química del agua para café, es vital no confundir dos mediciones que suelen expresarse en la misma unidad (**ppm de CaCO₃ equivalente**). Mientras la **Dureza General (GH)** mide los cationes de calcio y magnesio que *arrancan* los compuestos de sabor del grano molido, la **Alcalinidad (KH, o tampón de bicarbonatos HCO₃⁻)** mide la capacidad del agua para neutralizar protones libres (**H⁺**) procedentes de los ácidos orgánicos del café (cítrico, málico, fosfórico, acético y clorogénico) una vez que ya están en la taza. La **Specialty Coffee Association (SCA)** establece que el rango óptimo de alcalinidad **KH es de 30 a 50 ppm** (con **40 ppm** como centro de diana). Este equilibrio es especialmente crítico cuando extraes [granos de altura estricta SHG y SHB cultivados a más de 1.500 metros](/cafe-en-grano-y-agua/altitud-de-cultivo-shg-y-shb-por-que-los-granos-de-altura-son-mas-densos/) o disfrutas de [orígenes africanos de Etiopía y Kenia para beber solos](/cafe-en-grano-y-agua/mejores-origenes-de-cafe-para-beber-solo-o-americano-etiopia-y-kenia/), cuya riqueza natural en ácidos frutales necesita exactamente ese colchón de bicarbonatos para percibirse como acidez jugosa a mandarina o mora en lugar de vinagre corrosivo."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: alcalinidad kh ideal del agua para espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Nivel de Alcalinidad (KH como CaCO₃)",
+        "Concentración de Bicarbonato (HCO₃⁻)",
+        "Impacto Sensorial en el Espresso (pH en taza)",
+        "Efecto en Caldera / Thermoblock Compacto"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Los bicarbonatos actúan como amortiguador natural (buffer) de los ácidos del café, dando una taza redonda y sedosa.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Muy baja (< 15–20 ppm KH) — Ósmosis o destilada",
+          "< 18–24 mg/L de HCO₃⁻",
+          "Acidez punzante, agresiva y metálica; los ácidos orgánicos quedan sin amortiguar (pH < 4.8)",
+          "Cero incrustación de cal, pero riesgo de corrosión ácida en metales y fallos en sensores de nivel"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Rango Óptimo Barista SCA (30 a 50 ppm KH)",
+          "36 a 61 mg/L de HCO₃⁻",
+          "Acidez vibrante pero redonda y dulce; claridad compleja sin astringencia (pH ideal 4.9–5.2)",
+          "Estabilidad térmica total y mínima precipitación calcárea si el GH se mantiene en 50–80 ppm"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Moderada-Alta (60 a 80 ppm KH)",
+          "73 a 98 mg/L de HCO₃⁻",
+          "Atenúa la acidez frutal; perfil clásico italiano achocolatado para tuestes medios-oscuros",
+          "Inicio de formación de sarro al calentar a 125 °C en modo vapor; requiere descalcificación trimestral"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Excesiva (> 100 ppm KH) — Agua dura de grifo",
+          "> 122 mg/L de HCO₃⁻",
+          "Café plano, terroso, apagado y con gusto a tiza o cartón mojado (neutraliza todos los ácidos nobles)",
+          "Precipitación rápida de carbonato de calcio que obstruye el thermoblock y la válvula OPV"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre alcalinidad kh ideal del agua para espresso",
-      "text": "Los bicarbonatos actúan como amortiguador natural (buffer) de los ácidos del café, dando una taza redonda y sedosa. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Efecto sensorial y mecánico de distintos niveles de Alcalinidad (KH / Bicarbonatos) en el espresso"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar alcalinidad kh ideal del agua para espresso hoy mismo en tu cocina"
+      "text": "Qué Ocurre Cuando el KH Supera los 100 ppm: El Efecto Tiza y el Bloqueo de tu Caldera"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "callout",
+      "variant": "aviso",
+      "text": "En el extremo opuesto, si llenas el tanque de tu **CASABREWS CM5418** o **De’Longhi Dedica Arte (EC885M)** con agua de grifo o mineral que supere los **100 a 150 ppm de alcalinidad KH**, el exceso de iones bicarbonato (**HCO₃⁻**) neutraliza por completo los ácidos brillantes del café. El resultado químico es una taza plana, opaca, con textura calcárea y un retrogusto salobre o a papel horneado, por muy fresco que sea tu grano. Peor aún: al combinarse una alta alcalinidad KH con calcio a temperaturas de vapor (**125–130 °C**), el bicarbonato se descompone liberando gas CO₂ y precipitando costras sólidas de carbonato cálcico en los tubos capilares de la cafetera.",
+      "title": "Peligro por exceso de KH: Café con sabor a cartón y sarro acelerado a 125 °C"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo Medir y Ajustar la Alcalinidad KH del Agua de tu Cafetera en 3 Pasos"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Mide por separado GH y KH con gotas reactivas o tiras específicas de acuariofilia",
+          "text": "Ten en cuenta que la tira reactiva que viene en la caja de Breville o De’Longhi mide solo Dureza Total (GH). Para conocer tu amortiguador real, usa un kit de gotas de titulación KH (como API GH & KH Test Kit) o revisa en la etiqueta del agua embotellada el renglón Bicarbonatos (HCO₃⁻): divide los mg/L de bicarbonato entre 1.22 para obtener los ppm de alcalinidad KH."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Corrige el agua demasiado ácida o de ósmosis (< 15 ppm KH) con bicarbonato potásico",
+          "text": "Si usas agua de ósmosis o ZeroWater, disuelve exactamente 0.08 g (80 mg) de bicarbonato de potasio (KHCO₃) por cada litro de agua (método RPavlis) o mezcla un 25-30 % de agua de manantial moderada para situar el KH en 40 ppm sin introducir calcio incrustante."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Rebaja el agua con KH excesivo (> 90 ppm) antes de meterla al tanque",
+          "text": "Si el agua de tu grifo supera los 90-100 ppm de KH, utiliza un cartucho filtrante descarbonatador de intercambio iónico débil o córtala al 50 % con agua purificada de bajo residuo seco hasta bajar la lectura a la franja segura de 35 a 50 ppm."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con alcalinidad kh ideal del agua para espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Necesitas tiras reactivas de doble lectura (GH + KH), sobres remineralizadores o un filtro preciso para el tanque de tu cafetera compacta? Consulta a nuestro Asesor IA o revisa la disponibilidad en tiempo real en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre alcalinidad kh ideal del agua para espresso?",
-      "a": "Los bicarbonatos actúan como amortiguador natural (buffer) de los ácidos del café, dando una taza redonda y sedosa. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿La tira reactiva que viene en la caja de mi cafetera mide la alcalinidad KH?",
+      "a": "La tira reactiva de cuadraditos rojos o verdes incluida de fábrica con tu Breville Bambino o De’Longhi Dedica mide únicamente la Dureza General (GH, iones de calcio y magnesio) para programar la alerta de descalcificación, pero no mide la alcalinidad (KH / bicarbonatos). Para medir el KH necesitas tiras multiparámetro o reactivos líquidos de KH."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cómo convierto los mg/L de bicarbonatos de una botella de agua a ppm de alcalinidad KH?",
+      "a": "Los laboratorios europeos suelen reportar el ion bicarbonato directo (HCO₃⁻ en mg/L), mientras que el estándar estadounidense SCA expresa la alcalinidad como equivalente de carbonato de calcio (ppm de CaCO₃). Para convertir mg/L de HCO₃⁻ a ppm de alcalinidad KH (como CaCO₃), divide la cifra de bicarbonatos entre 1.22 (así, 49 mg/L de HCO₃⁻ equivalen a 40 ppm de KH)."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Debo cambiar el nivel de alcalinidad KH según el tipo de tueste del grano?",
+      "a": "Para orígenes de tueste claro o medio con alta acidez cítrica o málica (como un Etiopía lavado o un Kenia), un KH de 40 a 50 ppm amortigua el filo punzante y transforma la acidez en dulzor afrutado. Para tuestes oscuros italianos de baja acidez natural, basta con 25 a 35 ppm de KH para no apagar el café."
     }
   ],
   "related": [
-    "/cafe-en-grano-y-agua/",
-    "/cafe-en-grano-y-agua/como-revivir-una-bolsa-de-cafe-en-grano-que-lleva-abierta-un-mes/",
-    "/cafe-en-grano-y-agua/impacto-del-magnesio-y-el-calcio-del-agua-en-la-extraccion-del-cafe/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/cafe-en-grano-y-agua/que-agua-embotellada-de-estados-unidos-es-mejor-para-cafetera-espresso/",
+    "/cafe-en-grano-y-agua/tiras-reactivas-de-dureza-del-agua-como-leer-los-cuadraditos-rojos/",
+    "/cafe-en-grano-y-agua/mejores-origenes-de-cafe-para-beber-solo-o-americano-etiopia-y-kenia/",
+    "/cafe-en-grano-y-agua/altitud-de-cultivo-shg-y-shb-por-que-los-granos-de-altura-son-mas-densos/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-es-la-alcalinidad-kh-buffer-del-agua-y-como-controla-la-acidez.webp"
 }

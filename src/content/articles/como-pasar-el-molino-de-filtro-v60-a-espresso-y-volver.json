@@ -4,161 +4,130 @@
   "path": "/molinos-y-molienda/como-pasar-el-molino-de-filtro-v60-a-espresso-y-volver/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "usar mismo molino para espresso y filtro",
   "title": "Cómo Alternar Entre Café de Filtro (V60 / Prensa) y Espresso en el Mismo Molino sin Perder tu Punto",
-  "seoTitle": "Cómo Alternar Entre Café de Filtro (V60 / Prensa) y Espresso en el Mismo Molino sin Perder tu Punto | Guía Barista Compacta",
-  "metaDescription": "Cómo Alternar Entre Café de Filtro (V60 / Prensa) y Espresso en el Mismo Molino sin Perder tu Punto: Por qué debes purgar 1 gramo de café al volver de molienda gruesa (clic 28) a molienda de espresso (clic 14) con el motor girando. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Por qué debes purgar 1 gramo de café al volver de molienda gruesa (clic 28) a molienda de espresso (clic 14) con el motor girando.",
-  "quickAnswer": "Sobre usar mismo molino para espresso y filtro: Por qué debes purgar 1 gramo de café al volver de molienda gruesa (clic 28) a molienda de espresso (clic 14) con el motor girando. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Cómo Alternar Entre Café de Filtro (V60 / Prensa) y Espresso en el Mismo Molino sin Perder tu Punto | cafeteracompacta.com",
+  "metaDescription": "Guía práctica para usar el mismo molino para espresso y filtro V60 sin perder tu punto de calibración, evitando atascos y contaminación de molienda.",
+  "excerpt": "Protocolo técnico paso a paso para alternar entre extracciones a 9 bares y métodos de filtrado por gravedad en un único molino compacto sin desperdiciar café ni desajustar las muelas.",
+  "quickAnswer": "Para **usar el mismo molino para espresso y filtro** sin arruinar tus extracciones, necesitas un equipo con selector numerado de pasos definidos o dial externo reproducible, nunca un tornillo sinfín micrométrico. Al regresar de **V60 (750 micras)** a **espresso (250 micras)**, debes cerrar siempre el dial con el motor encendido para no aplastar fragmentos residuales entre las muelas y purgar **1 gramo** de grano para limpiar el conducto.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Por qué debes purgar 1 gramo de café al volver de molienda gruesa (clic 28) a molienda de espresso (clic 14) con el motor girando., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "High-angle 45-degree workbench/tabletop perspective on 28mm lens: realistic scene illustrating 'Cómo Alternar Entre Café de Filtro (V60 / Prensa) y Espresso en el Mismo Molino sin Perder tu Punto' (usar mismo molino para espresso y filtro) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, on a matte dark-gray technical mat with measuring tools nearby, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Alternar Entre Café de Filtro (V60 / Prensa) y Espresso en el Mismo Molino sin Perder tu Punto"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **usar mismo molino para espresso y filtro** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Por qué debes purgar 1 gramo de café al volver de molienda gruesa (clic 28) a molienda de espresso (clic 14) con el motor girando."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Tener un único molino compacto en la encimera para preparar un espresso denso a las ocho de la mañana en tu **Breville Bambino (BES450)** y un café filtrado limpio en **V60 o Prensa Francesa** a media mañana parece el plan ideal para ahorrar espacio, hasta que intentas regresar al punto de espresso al día siguiente. Pones el selector exactamente en la marca donde ayer extrajiste **36 gramos en 27 segundos**, pero hoy el tiro se desboca en **16 segundos** o el motor emite un crujido seco al girar el dial. Alternar métodos con éxito requiere elegir la mecánica de ajuste correcta dentro de nuestro [hub de molinos y molienda](/molinos-y-molienda/) y aplicar un protocolo de transición que elimine la holgura de rosca y la contaminación cruzada."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: usar mismo molino para espresso y filtro"
+      "text": "El Problema de los 500 Micrones: Retención Cruzada y Holgura Mecánica (Backlash)"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **usar mismo molino para espresso y filtro** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Un espresso despresurizado trabaja con partículas de **200 a 350 micras**, mientras que un cono **Hario V60** pide entre **650 y 800 micras** y una **Prensa Francesa** supera las **950 micras**. Cuando pasas de espresso a V60 sin purgar, el primer gramo que cae al filtro de papel arrastra miles de micro-finos (`fines`) de espresso retenidos en el conducto, los cuales taponan los poros de celulosa y estancan el goteo por encima de los **4 minutos**. Al hacer el camino inverso —volver de filtro a espresso—, ocurre lo peor: fragmentos gruesos de **800 micras** quedan atrapados entre las muelas; si cierras el dial en seco, aplastas esos trozos contra el acero, falseas el paralelismo del portamuelas e incluso puedes [provocar un atasco mecánico con tuestes claros](/molinos-y-molienda/como-desatascar-un-molino-de-espresso-bloqueado-por-tueste-claro/). Por ello, molinos con dial externo reproducible como los analizados en la [guía de rotaciones del 1Zpresso J-Ultra](/molinos-y-molienda/ajuste-molino-manual-1zpresso-j-ultra-y-jx-pro/) superan ampliamente a los sistemas de tornillo sinfín micrométrico cuando cambias de método a diario."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: usar mismo molino para espresso y filtro",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Molino Compacto",
+        "Sistema de Ajuste",
+        "Facilidad para Volver al Punto Exacto",
+        "Purga Necesaria al Cambiar de Método"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Por qué debes purgar 1 gramo de café al volver de molienda gruesa (clic 28) a molienda de espresso (clic 14) con el motor girando.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Baratza Encore ESP",
+          "40 pasos (1–20 micro espresso / 21–40 macro filtro)",
+          "Excelente: clic numerado directo y repetible",
+          "0.5 g – 0.8 g (o 3 bombeos con fuelle)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Fellow Opus",
+          "41 pasos con anillo interno Bevel de micro-ajuste",
+          "Muy buena: escala clara de 1 a 11 con sub-clics",
+          "0.5 g – 0.7 g tras dar palmadas a la tapa"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "KINGrinder K6 / 1Zpresso J-Ultra",
+          "Anillo numérico externo por rotaciones y clics",
+          "Instantánea: cero retención y retorno exacto al clic",
+          "0.0 g (basta cepillar la salida inferior)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "DF54 Single Dose",
+          "Dial continuo superior con aguja indicadora grande",
+          "Alta: lectura visual directa de 0 a 90 con fuelle",
+          "0.2 g tras bombear el fuelle en vacío"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Eureka Mignon Silenzio",
+          "Rueda micrométrica pequeña de múltiples vueltas",
+          "Baja: fácil perder la cuenta de vueltas sin dial grande",
+          "1.2 g – 1.8 g si no cuenta con fuelle Single Dose"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre usar mismo molino para espresso y filtro",
-      "text": "Por qué debes purgar 1 gramo de café al volver de molienda gruesa (clic 28) a molienda de espresso (clic 14) con el motor girando. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Aptitud de los principales molinos compactos para alternar a diario entre Espresso y Filtro (V60 / AeroPress / Prensa)"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar usar mismo molino para espresso y filtro hoy mismo en tu cocina"
+      "text": "Por Qué el Diseño de Doble Resolución del Baratza Encore ESP Evita Perder tu Calibración"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "La razón por la que los molinos tradicionales fracasan en el uso mixto es que una rosca lineal uniforme es demasiado sensible para filtro o demasiado tosca para espresso. El **Baratza Encore ESP** resuelve esta paradoja mediante una leva de geometría variable: del **clic 1 al 20**, cada paso mueve la muela apenas **20 micras** en vertical para ajustar con precisión quirúrgica una **CASABREWS CM5418** o **Breville Bambino**; pero al cruzar del **clic 21 al 40**, la rampa cambia de pendiente y cada paso abre **90 micras**, permitiéndote saltar a **AeroPress (clic 24)**, **V60 (clic 28)** o **Prensa Francesa (clic 34)** en un solo giro de muñeca y regresar a tu **clic 14 de espresso** sin incertidumbre.",
+      "title": "Ingeniería de rampa dual: micro-pasos para 9 bares y macro-pasos para gravedad"
+    },
+    {
+      "type": "h2",
+      "text": "Protocolo de 3 Pasos para Regresar de Filtro (V60) a Espresso sin Atascar las Muelas"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Vacía por completo la tolva y bombea antes de mover el selector",
+          "text": "Trabaja siempre por dosis individuales (*Single Dose*) al alternar métodos; asegúrate de que no quede ni un grano entero dentro de la cámara antes de girar la rueda de ajuste."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Cierra siempre de grueso a fino con el motor encendido",
+          "text": "Si estás en el **punto 28 (V60)** y quieres bajar al **punto 14 (espresso)** en tu molino eléctrico, pulsa primero el botón de encendido y gira el anillo hacia el lado fino mientras las muelas rotan, triturando cualquier resto atrapado sin forzar el soporte."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Purga 1 gramo de café en grano al nuevo grosor antes de tu dosis real",
+          "text": "Echa **4 o 5 granos sueltos (aprox. 0.8 – 1.0 g)**, muélelos en tu ajuste de espresso y descártalos; esto barre las partículas gigantes de filtro del túnel de salida y asienta la rosca en su posición mecánica real bajo carga."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con usar mismo molino para espresso y filtro en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Necesitas un molino versátil con pasos numerados que rinda igual de bien en tu cafetera espresso y en tu V60? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre usar mismo molino para espresso y filtro?",
-      "a": "Por qué debes purgar 1 gramo de café al volver de molienda gruesa (clic 28) a molienda de espresso (clic 14) con el motor girando. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿También debo encender el motor cuando abro el molino de espresso a V60?",
+      "a": "No. Al abrir de fino (espresso) a grueso (filtro) las muelas se están separando entre sí, por lo que no existe riesgo de aplastar fragmentos de grano contra el acero; puedes abrir el dial perfectamente con el molino apagado."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Es mejor tener un segundo molino manual solo para café de filtro?",
+      "a": "Si cambias entre espresso y V60 todos los días, la solución más limpia y económica es dejar tu molino eléctrico fijo en el punto exacto de espresso y adquirir un molino manual rápido como el **KINGrinder K6** exclusivamente para filtro (muele **15 g para V60 en solo 18 segundos**)."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué al volver al mismo número de espresso el café sale unos segundos más rápido?",
+      "a": "Eso ocurre por la holgura de rosca (*backlash*): al bajar desde un punto muy abierto hasta un punto fino, la muela superior queda ligeramente más alta que cuando subes desde el cero. Para clavarlo, baja un clic más fino de tu marca y regresa un clic hacia arriba hasta tu número objetivo."
     }
   ],
   "related": [
-    "/molinos-y-molienda/",
-    "/molinos-y-molienda/efecto-de-la-humedad-ambiental-en-la-molienda-del-espresso/",
-    "/molinos-y-molienda/molienda-para-cestas-de-1-taza-single-shot-vs-2-tazas-double/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/ajuste-molino-manual-1zpresso-j-ultra-y-jx-pro/",
+    "/molinos-y-molienda/por-que-hay-que-cerrar-el-molino-cuando-el-cafe-envejece/",
+    "/molinos-y-molienda/como-desatascar-un-molino-de-espresso-bloqueado-por-tueste-claro/",
+    "/molinos-y-molienda/temperatura-de-las-muelas-afecta-moler-varios-cafes-seguidos/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-pasar-el-molino-de-filtro-v60-a-espresso-y-volver.webp"
 }

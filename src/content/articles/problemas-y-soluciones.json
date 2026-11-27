@@ -3,159 +3,124 @@
   "pillar": "problemas-y-soluciones",
   "path": "/problemas-y-soluciones/",
   "isPillar": true,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "problemas comunes cafetera espresso y soluciones",
   "title": "Problemas y Errores en Cafeteras Espresso Compactas: Guía de Solución",
-  "seoTitle": "Problemas Comunes en Cafeteras Espresso Compactas y Cómo Solucionarlos",
-  "metaDescription": "Problemas y Errores en Cafeteras Espresso Compactas: Guía de Solución: hub completo con 60 guías sobre diagnóstico rápido cuando el manómetro no sube de presión o marca sobrepresión, luces parpadeantes en Breville Bambino y De’Longhi Dedica, fugas en el portafiltro o falta de vapor y ofertas en Amazon EE. UU. y España.",
-  "excerpt": "Explora las 60 guías especializadas de este silo sobre diagnóstico rápido cuando el manómetro no sube de presión o marca sobrepresión, luces parpadeantes en Breville Bambino y De’Longhi Dedica, fugas en el portafiltro o falta de vapor.",
-  "quickAnswer": "En esta sección principal de Problemas y Errores en Cafeteras Espresso Compactas reunimos 60 guías verificadas sobre diagnóstico rápido cuando el manómetro no sube de presión o marca sobrepresión, luces parpadeantes en Breville Bambino y De’Longhi Dedica, fugas en el portafiltro o falta de vapor, diseñadas para ayudarte a comprar, calibrar y mantener tu cafetera espresso compacta y sus accesorios compatibles en Amazon.",
-  "readingMinutes": 8,
+  "seoTitle": "Problemas y Errores en Cafeteras Espresso Compactas: Guía de Solución | cafeteracompacta.com",
+  "metaDescription": "Soluciona los fallos más frecuentes en cafeteras espresso compactas: bloqueo de presión, canalización, luces de alerta y purga de vapor paso a paso.",
+  "excerpt": "Manual de diagnóstico técnico para cafeteras de 15 cm: aprende a corregir extracciones asimétricas, alertas térmicas en bloques Thermoblock y pérdidas de presión en cestas de 51 y 54 mm.",
+  "quickAnswer": "La mayoría de los problemas comunes en una cafetera espresso compacta provienen de tres factores físicos: una molienda mal calibrada que ahoga la bomba de **15 a 20 bares**, bolsas de aire atrapadas en el circuito **Thermoblock** o saturación térmica tras vaporizar leche. Corregir la dosis entre **14 y 18 gramos**, purgar el grupo durante **5 segundos** y descalcificar cada **60 días** resuelve el **90 %** de las incidencias domésticas.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Close-up of the pressure gauge on a brushed stainless steel compact espresso machine pointing to the optimal espresso zone while brewing coffee, warm indoor light",
-    "alt": "Manómetro frontal de una cafetera espresso compacta marcando la presión de extracción"
+    "prompt": "Close-up ergonomic grip and control panel perspective in crisp daylight: realistic scene illustrating 'Problemas y Errores en Cafeteras Espresso Compactas: Guía de Solución' (problemas comunes cafetera espresso y soluciones) for cafeteracompacta.com, featuring equipment in terracotta copper accent with matte slate body, in a bright family home interior with clean architectural lines, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
+    "alt": "Problemas y Errores en Cafeteras Espresso Compactas: Guía de Solución"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Bienvenido al hub central de **Problemas y Errores en Cafeteras Espresso Compactas: Guía de Solución** en **CafeteraCompacta.com**. Aquí reunimos toda la ingeniería barista, pruebas de extracción y criterios de compra sobre **diagnóstico rápido cuando el manómetro no sube de presión o marca sobrepresión, luces parpadeantes en Breville Bambino y De’Longhi Dedica, fugas en el portafiltro o falta de vapor**, organizados bajo una arquitectura sin canibalización para que encuentres el modelo o accesorio compatible exacto antes de comprar en Amazon Estados Unidos (`amazon.com`) o España (`amazon.es`)."
-    },
-    {
-      "type": "p",
-      "text": "Tanto si buscas tu primera cafetera espresso por menos de $150 como la **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, un diseño italiano ultra-delgado de 15 cm con lanceta profesional como la **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)** o el estándar de cafetería en 3 segundos con la **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, dominar las medidas y parámetros de este silo multiplicará la calidad de tus cafés cada mañana."
+      "text": "Estrenas una **CASABREWS CM5418** o una **De’Longhi Dedica Arte (EC885M)**, cargas el portafiltro con ilusión y ocurre uno de estos dos extremos: la aguja del manómetro se clava en la zona de sobrepresión sin que caiga una sola gota, o un chorro acuoso inunda la taza en apenas **8 segundos** sin rastro de crema avellana. En máquinas domésticas de **15 cm de ancho**, la columna de café dentro de cestas de **51 mm** o **54 mm** es más estrecha y profunda que en los grupos comerciales de **58 mm**, lo que amplifica cualquier desviación en la granulometría o en la temperatura del circuito, además de hacer evidentes detalles iniciales como el [sabor a quemado o goma en una cafetera espresso recién comprada](/problemas-y-soluciones/sabor-a-quemado-o-goma-en-una-cafetera-espresso-recien-comprada/) si no se purga el depósito antes del primer disparo."
     },
     {
       "type": "h2",
-      "text": "Criterios técnicos en Problemas y Errores en Cafeteras Espresso Compactas"
+      "text": "Diagnóstico hidráulico en portafiltros de 51 mm y 54 mm: ahogo vs. canalización"
     },
     {
       "type": "p",
-      "text": "En cada una de las **60 guías especializadas** de esta categoría evaluamos cifras reales y verificables: ancho en centímetros y pulgadas para encimeras pequeñas, diámetro y número de orejas del portafiltro (**51 mm**, **54 mm** y **58 mm**), estabilidad térmica PID (93 °C), regulación de presión a 9 bares reales mediante válvula OPV y potencia de vaporización para Latte Art."
+      "text": "Cuando pasas de las cestas presurizadas de doble pared a un filtro no presurizado (Single Wall), la propia cama de café molido ofrece el **100 % de la resistencia hidráulica** frente a la bomba vibratoria de **15 o 20 bares**. Si mueles demasiado fino o excedes los **16 gramos** en un cesto de **51 mm**, el disco se compacta contra la ducha del grupo e impide el paso del agua; por el contrario, si dejas grumos sin distribuir o compactas torcido, el agua a presión perfora grietas de menor resistencia y provoca que [el café salga solo por uno de los dos picos del portafiltro](/problemas-y-soluciones/el-cafe-sale-solo-por-uno-de-los-dos-picos-del-portafiltro/). Asimismo, en modelos dotados de válvula solenoide de 3 vías como la **Breville Bambino Plus (BES500)**, es un comportamiento de diseño normal notar que [sale mucho agua a la bandeja de goteo después de cada café](/problemas-y-soluciones/sale-mucho-agua-a-la-bandeja-de-goteo-despues-de-cada-cafe/) para descomprimir la pastilla a **0 bares** al finalizar el ciclo."
     },
     {
       "type": "table",
-      "caption": "Índice destacado de guías en Problemas y Errores en Cafeteras Espresso Compactas",
       "headers": [
-        "Guía Barista Especializada",
-        "Acceso Directo"
+        "Síntoma observado",
+        "Causa mecánica o hidráulica",
+        "Solución técnica inmediata"
       ],
       "rows": [
         [
-          "Por Qué la Aguja del Manómetro de la CASABREWS CM5418 No Sube a la Zona Espresso (5 Causas y Solución)",
-          "[Ver guía completa](/problemas-y-soluciones/manometro-casabrews-cm5418-no-sube-de-presion-causas-y-solucion/)"
+          "La bomba suena fuerte pero no sale agua ni con el portafiltro quitado",
+          "Bolsa de aire atrapada en la bomba Ulka (vapor lock) tras vaciarse el tanque",
+          "Llenar el depósito al máximo y abrir la perilla de agua caliente por la lanceta durante 15 segundos para cebar el circuito"
         ],
         [
-          "Qué Hacer si el Manómetro de la CASABREWS CM5418 Pasa a la Zona Roja (Over-Pressure) y Solo Gotea",
-          "[Ver guía completa](/problemas-y-soluciones/manometro-casabrews-marca-sobrepresion-y-no-sale-cafe/)"
+          "Goteo negro lento o bloqueo total con manómetro al máximo",
+          "Molienda excesivamente fina o sobrecarga superior a 16 g en 51 mm / 19 g en 54 mm",
+          "Engrosar 2 puntos el molino y dejar 2 mm de cámara libre entre el café compactado y la ducha del grupo"
         ],
         [
-          "Qué Significa cuando Parpadean las 2 Luces en la Breville Bambino (Tabla de Todos los Códigos LED)",
-          "[Ver guía completa](/problemas-y-soluciones/breville-bambino-dos-luces-parpadeando-alternativamente-o-fijas/)"
+          "Extracción rápida en menos de 12 segundos con crema pálida y espuma grande",
+          "Café premolido grueso en cesta no presurizada o grano envejecido sin CO₂",
+          "Cambiar a la cesta presurizada (doble pared) o ajustar el molino hacia el rango fino hasta lograr un ratio 1:2 en 25–30 segundos"
         ],
         [
-          "Cómo Quitar la Luz Naranja/Roja del Botón de Vapor en la De’Longhi Dedica Arte (EC885M y EC685M)",
-          "[Ver guía completa](/problemas-y-soluciones/delonghi-dedica-arte-luz-naranja-o-roja-parpadeando-en-boton-vapor/)"
-        ],
-        [
-          "Por Qué Sale Agua por Fuera del Borde del Portafiltro al Extraer y Cómo Solucionarlo",
-          "[Ver guía completa](/problemas-y-soluciones/cafetera-espresso-gotea-agua-por-los-lados-del-portafiltro/)"
-        ],
-        [
-          "La Cafetera Hace Ruido de Bomba pero No Sale Nada de Agua: Cómo Eliminar una Burbuja de Aire (Airlock)",
-          "[Ver guía completa](/problemas-y-soluciones/la-bomba-hace-ruido-fuerte-pero-no-sale-agua-como-cebar-airlock/)"
-        ],
-        [
-          "Por Qué Queda un Charquito de Agua Encima de la Pastilla de Café (Soupy Puck) y Cómo Evitarlo",
-          "[Ver guía completa](/problemas-y-soluciones/pastilla-de-cafe-aguada-o-con-charco-de-agua-encima-es-un-defecto/)"
-        ],
-        [
-          "Solución si el Vaporizador de tu Cafetera Compacta Pierde Presión o Solo Saca Agua Caliente",
-          "[Ver guía completa](/problemas-y-soluciones/la-lanceta-de-vapor-no-tiene-fuerza-o-solo-escupe-agua-caliente/)"
-        ],
-        [
-          "5 Motivos por los que tu Espresso Sale Tibio en Vez de Caliente (y Cómo Ganar +10 °C en Taza)",
-          "[Ver guía completa](/problemas-y-soluciones/el-espresso-sale-frio-o-tibio-en-mi-cafetera-compacta/)"
-        ],
-        [
-          "Es Normal que el Portafiltro Nuevo No Llegue al Centro (Posición 90 Grados): Cuánto Apretarlo",
-          "[Ver guía completa](/problemas-y-soluciones/el-portafiltro-esta-muy-duro-y-no-gira-hasta-el-centro/)"
-        ],
-        [
-          "Por Qué el Filtro Metálico Se Queda Pegado Arriba en la Cafetera al Desenroscar el Portafiltro",
-          "[Ver guía completa](/problemas-y-soluciones/la-cesta-se-queda-pegada-a-la-ducha-del-grupo-al-quitar-el-portafiltro/)"
-        ],
-        [
-          "Por Qué el Espresso Cae Solo por el Pico Izquierdo o Derecho del Portafiltro Doble",
-          "[Ver guía completa](/problemas-y-soluciones/el-cafe-sale-solo-por-uno-de-los-dos-picos-del-portafiltro/)"
+          "La lanceta de vapor escupe chorros de agua intermitentes sin fuerza",
+          "Boquilla obstruida por caseína seca o acumulación de carbonato cálcico en el Thermoblock",
+          "Desenroscar la punta metálica, sumergirla 15 minutos en agua tibia y pasar la aguja desatascadora de 0.8 mm por el orificio central"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "etiqueta",
-      "title": "Compatibilidad milimétrica verificada (51 mm vs 54 mm vs 58 mm)",
-      "text": "Antes de pedir un portafiltro Bottomless, tamper calibrado o Puck Screen en Amazon, verifica siempre la medida de tu grupo: la CASABREWS CM5418 y la De’Longhi Dedica Arte usan 51 mm (3 orejas); la De’Longhi Stilosa usa 51 mm (2 orejas); la Breville Bambino usa 54 mm (tamper 53.3 mm); y la Gaggia Classic Evo Pro o HiBREW H10A usan 58 mm."
+      ],
+      "caption": "Matriz de diagnóstico técnico para fallos frecuentes en cafeteras espresso compactas"
     },
     {
       "type": "h2",
-      "text": "Cómo aprovechar nuestras comparativas y enlaces de Amazon"
+      "text": "Alertas electrónicas de temperatura y protección del bloque Thermoblock"
     },
     {
-      "type": "ol",
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Los calentadores instantáneos **Thermoblock** y **ThermoJet** utilizan un único conducto para extraer café a **92–93 °C** y generar vapor a **130–135 °C**. Si acabas de espumar leche para un capuchino e intentas preparar otro espresso de inmediato, el termistor **NTC** detectará exceso térmico y bloqueará la extracción para no carbonizar los aceites del café; por eso verás que en la [CASABREWS CM5418 parpadean todos los botones al mismo tiempo](/problemas-y-soluciones/casabrews-cm5418-parpadean-todos-los-botones-al-mismo-tiempo/). Para destrabar la máquina en menos de **10 segundos**, coloca una jarra vacía bajo la lanceta, abre la válvula de vapor/agua caliente para evacuar el vapor remanente hasta que salga un chorro continuo de agua líquida y cierra el mando: las luces quedarán fijas al instante.",
+      "title": "Cómo destrabar la alerta de sobrecalentamiento tras vaporizar leche"
+    },
+    {
+      "type": "h2",
+      "text": "Protocolo de mantenimiento preventivo en 4 pasos para evitar averías"
+    },
+    {
+      "type": "steps",
       "items": [
-        "**Mide el hueco de tu cocina:** las cafeteras ultra-compactas de 15 cm caben en cualquier rincón; recuerda dejar 10 cm a la derecha para mover la lanceta de vapor con comodidad.",
-        "**Elige el molino y accesorios de tu diámetro exacto:** combinar tu cafetera con un molino de muelas para espresso (como el [Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/) o el [Fellow Opus](/resenas-cafeteras/fellow-opus-conical-burr-grinder/)) y una báscula mini de 0.1 g transforma por completo la crema en taza.",
-        "**Consulta el precio y ofertas en tu tienda Amazon:** nuestras tarjetas están optimizadas por defecto para **Amazon Estados Unidos (`cafeteracompacta-20`)** y detectan automáticamente si navegas desde **España (`cafeteracompacta-21`)**."
+        {
+          "name": "Purga térmica de 5 segundos antes de encajar el brazo",
+          "text": "Pulsa el botón de 1 taza sin el portafiltro puesto para expulsar restos de café viejo de la ducha, atemperar el grupo y verificar que el agua caiga en forma de lluvia simétrica."
+        },
+        {
+          "name": "Distribución con agujas WDT y nivelado a 90 grados",
+          "text": "Rompe los terrones del café molido con una herramienta de agujas de 0.4 mm y aplica presión vertical firme con un tamper calibrado de 51 mm o 53.3 mm según tu modelo."
+        },
+        {
+          "name": "Purga y paño húmedo inmediato en la lanceta de vapor",
+          "text": "Al terminar de espumar leche, limpia el tubo de acero inoxidable con una microfibra húmeda antes de que la proteína se adhiera y abre el vapor 2 segundos para expulsar residuos por succión."
+        },
+        {
+          "name": "Descalcificación cada 60 días con solución de ácido láctico o cítrico",
+          "text": "Ejecuta un ciclo completo de descalcificación con 1 litro de agua filtrada y descalcificador específico para evitar que el sarro reduzca el diámetro interno del tubo calefactor."
+        }
       ]
     },
     {
       "type": "cta",
-      "text": "¿No estás seguro de qué cafetera, molino o accesorio de este silo elegir? Pregúntale en vivo a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Las 5 reglas de oro del barismo compacto en casa"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Ratio 1:2 en 25 a 30 segundos:** pesa 16 a 18 gramos de café en seco y detén la extracción cuando la báscula mini marque 32 a 36 gramos de espresso líquido.",
-        "**Purga de calentamiento ('Blank Shot'):** pasa siempre 4 segundos de agua caliente por el portafiltro vacío antes de poner el café para que el metal alcance los 90 °C.",
-        "**Distribución WDT + Prensado nivelado:** rompe los grumos con agujas de 0.3 mm y prensa recto con un tamper calibrado para eliminar el channeling.",
-        "**Descalcificación cada 60–90 días:** utiliza ácido láctico (De’Longhi EcoDecalk o Urnex Dezcal) y nunca vinagre blanco para proteger el Thermoblock."
-      ]
+      "text": "¿Tu cafetera compacta presenta un síntoma específico que no has logrado resolver? Consulta ahora a nuestro Asesor IA interactivo indicando el modelo exacto y el patrón de luces, o revisa en las tarjetas de Amazon integradas en esta guía la disponibilidad de repuestos, filtros de resina y descalcificadores compatibles."
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué guías incluye la sección de Problemas y Errores en Cafeteras Espresso Compactas?",
-      "a": "Incluye 60 artículos técnicos detallados sobre diagnóstico rápido cuando el manómetro no sube de presión o marca sobrepresión, luces parpadeantes en Breville Bambino y De’Longhi Dedica, fugas en el portafiltro o falta de vapor, con tablas de medidas, parámetros de extracción y enlaces directos a los productos compatibles en Amazon Estados Unidos y España."
+      "q": "¿Por qué gotea agua limpia o café por los bordes exteriores del portafiltro durante la extracción?",
+      "a": "Ocurre porque el borde superior del portafiltro tiene granos de café sueltos que impiden un sellado hermético o porque la junta de silicona del grupo está reseca o deformada. Limpia siempre el aro de la cesta con el dedo antes de encajar el brazo y sustituye la junta elastomérica cada 12 a 18 meses."
     },
     {
-      "q": "¿Todas las recomendaciones son compatibles con cocinas pequeñas?",
-      "a": "Sí, en CafeteraCompacta.com nos especializamos exclusivamente en cafeteras espresso de huella reducida (14 a 23 cm de ancho), molinos compactos Single Dose y básculas mini de 10×10 cm."
+      "q": "¿Qué significa cuando la luz de vapor o de limpieza cambia de color o parpadea de forma fija?",
+      "a": "Significa que la máquina ha alcanzado el contador interno de ciclos (habitualmente cada 150 o 200 cafés en modelos como Breville Bambino o De’Longhi Dedica) y solicita ejecutar la rutina oficial de descalcificación. Aunque elimines la cal físicamente, debes completar la secuencia de botones del manual para reiniciar el contador electrónico."
     },
     {
-      "q": "¿Puedo pedir una recomendación personalizada según mi presupuesto?",
-      "a": "Por supuesto: abre el widget del Barista IA en la esquina inferior derecha, indícale tu presupuesto en dólares o euros y te armará el combo exacto en Amazon."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Espresso Standards",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Coffee Quality Institute – Barista & Extraction Science",
-      "url": "https://www.coffeeinstitute.org/"
+      "q": "¿Es un defecto que la pastilla de café quede húmeda o con una capa de agua encima al sacar el brazo?",
+      "a": "En cafeteras sin válvula solenoide de 3 vías (como la CASABREWS CM5418, la De’Longhi Dedica Arte EC885M o la Breville Bambino BES450), la presión de agua remanente queda sobre la cama de café al detenerse la bomba. Espera de 10 a 15 segundos antes de desenroscar el portafiltro para que el líquido drene y la pastilla se asiente."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/manometro-casabrews-cm5418-no-sube-de-presion-causas-y-solucion/",
-    "/problemas-y-soluciones/manometro-casabrews-marca-sobrepresion-y-no-sale-cafe/",
-    "/problemas-y-soluciones/breville-bambino-dos-luces-parpadeando-alternativamente-o-fijas/",
-    "/problemas-y-soluciones/delonghi-dedica-arte-luz-naranja-o-roja-parpadeando-en-boton-vapor/"
+    "/problemas-y-soluciones/el-cafe-sale-solo-por-uno-de-los-dos-picos-del-portafiltro/",
+    "/problemas-y-soluciones/casabrews-cm5418-parpadean-todos-los-botones-al-mismo-tiempo/",
+    "/problemas-y-soluciones/sale-mucho-agua-a-la-bandeja-de-goteo-despues-de-cada-cafe/",
+    "/problemas-y-soluciones/sabor-a-quemado-o-goma-en-una-cafetera-espresso-recien-comprada/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/problemas-y-soluciones.webp"
 }

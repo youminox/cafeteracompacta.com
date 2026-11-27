@@ -3,162 +3,125 @@
   "pillar": "ciencia-y-tecnologia-espresso",
   "path": "/ciencia-y-tecnologia-espresso/termodinamica-del-vapor-seco-vs-vapor-humedo-en-cafeteras-compactas/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "diferencia vapor seco y vapor humedo cafetera espresso",
   "title": "Vapor Seco vs Vapor Húmedo: Cómo Logra un Thermoblock de 1350W Vaporizar Leche sin Aguarla",
-  "seoTitle": "Vapor Seco vs Vapor Húmedo | Guía Barista Compacta",
-  "metaDescription": "Vapor Seco vs Vapor Húmedo: Cómo Logra un Thermoblock de 1350W Vaporizar Leche sin Aguarla: Al elevar el bloque a 135–140 °C y bombear agua en pulsos intermitentes, el agua flashea instantáneamente a gas con mínima humedad líquida. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Al elevar el bloque a 135–140 °C y bombear agua en pulsos intermitentes, el agua flashea instantáneamente a gas con mínima humedad líquida.",
-  "quickAnswer": "Sobre diferencia vapor seco y vapor humedo cafetera espresso: Al elevar el bloque a 135–140 °C y bombear agua en pulsos intermitentes, el agua flashea instantáneamente a gas con mínima humedad líquida. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Vapor Seco vs Vapor Húmedo: Cómo Logra un Thermoblock de 1350W Vaporizar Leche sin Aguarla | cafeteracompacta.com",
+  "metaDescription": "Conoce la diferencia entre vapor seco y vapor húmedo en una cafetera espresso compacta y cómo un Thermoblock de 1350 W texturiza leche sin aguarla.",
+  "excerpt": "Termodinámica aplicada al latte art en casa: entalpía de vaporización, título de vapor en sistemas Thermoblock y ThermoJet, y maniobras de purga para lograr microespuma sedosa a 60 °C sin dilución.",
+  "quickAnswer": "El **vapor seco** posee un título termodinámico superior al **94 % de fase gaseosa** (**135–145 °C**), lo que permite calentar y emulsionar la leche transfiriendo **calor latente de condensación** con apenas un **6 % a 8 %** de agua añadida. El **vapor húmedo** contiene microgotas líquidas en suspensión que diluyen la lactosa en más de un **15 %**, aguando el capuchino e impidiendo formar microespuma elástica para latte art.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Al elevar el bloque a 135–140 °C y bombear agua en pulsos intermitentes, el agua flashea instantáneamente a gas con mínima humedad líquida., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Top-down flat-lay knolling arrangement with accessories: realistic scene illustrating 'Vapor Seco vs Vapor Húmedo: Cómo Logra un Thermoblock de 1350W Vaporizar Leche sin Aguarla' (diferencia vapor seco y vapor humedo cafetera espresso) for cafeteracompacta.com, featuring equipment in warm sand beige with matte black hardware, on a solid oak workbench in a tidy modern home space, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Vapor Seco vs Vapor Húmedo: Cómo Logra un Thermoblock de 1350W Vaporizar Leche sin Aguarla"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **diferencia vapor seco y vapor humedo cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Al elevar el bloque a 135–140 °C y bombear agua en pulsos intermitentes, el agua flashea instantáneamente a gas con mínima humedad líquida."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Ciencia Y Tecnologia Espresso](/ciencia-y-tecnologia-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Sacas la leche entera de la nevera a **4 °C**, abres la válvula de vapor de tu cafetera compacta y, treinta segundos después, en lugar de una pintura sedosa y brillante para dibujar una rosetta, tienes en la jarra una leche tibia, líquida y aguada coronada por un centímetro de espuma jabonosa llena de burbujas grandes. La causa rara vez es tu pulso con la jarra, sino la **calidad termodinámica o título del vapor**: si el bloque calefactor inyecta un aerosol cargado de gotas de agua líquida en vez de gas sobrecalentado, diluye la lactosa y rompe las proteínas lácteas. Dominar esta transición de fase es un pilar dentro del [hub de ciencia y tecnología del espresso](/ciencia-y-tecnologia-espresso/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: diferencia vapor seco y vapor humedo cafetera espresso"
+      "text": "Título de Vapor (x) y Calor Latente: Por Qué un 5 % de Agua Líquida Arruina la Microespuma"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **diferencia vapor seco y vapor humedo cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "En termodinámica, el **título de vapor (`x`)** mide la fracción de masa que se encuentra en estado puramente gaseoso dentro de una mezcla agua-vapor. Un **vapor seco saturado (`x = 0.95 a 0.99`)** generado a **135–145 °C** transfiere a la leche su enorme **calor latente de vaporización (2257 kJ/kg)** al condensarse, elevando **150 ml de leche** desde **4 °C hasta 60 °C** añadiendo apenas entre **8 y 11 gramos** de agua total (un **6 % a 7 %** de incremento de masa). En cambio, un **vapor húmedo (`x < 0.80`)** arrastra microgotas de agua líquida a **100 °C** que ya han perdido su calor latente: para calentar la misma jarra necesitas inyectar mucha más masa, aguando la leche en más de un **18 %** e impidiendo que las proteínas **β-lactoglobulina** estabilicen el aire que introduces según los términos de nuestro [glosario técnico barista](/ciencia-y-tecnologia-espresso/glosario-barista-en-espanol-e-ingles-50-terminos-explicados-para-principiantes/). En máquinas compactas de **1350 W a 1560 W** como la **CASABREWS CM5418**, la **De’Longhi Dedica Arte (EC885M)** o la **Breville Bambino (BES450)**, lograr vapor seco depende de cómo el [control térmico electrónico PID](/ciencia-y-tecnologia-espresso/que-es-el-control-pid-en-una-cafetera-espresso-y-por-que-importa-un-grado/) coordina los pulsos de la bomba con la potencia de la resistencia."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: diferencia vapor seco y vapor humedo cafetera espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Sistema y Modelo de Referencia",
+        "Potencia / Temperatura de Vapor",
+        "Título de Vapor Estimado (x)",
+        "Tiempo para 150 ml (4 °C a 60 °C) y Dilución"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Al elevar el bloque a 135–140 °C y bombear agua en pulsos intermitentes, el agua flashea instantáneamente a gas con mínima humedad líquida.",
-          "Mejora la consistencia y evita errores de extracción"
+          "ThermoJet + Sensor MilQ (Breville Bambino Plus BES500)",
+          "1560 W / ~140 °C con boquilla de 4 orificios",
+          "Vapor muy seco (x ≈ 0.96)",
+          "22 – 28 segundos / Dilución mínima (~6 % – 7 %)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "ThermoJet Manual (Breville Bambino BES450)",
+          "1560 W / ~138 °C con boquilla de 1 orificio",
+          "Vapor seco constante (x ≈ 0.94)",
+          "30 – 38 segundos / Textura microespuma elástica (~7.5 %)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Thermoblock + Lanceta MyLatte Art (De’Longhi Dedica Arte EC885M)",
+          "1300 – 1350 W / ~135 °C con 1 orificio sin panarello",
+          "Vapor seco-medio tras purga (x ≈ 0.91)",
+          "38 – 45 segundos / Excelente vórtice para latte art (~8.5 %)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Thermoblock con Panarello sin purgar (Modo principiante)",
+          "1350 W iniciado antes de temperatura máxima",
+          "Vapor húmedo (x < 0.80) si no se purga el condensado",
+          "40 – 50 segundos / Espuma rígida separada de leche aguada (> 14 %)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre diferencia vapor seco y vapor humedo cafetera espresso",
-      "text": "Al elevar el bloque a 135–140 °C y bombear agua en pulsos intermitentes, el agua flashea instantáneamente a gas con mínima humedad líquida. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Comportamiento termodinámico de sistemas de vapor en cafeteras espresso compactas"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar diferencia vapor seco y vapor humedo cafetera espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Cómo Funciona la Evaporación Flash por Pulsos en un Thermoblock de 1350 W a 1560 W"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Sobrecalentamiento previo del laberinto metálico a 135–145 °C",
+          "text": "Al pulsar el botón de vapor en tu CASABREWS CM5418 o De’Longhi Dedica Arte, la resistencia eleva el bloque de aluminio y acero desde los 93 °C de extracción de café hasta unos 140 °C, mientras en la Breville Bambino la pista impresa ThermoJet alcanza esa temperatura en solo 3 segundos."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Inyección intermitente de microgotas desde la bomba vibratoria",
+          "text": "En lugar de bombear un chorro continuo que enfriaría el bloque y saldría líquido, la placa electrónica envía pulsos cortos (1 a 2 Hz) a la bomba Ulka: entran apenas 0.3 a 0.5 ml de agua por pulso, que al chocar contra las paredes a 140 °C sufren una evaporación flash instantánea hacia vapor seco."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Purga obligatoria de los primeros 4 segundos de condensación",
+          "text": "El tramo final de tubería y la lanceta de acero están fríos al empezar; si introduces la lanza en la leche nada más abrir el mando, inyectarás entre 5 y 8 ml de agua líquida condensada que arruina la dulzura del capuchino."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Maniobra Barista para Maximizar la Sequedad del Vapor en tu Cafetera Compacta"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Antes de sumergir la boquilla en la jarra de leche fría, apunta la lanceta de tu **Breville Bambino**, **De’Longhi Dedica Arte** o **CASABREWS CM5418** hacia la bandeja de goteo (o un paño de microfibra) y abre el vapor durante **4 a 5 segundos** hasta que deje de escupir gotas de agua y escuches el golpeteo rítmico y seco de la bomba (`clac-clac-clac`). Cierra, introduce la punta a **3 mm** bajo la superficie de la leche en menos de **2 segundos** (antes de que el bloque pierda presión) y vuelve a abrir al máximo.",
+      "title": "Protocolo de purga térmica antes de texturizar"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con diferencia vapor seco y vapor humedo cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Buscas una cafetera compacta con lanceta profesional sin panarello o vaporizador automático con sensor térmico? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre diferencia vapor seco y vapor humedo cafetera espresso?",
-      "a": "Al elevar el bloque a 135–140 °C y bombear agua en pulsos intermitentes, el agua flashea instantáneamente a gas con mínima humedad líquida. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué es más fácil aprender a hacer latte art con una lanceta de 1 orificio de un Thermoblock que con una comercial?",
+      "a": "Aunque tarda unos segundos más en calentar la jarra que una caldera comercial de 2 litros, el caudal moderado de 1 orificio en la Breville Bambino (BES450) o la De’Longhi Dedica Arte (EC885M) te da una ventana de 12 a 15 segundos para estirar la leche y otros 20 segundos para crear el vórtice y pulir las microburbujas sin sobrecalentarla por encima de 65 °C."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué mi cafetera compacta escupe un chorro de agua caliente antes de empezar a sacar vapor?",
+      "a": "En los primeros 3 a 4 segundos el bloque calefactor expulsa el agua líquida residual que había quedado en el circuito tras hacer el espresso. Esa purga inicial siempre es vapor húmedo; una vez vaciado el tubo y activado el bombeo por pulsos a 140 °C, el chorro se transforma en vapor seco translúcido."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué ocurre químicamente en la leche si la caliento a más de 70 °C con el vaporizador?",
+      "a": "A partir de los 68–70 °C las proteínas de suero (β-lactoglobulina y α-lactoalbúmina) se desnaturalizan irreversiblemente, liberan compuestos sulfurados con olor a leche hervida y pierden su capacidad de envolver las microburbujas de aire, haciendo que la espuma colapse y la lactosa se perciba menos dulce."
     }
   ],
   "related": [
-    "/ciencia-y-tecnologia-espresso/",
-    "/ciencia-y-tecnologia-espresso/como-funciona-el-caudalimetro-flowmeter-de-turbina-que-mide-tu-cafe/",
-    "/ciencia-y-tecnologia-espresso/por-que-la-crema-pura-sabe-amarga-y-sin-embargo-es-esencial-para-el-aroma/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/ciencia-y-tecnologia-espresso/glosario-barista-en-espanol-e-ingles-50-terminos-explicados-para-principiantes/",
+    "/ciencia-y-tecnologia-espresso/la-verdad-sobre-los-15-y-20-bares-frente-a-los-9-bares-reales-de-extraccion/",
+    "/ciencia-y-tecnologia-espresso/que-es-el-control-pid-en-una-cafetera-espresso-y-por-que-importa-un-grado/",
+    "/ciencia-y-tecnologia-espresso/curva-de-presion-y-caudal-de-una-bomba-vibratoria-vs-bomba-rotativa/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/termodinamica-del-vapor-seco-vs-vapor-humedo-en-cafeteras-compactas.webp"
 }

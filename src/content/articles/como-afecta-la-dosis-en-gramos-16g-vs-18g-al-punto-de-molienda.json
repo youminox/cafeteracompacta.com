@@ -3,162 +3,119 @@
   "pillar": "molinos-y-molienda",
   "path": "/molinos-y-molienda/como-afecta-la-dosis-en-gramos-16g-vs-18g-al-punto-de-molienda/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "relacion dosis gramos y grosor de molienda espresso",
   "title": "Relación Entre Dosis y Molienda: Si Bajas de 18 g a 16 g, ¿Debes Moler Más Fino o Más Grueso?",
-  "seoTitle": "Relación Entre Dosis y Molienda | Guía Barista Compacta",
-  "metaDescription": "Relación Entre Dosis y Molienda: Si Bajas de 18 g a 16 g, ¿Debes Moler Más Fino o Más Grueso?: Con menos gramos la cama de café es más delgada y ofrece menos resistencia: por cada gramo que restes, cierra medio clic el molino. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Con menos gramos la cama de café es más delgada y ofrece menos resistencia: por cada gramo que restes, cierra medio clic el molino.",
-  "quickAnswer": "Sobre relacion dosis gramos y grosor de molienda espresso: Con menos gramos la cama de café es más delgada y ofrece menos resistencia: por cada gramo que restes, cierra medio clic el molino. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Relación Entre Dosis y Molienda: Si Bajas de 18 g a 16 g, ¿Debes Moler Más Fino o Más Grueso? | cafeteracompacta.com",
+  "metaDescription": "Descubre la relación exacta entre dosis en gramos y grosor de molienda: por qué al bajar de 18 g a 16 g debes moler más fino para mantener los 9 bares.",
+  "excerpt": "¿Has bajado tu carga de 18 g a 16 g para que quepa en tu cesta de 51 mm o 54 mm y ahora el café sale aguado? Descubre cuántos clics debes cerrar tu molino por cada gramo de diferencia.",
+  "quickAnswer": "Si reduces la dosis de café en tu cesta de **18.0 g a 16.0 g**, **debes moler más fino** (cerrando entre **2 y 3 clics** tu molino de espresso). Al haber menos gramos en el portafiltro, la altura de la pastilla es un **11 % más delgada** y ofrece menos freno hidráulico al agua a **9 bares**, por lo que necesitas partículas más pequeñas para mantener la extracción en **25 a 30 segundos**.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Con menos gramos la cama de café es más delgada y ofrece menos resistencia: por cada gramo que restes, cierra medio clic el molino., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Over-the-shoulder hands-on demonstration perspective in natural light: realistic scene illustrating 'Relación Entre Dosis y Molienda: Si Bajas de 18 g a 16 g, ¿Debes Moler Más Fino o Más Grueso?' (relacion dosis gramos y grosor de molienda espresso) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, in a bright family home interior with clean architectural lines, high-clarity editorial studio-natural illumination. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Relación Entre Dosis y Molienda: Si Bajas de 18 g a 16 g, ¿Debes Moler Más Fino o Más Grueso?"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **relacion dosis gramos y grosor de molienda espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Con menos gramos la cama de café es más delgada y ofrece menos resistencia: por cada gramo que restes, cierra medio clic el molino."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Imagina que tienes una receta perfecta en tu **Breville Bambino (BES450)** con portafiltro de **54 mm**: mueles **18.0 gramos** en el punto **11** de tu **Baratza Encore ESP** y obtienes **36.0 gramos** de espresso sedoso en **28 segundos**. Al día siguiente decides bajar la dosis a **16.0 gramos** —o cambias a una **CASABREWS CM5418** o **De’Longhi Dedica Arte (EC885M)** cuyo filtro de **51 mm** alcanza su capacidad óptima con **16.0 gramos**—, mantienes el molino en el mismo número **11** y el café sale disparado en apenas **17 segundos**. La regla de oro de la dinámica de fluidos en espresso que estudiamos en nuestra [guía principal de molinos y molienda](/molinos-y-molienda/) es directa: **si bajas los gramos de dosis, debes moler más fino; si subes los gramos, debes moler más grueso**."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: relacion dosis gramos y grosor de molienda espresso"
+      "text": "Por qué 2 gramos menos reducen la altura de la pastilla y aceleran el flujo"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **relacion dosis gramos y grosor de molienda espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "La resistencia total que frena el agua a **9 bares** es el resultado de multiplicar dos factores: la permeabilidad del café molido (determinada por el tamaño de partícula en micras) y la altura vertical de la columna de café dentro de la cesta (*puck depth*). Al restar **2.0 gramos** a una carga de **18.0 gramos**, estás adelgazando un **11.1 %** el espesor del filtro natural que el agua debe atravesar. Con un camino más corto y menos capas de partículas superpuestas, el agua cruza la pastilla a gran velocidad a menos que cierres las muelas para empaquetar los granos más juntos. Ten presente que al cerrar el molino hacia puntos más finos aumentará la fricción electrostática, por lo que conviene saber [por qué el café molido sale con grumos (clumping) y cómo deshacerlos](/molinos-y-molienda/que-hacer-si-el-cafe-molido-sale-con-muchos-grumos-clumping/) con una herramienta de agujas, además de recordar [por qué no debes cambiar el grosor del molino para preparar un Americano](/molinos-y-molienda/molienda-para-americanos-y-lungos-no-cambies-el-molino/) cuando quieras una bebida más larga y suave."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: relacion dosis gramos y grosor de molienda espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Cambio de dosis en la cesta",
+        "Efecto físico en la pastilla",
+        "Acción obligatoria en el molino",
+        "Ajuste orientativo (Encore ESP / Opus)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Con menos gramos la cama de café es más delgada y ofrece menos resistencia: por cada gramo que restes, cierra medio clic el molino.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Bajar de 18.0 g a 16.0 g (−2 g)",
+          "Pastilla un 11 % más delgada; el agua escapa 6–9 s más rápido",
+          "Moler MÁS FINO para recuperar los 9 bares de presión",
+          "Cerrar de 2 a 3 clics hacia números más bajos"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Subir de 16.0 g a 18.0 g (+2 g)",
+          "Pastilla más alta y densa; riesgo de bloqueo ('choking')",
+          "Moler MÁS GRUESO para facilitar el paso del agua",
+          "Abrir de 2 a 3 clics hacia números más altos"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Bajar de 16.0 g a 14.0 g en cesta 51 mm (−2 g)",
+          "Menor columna y mayor espacio de agua libre bajo la ducha",
+          "Moler MÁS FINO y bajar el objetivo líquido en taza a 28 g (ratio 1:2)",
+          "Cerrar de 2 a 3 clics y extremar la nivelación WDT"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre relacion dosis gramos y grosor de molienda espresso",
-      "text": "Con menos gramos la cama de café es más delgada y ofrece menos resistencia: por cada gramo que restes, cierra medio clic el molino. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Tabla de compensación hidráulica entre dosis en gramos y ajuste del molino"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar relacion dosis gramos y grosor de molienda espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Cómo recalibrar tu receta en 3 pasos al cambiar de gramaje o de cesta"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "1. Recalcula tu peso líquido objetivo en la báscula para mantener el ratio 1:2",
+          "text": "El error más habitual al bajar la dosis de 18.0 g a 16.0 g es seguir buscando 36.0 g de líquido en la taza, lo que provoca una sobre-extracción amarga. Con 16.0 g de café seco, tu extracción estándar 1:2 debe detenerse exactamente al alcanzar los 32.0 g en la báscula dentro de la misma ventana de 25 a 30 segundos."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "2. Aplica la regla de compensación de 1 a 1.5 clics por cada gramo restado",
+          "text": "En molinos eléctricos calibrados para espresso como el Baratza Encore ESP o el Fellow Opus, así como en manuales de precisión tipo 1Zpresso J-Ultra o KINGrinder K6, cada gramo que quites de la cesta exige cerrar aproximadamente entre 15 y 25 micras (de 1 a 1.5 clics hacia más fino) para conservar el tiempo de extracción."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "3. Comprueba el margen libre ('headspace') respecto a la ducha del grupo",
+          "text": "Si en lugar de bajar decides subir de 16.0 g a 18.0 g en una Breville Bambino Plus (BES500) o De’Longhi Dedica Maestro Plus (EC950M), encaja el portafiltro tampeado en seco y retíralo: nunca debe quedar marcada la rejilla de la ducha sobre el café seco antes de inyectar agua."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Por qué un portafiltro de 51 mm perdona más los cambios de dosis que uno de 58 mm"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "La geometría del portafiltro influye directamente en cómo responde tu molino al cambio de peso. En una cesta estrecha de **51 mm** (como la de la **CASABREWS CM5418**, **CASABREWS 3700Essential** o **De’Longhi Dedica Arte EC885M**), una carga de **16.0 gramos** forma un cilindro profundo y alto que retiene muy bien el agua. En cambio, esos mismos **16.0 gramos** extendidos en una cesta ancha comercial de **58 mm** forman una capa mucho más fina y vulnerable a las grietas, exigiendo moler considerablemente más fino para alcanzar el mismo tiempo de **28 segundos**.",
+      "title": "La ventaja de la columna profunda en cafeteras compactas de 51 mm y 54 mm"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con relacion dosis gramos y grosor de molienda espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Quieres calcular la dosis exacta en gramos que admite la cesta de tu cafetera y el punto de partida de tu molino? Consulta a nuestro Asesor IA o revisa las básculas baristas de 0.1 g y molinos disponibles en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre relacion dosis gramos y grosor de molienda espresso?",
-      "a": "Con menos gramos la cama de café es más delgada y ofrece menos resistencia: por cada gramo que restes, cierra medio clic el molino. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué cuando cambio de la cesta doble a la cesta individual de 1 taza tengo que moler mucho más fino?",
+      "a": "Una cesta sencilla (1 taza) tiene forma de embudo cónico en su base y recibe solo entre 7 y 9 gramos de café. Aunque la forma estrecha ayuda a ganar altura, la columna total es tan baja que casi siempre obliga a cerrar el molino entre 2 y 4 clics más fino respecto a la cesta doble de 16 o 18 gramos."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cuántos segundos cambia la extracción si me equivoco por solo medio gramo (0.5 g) de café?",
+      "a": "Una variación accidental de solo 0.5 gramos (por ejemplo, pasar de 17.5 g a 18.0 g por no usar báscula o por retención del molino) altera el tiempo de caída del espresso entre 3 y 4 segundos completos, suficiente para pasar de un tiro dulce a uno áspero o ácido."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Es mejor ajustar el tiempo de extracción cambiando los gramos de dosis o moviendo el molino?",
+      "a": "Para 99 % de los baristas en casa, siempre debes fijar primero la dosis en gramos que mejor se adapte al volumen físico de tu cesta (por ejemplo, 16.0 g fijos en 51 mm o 18.0 g fijos en 54 mm) y dejar ese peso inamovible, utilizando únicamente el dial del molino para ajustar el tiempo."
     }
   ],
   "related": [
-    "/molinos-y-molienda/",
-    "/molinos-y-molienda/como-colocar-el-molino-junto-a-la-cafetera-flujo-de-izquierda-a-derecha/",
-    "/molinos-y-molienda/molinos-de-muelas-de-titanio-vs-acero-inoxidable/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/que-son-las-pastillas-urnex-grindz-y-cada-cuanto-usarlas/",
+    "/molinos-y-molienda/molino-integrado-vs-molino-separado-para-tu-primera-cafetera/",
+    "/molinos-y-molienda/molienda-para-americanos-y-lungos-no-cambies-el-molino/",
+    "/molinos-y-molienda/que-hacer-si-el-cafe-molido-sale-con-muchos-grumos-clumping/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-afecta-la-dosis-en-gramos-16g-vs-18g-al-punto-de-molienda.webp"
 }

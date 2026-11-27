@@ -4,161 +4,122 @@
   "path": "/extraccion-y-recetas-espresso/receta-de-shakerato-italiano-espresso-agitado-con-hielo/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "receta caffe shakerato italiano espresso con hielo",
   "title": "Caffè Shakerato Italiano: Cómo Agitar un Espresso con Hielo en Coctelera para Crear Crema Fría",
-  "seoTitle": "Caffè Shakerato Italiano | Guía Barista Compacta",
-  "metaDescription": "Caffè Shakerato Italiano: Cómo Agitar un Espresso con Hielo en Coctelera para Crear Crema Fría: Agita enérgicamente durante 12 segundos un espresso doble, 5 ml de jarabe de azúcar y 4 hielos grandes, y cuélalo en copa fría. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Agita enérgicamente durante 12 segundos un espresso doble, 5 ml de jarabe de azúcar y 4 hielos grandes, y cuélalo en copa fría.",
-  "quickAnswer": "Sobre receta caffe shakerato italiano espresso con hielo: Agita enérgicamente durante 12 segundos un espresso doble, 5 ml de jarabe de azúcar y 4 hielos grandes, y cuélalo en copa fría. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Caffè Shakerato Italiano: Cómo Agitar un Espresso con Hielo en Coctelera para Crear Crema Fría | cafeteracompacta.com",
+  "metaDescription": "Prepara la receta de caffe shakerato italiano con espresso y hielo en coctelera: proporción de jarabe simple, tiempo de batido y colado de microespuma fría.",
+  "excerpt": "Logra una capa de 2 cm de espuma sedosa y fría agitando tu espresso en coctelera: por qué el jarabe líquido estabiliza los lípidos del café y cómo evitar la dilución excesiva.",
+  "quickAnswer": "La receta de caffe shakerato italiano con espresso y hielo requiere combinar en una coctelera **36 a 40 g** de espresso recién extraído, **10 ml** de jarabe de azúcar líquido (**ratio 1:1**) y **5 cubos** grandes de hielo macizo recién salidos del congelador. Al agitar con fuerza durante exactamente **12 a 15 segundos** y realizar un doble colado en copa Martini fría, los lípidos y polisacáridos del café atrapan aire formando una microespuma persistente.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Agita enérgicamente durante 12 segundos un espresso doble, 5 ml de jarabe de azúcar y 4 hielos grandes, y cuélalo en copa fría., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Candid real-world household usage perspective in bright natural morning light: realistic scene illustrating 'Caffè Shakerato Italiano: Cómo Agitar un Espresso con Hielo en Coctelera para Crear Crema Fría' (receta caffe shakerato italiano espresso con hielo) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, in a bright family home interior with clean architectural lines, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Caffè Shakerato Italiano: Cómo Agitar un Espresso con Hielo en Coctelera para Crear Crema Fría"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **receta caffe shakerato italiano espresso con hielo** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Agita enérgicamente durante 12 segundos un espresso doble, 5 ml de jarabe de azúcar y 4 hielos grandes, y cuélalo en copa fría."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Verter un espresso caliente sobre un vaso con tres hielos y remover con una cucharilla produce un café frío aguado, sin textura y sin apenas aroma; pero introducir ese mismo tiro en una coctelera con hielo macizo y agitarlo con técnica de bartender transforma el líquido en una bebida aterciopelada coronada por **2 centímetros** de crema fría color avellana. El secreto de la **receta caffe shakerato italiano espresso con hielo** —una de las joyas veraniegas de nuestro [especial de extracción y recetas espresso](/extraccion-y-recetas-espresso/)— reside en la emulsión mecánica forzada: al batir a alta velocidad mientras la temperatura cae de **65 °C a 2 °C** en apenas doce segundos, las proteínas, los melanoidinas y los lípidos del espresso atrapan microburbujas de aire que quedan estabilizadas por la viscosidad fría."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: receta caffe shakerato italiano espresso con hielo"
+      "text": "Química de la espuma fría: por qué el jarabe líquido estabiliza la crema del Shakerato"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **receta caffe shakerato italiano espresso con hielo** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: receta caffe shakerato italiano espresso con hielo",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "Agita enérgicamente durante 12 segundos un espresso doble, 5 ml de jarabe de azúcar y 4 hielos grandes, y cuélalo en copa fría.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "Muchos aficionados intentan preparar un Shakerato sin azúcar o añadiendo azúcar blanco en grano directamente dentro de la coctelera, y comprueban frustrados que la espuma desaparece a los veinte segundos de servir la copa. Los cristales de azúcar sólido no llegan a disolverse del todo cuando el hielo enfría la mezcla de golpe; en cambio, cuando empleas entre **10 y 15 ml** de **jarabe simple líquido** (*sciroppo di zucchero*, disuelto previamente en proporción **1:1** de agua y azúcar), aumentas la viscosidad de la fase continua del líquido. Esa mayor densidad retrasa el drenaje por gravedad del agua entre las paredes de las microburbujas, logrando una corona sedosa y compacta que te recordará a la importancia de [diferenciar la crema real de las burbujas grandes](/extraccion-y-recetas-espresso/por-que-sale-demasiada-crema-falsa-con-burbujas-grandes/). Además, al [controlar la temperatura de extracción entre 90 y 96 grados](/extraccion-y-recetas-espresso/temperatura-del-agua-90-vs-93-vs-96-grados-efectos-en-el-sabor/) en tu **Breville Bambino (BES450)**, **De’Longhi Dedica Maestro Plus (EC950M)** o **CASABREWS CM5418**, evitas extraer compuestos astringentes que se acentúan al enfriar la bebida."
     },
     {
       "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre receta caffe shakerato italiano espresso con hielo",
-      "text": "Agita enérgicamente durante 12 segundos un espresso doble, 5 ml de jarabe de azúcar y 4 hielos grandes, y cuélalo en copa fría. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "aviso",
+      "text": "Nunca llenes la coctelera con hielo picado o cubitos huecos de máquina que lleven minutos a temperatura ambiente. El hielo húmedo se funde al contacto con el espresso a 65 °C antes del tercer golpe de muñeca, aguando el café e impidiendo que los aceites emulsionen. Usa 5 o 6 cubos grandes y secos recién extraídos del congelador a -18 °C, y vierte el espresso justo en el segundo previo a cerrar la coctelera.",
+      "title": "El orden de carga en la coctelera evita que el hielo derrita el cuerpo del café"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar receta caffe shakerato italiano espresso con hielo hoy mismo en tu cocina"
+      "text": "Tres variantes clásicas de barra italiana para el Caffè Shakerato"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "table",
+      "headers": [
+        "Estilo de Shakerato",
+        "Dosis de espresso recién extraído",
+        "Base viscosa / Licor en coctelera",
+        "Tiempo de batido y cristalería"
+      ],
+      "rows": [
+        [
+          "Shakerato Clásico de Milán",
+          "36 a 40 g (Doble espresso ratio 1:2)",
+          "10 a 12 ml de jarabe simple líquido (1:1)",
+          "12–15 s enérgicos → Copa Martini o Coupé fría (150 ml)"
+        ],
+        [
+          "Shakerato alla Vaniglia",
+          "36 g de espresso (Tueste medio)",
+          "12 ml de sirope de vainilla natural",
+          "14 s enérgicos → Copa de flauta o vaso bajo frío"
+        ],
+        [
+          "Shakerato Corretto (Tarde/Noche)",
+          "35 g de ristretto doble intenso",
+          "8 ml de jarabe simple + 15 ml de Baileys, Amaretto o Sambuca",
+          "15 s enérgicos → Copa Coupé con piel de limón o grano de café"
+        ]
+      ],
+      "caption": "Fórmulas de coctelera para un Shakerato de textura densa y espuma persistente"
+    },
+    {
+      "type": "h2",
+      "text": "Paso a paso: técnica de batido en frío y doble colado sin esquirlas de hielo"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "1. Enfriamiento de la copa y carga de hielo seco en la coctelera",
+          "text": "Guarda tu copa tipo Martini o Coupé en el congelador **15 minutos** antes. Llena el vaso de una coctelera Boston o de tres cuerpos hasta dos tercios de su capacidad con **5 o 6 cubos grandes** de hielo seco a **-18 °C** y añade encima los **10 a 12 ml** de jarabe simple frío."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "2. Extracción del espresso doble y cierre inmediato",
+          "text": "Extrae **36 a 40 g** de espresso en tu cafetera compacta en **25 a 28 segundos**. En cuanto termine el tiro, viértelo de golpe dentro de la coctelera sobre los hielos y encaja la tapa al instante para no perder ni un segundo por fusión estática."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "3. Batido horizontal explosivo de 12 a 15 segundos",
+          "text": "Sujeta la coctelera con ambas manos y agita con recorrido largo y vigoroso durante **12 a 15 segundos**, hasta que las paredes metálicas se cubran de escarcha exterior y sientas que el sonido interior se vuelve más amortiguado por la espuma."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "4. Doble colado rápido sobre la copa helada",
+          "text": "Abre la coctelera y vierte inmediatamente a través del gusanillo (*Hawthorne strainer*) y de un colador de malla fina hacia la copa fría. Este doble filtrado retiene las esquirlas de hielo que destruirían la corona de microespuma en la superficie."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con receta caffe shakerato italiano espresso con hielo en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Equipa tu barra en casa con jarras medidoras, vasos de extracción y cafeteras compactas consultando a nuestro Asesor IA o revisando las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre receta caffe shakerato italiano espresso con hielo?",
-      "a": "Agita enérgicamente durante 12 segundos un espresso doble, 5 ml de jarabe de azúcar y 4 hielos grandes, y cuélalo en copa fría. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cómo puedo hacer un Caffè Shakerato si no tengo coctelera profesional en casa?",
+      "a": "Puedes utilizar un bote de cristal con tapa hermética de rosca (*Mason jar* de **400 a 500 ml**). Solo asegúrate de usar cubos de hielo grandes, agitar con fuerza durante **15 segundos** y colar el líquido al instante con un colador de malla fina hacia la copa para separar los hielos."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Se puede lograr espuma densa en un Shakerato sin añadir nada de azúcar?",
+      "a": "Sí, pero al prescindir de la viscosidad que aporta el jarabe de azúcar, la espuma tendrá una vida útil más corta (unos **2 a 3 minutos** en lugar de **10 minutos**). Para compensarlo sin calorías, utiliza un grano con **15 % a 20 % de Robusta** o un tueste medio fresco rico en aceites y polisacáridos."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Cuánto hielo se derrite realmente durante los 15 segundos de agitado?",
+      "a": "Una dilución controlada de entre **20 y 25 g** de agua procedente de la fusión superficial del hielo es deseable: abre los aromas del espresso concentrado y reduce la percepción de amargor en frío, dejando un volumen total en copa de unos **70 a 75 ml** más la corona de espuma."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/receta-de-dirty-chai-latte-con-un-shot-de-espresso/",
     "/extraccion-y-recetas-espresso/receta-de-cafe-bombon-con-leche-condensada-y-espresso/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/por-que-sale-demasiada-crema-falsa-con-burbujas-grandes/",
+    "/extraccion-y-recetas-espresso/como-hacer-dos-espressos-individuales-con-el-portafiltro-de-dos-salidas/",
+    "/extraccion-y-recetas-espresso/temperatura-del-agua-90-vs-93-vs-96-grados-efectos-en-el-sabor/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/receta-de-shakerato-italiano-espresso-agitado-con-hielo.webp"
 }

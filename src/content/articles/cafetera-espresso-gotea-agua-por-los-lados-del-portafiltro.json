@@ -4,161 +4,128 @@
   "path": "/problemas-y-soluciones/cafetera-espresso-gotea-agua-por-los-lados-del-portafiltro/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cafetera pierde agua por el borde del portafiltro",
   "title": "Por Qué Sale Agua por Fuera del Borde del Portafiltro al Extraer y Cómo Solucionarlo",
-  "seoTitle": "Por Qué Sale Agua por Fuera del Borde del Portafiltro al Extraer y Cómo Solucionarlo | Guía Barista Compacta",
-  "metaDescription": "Por Qué Sale Agua por Fuera del Borde del Portafiltro al Extraer y Cómo Solucionarlo: Las 3 causas: restos de café molido en el borde superior de la cesta, exceso de gramos que impide girar a tope o junta de grupo desgastada. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Las 3 causas: restos de café molido en el borde superior de la cesta, exceso de gramos que impide girar a tope o junta de grupo desgastada.",
-  "quickAnswer": "Sobre cafetera pierde agua por el borde del portafiltro: Las 3 causas: restos de café molido en el borde superior de la cesta, exceso de gramos que impide girar a tope o junta de grupo desgastada. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué Sale Agua por Fuera del Borde del Portafiltro al Extraer y Cómo Solucionarlo | cafeteracompacta.com",
+  "metaDescription": "Descubre por qué tu cafetera pierde agua por el borde del portafiltro al extraer espresso, cómo limpiar la junta del grupo y cuándo cambiar el sello.",
+  "excerpt": "Guía técnica para diagnosticar y reparar fugas de agua por el cuello del portafiltro de 51 mm o 54 mm: limpieza de borra en el labio de la cesta, ajuste de par y cambio de junta de silicona.",
+  "quickAnswer": "Cuando una **cafetera pierde agua por el borde del portafiltro** al extraer, la causa principal es café molido acumulado en el labio de la cesta, exceso de gramos o una junta de silicona reseca. Al superar los **9 bares** de presión, el agua escapa por la menor fisura del sello en grupos de **51 mm** o **54 mm**. Limpiar la ranura superior del grupo y ajustar la dosis elimina la fuga de inmediato.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Las 3 causas: restos de café molido en el borde superior de la cesta, exceso de gramos que impide girar a tope o junta de grupo desgastada., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Top-down flat-lay knolling arrangement with accessories: realistic scene illustrating 'Por Qué Sale Agua por Fuera del Borde del Portafiltro al Extraer y Cómo Solucionarlo' (cafetera pierde agua por el borde del portafiltro) for cafeteracompacta.com, featuring equipment in matte charcoal black with brushed aluminum accents, inside a bright contemporary apartment with minimalist decor, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué Sale Agua por Fuera del Borde del Portafiltro al Extraer y Cómo Solucionarlo"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cafetera pierde agua por el borde del portafiltro** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Las 3 causas: restos de café molido en el borde superior de la cesta, exceso de gramos que impide girar a tope o junta de grupo desgastada."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Estás a mitad de la extracción matutina en tu **CASABREWS CM5418** o **De’Longhi Dedica Arte EC885M** cuando, de pronto, escuchas un siseo húmedo y ves caer gotas transparentes o marrones resbalando por el exterior del mango hacia la taza. Cuando una **cafetera pierde agua por el borde del portafiltro**, la bebida en taza queda aguada y subextraída porque la cámara del grupo no logra sostener los **9 bares** de presión hidrostática necesarios para atravesar la pastilla de café. Antes de pensar que la bomba de **15 o 20 bares** se ha averiado, debes saber que este síntoma casi siempre responde a una pérdida de estanqueidad mecánica en el anillo superior del cabezal que puedes diagnosticar en pocos segundos consultando nuestra [tabla maestra de diagnóstico rápido para cafeteras compactas](/problemas-y-soluciones/tabla-maestra-de-diagnostico-barista-sintoma-causa-y-solucion-en-10-segundos/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cafetera pierde agua por el borde del portafiltro"
+      "text": "Causas físicas de la pérdida de presión en la junta del cabezal de 51 mm y 54 mm"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cafetera pierde agua por el borde del portafiltro** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "El cierre entre el portafiltro y la ducha del grupo funciona por compresión axial: las dos o tres orejetas metálicas del mango suben por una rampa helicoidal y aplastan el labio superior de la cesta de acero inoxidable contra una junta anular de silicona o caucho EPDM. Si queda apenas **0.2 mm** de café molido sobre el borde del filtro tras pasar el *tamper*, esos granos rígidos actúan como microcuñas y abren un canal por donde el agua presurizada escapa al superar los **4 o 5 bares**. Un segundo detonante muy habitual ocurre cuando mueles demasiado fino o llenas la cesta de **51 mm** con más de **16 gramos** (o más de **19 gramos** en la **Breville Bambino BES450** de **54 mm**): la pastilla se bloquea, ocurre un fenómeno parecido a cuando [el manómetro de la CASABREWS pasa a la zona de sobrepresión y solo gotea](/problemas-y-soluciones/manometro-casabrews-marca-sobrepresion-y-no-sale-cafe/) y el líquido busca la vía de menor resistencia por el perímetro de la junta. Si el sello de goma lleva más de **12 a 18 meses** soportando ciclos térmicos a **93 °C**, también puede haberse cristalizado o agrietado, algo muy común en nuestro [directorio de problemas y soluciones de espresso](/problemas-y-soluciones/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: cafetera pierde agua por el borde del portafiltro",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Síntoma visual en el grupo",
+        "Causa mecánica principal",
+        "Momento en que aparece",
+        "Solución inmediata"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Las 3 causas: restos de café molido en el borde superior de la cesta, exceso de gramos que impide girar a tope o junta de grupo desgastada.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Gotas claras desde el segundo 1",
+          "Granos de café sueltos en el labio de la cesta o falta de apriete",
+          "Pre-infusión (2 a 4 bares)",
+          "Barrer el borde con el dedo y girar 15° más a la derecha"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Chorro lateral brusco a mitad del tiro",
+          "Molienda pulverizada o exceso de gramos que tapona la cesta presurizada",
+          "Pico de presión (9 a 15 bares)",
+          "Engrosar 2 clics el molino y bajar 1.5 g la dosis"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Rebose marrón oscuro y portafiltro muy blando",
+          "Junta tórica de silicona aplastada, mordida o cristalizada por calor",
+          "Durante toda la extracción",
+          "Reemplazar el anillo elastomérico del grupo (51 mm o 54 mm)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Agua saliendo incluso sin café en la cesta",
+          "Cesta deformada en el borde o ducha obstruida por cal y aceites",
+          "Desde el arranque de la bomba",
+          "Desmontar tornillo central de la ducha y limpiar asiento"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre cafetera pierde agua por el borde del portafiltro",
-      "text": "Las 3 causas: restos de café molido en el borde superior de la cesta, exceso de gramos que impide girar a tope o junta de grupo desgastada. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Diagnóstico según el momento y aspecto de la fuga alrededor del portafiltro"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar cafetera pierde agua por el borde del portafiltro hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Protocolo paso a paso para sellar el grupo y detener el goteo lateral"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Limpieza del labio y orejetas del portafiltro",
+          "text": "Después de compactar el café con tu tamper de **51 mm** o **53.3 mm**, pasa la yema del dedo índice por todo el borde plano de la cesta y por las orejetas exteriores para retirar cualquier partícula de molienda antes de insertar el mango."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Verificación de la holgura de carga (Headspace)",
+          "text": "Coloca una moneda limpia sobre el café prensado, encaja el portafiltro y retíralo sin encender la bomba; si la moneda se hunde en la pastilla, estás sobredosificando y el café impide que el metal toque la junta de goma."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Cepillado húmedo del canal de la junta en frío o templado",
+          "text": "Desenchufa o deja enfriar ligeramente la máquina, envuelve un paño de microfibra húmedo en el mango de una cuchara o usa un cepillo de cerdas de nailon para barrer la ranura circular que rodea la ducha metálica."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Prueba de estanqueidad con cesta ciega o filtro vacío",
+          "text": "Acopla el portafiltro aplicando par firme sujetando el chasis de **15 cm** con la otra mano y lanza una extracción de **10 segundos** solo con agua para confirmar que el caudal cae verticalmente por los picos sin fugas perimetrales."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Mantenimiento preventivo del anillo de silicona en cafeteras compactas"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Nunca dejes el portafiltro apretado a presión en el cabezal cuando apagues tu **CASABREWS 3700Essential**, **Breville Bambino Plus BES500** o **De’Longhi Dedica Maestro Plus EC950M** al terminar el día. Mantener el metal comprimido contra el elastómero caliente deforma permanentemente el perfil de la junta, reduciendo su grosor de **5 mm** a menos de **4.2 mm** en pocos meses. Acostúmbrate a hacer un purgado de **3 segundos** tras cada café para arrastrar los posos adheridos a la ducha y guarda el portafiltro suelto sobre la bandeja de goteo.",
+      "title": "Regla de oro para triplicar la vida útil de la junta del grupo"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con cafetera pierde agua por el borde del portafiltro en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Si necesitas una junta de silicona de repuesto de **51 mm** o **54 mm**, un anillo dosificador magnético para no ensuciar los bordes de la cesta o un cepillo angular de grupo, puedes consultar al Asesor IA del portal o comprobar la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cafetera pierde agua por el borde del portafiltro?",
-      "a": "Las 3 causas: restos de café molido en el borde superior de la cesta, exceso de gramos que impide girar a tope o junta de grupo desgastada. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cada cuánto tiempo se debe cambiar la junta de goma del grupo?",
+      "a": "En la mayoría de cafeteras compactas domésticas como la CASABREWS CM5418, De’Longhi Dedica Arte y Breville Bambino, la junta original dura entre 12 y 24 meses con un uso de 2 a 3 cafés diarios. Conviene sustituirla por una de silicona alimentaria cuando el portafiltro supere la posición central hacia la derecha y siga goteando."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Usar el filtro presurizado con molienda muy fina provoca que salga agua por fuera?",
+      "a": "Sí, es un detonante directo. Los filtros presurizados de doble pared canalizan todo el flujo por un único micro-orificio inferior; si introduces café molido tan fino como para cesta no presurizada, el orificio se tapona, la presión interna sube a 15 bares y el agua revienta el sello superior del portafiltro."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Se puede lubricar la junta de la cafetera para que selle mejor?",
+      "a": "No uses grasas domésticas ni aceites vegetales, ya que degradan el caucho EPDM y alteran el sabor del espresso. Si la junta está reseca tras una descalcificación, basta con humedecer el borde superior de la cesta metálica con agua limpia justo antes de encajar el portafiltro en el grupo."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/tabla-maestra-de-diagnostico-barista-sintoma-causa-y-solucion-en-10-segundos/",
+    "/problemas-y-soluciones/manometro-casabrews-marca-sobrepresion-y-no-sale-cafe/",
     "/problemas-y-soluciones/la-bomba-hace-ruido-fuerte-pero-no-sale-agua-como-cebar-airlock/",
-    "/problemas-y-soluciones/delonghi-dedica-arte-luz-naranja-o-roja-parpadeando-en-boton-vapor/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/el-espresso-sale-frio-o-tibio-en-mi-cafetera-compacta/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/cafetera-espresso-gotea-agua-por-los-lados-del-portafiltro.webp"
 }

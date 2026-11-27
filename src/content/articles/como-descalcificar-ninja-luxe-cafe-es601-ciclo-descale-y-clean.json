@@ -4,161 +4,132 @@
   "path": "/mantenimiento-y-descalcificacion/como-descalcificar-ninja-luxe-cafe-es601-ciclo-descale-y-clean/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como descalcificar ninja luxe cafe es601",
   "title": "Guía de los Ciclos 'Clean' y 'Descale' en la Pantalla de la Ninja Luxe Café (ES601)",
-  "seoTitle": "Guía de los Ciclos 'Clean' y 'Descale' en la Pantalla de la Ninja Luxe Café (ES601) | Guía Barista Compacta",
-  "metaDescription": "Guía de los Ciclos 'Clean' y 'Descale' en la Pantalla de la Ninja Luxe Café (ES601): Cómo usar el disco de limpieza incluido en el cajón lateral de la Ninja y limpiar la jarra Dual Froth. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Cómo usar el disco de limpieza incluido en el cajón lateral de la Ninja y limpiar la jarra Dual Froth.",
-  "quickAnswer": "Sobre como descalcificar ninja luxe cafe es601: Cómo usar el disco de limpieza incluido en el cajón lateral de la Ninja y limpiar la jarra Dual Froth. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Guía de los Ciclos 'Clean' y 'Descale' en la Pantalla de la Ninja Luxe Café (ES601) | cafeteracompacta.com",
+  "metaDescription": "Diferencia los avisos Clean y Descale en la pantalla de la Ninja Luxe Café ES601 y ejecuta cada programa de limpieza sin dañar los sensores internos.",
+  "excerpt": "Manual práctico para interpretar los testigos luminosos de la Ninja Luxe Café ES601: cuándo usar el disco gris con pastilla desengrasante y cómo preparar el depósito de 2 litros para el ciclo Descale.",
+  "quickAnswer": "En la **Ninja Luxe Café (ES601)**, el botón **`CLEAN`** activa un retrolavado de **6 minutos** que requiere instalar el disco gris de silicona con **1 pastilla desengrasante** en la cesta doble para eliminar aceites de café. Por su parte, **`DESCALE`** ejecuta un lavado ácido de **60 minutos** (dividido en fase desincrustante hasta la línea `DESCALE` del tanque de **2 L** y fase de enjuague hasta `MAX`) sin disco ciego para eliminar la cal del bloque térmico.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Cómo usar el disco de limpieza incluido en el cajón lateral de la Ninja y limpiar la jarra Dual Froth., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Wide environmental domestic interior shot on 24mm lens: realistic scene illustrating 'Guía de los Ciclos 'Clean' y 'Descale' en la Pantalla de la Ninja Luxe Café (ES601)' (como descalcificar ninja luxe cafe es601) for cafeteracompacta.com, featuring equipment in graphite gray with subtle amber indicator details, in a bright family home interior with clean architectural lines, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Guía de los Ciclos 'Clean' y 'Descale' en la Pantalla de la Ninja Luxe Café (ES601)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como descalcificar ninja luxe cafe es601** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Cómo usar el disco de limpieza incluido en el cajón lateral de la Ninja y limpiar la jarra Dual Froth."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Mantenimiento Y Descalcificacion](/mantenimiento-y-descalcificacion/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Ver iluminarse las palabras **`CLEAN`** o **`DESCALE`** en color naranja en la consola frontal de la **Ninja Luxe Café (ES601)** genera confusión en muchos usuarios, porque ambos testigos bloquean o advierten sobre el rendimiento hidráulico pero atacan suciedades químicamente opuestas. Esta estación todo en uno —célebre por su molino cónico con báscula integrada, sistema **Barista Assist** y vaporizador automático **Dual Froth**— monitoriza por separado los aceites de café acumulados en la válvula de retrolavado del grupo y el sarro mineral adherido a su calentador interno. El error más grave al ver encendido el aviso **`DESCALE`** es vaciar ácido acético doméstico en su tanque de **2 litros**; descubre los daños que esto provoca en las electroválvulas leyendo [por qué nunca debes descalcificar tu cafetera espresso con vinagre blanco](/mantenimiento-y-descalcificacion/por-que-nunca-descalcificar-tu-cafetera-espresso-con-vinagre-blanco/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como descalcificar ninja luxe cafe es601"
+      "text": "Diferencias técnicas entre el aviso CLEAN y el aviso DESCALE en la Ninja ES601"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como descalcificar ninja luxe cafe es601** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: como descalcificar ninja luxe cafe es601",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "Cómo usar el disco de limpieza incluido en el cajón lateral de la Ninja y limpiar la jarra Dual Froth.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "El testigo **`CLEAN`** se enciende para exigir un retrolavado alcalino (*backflush*) de apenas **6 minutos** que disuelve las grasas de café solidificadas detrás de la ducha del grupo y dentro del tubo de descarga hacia la bandeja de goteo. En cambio, el indicador **`DESCALE`** solicita un programa ácido automatizado de aproximadamente **60 minutos** que desincrusta el carbonato cálcico (`CaCO3`) del bloque térmico y de los conductos del sistema **Dual Froth**. Puedes comparar cómo funciona el retrolavado con pastilla en otras máquinas con válvula solenoide en nuestra guía sobre [cómo hacer un backflush con disco ciego y pastilla Cafiza paso a paso](/mantenimiento-y-descalcificacion/como-hacer-backflushing-retrolavado-en-breville-bambino-plus-y-gaggia/) o explorar más tutoriales en el [centro de mantenimiento y descalcificación de cafeteras espresso](/mantenimiento-y-descalcificacion/)."
     },
     {
       "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre como descalcificar ninja luxe cafe es601",
-      "text": "Cómo usar el disco de limpieza incluido en el cajón lateral de la Ninja y limpiar la jarra Dual Froth. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "tip",
+      "text": "Antes de pulsar el botón de inicio en cualquiera de los dos ciclos, desliza y vacía por completo la **bandeja de goteo principal** de la **Ninja Luxe Café (ES601)**, retirando la bandeja central naranja de tazas para colocar encima un recipiente de **1.5 litros**. Si omites vaciar la bandeja antes del ciclo **`CLEAN`**, el agua expulsada internamente por la válvula solenoide desbordará el flotador rojo a mitad del programa de **6 minutos**.",
+      "title": "Requisito previo obligatorio en la bandeja de goteo de la ES601"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como descalcificar ninja luxe cafe es601 hoy mismo en tu cocina"
+      "text": "Tabla comparativa de materiales, tiempos y accesorios para cada programa"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "type": "table",
+      "headers": [
+        "Parámetro del ciclo",
+        "Ciclo CLEAN (Desengrasado)",
+        "Ciclo DESCALE (Descalcificación)"
+      ],
+      "rows": [
+        [
+          "Duración total en pantalla",
+          "Aproximadamente 6 minutos",
+          "Aproximadamente 60 minutos (fase ácida + enjuague)"
+        ],
+        [
+          "Producto químico requerido",
+          "1 pastilla limpiadora de aceites (Ninja o Urnex Cafiza)",
+          "Solución descalcificadora Ninja o 300 ml de ácido láctico en agua"
+        ],
+        [
+          "Configuración del portafiltro",
+          "Cesta doble (Double Basket) + disco gris de silicona instalado",
+          "Portafiltro retirado o sin disco ciego para libre drenaje"
+        ],
+        [
+          "Volumen de agua en el tanque de 2 L",
+          "Llenar con agua limpia hasta la línea marcada MAX fill",
+          "Llenar mezcla ácida hasta la marca específica DESCALE (~1.0-1.2 L)"
+        ],
+        [
+          "Acción sobre la jarra Dual Froth",
+          "No interviene en el circuito de leche",
+          "Colocar la lanceta dentro de la jarra o recipiente colector"
+        ]
+      ],
+      "caption": "Parámetros exactos de los programas CLEAN y DESCALE en la Ninja Luxe Café (ES601)"
+    },
+    {
+      "type": "h2",
+      "text": "Secuencia paso a paso para ejecutar ambos programas desde el panel digital"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Ejecución del ciclo rápido CLEAN (6 minutos) con disco gris",
+          "text": "Coloca la **cesta doble (Double)** en el portafiltro, inserta encima el **disco de limpieza de silicona gris** con el tirador central hacia arriba y pon **1 pastilla desengrasante** en el centro. Encaja el portafiltro en el grupo, llena el tanque de **2 L** hasta **MAX**, pulsa el botón **`CLEAN`** y presiona **`START BREW`** para que la máquina realice los pulsos de presión y vacíe hacia la bandeja."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Preparación de la solución para el ciclo DESCALE (60 minutos)",
+          "text": "Retira el filtro de agua del depósito de **2 litros** si lo tienes instalado. Disuelve el sobre de polvo descalcificador Ninja (o **300 ml** de solución líquida descalcificadora para espresso) con agua tibia hasta alcanzar exactamente la línea grabada **`DESCALE`** en el lateral del tanque."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Posicionamiento de la lanceta de vapor y recipiente colector",
+          "text": "Retira el disco gris del portafiltro, coloca un recipiente de **1.5 L** bajo el grupo y orienta la lanceta de vapor hacia el interior de la jarra de acero inoxidable puesta sobre la plataforma para recoger las purgas de vapor y agua caliente."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Fase 1 ácida y cuenta regresiva en el display LED",
+          "text": "Pulsa el botón **`DESCALE`** y luego confirma presionando el dial central **`START BREW`**. Durante los primeros **35 a 40 minutos**, la **Ninja ES601** bombeará pequeñas dosis de ácido y hará pausas de remojo térmico mientras la pantalla muestra el progreso."
+        },
+        {
+          "name": "Alerta FLUSH y fase 2 de aclarado automático",
+          "text": "Cuando la pantalla muestre el mensaje de pausa a mitad de ciclo, vacía el recipiente colector y la bandeja de goteo, lava a fondo el tanque de **2 L** con agua jabonosa, llénalo con agua fresca hasta la línea **`MAX`** y vuelve a pulsar **`START BREW`** para completar los **20 minutos** finales de enjuague hasta que la luz **`DESCALE`** se apague."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con como descalcificar ninja luxe cafe es601 en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Necesitas pastillas limpiadoras para el ciclo **`CLEAN`** o solución descalcificadora compatible con tu **Ninja Luxe Café (ES601)**? Consulta la disponibilidad actual en las tarjetas de Amazon de esta página o pregunta a nuestro Asesor IA cualquier duda sobre los avisos del panel."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como descalcificar ninja luxe cafe es601?",
-      "a": "Cómo usar el disco de limpieza incluido en el cajón lateral de la Ninja y limpiar la jarra Dual Froth. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Debo poner el disco gris de silicona durante el ciclo Descale de la Ninja Luxe Café ES601?",
+      "a": "Nunca pongas el disco gris de limpieza durante el ciclo DESCALE. El disco gris es un tapón ciego diseñado exclusivamente para crear contrapresión de 9 bares con la pastilla desengrasante en el ciclo CLEAN; si lo dejas puesto en DESCALE, impedirás que el litro de solución ácida drene libremente por el grupo."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Puedo usar pastillas Urnex Cafiza cuando se enciende la luz Clean en la Ninja ES601?",
+      "a": "Sí, las pastillas de limpieza Urnex Cafiza de 1.2 g o 2 g son totalmente compatibles con el hueco central del disco gris de la Ninja Luxe Café ES601 para ejecutar el ciclo CLEAN de 6 minutos y eliminar los aceites de café del grupo y la válvula solenoide."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué no se apaga la luz Descale de mi Ninja Luxe Café después de limpiarla?",
+      "a": "Si la luz naranja DESCALE permanece encendida tras finalizar, significa que el segundo tanque de enjuague no tenía agua hasta la línea MAX o el ciclo se interrumpió antes de que la cuenta regresiva llegara a 00:00. Deberás iniciar el ciclo nuevamente con agua limpia hasta que la pantalla complete el 100 %."
     }
   ],
   "related": [
-    "/mantenimiento-y-descalcificacion/",
-    "/mantenimiento-y-descalcificacion/mantenimiento-de-la-valvula-antigoteo-del-fondo-del-tanque-de-agua/",
-    "/mantenimiento-y-descalcificacion/como-descalcificar-hibrew-h10a-y-h10b-modo-automatico/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/mantenimiento-y-descalcificacion/por-que-nunca-descalcificar-tu-cafetera-espresso-con-vinagre-blanco/",
+    "/mantenimiento-y-descalcificacion/como-hacer-backflushing-retrolavado-en-breville-bambino-plus-y-gaggia/",
+    "/mantenimiento-y-descalcificacion/como-destapar-los-microagujeros-de-un-filtro-presurizado-obstruido/",
+    "/mantenimiento-y-descalcificacion/como-cambiar-la-junta-de-goma-del-grupo-cuando-gotea-el-portafiltro/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-descalcificar-ninja-luxe-cafe-es601-ciclo-descale-y-clean.webp"
 }

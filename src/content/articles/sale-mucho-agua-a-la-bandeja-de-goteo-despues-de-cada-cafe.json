@@ -4,161 +4,116 @@
   "path": "/problemas-y-soluciones/sale-mucho-agua-a-la-bandeja-de-goteo-despues-de-cada-cafe/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cae mucha agua a la bandeja de goteo cafetera",
   "title": "Por Qué Cae un Chorro de Agua Directo a la Bandeja de Goteo al Terminar el Café",
-  "seoTitle": "Por Qué Cae un Chorro de Agua Directo a la Bandeja de Goteo al Terminar el Café | Guía Barista Compacta",
-  "metaDescription": "Por Qué Cae un Chorro de Agua Directo a la Bandeja de Goteo al Terminar el Café: Es la válvula de alivio OPV y la válvula solenoide de 3 vías liberando la presión sobrante del portafiltro: es señal de buen funcionamiento. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Es la válvula de alivio OPV y la válvula solenoide de 3 vías liberando la presión sobrante del portafiltro: es señal de buen funcionamiento.",
-  "quickAnswer": "Sobre cae mucha agua a la bandeja de goteo cafetera: Es la válvula de alivio OPV y la válvula solenoide de 3 vías liberando la presión sobrante del portafiltro: es señal de buen funcionamiento. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué Cae un Chorro de Agua Directo a la Bandeja de Goteo al Terminar el Café | cafeteracompacta.com",
+  "metaDescription": "¿Cae un chorro de agua a la bandeja de goteo al terminar el espresso? Descubre cómo funciona la válvula solenoide de 3 vías y cuándo es normal.",
+  "excerpt": "Entiende por qué cafeteras como la Breville Bambino Plus descargan agua y vapor en la bandeja inferior al cortar la extracción, y cómo distinguir este alivio normal de una fuga en la junta del grupo.",
+  "quickAnswer": "Escuchar un soplido y ver caer un chorro de agua caliente hacia la bandeja de goteo justo al finalizar la extracción es el comportamiento normal de la válvula solenoide de 3 vías o de la válvula de alivio OPV. Este mecanismo libera instantáneamente los 9 bares de presión acumulados sobre la pastilla de café para dejarla seca y evitar salpicaduras al retirar el portafiltro, descargando entre 15 y 30 ml por ciclo.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Es la válvula de alivio OPV y la válvula solenoide de 3 vías liberando la presión sobrante del portafiltro: es señal de buen funcionamiento., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Three-quarter 50mm studio-natural close-up shot: realistic scene illustrating 'Por Qué Cae un Chorro de Agua Directo a la Bandeja de Goteo al Terminar el Café' (cae mucha agua a la bandeja de goteo cafetera) for cafeteracompacta.com, featuring equipment in deep navy blue with satin metallic trim, on a warm walnut table beside a sunlit window, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué Cae un Chorro de Agua Directo a la Bandeja de Goteo al Terminar el Café"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cae mucha agua a la bandeja de goteo cafetera** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Es la válvula de alivio OPV y la válvula solenoide de 3 vías liberando la presión sobrante del portafiltro: es señal de buen funcionamiento."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Acabas de extraer un espresso perfecto y, en el instante exacto en que la bomba se detiene, escuchas un bufido seco tipo *\"psssht\"* seguido de un chorro de agua caliente (a veces teñida de café) que cae directamente al interior de la bandeja de goteo inferior. A los tres o cuatro cafés preparados, el flotador rojo indicador de nivel ya asoma por la rejilla pidiendo vaciar la bandeja. Muchos usuarios que estrenan una **Breville Bambino Plus (BES500)** o una **De’Longhi Dedica Maestro Plus (EC950M)** creen que existe una tubería rota dentro del chasis, cuando en realidad están presenciando una de las prestaciones más buscadas en una cafetera de gama alta."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cae mucha agua a la bandeja de goteo cafetera"
+      "text": "La válvula solenoide de 3 vías y la válvula OPV: por qué el agua va a la bandeja y no a tu taza"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cae mucha agua a la bandeja de goteo cafetera** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Durante la extracción, el espacio comprendido entre la ducha del grupo y el café compactado está sometido a **9 bares de presión** (la misma presión que cuatro neumáticos de automóvil juntos). En cafeteras con **válvula solenoide de 3 vías**, como la **Breville Bambino Plus (BES500)**, al cortarse la corriente de la bomba se abre instantáneamente una tercera vía de escape que desvía toda el agua presurizada sobrante desde la parte superior de la pastilla hacia un conducto oculto que desemboca en la bandeja de goteo. Gracias a esta descarga de **15 a 30 ml por café**, la pastilla queda seca y firme para golpearla en el *knock box*, evitando además que la presión residual empuje el mango o que [el portafiltro se mueve o se suelta solo durante la extracción](/problemas-y-soluciones/el-portafiltro-se-suelta-o-gira-solo-durante-la-extraccion/). A la vez, dado que este conducto succiona café hacia atrás, requiere limpieza periódica para evitar que [el café sabe metálico o rancio por suciedad en la ducha](/problemas-y-soluciones/sabor-metalico-o-rancio-en-el-cafe-aunque-uses-grano-bueno/). En modelos sin solenoide donde el agua también cae a la bandeja, suele deberse a la válvula de sobrepresión OPV o a un taponamiento parcial en el que [el café sale solo por uno de los dos picos del portafiltro](/problemas-y-soluciones/el-cafe-sale-solo-por-uno-de-los-dos-picos-del-portafiltro/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: cae mucha agua a la bandeja de goteo cafetera",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Modelo de cafetera compacta",
+        "Sistema de alivio de presión",
+        "Volumen normal descargado a la bandeja por café (+ vapor)",
+        "Cuándo sí indica una avería o fuga real"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Es la válvula de alivio OPV y la válvula solenoide de 3 vías liberando la presión sobrante del portafiltro: es señal de buen funcionamiento.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Breville Bambino Plus (BES500)",
+          "Válvula solenoide de 3 vías + OPV a 9 bares + Auto-Purge de lanceta",
+          "35 a 55 ml por capuchino (descarga del grupo + purga automática de vapor)",
+          "Solo si cae agua limpia por la bandeja MIENTRAS el café sale muy débil en taza (OPV abierta o filtro bloqueado)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Breville Bambino estándar (BES450)",
+          "Válvula OPV calibrada a 9 bares (sin solenoide de 3 vías)",
+          "10 a 20 ml durante la extracción si la molienda es fina y activa el bypass de 9 bares",
+          "Si rebosa agua por fuera del anillo del portafiltro debido a una junta del grupo sucia o rota"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "De’Longhi Dedica Arte (EC885M) / EC685",
+          "Válvula de retención mecánica en el grupo (sin solenoide)",
+          "5 a 15 ml (principalmente al purgar el termobloque tras usar vapor)",
+          "Si aparece un charco debajo de la cafetera en la encimera (fuga en el asiento del tanque trasero)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "CASABREWS CM5418 / 3700Essential",
+          "Válvula de alivio térmica y de sobrepresión interna hacia bandeja",
+          "10 a 25 ml al finalizar el tiro o al liberar presión post-vaporizado",
+          "Si sale un chorro continuo a la bandeja desde el primer segundo sin que suba la aguja del manómetro"
         ]
-      ]
+      ],
+      "caption": "Comportamiento de descarga a la bandeja según el sistema hidráulico de cada cafetera compacta"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo distinguir una descarga normal en la bandeja de un charco debajo de la cafetera"
     },
     {
       "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre cae mucha agua a la bandeja de goteo cafetera",
-      "text": "Es la válvula de alivio OPV y la válvula solenoide de 3 vías liberando la presión sobrante del portafiltro: es señal de buen funcionamiento. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "etiqueta",
+      "text": "En la **Breville Bambino Plus (BES500)** la bandeja de goteo se llena el doble de rápido que en otras cafeteras compactas por un motivo de diseño: **suma tres descargas automáticas en cada latte**. Primero, la válvula OPV desvía hacia la bandeja el exceso de caudal que supera los **9 bares** durante la extracción; segundo, la válvula solenoide de 3 vías descarga el agua de encima de la pastilla al terminar el café; y tercero, al bajar la lanceta MilQ tras espumar leche, el sistema **Auto-Purge** inyecta otros **20 ml** de agua y vapor directo a la rejilla. Vacíala cada **5 a 7 bebidas** antes de que el flotador rojo suba al tope.",
+      "title": "Por qué la bandeja de la Breville Bambino Plus se llena cada 5 o 6 capuchinos"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar cae mucha agua a la bandeja de goteo cafetera hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con cae mucha agua a la bandeja de goteo cafetera en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "4 comprobaciones para saber si la descarga de agua de tu cafetera es 100 % normal"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**El momento exacto del chorro:** Si el grueso del agua cae a la bandeja de goteo en el último segundo (justo cuando la bomba se calla), es el alivio de presión normal de la válvula de 3 vías o de descarga.",
+        "**El color del agua en la bandeja:** En cafeteras con válvula solenoide como la **Bambino Plus (BES500)**, el agua de la bandeja siempre sale teñida de marrón porque arrastra los restos líquidos de la superficie de la pastilla de café. En cafeteras sin solenoide, el agua desviada por la válvula OPV durante el tiro es transparente.",
+        "**Inspección de la encimera bajo las patas:** Levanta la cafetera y pasa papel absorbente por la mesa. Toda el agua de alivio debe quedar contenida **dentro de la bandeja extraíble**; si hay agua en la madera o granito bajo el chasis, revisa la junta de silicona donde encaja el tanque de agua trasero.",
+        "**Desbordamiento por el cuello del portafiltro:** Si el agua cae a la bandeja escurriendo **por fuera de las paredes exteriores del portafiltro**, no es la válvula interna: tienes posos de café pegados en la junta de goma del grupo que impiden el cierre hermético."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "¿Buscas alfombrillas de silicona impermeables para proteger tu encimera, discos ciegos de limpieza backflush o un contenedor knock box para tus pastillas secas? Consulta a nuestro Asesor IA o revisa las opciones disponibles en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cae mucha agua a la bandeja de goteo cafetera?",
-      "a": "Es la válvula de alivio OPV y la válvula solenoide de 3 vías liberando la presión sobrante del portafiltro: es señal de buen funcionamiento. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Es normal que el agua de la bandeja de goteo salga marrón o con restos de café?",
+      "a": "En la Breville Bambino Plus (BES500) y otras máquinas con válvula solenoide de 3 vías, es completamente normal que el agua de la bandeja tenga color café. Al terminar la extracción, la válvula succiona el líquido caliente sobrante que estaba en contacto directo con la pastilla de café y lo expulsa al desagüe interno."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué cae agua limpia dentro de la bandeja mientras todavía está saliendo el café?",
+      "a": "Si usas una molienda muy fina o cesta presurizada, la presión alcanza el límite de apertura de la válvula OPV (9 bares en Breville, 15 bares en otros modelos). Para no reventar las mangueras ni sobreextraer el café, la válvula OPV desvía hacia la bandeja de goteo todo el caudal sobrante de la bomba durante esos 25 segundos."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué encuentro un charco de agua debajo de la cafetera si la bandeja de goteo está vacía?",
+      "a": "Cuando aparece agua en la mesa debajo de la cafetera sin que la bandeja delantera esté llena, el origen casi siempre está en la válvula inferior del depósito de agua trasero. Retira el tanque, limpia cualquier arenilla en el asiento circular de goma y asegúrate de presionarlo verticalmente hasta el fondo."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/el-cafe-sale-solo-por-uno-de-los-dos-picos-del-portafiltro/",
+    "/problemas-y-soluciones/casabrews-cm5418-parpadean-todos-los-botones-al-mismo-tiempo/",
     "/problemas-y-soluciones/el-portafiltro-se-suelta-o-gira-solo-durante-la-extraccion/",
-    "/problemas-y-soluciones/breville-bambino-plus-error-de-lanceta-bloqueada-tres-luces/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/sabor-metalico-o-rancio-en-el-cafe-aunque-uses-grano-bueno/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/sale-mucho-agua-a-la-bandeja-de-goteo-despues-de-cada-cafe.webp"
 }

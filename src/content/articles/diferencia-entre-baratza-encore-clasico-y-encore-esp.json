@@ -3,162 +3,111 @@
   "pillar": "molinos-y-molienda",
   "path": "/molinos-y-molienda/diferencia-entre-baratza-encore-clasico-y-encore-esp/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "diferencia baratza encore y encore esp",
   "title": "Baratza Encore Clásico vs Baratza Encore ESP: ¿Sirve el Modelo Clásico para Espresso?",
-  "seoTitle": "Baratza Encore Clásico vs Baratza Encore ESP | Guía Barista Compacta",
-  "metaDescription": "Baratza Encore Clásico vs Baratza Encore ESP: ¿Sirve el Modelo Clásico para Espresso?: Por qué el Encore clásico tiene saltos demasiado grandes para portafiltros Bottomless mientras que la versión ESP tiene una reductora micrométrica. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Por qué el Encore clásico tiene saltos demasiado grandes para portafiltros Bottomless mientras que la versión ESP tiene una reductora micrométrica.",
-  "quickAnswer": "Sobre diferencia baratza encore y encore esp: Por qué el Encore clásico tiene saltos demasiado grandes para portafiltros Bottomless mientras que la versión ESP tiene una reductora micrométrica. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Baratza Encore Clásico vs Baratza Encore ESP: ¿Sirve el Modelo Clásico para Espresso? | cafeteracompacta.com",
+  "metaDescription": "Conoce la diferencia entre Baratza Encore y Encore ESP: muelas M3 vs M2, resolución de 20 micras en los clics 1 al 20 y cuándo sirve cada uno para espresso.",
+  "excerpt": "Comparamos al milímetro el Baratza Encore clásico frente al Encore ESP: geometría de muelas Etzinger, pasos micrométricos para filtros no presurizados y compatibilidad con cafeteras compactas.",
+  "quickAnswer": "La diferencia fundamental entre el **Baratza Encore clásico** y el **Encore ESP** reside en su sistema de transmisión de rosca y su muela: el modelo **ESP** divide sus primeros **20 clics** en micro-ajustes de **20 micras** e integra la muela cónica **Etzinger M2 de 40 mm** para filtros no presurizados. El Encore clásico emplea la muela **M3** con saltos lineales anchos, por lo que solo funciona aceptablemente en cafeteras espresso si utilizas filtros presurizados.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Por qué el Encore clásico tiene saltos demasiado grandes para portafiltros Bottomless mientras que la versión ESP tiene una reductora micrométrica., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Top-down flat-lay knolling arrangement with accessories: realistic scene illustrating 'Baratza Encore Clásico vs Baratza Encore ESP: ¿Sirve el Modelo Clásico para Espresso?' (diferencia baratza encore y encore esp) for cafeteracompacta.com, featuring equipment in sleek titanium silver with carbon-gray texture, on a warm walnut table beside a sunlit window, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Baratza Encore Clásico vs Baratza Encore ESP: ¿Sirve el Modelo Clásico para Espresso?"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **diferencia baratza encore y encore esp** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Por qué el Encore clásico tiene saltos demasiado grandes para portafiltros Bottomless mientras que la versión ESP tiene una reductora micrométrica."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Intentar calibrar un portafiltro sin fondo en una **Breville Bambino (BES450)** o en una **CASABREWS CM5418** utilizando el **Baratza Encore clásico** suele terminar en una frustración inmediata: en el **clic 4** el café cae a chorros en apenas **11 segundos**, pero al cerrar un solo paso hasta el **clic 3** la bomba se bloquea por completo y no gotea nada. Aunque por fuera ambos molinos comparten la misma carcasa compacta de **12 cm de ancho** y una tolva de **40 posiciones**, la **diferencia entre Baratza Encore y Encore ESP** radica en el paso de rosca interno y en la geometría de corte de su muela central. Si estás empezando a [calibrar tu molino para espresso paso a paso](/molinos-y-molienda/como-calibrar-molino-para-espresso-paso-a-paso/), entender esta arquitectura mecánica te ahorrará bolsas enteras de grano desperdiciado."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: diferencia baratza encore y encore esp"
+      "text": "Geometría de muelas M3 vs M2 y resolución micrométrica de los clics 1 al 20"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **diferencia baratza encore y encore esp** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "El **Baratza Encore clásico** divide sus **40 clics** de manera totalmente lineal, desplazando la muela aproximadamente **25 a 30 micras** en cada salto desde el principio hasta el final del recorrido; ese salto resulta ideal para V60 o prensa francesa, pero es demasiado brusco para ajustar la resistencia hidráulica a **9 bares** en un filtro despresurizado. Por el contrario, el **Baratza Encore ESP** rediseña el collar portamuelas con un mecanismo de doble pendiente: los **clics 1 al 20** comprimen el recorrido a micro-pasos de solo **20 micras** verticales por clic dedicados exclusivamente a espresso, mientras que los **clics 21 al 40** abren el paso para métodos de filtro. Además, el modelo **ESP** sustituye la antigua muela **M3** por la prestigiosa muela cónica **M2 de 40 mm** fabricada en Liechtenstein por Etzinger, cuyo afilado reduce la dispersión bimodal como explicamos en nuestra comparativa de [muelas cónicas vs muelas planas en espresso compacto](/molinos-y-molienda/muelas-conicas-vs-muelas-planas-en-espresso-compacto/), compitiendo directamente con sistemas de ajuste compuesto como el [anillo interno Bevel del Fellow Opus](/molinos-y-molienda/como-ajustar-fellow-opus-anillo-interno-bevel-espresso/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: diferencia baratza encore y encore esp",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Especificación técnica",
+        "Baratza Encore Clásico",
+        "Baratza Encore ESP"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Por qué el Encore clásico tiene saltos demasiado grandes para portafiltros Bottomless mientras que la versión ESP tiene una reductora micrométrica.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Muela cónica instalada de fábrica",
+          "Etzinger M3 de 40 mm (acero templado)",
+          "Etzinger M2 de 40 mm (corte de alta uniformidad)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Arquitectura de los 40 clics",
+          "Lineal uniforme en todo el rango (1 al 40)",
+          "Doble rango: micro-pasos (1–20) y macro-pasos (21–40)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Salto vertical por clic en espresso",
+          "~25 a 30 micras (insuficiente para filtro sin fondo)",
+          "20 micras constantes en la zona de espresso"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "Desmontaje de muela central",
+          "Tuerca roscada fija (requiere herramienta o alicate)",
+          "Liberación rápida Quick-Release sin herramientas"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Recipiente de salida incluido",
+          "Cajón plástico rectangular estándar",
+          "Vaso dosificador antiestático de 54 mm + adaptador 58 mm"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre diferencia baratza encore y encore esp",
-      "text": "Por qué el Encore clásico tiene saltos demasiado grandes para portafiltros Bottomless mientras que la versión ESP tiene una reductora micrométrica. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Comparativa mecánica entre Baratza Encore Clásico y Baratza Encore ESP"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar diferencia baratza encore y encore esp hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con diferencia baratza encore y encore esp en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "¿En qué casos sí puedes usar el Baratza Encore clásico con tu cafetera compacta?"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Uso exclusivo con filtros presurizados (doble pared):** Si utilizas las cestas originales presurizadas de una **CASABREWS 3700Essential**, **CASABREWS CM5418** o **De’Longhi Dedica Arte (EC885M)**, la válvula de contrapresión del propio filtro compensa la falta de micro-ajustes del Encore clásico trabajando entre los **clics 4 y 7**.",
+        "**Modificación interna del tornillo de calibración:** Bajo la carcasa del Encore clásico existe un tornillo en el anillo calibrador con tres ventanas; desplazarlo hacia la posición más fina permite ganar alcance para espresso, aunque mantiene el salto ancho entre clics.",
+        "**Actualización manual de muela M3 a M2:** Muchos usuarios que ya poseen el Encore clásico instalan el repuesto de la muela **M2** para igualar la velocidad de corte (**1.2 a 1.5 g/s**), si bien la rosca seguirá siendo lineal.",
+        "**Limitación definitiva en portafiltros Bottomless:** Si planeas usar una cesta no presurizada IMS o el filtro de pared simple de **54 mm** de la **Breville Bambino**, el modelo **Encore ESP** es obligatorio para clavar tiempos de **25 a 30 segundos**."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "Inspección visual para diferenciar ambos modelos antes de comprar"
     },
     {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "Revisa la disponibilidad actual del Baratza Encore ESP en las tarjetas de Amazon integradas en esta página o consulta a nuestro Asesor IA para verificar qué molino se adapta mejor a tu cafetera compacta."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre diferencia baratza encore y encore esp?",
-      "a": "Por qué el Encore clásico tiene saltos demasiado grandes para portafiltros Bottomless mientras que la versión ESP tiene una reductora micrométrica. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cómo distinguir visualmente un Baratza Encore ESP de un Encore clásico?",
+      "a": "Visualmente se distinguen por tres detalles inmediatos: el Encore ESP lleva las siglas ESP impresas en el frontal, marca en la escala una línea divisoria destacada entre el clic 20 y el 21, e incluye en la caja el vaso dosificador cilíndrico de 54 mm junto al cajón colector tradicional."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Se puede convertir un Baratza Encore clásico en un Encore ESP cambiando la muela?",
+      "a": "Sí, puedes adquirir el kit de actualización de muela M2 oficial de Baratza e instalarlo en el eje del Encore clásico para mejorar la uniformidad de partícula. Sin embargo, conservarás la rosca lineal de 40 pasos iguales, por lo que no tendrás los 20 micro-ajustes dedicados del modelo ESP."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿En qué clic trabaja el Baratza Encore ESP para espresso despresurizado?",
+      "a": "En el Baratza Encore ESP, la mayoría de los cafés de tueste medio con filtro no presurizado en la Breville Bambino o la De'Longhi Dedica calibran entre el clic 12 y el clic 17, dejando margen de sobra hacia abajo a medida que el grano pierde gas."
     }
   ],
   "related": [
-    "/molinos-y-molienda/",
-    "/molinos-y-molienda/moler-con-el-molino-en-marcha-hot-start-vs-cold-start/",
-    "/molinos-y-molienda/por-que-hay-que-cerrar-el-molino-cuando-el-cafe-envejece/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/como-calibrar-molino-para-espresso-paso-a-paso/",
+    "/molinos-y-molienda/como-ajustar-fellow-opus-anillo-interno-bevel-espresso/",
+    "/molinos-y-molienda/muelas-conicas-vs-muelas-planas-en-espresso-compacto/",
+    "/molinos-y-molienda/que-es-un-molino-single-dose-y-que-es-la-retencion/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/diferencia-entre-baratza-encore-clasico-y-encore-esp.webp"
 }

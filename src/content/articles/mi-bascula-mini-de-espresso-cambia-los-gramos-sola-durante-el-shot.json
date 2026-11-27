@@ -4,161 +4,116 @@
   "path": "/problemas-y-soluciones/mi-bascula-mini-de-espresso-cambia-los-gramos-sola-durante-el-shot/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "bascula de cafe cambia el peso sola",
   "title": "Por Qué tu Báscula de Espresso Sube o Baja Gramos Sola sin Caer Café (Deriva Térmica y Roce)",
-  "seoTitle": "Por Qué tu Báscula de Espresso Sube o Baja Gramos Sola sin Caer Café (Deriva Térmica y Roce) | Guía Barista Compacta",
-  "metaDescription": "Por Qué tu Báscula de Espresso Sube o Baja Gramos Sola sin Caer Café (Deriva Térmica y Roce): Si la parte trasera de la báscula toca la pared vertical de la cafetera, la vibración falsea el peso: sepárala 3 milímetros del chasis. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Si la parte trasera de la báscula toca la pared vertical de la cafetera, la vibración falsea el peso: sepárala 3 milímetros del chasis.",
-  "quickAnswer": "Sobre bascula de cafe cambia el peso sola: Si la parte trasera de la báscula toca la pared vertical de la cafetera, la vibración falsea el peso: sepárala 3 milímetros del chasis. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué tu Báscula de Espresso Sube o Baja Gramos Sola sin Caer Café (Deriva Térmica y Roce) | cafeteracompacta.com",
+  "metaDescription": "¿Tu báscula de café cambia el peso sola durante la extracción? Descubre cómo el roce con el chasis y la deriva térmica alteran los gramos de tu espresso.",
+  "excerpt": "Aprende a corregir lecturas fantasma en básculas mini de espresso sobre bandejas de 15 cm como la De’Longhi Dedica o Breville Bambino: evita el contacto trasero y el choque térmico en la celda.",
+  "quickAnswer": "Si tu **báscula de café cambia el peso sola** subiendo o bajando décimas de gramo durante el shot, existen dos causas físicas: el **roce lateral o trasero** de la plataforma de pesaje contra la pared de la cafetera por la vibración de la bomba de **15 a 20 bares**, o la **deriva térmica (thermal drift)** cuando una taza a más de **75 °C** dilata la galga extensométrica interna sin alfombrilla de silicona.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Si la parte trasera de la báscula toca la pared vertical de la cafetera, la vibración falsea el peso: sepárala 3 milímetros del chasis., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Three-quarter 50mm studio-natural close-up shot: realistic scene illustrating 'Por Qué tu Báscula de Espresso Sube o Baja Gramos Sola sin Caer Café (Deriva Térmica y Roce)' (bascula de cafe cambia el peso sola) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, on a warm walnut table beside a sunlit window, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué tu Báscula de Espresso Sube o Baja Gramos Sola sin Caer Café (Deriva Térmica y Roce)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **bascula de cafe cambia el peso sola** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Si la parte trasera de la báscula toca la pared vertical de la cafetera, la vibración falsea el peso: sepárala 3 milímetros del chasis."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Taras tu taza precalentada a **0.0 g** sobre la bandeja de goteo de tu **De’Longhi Dedica Arte (EC885M)** o **Breville Bambino (BES450)**, y antes de que caiga la primera gota de café observas que la pantalla sube sola a **+1.6 g** o cae de golpe a **-3.2 g** en cuanto arranca la bomba. En cafeteras compactas de **15 cm** de ancho con bandejas poco profundas, las básculas digitales de **0.1 g** sufren dos fenómenos físicos muy concretos que sabotean tu ratio **1:2**. Aprende a diagnosticarlos paso a paso dentro de nuestro [compendio de problemas y soluciones](/problemas-y-soluciones/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: bascula de cafe cambia el peso sola"
+      "text": "Roce contra el chasis en bandejas estrechas y deriva térmica (Thermal Drift)"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **bascula de cafe cambia el peso sola** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
-    },
-    {
-      "type": "table",
-      "caption": "Parámetros de referencia barista para: bascula de cafe cambia el peso sola",
-      "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
-      ],
-      "rows": [
-        [
-          "Clave principal",
-          "Si la parte trasera de la báscula toca la pared vertical de la cafetera, la vibración falsea el peso: sepárala 3 milímetros del chasis.",
-          "Mejora la consistencia y evita errores de extracción"
-        ],
-        [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
-        ],
-        [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
-        ]
-      ]
+      "text": "Cuando una **báscula de café cambia el peso sola** con saltos bruscos de varios gramos únicamente mientras la cafetera está bombeando, la causa casi siempre es mecánica: el plato superior flotante de la báscula está rozando por **0.5 mm** la pared frontal de acero de la cafetera o una de sus cuatro patas de goma ha caído dentro de una ranura de la rejilla metálica, un fallo de apoyo comparable a los avisos de peso al [solucionar errores en la cuna gravimétrica de la Ninja Luxe Café ES601](/problemas-y-soluciones/error-en-ninja-luxe-cafe-add-water-o-install-funnel-solucion/). En cambio, si los números suben o bajan lentamente a razón de **0.1 g cada 2 o 3 segundos** con la máquina en absoluto silencio, estás ante la **deriva térmica (*thermal drift*)**: la galga extensométrica interna de aluminio cambia su resistencia eléctrica al calentarse por conducción desde una taza a **75 °C** puesta sin alfombrilla de silicona, o por el vapor que sube desde la bandeja de desagüe de una **Breville Bambino Plus (BES500)**, la misma zona donde el calor y la suciedad interfieren cuando [el vaporizador automático de la Bambino Plus deja la leche fría](/problemas-y-soluciones/el-vaporizador-automatico-de-la-bambino-plus-deja-la-leche-fria/)."
     },
     {
       "type": "callout",
-      "variant": "aviso",
-      "title": "Precaución técnica sobre bascula de cafe cambia el peso sola",
-      "text": "Si la parte trasera de la báscula toca la pared vertical de la cafetera, la vibración falsea el peso: sepárala 3 milímetros del chasis. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "variant": "tip",
+      "text": "Coloca tu báscula en la posición habitual sobre la bandeja de goteo y desliza una tarjeta bancaria verticalmente entre el borde trasero de la báscula y la pared metálica de la cafetera. Si la tarjeta se traba o roza, la vibración de la bomba a 15-20 bares hará chocar la carcasa contra el plato de pesaje y falseará hasta 5 gramos durante el tiro.",
+      "title": "La prueba de la tarjeta para descartar roce trasero en 3 segundos"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar bascula de cafe cambia el peso sola hoy mismo en tu cocina"
+      "text": "Tabla para identificar por qué oscilan los gramos de tu báscula durante el shot"
     },
     {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con bascula de cafe cambia el peso sola en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
+      "type": "table",
+      "headers": [
+        "Comportamiento de los gramos en pantalla",
+        "Causa técnica real",
+        "Cómo comprobarlo en la encimera",
+        "Solución definitiva"
+      ],
+      "rows": [
+        [
+          "Saltos bruscos (+3 g o -4 g) solo cuando suena la bomba",
+          "Roce del plato superior de la báscula contra la pared de la cafetera",
+          "Separar la báscula 3 mm hacia adelante o girarla 90 grados",
+          "Usar la báscula de perfil o elegir un modelo nano de 9.5 × 8.5 cm"
+        ],
+        [
+          "Subida o bajada constante de 0.1 g cada 2-3 s en reposo",
+          "Deriva térmica (Thermal Drift) por taza muy caliente o vapor inferior",
+          "Poner una taza fría a 20 °C y verificar que se mantiene en 0.0 g",
+          "Colocar siempre la alfombrilla de silicona aislante de 2-3 mm de grosor"
+        ],
+        [
+          "El peso baila sin control o se apaga a mitad de tiro",
+          "Humedad dentro del puerto USB-C o batería baja (<3.5 V)",
+          "Secar juntas inferiores y conectar al cargador USB 5 V",
+          "Recargar al 100 % y mantener vacía la bandeja de goteo inferior"
+        ],
+        [
+          "Al quitar la taza no regresa a su peso negativo exacto",
+          "Una de las 4 patas de goma se hunde en un hueco de la rejilla",
+          "Presionar las 4 esquinas de la báscula buscando cojera o balanceo",
+          "Alinear las 4 patas sobre los nervios planos o usar una base rígida fina"
+        ]
+      ],
+      "caption": "Diagnóstico físico y electrónico de lecturas fantasma en básculas de espresso"
     },
     {
       "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "4 hábitos prácticos para clavar tus 36 gramos sin variaciones fantasma"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Coloca siempre la alfombrilla de silicona sobre el plato**: Jamás apoyes una taza recién escaldada con agua a **80-90 °C** directamente sobre el acrílico o aluminio de la báscula; la goma de silicona corta el puente térmico hacia la celda de carga durante los **25 a 30 segundos** de la extracción.",
+        "**Gira la báscula 90 grados en bandejas estrechas**: En máquinas como la **De’Longhi Dedica Arte (EC885M)** o **CASABREWS CM5418**, orientar la pantalla hacia un lateral suele liberar entre **1 y 1.5 cm** de fondo y evita que las patas delanteras queden colgando fuera del borde.",
+        "**Tara la taza apenas 2 segundos antes de pulsar el botón**: No dejes la taza hirviendo encima de la báscula encendida mientras mueles y haces WDT; ponla sobre el plato justo al final y pulsa **Tare** inmediatamente antes de accionar la bomba.",
+        "**Vacía el agua caliente de la bandeja recolectora cada 2 cafés**: El vapor que asciende a través de las ranuras de la rejilla metálica calienta el chasis inferior de la báscula y altera la lectura de la galga extensométrica."
       ]
     },
     {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "cta",
+      "text": "¿Tu báscula actual es demasiado grande para la bandeja de 15 cm de tu cafetera compacta? Consulta a nuestro Asesor IA qué dimensiones exactas encajan en tu modelo o revisa la disponibilidad actual de básculas nano con cronómetro automático y alfombrilla térmica en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre bascula de cafe cambia el peso sola?",
-      "a": "Si la parte trasera de la báscula toca la pared vertical de la cafetera, la vibración falsea el peso: sepárala 3 milímetros del chasis. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Qué tamaño máximo debe tener una báscula para no rozar en la De’Longhi Dedica o CASABREWS CM5418?",
+      "a": "Para que las 4 patas de goma asienten dentro de la superficie plana de la rejilla sin tocar la columna trasera en una De’Longhi Dedica o CASABREWS CM5418, la báscula debe medir como máximo 10 × 10 cm (e idealmente 9.5 × 8.5 cm en formato nano) con una altura inferior a 1.9 cm."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué mi báscula ignora las primeras gotas de café y empieza a contar de golpe en 0.6 gramos?",
+      "a": "La mayoría de básculas baristas de precisión tienen una función de auto-cero (auto-tare tracking) para compensar microvariaciones de aire. Si la primera gota cae muy despacio en la pre-infusión (menos de 0.3 g por segundo), la báscula puede interpretarla como deriva hasta que el chorro continuo supera los 0.5 g."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Se puede recalibrar en casa una báscula de café que cambia los gramos sola?",
+      "a": "Si tu báscula incluye modo de calibración (normalmente manteniendo pulsado el botón Tare o Mode al encender hasta que pide 100 g o 200 g), puedes recalibrarla con una pesa patrón en frío. Sin embargo, si el fallo solo ocurre con tazas calientes, no es descalibración sino falta de aislamiento térmico con la alfombrilla de silicona."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/la-crema-del-espresso-desaparece-en-10-segundos/",
+    "/problemas-y-soluciones/error-en-ninja-luxe-cafe-add-water-o-install-funnel-solucion/",
     "/problemas-y-soluciones/el-puck-screen-se-cae-dentro-del-knock-box-junto-con-la-pastilla/",
-    "/problemas-y-soluciones/mi-molino-fellow-opus-se-para-solo-o-se-atasca-el-conducto/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/el-vaporizador-automatico-de-la-bambino-plus-deja-la-leche-fria/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/mi-bascula-mini-de-espresso-cambia-los-gramos-sola-durante-el-shot.webp"
 }

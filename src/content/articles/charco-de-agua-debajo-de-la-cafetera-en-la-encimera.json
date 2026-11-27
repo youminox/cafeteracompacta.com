@@ -4,161 +4,116 @@
   "path": "/problemas-y-soluciones/charco-de-agua-debajo-de-la-cafetera-en-la-encimera/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "sale agua por debajo de la cafetera espresso",
   "title": "Por Qué Aparece Agua Debajo de tu Cafetera Espresso en la Encimera (3 Puntos a Revisar)",
-  "seoTitle": "Por Qué Aparece Agua Debajo de tu Cafetera Espresso en la Encimera (3 Puntos a Revisar) | Guía Barista Compacta",
-  "metaDescription": "Por Qué Aparece Agua Debajo de tu Cafetera Espresso en la Encimera (3 Puntos a Revisar): Revisa 1) que la bandeja de goteo esté encajada hasta el fondo, 2) el asiento de la válvula del tanque trasero y 3) condensación de vapor. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Revisa 1) que la bandeja de goteo esté encajada hasta el fondo, 2) el asiento de la válvula del tanque trasero y 3) condensación de vapor.",
-  "quickAnswer": "Sobre sale agua por debajo de la cafetera espresso: Revisa 1) que la bandeja de goteo esté encajada hasta el fondo, 2) el asiento de la válvula del tanque trasero y 3) condensación de vapor. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué Aparece Agua Debajo de tu Cafetera Espresso en la Encimera (3 Puntos a Revisar) | cafeteracompacta.com",
+  "metaDescription": "¿Sale agua por debajo de tu cafetera espresso? Revisa estos 3 puntos clave en la bandeja, la válvula del depósito y el desagüe OPV para cortar la fuga.",
+  "excerpt": "Diagnóstico rápido por ubicación y temperatura del charco para distinguir entre un desborde oculto del conducto de descarga trasera, una junta del tanque pellizcada o una fuga interna de caldera.",
+  "quickAnswer": "En el 90 % de los casos, cuando sale agua por debajo de una cafetera espresso compacta no se trata de una avería grave, sino de tres causas externas: la bandeja de goteo desplazada 2 mm del conducto trasero de la válvula solenoide, la junta de silicona de la base del depósito mal asentada o el flotador rojo bloqueado por restos de café que impide ver el nivel real.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Revisa 1) que la bandeja de goteo esté encajada hasta el fondo, 2) el asiento de la válvula del tanque trasero y 3) condensación de vapor., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Split comparison composition showing two complementary setups side by side: realistic scene illustrating 'Por Qué Aparece Agua Debajo de tu Cafetera Espresso en la Encimera (3 Puntos a Revisar)' (sale agua por debajo de la cafetera espresso) for cafeteracompacta.com, featuring equipment in terracotta copper accent with matte slate body, on a light terrazzo surface in a contemporary living space, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué Aparece Agua Debajo de tu Cafetera Espresso en la Encimera (3 Puntos a Revisar)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **sale agua por debajo de la cafetera espresso** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Revisa 1) que la bandeja de goteo esté encajada hasta el fondo, 2) el asiento de la válvula del tanque trasero y 3) condensación de vapor."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Vas a pasar un paño por la cocina después de preparar los cafés de la mañana, mueves ligeramente tu **Breville Bambino Plus (BES500)**, **CASABREWS CM5418** o **De’Longhi Dedica Arte (EC885M)** y descubres un charco de agua extendiéndose por debajo del chasis sobre la madera o el cuarzo de la encimera. Antes de pensar que la caldera se ha agrietado o tramitar una devolución, conviene revisar la guía de nuestro [índice de problemas y soluciones](/problemas-y-soluciones/): en nueve de cada diez cafeteras compactas, el agua no proviene de una rotura interna, sino de un desajuste milimétrico en tres puntos externos de acople."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: sale agua por debajo de la cafetera espresso"
+      "text": "Los 3 puntos de fuga externa que parecen una avería del chasis"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **sale agua por debajo de la cafetera espresso** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "El primer punto crítico es el **conducto trasero de descarga** de la válvula solenoide de 3 vías o de la válvula de sobrepresión (**OPV**). Al finalizar cada extracción, ese tubo interno escupe un chorro de agua residual hacia un orificio situado al fondo de la bandeja de goteo; si la bandeja está desencajada apenas **2 o 3 milímetros** hacia afuera (algo muy común cuando [la cafetera vibra mucho y las tazas o la bandeja se mueven solas](/problemas-y-soluciones/la-cafetera-vibra-mucho-y-las-tazas-se-mueven-solas-en-la-bandeja/)), ese chorro cae directo al suelo de la encimera por detrás de la cubeta. El segundo punto es el **asiento de silicona de la válvula inferior del depósito de agua**: una sola partícula de cal o café molido atrapada en el muelle hace que el tanque gotee agua fría hacia la base trasera. El tercer punto es el **flotador rojo de nivel** atascado en su guía plástica, que impide ver que la bandeja ya está llena. Solo cuando hay fugas de vapor de alta presión en el interior del cuerpo superior suelen aparecer síntomas adicionales, como que [el manómetro de la cafetera tenga gotitas de vapor por dentro del cristal](/problemas-y-soluciones/el-manometro-de-mi-cafetera-tiene-gotitas-de-vapor-por-dentro-del-cristal/)."
+    },
+    {
+      "type": "h2",
+      "text": "Cómo identificar el origen exacto según la posición y temperatura del charco"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: sale agua por debajo de la cafetera espresso",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Ubicación y aspecto del agua en la encimera",
+        "Temperatura del líquido",
+        "Origen técnico confirmado",
+        "Solución paso a paso"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Revisa 1) que la bandeja de goteo esté encajada hasta el fondo, 2) el asiento de la válvula del tanque trasero y 3) condensación de vapor.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Charco de agua cristalina en la mitad trasera, justo debajo del depósito",
+          "Fría (temperatura ambiente)",
+          "Junta tórica del tapón inferior del tanque pellizcada o con restos sólidos en el asiento",
+          "Vaciar tanque, pulsar 5 veces el pistón inferior bajo el grifo para expulsar arenilla y lubricar la goma con agua"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Agua ligeramente amarillenta o con restos de café hacia el centro y frente",
+          "Tibia al terminar el café",
+          "Bandeja de goteo mal empujada hasta el fondo o flotador rojo bloqueado por grasa de café",
+          "Lavar el compartimento trasero oculto de la bandeja y empujarla hasta oír o notar el tope mecánico trasero"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Goteo por los laterales del grupo que escurre por la pared frontal hasta la base",
+          "Muy caliente (más de 80 °C) solo al extraer",
+          "Junta de silicona del grupo sucia de café molido o cesta deformada / sobrecargada con más gramos de los debidos",
+          "Cepillar el labio de la junta del grupo, limpiar el borde del portafiltro y reducir 1 gramo la dosis de café"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Agua limpia que sale por las rejillas de ventilación inferiores del chasis central",
+          "Caliente o tibia durante el bombeo",
+          "Manguera interna de teflón o abrazadera de salida de la bomba Ulka aflojada",
+          "Desenchufar el equipo inmediatamente y contactar soporte técnico o ajustar la abrazadera de silicona interna"
         ]
+      ],
+      "caption": "Mapa de diagnóstico de fugas de agua bajo la cafetera espresso compacta"
+    },
+    {
+      "type": "h2",
+      "text": "Prueba del papel absorbente para descartar una rotura de manguera interna"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "**Prueba estática del depósito fuera de la máquina:** Llena el tanque al máximo, sécalo por fuera y déjalo apoyado durante **15 minutos** sobre dos hojas de papel de cocina secas en la encimera. Si aparece una mancha húmeda circular bajo la válvula de muelle, la junta del tapón inferior necesita limpieza o recambio.",
+        "**Inspección del pozo de acoplamiento del tanque:** Con una linterna, revisa el hueco de la cafetera donde encaja el depósito. En modelos como la **De’Longhi Dedica** o **CASABREWS CM5418**, si se acumula agua allí al poner y quitar el tanque lleno, ese líquido drena por un agujero de alivio directo hacia la mesa.",
+        "**Test de extracción sobre papel de cocina bicolor:** Seca la base, coloca una hoja de papel absorbente bajo la mitad delantera (bandeja) y otra separada bajo la mitad trasera (bomba y tanque), y extrae un espresso doble. Verás al instante si la gota cae al final del tiro por el desagüe trasero de la bandeja o durante el bombeo.",
+        "**Verificación del compartimento trasero de la bandeja en Breville Bambino:** En las **Bambino BES450** y **BES500**, la bandeja tiene una cámara posterior semicerrada donde descarga el circuito ThermoJet; aunque la parte frontal parezca vacía, la trasera puede rebosar por las esquinas si no se vacía cada **6 a 8 cafés**."
       ]
     },
     {
       "type": "callout",
       "variant": "aviso",
-      "title": "Precaución técnica sobre sale agua por debajo de la cafetera espresso",
-      "text": "Revisa 1) que la bandeja de goteo esté encajada hasta el fondo, 2) el asiento de la válvula del tanque trasero y 3) condensación de vapor. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
-    },
-    {
-      "type": "h2",
-      "text": "Paso a paso para aplicar sale agua por debajo de la cafetera espresso hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
+      "text": "Nunca inclines ni tumbes tu cafetera espresso compacta más de 45 grados para mirar la base con el depósito puesto o con agua dentro de la bandeja de goteo, y desenchúfala siempre de la red eléctrica antes de tocar la parte inferior del chasis si sospechas que el agua proviene de las rejillas de ventilación internas.",
+      "title": "Precaución eléctrica antes de levantar o inclinar la cafetera"
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con sale agua por debajo de la cafetera espresso en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Buscas juntas de silicona de recambio para el grupo o el depósito de tu De’Longhi Dedica, Breville Bambino o CASABREWS? Consulta a nuestro Asesor IA o revisa los repuestos disponibles en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre sale agua por debajo de la cafetera espresso?",
-      "a": "Revisa 1) que la bandeja de goteo esté encajada hasta el fondo, 2) el asiento de la válvula del tanque trasero y 3) condensación de vapor. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Por qué mi cafetera tira agua por dentro hacia la bandeja justo al terminar cada café?",
+      "a": "Porque modelos como la Breville Bambino Plus o la De’Longhi Dedica Maestro Plus cuentan con una válvula solenoide de 3 vías que, en el instante en que se apaga la bomba, abre un conducto de escape para liberar la presión sobrante de la pastilla de café directamente hacia el fondo de la bandeja de goteo."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Es normal que quede un poco de agua en el hueco donde asienta el depósito?",
+      "a": "Cuando quitas el depósito con agua dentro para rellenarlo y lo vuelves a encajar, la válvula de muelle inferior se abre una fracción de segundo antes de sellar contra el pivote de entrada. Esas pequeñas gotas acumuladas día tras día rebosan la cavidad trasera; puedes evitarlo rellenando el tanque con una jarra sin desmontarlo."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué sale agua limpia por debajo solo cuando pongo molienda muy fina?",
+      "a": "Cuando el borde del portafiltro está húmedo o tiene restos de café molido, o cuando la junta de goma del grupo ha perdido elasticidad tras más de un año de uso, el agua a 9 bares escapa por el exterior del portafiltro, resbala de forma casi invisible por el frontal cromado y forma un charco bajo las patas delanteras."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/la-cafetera-se-apaga-sola-a-los-15-o-20-minutos-auto-off/",
+    "/problemas-y-soluciones/la-cafetera-vibra-mucho-y-las-tazas-se-mueven-solas-en-la-bandeja/",
     "/problemas-y-soluciones/la-leche-se-corta-en-copos-al-echarla-al-espresso-caliente/",
-    "/problemas-y-soluciones/no-puedo-sacar-la-cesta-del-portafiltro-esta-muy-dura/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/el-manometro-de-mi-cafetera-tiene-gotitas-de-vapor-por-dentro-del-cristal/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/charco-de-agua-debajo-de-la-cafetera-en-la-encimera.webp"
 }

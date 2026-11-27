@@ -4,161 +4,116 @@
   "path": "/molinos-y-molienda/que-es-un-molino-single-dose-y-que-es-la-retencion/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "que es molino single dose retencion cafe",
   "title": "Molino Single Dose vs Molino con Tolva: Por Qué la Retención Cero Ahorra Café en Casa",
-  "seoTitle": "Molino Single Dose vs Molino con Tolva | Guía Barista Compacta",
-  "metaDescription": "Molino Single Dose vs Molino con Tolva: Por Qué la Retención Cero Ahorra Café en Casa: Si cambias de grano o haces solo 2 cafés al día, un molino Single Dose con fuelle evita que queden 3 g de café rancio del día anterior. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Si cambias de grano o haces solo 2 cafés al día, un molino Single Dose con fuelle evita que queden 3 g de café rancio del día anterior.",
-  "quickAnswer": "Sobre que es molino single dose retencion cafe: Si cambias de grano o haces solo 2 cafés al día, un molino Single Dose con fuelle evita que queden 3 g de café rancio del día anterior. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
+  "seoTitle": "Molino Single Dose vs Molino con Tolva: Por Qué la Retención Cero Ahorra Café en Casa | cafeteracompacta.com",
+  "metaDescription": "Compara un molino single dose frente a uno con tolva: entiende cómo la retención cero de café evita purgas innecesarias y mejora tu espresso cada mañana.",
+  "excerpt": "Analizamos la diferencia técnica entre retención estructural e intercambio de molienda rancia para saber cuánto café desperdicias al calibrar tu máquina compacta y cuándo elegir un molino con fuelle.",
+  "quickAnswer": "Un **molino single dose** está diseñado para pesar y moler únicamente los **14 a 18 gramos** exactos de cada extracción, logrando una **retención inferior a 0.2 gramos** mediante cámaras inclinadas y fuelles de silicona. A diferencia de los molinos con tolva —que retienen entre **1.5 y 4 gramos** de café oxidado en sus conductos internos—, el sistema de dosis única evita purgar grano al cambiar de ajuste y conserva intacta la frescura.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Si cambias de grano o haces solo 2 cafés al día, un molino Single Dose con fuelle evita que queden 3 g de café rancio del día anterior., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Split comparison composition showing two complementary setups side by side: realistic scene illustrating 'Molino Single Dose vs Molino con Tolva: Por Qué la Retención Cero Ahorra Café en Casa' (que es molino single dose retencion cafe) for cafeteracompacta.com, featuring equipment in warm sand beige with matte black hardware, inside a bright contemporary apartment with minimalist decor, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Molino Single Dose vs Molino con Tolva: Por Qué la Retención Cero Ahorra Café en Casa"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **que es molino single dose retencion cafe** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Si cambias de grano o haces solo 2 cafés al día, un molino Single Dose con fuelle evita que queden 3 g de café rancio del día anterior."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Molinos Y Molienda](/molinos-y-molienda/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Imagina que el martes por la tarde calibras tu cafetera compacta **De’Longhi Dedica Arte (EC885M)** o tu **Breville Bambino (BES450)** y consigues un espresso equilibrado en **28 segundos**. A la mañana siguiente, sin haber tocado un solo parámetro, preparas el primer café del día y el líquido cae aguado en **16 segundos** con aromas planos a cartón húmedo. La culpable no es la bomba de presión, sino los **2.5 a 4 gramos de café molido oxidado** que quedaron atrapados la tarde anterior dentro del túnel de tu molino tradicional con tolva, un fenómeno clave que debes dominar dentro de nuestra sección de [molinos de café compactos para espresso y calibración de molienda](/molinos-y-molienda/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: que es molino single dose retencion cafe"
-    },
-    {
-      "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **que es molino single dose retencion cafe** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Retención estructural frente a retención de intercambio: dónde se esconde tu café"
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: que es molino single dose retencion cafe",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Parámetro técnico",
+        "Molino Single Dose (con fuelle)",
+        "Molino con Tolva (250 g – 450 g)"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Si cambias de grano o haces solo 2 cafés al día, un molino Single Dose con fuelle evita que queden 3 g de café rancio del día anterior.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Retención total en cámara y conducto",
+          "0.05 g – 0.2 g por dosis",
+          "1.5 g – 4.0 g acumulados en recovecos"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Café de purga al cambiar 1 clic de grosor",
+          "0 g (cambio directo entre dosis)",
+          "3 g – 5 g desperdiciados por cada ajuste"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Exposición de los granos al oxígeno y luz",
+          "Nula (se guardan en bolsa con válvula)",
+          "Alta (oxidación en tolva transparente en 48 h)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "Cambio entre café con cafeína y descafeinado",
+          "Inmediato en la siguiente extracción",
+          "Inviable sin vaciar y aspirar la tolva"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Consistencia por efecto peso (Popcorning)",
+          "Controlada mediante tapa antirebote y fuelle",
+          "Estable mientras la tolva supere el 40 % de carga"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre que es molino single dose retencion cafe",
-      "text": "Si cambias de grano o haces solo 2 cafés al día, un molino Single Dose con fuelle evita que queden 3 g de café rancio del día anterior. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
-    },
-    {
-      "type": "h2",
-      "text": "Paso a paso para aplicar que es molino single dose retencion cafe hoy mismo en tu cocina"
+      ],
+      "caption": "Comparativa técnica entre un molino Single Dose con fuelle y un molino tradicional con tolva en uso doméstico"
     },
     {
       "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con que es molino single dose retencion cafe en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
+      "text": "En ingeniería de molienda existen dos tipos de retención: la **retención estructural** (el espacio muerto entre las muelas y la carcasa que se llena la primera vez tras limpiar el equipo) y la **retención de intercambio** (ese café viejo que es empujado hacia tu portafiltro por la dosis nueva al día siguiente). En cafeteras con molino y tolva superior integrada —como ocurre al revisar [cómo calibrar el molino integrado de la De’Longhi La Specialista Arte](/molinos-y-molienda/como-calibrar-el-molino-integrado-de-la-delonghi-la-specialista-arte/)—, si haces apenas **2 cafés diarios**, el **20 % de tu primera taza** estará compuesto por partículas molidas hace **14 o 24 horas**. En cambio, al trabajar en modo dosis única tras definir [en qué clic poner el Baratza Encore ESP para CASABREWS CM5418 y De’Longhi Dedica](/molinos-y-molienda/ajuste-baratza-encore-esp-para-casabrews-y-dedica/), introduces **16.0 g** y recuperas **15.9 g** recién triturados."
     },
     {
       "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Por qué la retención cero ahorra hasta 120 gramos por cada kilo de café en grano"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "**Eliminación de purgas de calibración:** En un molino con tolva necesitas moler y tirar entre **3 g y 4 g** cada vez que mueves el dial para limpiar el grosor anterior; en una bolsa de **250 g**, eso supone desperdiciar hasta **30 g (casi dos espressos dobles)** solo ajustando la receta.",
+        "**Libertad para alternar bebidas:** Puedes preparar un espresso matutino a **92 °C**, cambiar por la tarde a un grano descafeinado con distinta densidad y volver a cerrar el ajuste sin mezclar sabores ni vaciar contenedores.",
+        "**Protección de lípidos y compuestos aromáticos:** Al pesar cada dosis al momento desde su bolsa hermética opaca, evitas que la luz ultravioleta de la cocina degrade los aceites esenciales de los granos como sucede en las tolvas acrílicas abiertas.",
+        "**Flujo constante asistido por fuelle de silicona:** Un par de pulsaciones firmes sobre el fuelle superior (bellows) al terminar de moler inyecta una ráfaga de aire a presión que barre los finos adheridos a las muelas planas o cónicas."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "El efecto Popcorning al usar un molino de tolva como Single Dose"
     },
     {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "callout",
+      "variant": "tip",
+      "text": "Si decides echar solo **16 g o 18 g** en la tolva vacía de un **Baratza Encore ESP** o un **Breville Smart Grinder Pro** sin accesorio de fuelle, notarás que los últimos **3 gramos** rebotan como palomitas de maíz sobre las muelas (*popcorning*). Al no tener el peso de **200 g** de granos encima que los empuje hacia abajo, esos últimos fragmentos entran más lento a la cámara de corte y producen una molienda ligeramente más gruesa, acelerando la extracción entre **2 y 3 segundos**. Para convertir un molino de tolva en **Single Dose real**, instala una **tolva corta con fuelle de silicona** y tapa antirebote (*anti-popcorning weight*).",
+      "title": "Cómo corregir el rebote de granos (Popcorning) sin peso en la tolva"
+    },
+    {
+      "type": "cta",
+      "text": "¿Quieres pasarte al flujo de trabajo Single Dose con retención cero o añadir una tolva con fuelle de silicona a tu molino actual? Revisa el stock y opciones compatibles en las tarjetas de Amazon de esta guía o consulta a nuestro Asesor IA para elegir el modelo exacto según tu espacio en la encimera."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre que es molino single dose retencion cafe?",
-      "a": "Si cambias de grano o haces solo 2 cafés al día, un molino Single Dose con fuelle evita que queden 3 g de café rancio del día anterior. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cuántos gramos de retención se consideran aceptables en un molino Single Dose para espresso?",
+      "a": "Se considera un molino de baja retención o Single Dose real todo equipo que, tras aplicar la técnica RDT y presionar el fuelle de silicona, conserve menos de 0.1 a 0.2 gramos de diferencia entre el peso en grano introducido y el café molido recogido en el vaso."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Puedo usar mi molino con tolva en casa sin arruinar el primer espresso de la mañana?",
+      "a": "Sí, siempre que mantengas una rutina disciplinada: vierte únicamente la dosis que vayas a consumir en el día o usa un accesorio de fuelle compatible. Si dejas la tolva llena durante una semana, deberás purgar entre 2 y 3 gramos antes del primer espresso de cada mañana."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Se debe presionar el fuelle del molino Single Dose con el motor encendido o apagado?",
+      "a": "Debes bombear el fuelle con dos o tres golpes secos justo cuando las muelas terminen de triturar los últimos granos y con el motor todavía girando. Si presionas el fuelle con el motor apagado, el polvo desprendido puede atascarse bajo la muela cónica en lugar de salir por la rampa."
     }
   ],
   "related": [
+    "/molinos-y-molienda/como-calibrar-el-molino-integrado-de-la-delonghi-la-specialista-arte/",
+    "/molinos-y-molienda/molienda-para-cafe-helado-iced-espresso-y-affogato/",
     "/molinos-y-molienda/",
-    "/molinos-y-molienda/como-instalar-arandelas-shims-en-baratza-encore-esp/",
-    "/molinos-y-molienda/tecnica-rdt-spray-de-agua-para-eliminar-estatica-del-molino/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/molinos-y-molienda/ajuste-baratza-encore-esp-para-casabrews-y-dedica/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-es-un-molino-single-dose-y-que-es-la-retencion.webp"
 }

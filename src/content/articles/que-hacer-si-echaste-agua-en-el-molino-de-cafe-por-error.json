@@ -4,161 +4,122 @@
   "path": "/problemas-y-soluciones/que-hacer-si-echaste-agua-en-el-molino-de-cafe-por-error/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "eche agua en el molino de cafe por error",
   "title": "Emergencia Barista: Qué Hacer si Volcaste Agua Dentro de la Tolva de tu Molino Eléctrico",
-  "seoTitle": "Emergencia Barista | Guía Barista Compacta",
-  "metaDescription": "Emergencia Barista: Qué Hacer si Volcaste Agua Dentro de la Tolva de tu Molino Eléctrico: Desenchúfalo al instante, desmonta la tolva y la muela superior, seca pieza por pieza con papel y secador en aire frío y déjalo abierto 24 horas. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Desenchúfalo al instante, desmonta la tolva y la muela superior, seca pieza por pieza con papel y secador en aire frío y déjalo abierto 24 horas.",
-  "quickAnswer": "Sobre eche agua en el molino de cafe por error: Desenchúfalo al instante, desmonta la tolva y la muela superior, seca pieza por pieza con papel y secador en aire frío y déjalo abierto 24 horas. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Emergencia Barista: Qué Hacer si Volcaste Agua Dentro de la Tolva de tu Molino Eléctrico | cafeteracompacta.com",
+  "metaDescription": "¿Volcaste líquido por despiste y buscas qué hacer si eché agua en el molino de café por error? Protocolo urgente para salvar motor y muelas de acero.",
+  "excerpt": "El agua mezclada con café retenido forma una pasta corrosiva que oxida las muelas de acero al alto carbono en pocas horas y amenaza la placa electrónica. Desmonta y seca tu molino paso a paso.",
+  "quickAnswer": "Si te preguntas qué hacer porque **eché agua en el molino de café por error**, **desenchúfalo de la pared de inmediato** y jamás lo enciendas para intentar expulsar el líquido. Retira la tolva y el portamuelas superior, extrae el barro de café húmedo, limpia las **muelas de acero al alto carbono** con un cepillo y **alcohol isopropílico al 99 %** (que desplaza la humedad y evita que se oxiden en horas) y deja secar el chasis abierto con un ventilador de aire frío durante **48 horas**.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Desenchúfalo al instante, desmonta la tolva y la muela superior, seca pieza por pieza con papel y secador en aire frío y déjalo abierto 24 horas., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Eye-level 35mm editorial documentary photograph: realistic scene illustrating 'Emergencia Barista: Qué Hacer si Volcaste Agua Dentro de la Tolva de tu Molino Eléctrico' (eche agua en el molino de cafe por error) for cafeteracompacta.com, featuring equipment in sleek titanium silver with carbon-gray texture, in a clean modern garage or studio corner with slate flooring, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Emergencia Barista: Qué Hacer si Volcaste Agua Dentro de la Tolva de tu Molino Eléctrico"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **eche agua en el molino de cafe por error** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Desenchúfalo al instante, desmonta la tolva y la muela superior, seca pieza por pieza con papel y secador en aire frío y déjalo abierto 24 horas."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Problemas Y Soluciones](/problemas-y-soluciones/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Acabas de llenar la jarra con agua filtrada para rellenar tu cafetera, pero tu mano traiciona a tu cerebro dormido y viertes un chorro directo dentro de la tolva de granos de tu **Baratza Encore ESP**, tu molino compacto de muelas cónicas **C6-40** o el molino integrado de tu estación espresso. Escuchas el chapoteo del líquido colándose entre los granos hacia la cámara de molienda y sientes pánico inmediato. En nuestro [portal de problemas y soluciones para equipamiento barista](/problemas-y-soluciones/), clasificamos este incidente como una **emergencia de nivel crítico**: lo que hagas en los próximos **15 minutos** determinará si tu molino sobrevive intacto o sufre corrosión en las muelas y un cortocircuito en el motor."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: eche agua en el molino de cafe por error"
+      "text": "Los Tres Peligros Físicos: Cortocircuito, Cemento de Café y Óxido en Acero al Carbono"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **eche agua en el molino de cafe por error** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Cuando buscas desesperadamente qué hacer porque *«eché agua en el molino de café por error»*, debes combatir tres procesos simultáneos dentro del chasis. Primero, el agua desciende por gravedad a través del eje central y la caja reductora planetaria hacia los bobinados del **motor de corriente continua (DC)** y la placa electrónica inferior. Segundo, todo molino retiene entre **0.5 g y 2.5 g** de polvo fino de café en las cavidades del portamuelas y el conducto de descarga; al mojarse, ese polvo forma un lodo pegajoso que, si se deja secar solo, fragua como **cemento duro** y bloquea la rosca del anillo de microajuste (provocando luego grumos severos o que [quede un borde de café sin prensar en las paredes de la cesta](/problemas-y-soluciones/mi-tamper-de-51mm-deja-un-borde-de-cafe-sin-prensar-en-las-paredes/)). Tercero, las muelas cónicas de alta precisión (como las **M2 de 40 mm** del **Baratza Encore ESP**) no están fabricadas en acero inoxidable blando de cubertería, sino en **acero martensítico al alto carbono templado** para conservar el filo durante años: en contacto con el agua, desarrollan **óxido superficial en solo 2 a 4 horas**. Es una urgencia mucho más delicada que cuando en una cafetera nueva ves que [el agua caliente sale blanca o con microburbujas](/problemas-y-soluciones/por-que-el-agua-caliente-de-la-cafetera-sale-blanca-o-con-microburbujas/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: eche agua en el molino de cafe por error",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Componente interno del molino",
+        "Tiempo hasta daño si no se actúa",
+        "Efecto del agua + polvo de café",
+        "Tratamiento de rescate exacto"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Desenchúfalo al instante, desmonta la tolva y la muela superior, seca pieza por pieza con papel y secador en aire frío y déjalo abierto 24 horas.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Motor DC y placa electrónica (PCB)",
+          "Instantáneo si se pulsa el botón de encendido",
+          "Cortocircuito o derivación en el interruptor y escobillas",
+          "Desenchufar de la pared y secado con ventilador frío por 48 h"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Muelas cónicas de acero al carbono (40 mm)",
+          "2 a 4 horas (inicio de picadura de óxido)",
+          "Oxidación galvánica en los filos de corte micrométricos",
+          "Desmontar, cepillar con alcohol isopropílico al 99 % y secar al instante"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Anillo de microajuste y conducto de salida",
+          "6 a 12 horas (al evaporarse el agua)",
+          "Costra cementada que gripa los hilos de rosca y el fieltro de sellado",
+          "Desmontar portamuelas superior, raspar pasta húmeda con palillo de madera y aspirar"
         ]
-      ]
+      ],
+      "caption": "Tiempos críticos de daño interno en un molino eléctrico mojado y método de neutralización"
+    },
+    {
+      "type": "h2",
+      "text": "La Trampa del Arroz y del Secador Caliente: Lo que Nunca Debes Hacer"
     },
     {
       "type": "callout",
       "variant": "aviso",
-      "title": "Precaución técnica sobre eche agua en el molino de cafe por error",
-      "text": "Desenchúfalo al instante, desmonta la tolva y la muela superior, seca pieza por pieza con papel y secador en aire frío y déjalo abierto 24 horas. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "**Jamás metas el molino en arroz** (el almidón y los granos entran en los engranajes reductores y destruyen la transmisión), **nunca apliques aire muy caliente con un secador de pelo** a corta distancia (deforma la tolva de policarbonato, derrite la grasa de silicona de los engranajes de nailon y cuece la pasta de café), y bajo ninguna circunstancia lo enchufes para «centrifugar el agua».",
+      "title": "Tres errores domésticos que destruyen un molino mojado"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar eche agua en el molino de cafe por error hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Protocolo de Desmontaje en Seco y Limpieza con Alcohol Isopropílico al 99 %"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Desenchufa el cable de la toma de corriente y no vuelques el chasis de golpe",
+          "text": "Desconecta la clavija de la pared en el primer segundo. **No pongas el molino boca abajo mientras tenga agua acumulada arriba**, ya que en muchos diseños el líquido escurriría desde la cámara de molienda directamente hacia las rejillas de ventilación del motor. Seca primero el charco visible con papel absorbente."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Desmonta la tolva, la junta de silicona y la muela superior sin herramientas",
+          "text": "En el **Baratza Encore ESP** o molinos similares, gira la tolva hasta la posición de extracción, retira la junta de goma negra y levanta el **portamuelas superior** (sujetándolo por las aletas sin girarlo). Extrae con una cuchara o aspirador de mano todos los granos mojados y la pasta húmeda que rodea la muela inferior."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
+          "name": "Limpia las muelas de acero con alcohol isopropílico al 99 % y cepillo duro",
+          "text": "Humedece un paño de microfibra y un cepillo de cerdas rígidas con **alcohol isopropílico al 99 %** (nunca alcohol medicinal de **70 %**, que contiene un **30 % de agua**) y frota a fondo ambas muelas y la rosca de ajuste. El alcohol isopropílico puro desplaza las moléculas de agua de las microfisuras del acero al carbono y se evapora en **10 segundos** sin dejar rastro de humedad."
         },
         {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Ventila el cuerpo abierto durante 48 horas y purga con 15 g de grano seco",
+          "text": "Deja el molino desmontado frente a un **ventilador de aire a temperatura ambiente** (o junto a un deshumidificador) durante **48 horas completas**. Una vez seco y ensamblado, muele **15 gramos** de granos de café viejos y deséchalos para recubrir nuevamente el acero desnudo con los lípidos protectores naturales del café."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con eche agua en el molino de cafe por error en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Necesitas un portamuelas de recambio para tu Baratza Encore ESP, tabletas limpiadoras absorbentes Urnex Grindz o estás valorando actualizar tu molino compacto? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre eche agua en el molino de cafe por error?",
-      "a": "Desenchúfalo al instante, desmonta la tolva y la muela superior, seca pieza por pieza con papel y secador en aire frío y déjalo abierto 24 horas. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Si apareció una mancha naranja de óxido en las muelas después de mojarse, debo tirarlas?",
+      "a": "Un leve velo anaranjado superficial en las caras planas no cortantes puede eliminarse frotando en seco con un cepillo de latón suave y alcohol isopropílico al **99 %**, seguido de la molienda de **30 g de café** o tabletas **Grindz**. Solo debes reemplazar el juego de muelas si el óxido ha picado los bordes afilados inferiores donde se realiza la molienda fina de espresso."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Puedo echar pastillas limpiadoras de molinos (tipo Grindz) para que absorban el agua?",
+      "a": "No mientras la pasta de café dentro del molino esté húmeda o haya líquido en el eje. Las tabletas limpiadoras **Grindz** (a base de cereales y aglutinantes alimentarios) están diseñadas para absorber aceites de café en seco; si las mueles sobre barro húmedo, formarán una masa espesa que atascará el motor. Úsalas únicamente **después de las 48 horas** de secado completo."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué hago si encendí el molino sin darme cuenta de que tenía agua y ahora zumba pero no gira?",
+      "a": "En ese caso la pasta de café mojado se habrá solidificado alrededor del eje y además es probable que haya saltado el fusible térmico o el interruptor interno por humedad. Desenchúfalo al instante, desmonta la muela superior, ablanda la costra seca exclusivamente con **alcohol isopropílico al 99 %** y un palillo de madera, y espera **48 horas** antes de probar de nuevo."
     }
   ],
   "related": [
-    "/problemas-y-soluciones/",
+    "/problemas-y-soluciones/mi-cafetera-gaggia-classic-tarda-mucho-en-dar-vapor/",
+    "/problemas-y-soluciones/mi-tamper-de-51mm-deja-un-borde-de-cafe-sin-prensar-en-las-paredes/",
     "/problemas-y-soluciones/por-que-el-agua-caliente-de-la-cafetera-sale-blanca-o-con-microburbujas/",
-    "/problemas-y-soluciones/que-hacer-si-echaste-cafe-molido-en-el-tanque-de-agua-por-error/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/problemas-y-soluciones/el-cafe-sale-con-poca-cantidad-aunque-el-tanque-esta-lleno/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/que-hacer-si-echaste-agua-en-el-molino-de-cafe-por-error.webp"
 }

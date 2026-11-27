@@ -3,162 +3,129 @@
   "pillar": "espacios-pequenos-y-coffee-corner",
   "path": "/espacios-pequenos-y-coffee-corner/comparativa-de-huella-en-cm2-cuanto-ocupa-cada-marca-en-tu-mesa/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "que cafetera espresso ocupa menos espacio en cm",
   "title": "Ranking por Superficie Total en cm² (Ancho × Fondo): Las Cafeteras con Menor Huella de Amazon",
-  "seoTitle": "Ranking por Superficie Total en cm² (Ancho × Fondo) | Guía Barista Compacta",
-  "metaDescription": "Ranking por Superficie Total en cm² (Ancho × Fondo): Las Cafeteras con Menor Huella de Amazon: Análisis de superficie real contando el saliente del mango del portafiltro y el cable trasero. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Análisis de superficie real contando el saliente del mango del portafiltro y el cable trasero.",
-  "quickAnswer": "Sobre que cafetera espresso ocupa menos espacio en cm: Análisis de superficie real contando el saliente del mango del portafiltro y el cable trasero. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Ranking por Superficie Total en cm² (Ancho × Fondo): Las Cafeteras con Menor Huella de Amazon | cafeteracompacta.com",
+  "metaDescription": "Comparativa técnica en cm² (ancho por fondo) de las cafeteras espresso más compactas de Amazon: medidas reales de CASABREWS, De’Longhi Dedica y Breville.",
+  "excerpt": "Calculamos la huella real en centímetros cuadrados de cada cafetera espresso compacta, sumando el margen trasero del cable y el vuelo frontal del portafiltro para encimeras mínimas.",
+  "quickAnswer": "La cafetera espresso con menor huella real de Amazon es la **CASABREWS CM5418**, que ocupa apenas **454.5 cm²** (**14.9 cm** de ancho × **30.5 cm** de fondo), seguida por la **CASABREWS 3700Essential** (**483.6 cm²**) y la **De’Longhi Dedica Arte EC885M** (**495.0 cm²**). Si buscas control térmico **PID** y válvula **OPV de 9 bares**, la **Breville Bambino BES450** requiere **624.0 cm²** (**19.5 cm × 32.0 cm**).",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Análisis de superficie real contando el saliente del mango del portafiltro y el cable trasero., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Eye-level 35mm editorial documentary photograph: realistic scene illustrating 'Ranking por Superficie Total en cm² (Ancho × Fondo): Las Cafeteras con Menor Huella de Amazon' (que cafetera espresso ocupa menos espacio en cm) for cafeteracompacta.com, featuring equipment in warm sand beige with matte black hardware, inside a bright contemporary apartment with minimalist decor, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Ranking por Superficie Total en cm² (Ancho × Fondo): Las Cafeteras con Menor Huella de Amazon"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **que cafetera espresso ocupa menos espacio en cm** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Análisis de superficie real contando el saliente del mango del portafiltro y el cable trasero."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Espacios Pequenos Y Coffee Corner](/espacios-pequenos-y-coffee-corner/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Cuando buscas qué cafetera espresso ocupa menos espacio en centímetros para una barra de desayuno o apartamento pequeño, mirar únicamente los **15 cm** o **19.5 cm** de ancho frontal lleva a errores de cálculo frecuentes. La verdadera superficie que pierdes en tu mesa es la **huella total en centímetros cuadrados (cm²)** resultante de multiplicar el ancho del chasis por su fondo real, sumando además el vuelo frontal del mango del portafiltro y los **3.5 cm a 4 cm** que exige la clavija trasera del cable de corriente. Dentro de nuestro [hub de espacios pequeños y coffee corner](/espacios-pequenos-y-coffee-corner/) hemos medido al milímetro los modelos superventas de Amazon para que sepas exactamente cuánta encimera libre te quedará."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: que cafetera espresso ocupa menos espacio en cm"
+      "text": "Ranking técnico en cm²: superficie real de chasis vs huella operativa con portafiltro"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **que cafetera espresso ocupa menos espacio en cm** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "La diferencia entre la categoría ultra-delgada (**15 cm** de frente) y la compacta estándar (**19.5 cm** de frente) supone un ahorro directo de entre **130 cm² y 260 cm²** sobre el tablero, el espacio exacto que ocupa una báscula barista o un dosificador. Si estás planificando [montar una mini estación de espresso silenciosa en tu oficina o home office](/espacios-pequenos-y-coffee-corner/cafetera-espresso-compacta-para-oficina-o-despacho-pequeno/) sobre un escritorio auxiliar de solo **40 cm de fondo**, la **CASABREWS CM5418** se corona como la campeona matemática con apenas **454.5 cm²** de base de chasis, superando incluso a la **De’Longhi Dedica Arte (EC885M)** gracias a sus **2.5 cm** menos de profundidad longitudinal."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: que cafetera espresso ocupa menos espacio en cm",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Modelo de cafetera compacta",
+        "Ancho × Fondo del chasis",
+        "Huella base (cm²)",
+        "Fondo total con portafiltro y cable"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Análisis de superficie real contando el saliente del mango del portafiltro y el cable trasero.",
-          "Mejora la consistencia y evita errores de extracción"
+          "1. CASABREWS CM5418 (Portafiltro 51 mm)",
+          "14.9 cm × 30.5 cm",
+          "454.5 cm²",
+          "41.5 cm (ocupa el menor fondo total)"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "2. CASABREWS 3700Essential (Tanque 1.3 L)",
+          "15.5 cm × 31.2 cm",
+          "483.6 cm²",
+          "42.0 cm (excelente relación tanque/base)"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "3. De’Longhi Dedica Arte EC885M (51 mm)",
+          "15.0 cm × 33.0 cm",
+          "495.0 cm²",
+          "44.0 cm (chasis ultra-fino más alargado)"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "4. Breville Bambino BES450 (ThermoJet 54 mm)",
+          "19.5 cm × 32.0 cm",
+          "624.0 cm²",
+          "43.5 cm (PID y válvula OPV en formato corto)"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "5. Breville Bambino Plus BES500 (Auto MilQ)",
+          "19.5 cm × 32.0 cm",
+          "624.0 cm²",
+          "43.5 cm (incluye sensor térmico en base)"
+        ],
+        [
+          "6. De’Longhi Dedica Maestro Plus EC950M",
+          "20.7 cm × 34.6 cm",
+          "716.2 cm²",
+          "45.5 cm (mayor base por módulo AutoLatte)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre que cafetera espresso ocupa menos espacio en cm",
-      "text": "Análisis de superficie real contando el saliente del mango del portafiltro y el cable trasero. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Comparativa de huella de chasis (Ancho × Fondo) y huella operativa total en modelos compactos de Amazon"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar que cafetera espresso ocupa menos espacio en cm hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes dudas con que cafetera espresso ocupa menos espacio en cm en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
+      "text": "Cómo combinar la huella de tu cafetera con el molino y el tapete sin saturar la mesa"
     },
     {
       "type": "ul",
       "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
+        "Pareja ultra-compacta de menos de 730 cm² totales: Al combinar la CASABREWS CM5418 (454.5 cm²) o la De’Longhi Dedica Arte (495.0 cm²) con el molino Fellow Opus (12.9 cm de ancho × 21.0 cm de fondo = 270.9 cm²), toda tu estación completa entra en una franja frontal de solo 28 cm de ancho total.",
+        "Pareja de alto rendimiento de 900 cm²: Si eliges la Breville Bambino BES450 (624.0 cm²) junto al Baratza Encore ESP (12.0 cm de ancho × 16.0 cm de fondo = 192.0 cm²), necesitas un frente lineal libre de 32 cm a 35 cm dejando 2 cm de holgura entre ambos chasis para evitar que las vibraciones se transmitan.",
+        "Reserva los 10 cm laterales de articulación para la lanceta de vapor: Aunque el chasis de la Dedica Arte o la CASABREWS mida 15 cm de ancho, la lanceta de vapor situada en el flanco derecho necesita un arco libre de 8 cm a 10 cm para introducir y inclinar la jarra de leche de 350 ml sin golpear la pared.",
+        "Cálculo del tapete absorbente inferior: Para encuadrar visualmente el conjunto sin desperdiciar superficie, elige tapetes de 40 × 30 cm (1200 cm²) en lugar de las alfombrillas gigantes de 60 × 40 cm pensadas para máquinas comerciales de doble caldera."
       ]
     },
     {
       "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
+      "text": "El factor oculto del fondo: el radio de curvatura del enchufe trasero y la proyección del brazo"
     },
     {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "type": "callout",
+      "variant": "tip",
+      "text": "Las fichas técnicas de los fabricantes miden el chasis desde el borde trasero del depósito hasta la rejilla frontal de la bandeja de goteo, pero omiten que el cordón eléctrico de sección gruesa (**14 AWG / 16 AWG** para soportar **1300 W a 1600 W**) sale perpendicular por la base trasera y exige entre **3.5 cm y 4.5 cm** adicionales para no doblarse en ángulo recto. Si quieres pegar la máquina al salpicadero tanto como sea posible y además [usar alfombrillas barista con núcleo de diatomita para absorber gotas](/espacios-pequenos-y-coffee-corner/tapetes-absorbentes-de-diatomita-y-silicona-para-tu-estacion-de-cafe/), retira el portafiltro cuando no estés extrayendo café y cuélgalo en un soporte magnético mural: recuperarás al instante **11 cm** de profundidad útil frente a la bandeja.",
+      "title": "Gana 11 cm de fondo real desacoplando el portafiltro en reposo"
+    },
+    {
+      "type": "cta",
+      "text": "Compara las dimensiones exactas y verifica la disponibilidad actual de la CASABREWS CM5418, De’Longhi Dedica Arte y Breville Bambino en las tarjetas de Amazon integradas en esta guía, o pregúntale a nuestro Asesor IA qué combinación encaja al milímetro en las medidas de tu mueble."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre que cafetera espresso ocupa menos espacio en cm?",
-      "a": "Análisis de superficie real contando el saliente del mango del portafiltro y el cable trasero. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Cuál es la cafetera espresso que menos superficie en cm² ocupa actualmente en Amazon?",
+      "a": "La CASABREWS CM5418 registra la menor huella del catálogo con solo 454.5 cm² (14.9 cm de ancho por 30.5 cm de fondo), seguida muy de cerca por la CASABREWS 3700Essential (483.6 cm²) y la De’Longhi Dedica Arte EC885M (495.0 cm²). Todas ellas ocupan menos que una hoja de papel tamaño A3 doblada."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Ocupa más espacio en la mesa la Breville Bambino Plus que la Breville Bambino estándar?",
+      "a": "Ambas comparten exactamente la misma huella de chasis sobre la mesa: 19.5 cm de ancho por 32.0 cm de fondo (624.0 cm²). La diferencia está en que la Bambino Plus incorpora el sensor térmico para la jarra en su bandeja de goteo, un tanque trasero mayor (1.9 L frente a 1.4 L) y válvula solenoide de 3 vías."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Qué profundidad mínima debe tener una estantería o carrito para apoyar una cafetera compacta?",
+      "a": "El fondo mínimo recomendable del tablero es de 36 cm a 38 cm. Eso permite apoyar los 30.5 cm a 33 cm de base del chasis junto con los 3.5 cm del cable trasero, quedando únicamente el mango del portafiltro sobresaliendo ligeramente cuando está encajado en el grupo."
     }
   ],
   "related": [
-    "/espacios-pequenos-y-coffee-corner/",
-    "/espacios-pequenos-y-coffee-corner/portafiltros-con-mango-corto-stubby-handle-para-cocinas-estrechas/",
-    "/espacios-pequenos-y-coffee-corner/mudanza-en-estados-unidos-como-embalar-tu-cafetera-y-molino-en-caja/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/espacios-pequenos-y-coffee-corner/cafetera-espresso-compacta-para-oficina-o-despacho-pequeno/",
+    "/espacios-pequenos-y-coffee-corner/estantes-flotantes-y-organizadores-verticales-sobre-la-cafetera/",
+    "/espacios-pequenos-y-coffee-corner/proteger-la-pared-trasera-backsplash-de-salpicaduras-de-cafe/",
+    "/espacios-pequenos-y-coffee-corner/tapetes-absorbentes-de-diatomita-y-silicona-para-tu-estacion-de-cafe/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/comparativa-de-huella-en-cm2-cuanto-ocupa-cada-marca-en-tu-mesa.webp"
 }

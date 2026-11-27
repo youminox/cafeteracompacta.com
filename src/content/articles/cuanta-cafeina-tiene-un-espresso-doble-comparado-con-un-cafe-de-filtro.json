@@ -4,161 +4,140 @@
   "path": "/extraccion-y-recetas-espresso/cuanta-cafeina-tiene-un-espresso-doble-comparado-con-un-cafe-de-filtro/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cuanta cafeina tiene un espresso doble en mg",
   "title": "Cuántos Miligramos de Cafeína Tiene Realmente un Espresso Doble de 36 g (120–150 mg)",
-  "seoTitle": "Cuántos Miligramos de Cafeína Tiene Realmente un Espresso Doble de 36 g (120–150 mg) | Guía Barista Compacta",
-  "metaDescription": "Cuántos Miligramos de Cafeína Tiene Realmente un Espresso Doble de 36 g (120–150 mg): Al extraerse en solo 27 segundos, un espresso doble tiene un sabor mucho más concentrado pero menos cafeína total que una taza grande de filtro de 350 ml. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Al extraerse en solo 27 segundos, un espresso doble tiene un sabor mucho más concentrado pero menos cafeína total que una taza grande de filtro de 350 ml.",
-  "quickAnswer": "Sobre cuanta cafeina tiene un espresso doble en mg: Al extraerse en solo 27 segundos, un espresso doble tiene un sabor mucho más concentrado pero menos cafeína total que una taza grande de filtro de 350 ml. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Cuántos Miligramos de Cafeína Tiene Realmente un Espresso Doble de 36 g (120–150 mg) | cafeteracompacta.com",
+  "metaDescription": "Descubre cuántos miligramos de cafeína tiene un espresso doble de 36 g frente al café de filtro y cómo influyen los gramos de tu cesta de 51 o 54 mm.",
+  "excerpt": "Análisis químico y práctico de la carga real de cafeína en un shot doble de 18 g frente a una taza de goteo, comparando variedades Arábica, mezclas con Robusta y cestas de 51 mm y 54 mm.",
+  "quickAnswer": "Un espresso doble estándar de **36 g** extraído a partir de **18 g** de café seco **100 % Arábica** contiene entre **120 mg y 150 mg de cafeína** (y hasta **200 mg** si la mezcla incluye **Robusta**). Aunque su concentración por mililitro es cinco veces superior a la del café filtrado, una taza grande de goteo de **250 ml** aporta una cantidad total similar (**135–165 mg**) por su mayor tiempo de contacto.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Al extraerse en solo 27 segundos, un espresso doble tiene un sabor mucho más concentrado pero menos cafeína total que una taza grande de filtro de 350 ml., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Dynamic action-ready placement on clean counter surface with subtle reflections: realistic scene illustrating 'Cuántos Miligramos de Cafeína Tiene Realmente un Espresso Doble de 36 g (120–150 mg)' (cuanta cafeina tiene un espresso doble en mg) for cafeteracompacta.com, featuring equipment in olive sage green with anodized silver accents, on a matte dark-gray technical mat with measuring tools nearby, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cuántos Miligramos de Cafeína Tiene Realmente un Espresso Doble de 36 g (120–150 mg)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **cuanta cafeina tiene un espresso doble en mg** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Al extraerse en solo 27 segundos, un espresso doble tiene un sabor mucho más concentrado pero menos cafeína total que una taza grande de filtro de 350 ml."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Cuando pasas de beber un tazón de café pasado por goteo de **250 ml** a preparar un shot corto en tu **Breville Bambino (BES450)** o **CASABREWS CM5418**, es habitual pensar que ese líquido denso y oscuro de apenas **36 g** multiplica por tres el estímulo nervioso. Sin embargo, entender **cuánta cafeína tiene un espresso doble en mg** exige separar dos conceptos físicos que suelen confundirse en casa: la concentración química por mililitro y la masa total de alcaloide disuelta en la taza final."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: cuanta cafeina tiene un espresso doble en mg"
+      "text": "Concentración vs. dosis total: la química real dentro de 36 gramos de líquido"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **cuanta cafeina tiene un espresso doble en mg** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "La cafeína ($C_8H_{10}N_4O_2$) es un compuesto altamente hidrosoluble que se libera con enorme rapidez al contacto con agua a **92–93 °C** bajo **9 bares** de presión. En una receta moderna de especialidad extraída en el [hub de extracción y recetas espresso](/extraccion-y-recetas-espresso/) con **18 g** de café seco en una cesta de **54 mm** (como la de la **Breville Bambino Plus BES500**), un espresso doble de **36 g** entrega entre **120 mg y 150 mg** de cafeína si utilizas grano **100 % Arábica**. Eso equivale a una concentración altísima de **3.3 a 4.1 mg por gramo de bebida**, frente a los apenas **0.6–0.7 mg/ml** de un café filtrado. La diferencia radica en el volumen: mientras el espresso se bebe en tres sorbos rápidos que aceleran la absorción gástrica, una taza grande de filtro de **250 ml** acumula entre **140 mg y 180 mg** totales porque el agua permanece en contacto con el café durante **3 a 4 minutos**."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: cuanta cafeina tiene un espresso doble en mg",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Método / Cafetera de referencia",
+        "Dosis seca (g)",
+        "Peso líquido en taza",
+        "Cafeína total (100 % Arábica)",
+        "Cafeína con mezcla 20 % Robusta"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Al extraerse en solo 27 segundos, un espresso doble tiene un sabor mucho más concentrado pero menos cafeína total que una taza grande de filtro de 350 ml.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Espresso simple (Cesta 51 mm CASABREWS CM5418)",
+          "7–9 g",
+          "18–20 g",
+          "55–70 mg",
+          "75–95 mg"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Doble compacto (Cesta 51 mm De’Longhi Dedica Arte)",
+          "14 g",
+          "28–30 g",
+          "95–115 mg",
+          "130–160 mg"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Espresso doble estándar (Cesta 54 mm Breville Bambino)",
+          "18 g",
+          "36 g",
+          "120–150 mg",
+          "165–205 mg"
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
+          "Ristretto doble corto (Ratio 1:1.2)",
+          "18 g",
+          "22 g",
+          "100–125 mg",
+          "140–170 mg"
         ],
         [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Café de filtro / V60 / Goteo doméstico",
+          "15 g",
+          "250 ml",
+          "135–165 mg",
+          "180–220 mg"
         ]
-      ]
+      ],
+      "caption": "Comparativa técnica de cafeína según método, cesta y variedad de grano"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo alteran los miligramos la especie del grano, el tueste y el diámetro de tu cesta"
+    },
+    {
+      "type": "p",
+      "text": "El factor que más dispara los miligramos reales en tu taza no es el color del tueste, sino la genética botánica del grano y la capacidad física del portafiltro. El grano **Coffea canephora (Robusta)** contiene entre **2.2 % y 2.7 %** de cafeína en peso seco, casi el doble que el **Coffea arabica** (**1.1 % a 1.5 %**). Por eso, un blend italiano tradicional preparado en un [auténtico cafecito cubano con espumita](/extraccion-y-recetas-espresso/como-hacer-cafe-cubano-cafecito-con-espumita-de-azucar-en-tu-cafetera/) usando la cesta de **14 g y 51 mm** de una **De’Longhi Dedica Arte (EC885M)** puede superar en estímulo a un Arábica de especialidad de **18 g**. Además, si alargas la extracción más allá de los **30 segundos** ignorando [cuándo cortar el shot en el blonding point](/extraccion-y-recetas-espresso/como-saber-cuando-cortar-el-shot-visualmente-el-blonding-point/), solo sumarás entre **10 y 15 mg** adicionales de cafeína, pero arrastrarás lactonas amargas y compuestos astringentes que arruinan el balance sensorial."
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de barista sobre cuanta cafeina tiene un espresso doble en mg",
-      "text": "Al extraerse en solo 27 segundos, un espresso doble tiene un sabor mucho más concentrado pero menos cafeína total que una taza grande de filtro de 350 ml. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      "text": "La cafeína sublima recién por encima de los 178 °C y es térmicamente muy estable durante el tostado. Un tueste oscuro no tiene menos cafeína por molécula; lo que cambia es la densidad: al perder más humedad, cada grano oscuro pesa menos, por lo que si dosificas con báscula a 18.0 g exactos tendrás más granos en la cesta y ligeramente más cafeína que con un tueste claro medido por peso.",
+      "title": "Mito del tueste oscuro vs. tueste claro al pesar en báscula"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar cuanta cafeina tiene un espresso doble en mg hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Factores prácticos para regular tu ingesta diaria de cafeína con tu cafetera compacta"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Ajusta por gramos de dosis seca, no por largo de agua",
+          "text": "Dado que entre el 75 % y el 85 % de la cafeína se extrae durante los primeros 15 a 18 segundos del shot, hacer un Ristretto corto apenas reduce un 15 % el alcaloide; para bajar realmente los miligramos, cambia a la cesta simple de 7–9 g o mezcla 50 % de grano descafeinado al agua (Swiss Water)."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Vigila el porcentaje de Robusta en cafés comerciales",
+          "text": "Mezclas europeas pensadas para leche o capuchino suelen incorporar entre un 20 % y un 40 % de Robusta para potenciar cuerpo y crema, elevando un shot doble hasta cerca de los 190–210 mg."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Respeta el límite fisiológico diario recomendado",
+          "text": "La EFSA y la FDA sitúan en 400 mg diarios el umbral seguro para un adulto sano, lo que equivale exactamente a dos espressos dobles de 18 g de Arábica por la mañana y uno ligero de 14 g a primera hora de la tarde."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con cuanta cafeina tiene un espresso doble en mg en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "¿Buscas una báscula barista con precisión de 0.1 g o cestas de repuesto de 51 mm y 54 mm para controlar tu dosis exacta? Consulta la disponibilidad actual en las tarjetas de Amazon de esta guía o pregunta a nuestro Asesor IA qué configuración se adapta mejor a tu rutina."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre cuanta cafeina tiene un espresso doble en mg?",
-      "a": "Al extraerse en solo 27 segundos, un espresso doble tiene un sabor mucho más concentrado pero menos cafeína total que una taza grande de filtro de 350 ml. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Un espresso Lungo tiene mucha más cafeína que un espresso doble normal de 36 g?",
+      "a": "Un Lungo de 60–70 g extraído con la misma pastilla de 18 g solo aporta entre 12 y 18 mg más de cafeína que un espresso doble de 36 g, ya que la mayor parte del alcaloide soluble sale en los primeros segundos de flujo; sin embargo, sí incrementa notablemente el amargor por sobreextracción de fibras vegetales."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué un shot doble en una cafetera de 51 mm tiene menos cafeína que en una de 54 mm?",
+      "a": "La cesta doble original de 51 mm en cafeteras como la CASABREWS CM5418 o la De’Longhi Dedica Arte admite unos 14 g de café seco (95–115 mg de cafeína en Arábica), mientras que la cesta de 54 mm de la Breville Bambino aloja 18 g reales, entregando entre 120 y 150 mg por extracción."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Mezclar el espresso doble con leche en un latte o capuchino reduce su cafeína?",
+      "a": "No, la cafeína total permanece intacta. Lo que cambia es la velocidad de vaciado gástrico: los lípidos y la caseína de 150 ml de leche entera ralentizan la absorción intestinal de los 130 mg de cafeína, produciendo una curva de energía más suave y sostenida que al beber el espresso solo en ayunas."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/como-preparar-un-espresso-con-crema-usando-cafe-premolido-de-supermercado/",
     "/extraccion-y-recetas-espresso/como-pulir-la-pastilla-de-cafe-girando-el-tamper-es-bueno-o-malo/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/como-hacer-cafe-cubano-cafecito-con-espumita-de-azucar-en-tu-cafetera/",
+    "/extraccion-y-recetas-espresso/como-preparar-un-cafe-de-olla-especiado-estilo-espresso-latte/",
+    "/extraccion-y-recetas-espresso/como-saber-cuando-cortar-el-shot-visualmente-el-blonding-point/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/cuanta-cafeina-tiene-un-espresso-doble-comparado-con-un-cafe-de-filtro.webp"
 }

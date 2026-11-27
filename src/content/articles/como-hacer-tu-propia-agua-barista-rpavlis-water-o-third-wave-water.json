@@ -4,161 +4,118 @@
   "path": "/cafe-en-grano-y-agua/como-hacer-tu-propia-agua-barista-rpavlis-water-o-third-wave-water/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como hacer agua para espresso third wave water",
   "title": "Receta de Agua Barista 'RPavlis' y Sobres Third Wave Water (Cero Cal Garantizado en tu Caldera)",
-  "seoTitle": "Receta de Agua Barista 'RPavlis' y Sobres Third Wave Water (Cero Cal Garantizado en tu Caldera) | Guía Barista Compacta",
-  "metaDescription": "Receta de Agua Barista 'RPavlis' y Sobres Third Wave Water (Cero Cal Garantizado en tu Caldera): Añadir un sobre de minerales balanceados sin carbonato cálcico a 1 galón de agua destilada hace químicamente imposible que se forme sarro. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Añadir un sobre de minerales balanceados sin carbonato cálcico a 1 galón de agua destilada hace químicamente imposible que se forme sarro.",
-  "quickAnswer": "Sobre como hacer agua para espresso third wave water: Añadir un sobre de minerales balanceados sin carbonato cálcico a 1 galón de agua destilada hace químicamente imposible que se forme sarro. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Receta de Agua Barista 'RPavlis' y Sobres Third Wave Water (Cero Cal Garantizado en tu Caldera) | cafeteracompacta.com",
+  "metaDescription": "Aprende cómo hacer agua para espresso con Third Wave Water Espresso Profile o la receta química RPavlis para garantizar cero cal en la caldera de tu máquina.",
+  "excerpt": "Si quieres olvidarte para siempre de descalcificar tu cafetera compacta, puedes mineralizar agua destilada o ZeroWater en casa. Explicamos las fórmulas exactas con bicarbonato potásico y sulfato de magnesio.",
+  "quickAnswer": "Para saber cómo hacer agua para espresso sin riesgo de cal, tienes dos vías infalibles sobre una base de **1 galón (3.78 L)** de agua destilada o **ZeroWater a 000 ppm**: disolver un sobre de **Third Wave Water Espresso Machine Profile** (formulado sin cloruros ni calcio incrustante) o preparar la receta **RPavlis** añadiendo exactamente **0.38 gramos** de bicarbonato potásico (**KHCO₃**) por galón (**0.10 g por litro**). Ambas opciones garantizan **cero incrustaciones calcáreas**.",
+  "readingMinutes": 8,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Añadir un sobre de minerales balanceados sin carbonato cálcico a 1 galón de agua destilada hace químicamente imposible que se forme sarro., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "High-angle 45-degree workbench/tabletop perspective on 28mm lens: realistic scene illustrating 'Receta de Agua Barista 'RPavlis' y Sobres Third Wave Water (Cero Cal Garantizado en tu Caldera)' (como hacer agua para espresso third wave water) for cafeteracompacta.com, featuring equipment in terracotta copper accent with matte slate body, in a well-organized domestic utility area with natural plants nearby, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Receta de Agua Barista 'RPavlis' y Sobres Third Wave Water (Cero Cal Garantizado en tu Caldera)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **como hacer agua para espresso third wave water** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Añadir un sobre de minerales balanceados sin carbonato cálcico a 1 galón de agua destilada hace químicamente imposible que se forme sarro."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Cafe En Grano Y Agua](/cafe-en-grano-y-agua/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "Imagina no tener que comprar ni ejecutar un solo ciclo de descalcificación química en tu **Breville Bambino Plus (BES500)**, **De’Longhi Dedica Maestro Plus (EC950M)** o **CASABREWS CM5418** durante años de uso diario, sabiendo con certeza científica que los microconductos del bloque térmico y la válvula solenoide de **3 vías** están exactamente igual de limpios que el día que estrenaste la máquina. Dentro de [la disciplina técnica del café en grano y agua](/cafe-en-grano-y-agua/), esto se logra partiendo de agua destilada o filtrada con **ZeroWater a 000 ppm** y remineralizándola en casa en menos de **30 segundos** con sales minerales que jamás precipitan en forma de roca calcárea."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: como hacer agua para espresso third wave water"
+      "text": "Por qué la receta del Dr. Robert Pavlis (RPavlis Water) es físicamente incapaz de formar sarro"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **como hacer agua para espresso third wave water** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Las incrustaciones blancas que arruinan las cafeteras espresso se producen cuando los iones de **calcio (Ca²⁺)** reaccionan con los iones carbonato al superar los **85 °C – 93 °C**, formando carbonato cálcico (**CaCO₃**), un compuesto casi insoluble en agua (**0.013 gramos por litro**). El químico canadiense **Dr. Robert Pavlis** ideó una solución brillante para cafeteras de caldera y **Thermoblock**: eliminar al **100 %** el calcio y emplear un único ingrediente en agua destilada, el **bicarbonato de potasio (KHCO₃)** en proporción de **100 mg por litro** (que aporta **50 ppm** de alcalinidad equivalente al CaCO₃ y un **TDS de ~70 ppm**). Al calentarse incluso a los **130 °C** del vaporizador, el carbonato de potasio resultante posee una solubilidad gigantesca de **1120 gramos por litro**: es químicamente imposible que solidifique dentro de tu cafetera. Si además quieres sumar el poder extractor del magnesio para exprimir todas las notas de [tostadores de especialidad como Counter Culture o Intelligentsia](/cafe-en-grano-y-agua/mejores-tostadores-de-especialidad-en-amazon-usa-stumptown-intelligentsia-counter-culture/) tras su [correcto periodo de desgasificación](/cafe-en-grano-y-agua/por-que-un-cafe-recien-tostado-de-hace-2-dias-no-sirve-para-espresso/), puedes usar sobres predosificados **Third Wave Water Espresso Machine Profile** o añadir sulfato de magnesio (sales de Epsom grado alimentario)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: como hacer agua para espresso third wave water",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Fórmula Barista Casera",
+        "Composición exacta por 1 Galón (3.78 L) de agua 000 ppm",
+        "Dureza GH / Alcalinidad KH resultante",
+        "Ventaja principal en cafeteras compactas"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Añadir un sobre de minerales balanceados sin carbonato cálcico a 1 galón de agua destilada hace químicamente imposible que se forme sarro.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Agua RPavlis (Receta original)",
+          "0.38 g de Bicarbonato Potásico (KHCO₃) puro",
+          "0 ppm GH / 50 ppm KH (TDS ~70 ppm)",
+          "Garantía absoluta de cero cal de por vida con un solo ingrediente"
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Third Wave Water (Espresso Profile)",
+          "1 stick negro (Sulfato de magnesio, citrato cálcico y KHCO₃)",
+          "~110 ppm GH / ~40 ppm KH (TDS ~150 ppm)",
+          "Comodidad inmediata sin pesar polvos y libre de cloruros corrosivos"
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
-        ],
-        [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Receta SCA 70/40 sin Calcio (Hendon)",
+          "0.65 g Sales de Epsom (MgSO₄·7H₂O) + 0.25 g KHCO₃",
+          "70 ppm GH (100 % Magnesio) / 40 ppm KH",
+          "Máxima extracción de dulzor y crema sin rastro de calcio incrustante"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Consejo de barista sobre como hacer agua para espresso third wave water",
-      "text": "Añadir un sobre de minerales balanceados sin carbonato cálcico a 1 galón de agua destilada hace químicamente imposible que se forme sarro. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
+      ],
+      "caption": "Comparativa de las 3 mejores fórmulas de agua barista casera (dosis para 1 Galón US / 3.78 Litros)"
     },
     {
       "type": "h2",
-      "text": "Paso a paso para aplicar como hacer agua para espresso third wave water hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
+      "text": "Paso a paso para preparar el concentrado madre RPavlis o usar sobres Third Wave Water"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
+          "name": "Paso 1: Crea la botella de Concentrado Madre (100x) con tu báscula de espresso de 0.1 g",
+          "text": "Pesar **0.10 gramos** para un solo litro de agua tiene demasiado margen de error en una báscula doméstica. En su lugar, pesa exactamente **10.0 gramos** de bicarbonato de potasio (**KHCO₃** grado alimentario USP/FCC) y disuélvelos en una botella con **1 litro (1000 gramos)** de agua destilada. Este concentrado dura más de un año a temperatura ambiente."
         },
         {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
+          "name": "Paso 2: Añade 10 gramos de concentrado por cada litro de agua destilada o ZeroWater",
+          "text": "Cada vez que vayas a preparar agua para tu **Breville Bambino (BES450)** o **De’Longhi Dedica**, coloca tu botella o garrafa sobre la báscula: vierte **10.0 gramos (10 ml)** del Concentrado Madre por cada **1 litro** de agua destilada (o **38.0 gramos** de concentrado por cada galón estadounidense de **3.78 L**). Agita **10 segundos** y viértela directo al tanque."
         },
         {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
+          "name": "Paso 3: Si prefieres sobres Third Wave Water, vierte 1 stick de la caja negra en 1 galón",
+          "text": "Compra un galón de *Distilled Water* en el supermercado, vacía un sobre completo de **Third Wave Water Espresso Machine Profile (caja negra)**, cierra el tapón y agita con fuerza durante **30 segundos**. Espera **15 minutos** a que los cristales de citrato y magnesio se disuelvan totalmente antes de llenar la cafetera."
         }
       ]
     },
     {
+      "type": "h2",
+      "text": "Qué perfil de Third Wave Water elegir para evitar la corrosión por cloruros"
+    },
+    {
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Third Wave Water comercializa varios perfiles según el método de preparación. Para cualquier cafetera espresso (Breville, De’Longhi, CASABREWS o Gaggia), debes elegir exclusivamente el Espresso Machine Profile (caja negra). Nunca utilices el Classic Light Roast Profile (caja blanca) en máquinas de espresso, ya que su fórmula contiene cloruro de calcio, cuyos iones cloruro aceleran la corrosión a alta presión y temperatura.",
+      "title": "Elige siempre la caja negra (Espresso Profile) y evita los cloruros"
+    },
+    {
       "type": "cta",
-      "text": "¿Tienes dudas con como hacer agua para espresso third wave water en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Consulta a nuestro Asesor IA qué receta mineral se adapta mejor al tueste de tus granos favoritos y revisa la disponibilidad de sobres Third Wave Water Espresso Profile y básculas de precisión 0.1 g en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre como hacer agua para espresso third wave water?",
-      "a": "Añadir un sobre de minerales balanceados sin carbonato cálcico a 1 galón de agua destilada hace químicamente imposible que se forme sarro. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Puedo hacer la receta RPavlis con bicarbonato de sodio común en vez de bicarbonato de potasio?",
+      "a": "Sí, es perfectamente posible sustituir los **10.0 gramos** de bicarbonato potásico por **8.4 gramos** de bicarbonato sódico (**NaHCO₃**, *baking soda*) en el litro de concentrado madre para lograr los mismos **50 ppm** de alcalinidad sin cal. Sin embargo, el ion potasio del **KHCO₃** es preferible porque es totalmente neutro en boca, mientras que el sodio puede percibirse ligeramente salino."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Cuántos litros de agua para espresso puedo preparar con un bote de bicarbonato de potasio?",
+      "a": "Un bote de **454 gramos (1 libra)** de bicarbonato potásico de grado alimentario (usado en enología y repostería) permite preparar **45 litros de concentrado madre**, lo que equivale a **4500 litros de agua barista RPavlis** (más de **1180 galones**). Es, con diferencia, el método más económico y duradero que existe."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Debo descalcificar mi cafetera si uso exclusivamente agua RPavlis?",
+      "a": "No. Si utilizas **100 % agua RPavlis** desde que la máquina está nueva o recién descalcificada, dentro del circuito térmico hay **0.0 mg/L de calcio**, por lo que es físicamente imposible que se forme carbonato cálcico. Cuando se encienda el aviso automático por conteo de ciclos, basta con ejecutar el ciclo de reinicio solo con agua limpia."
     }
   ],
   "related": [
-    "/cafe-en-grano-y-agua/",
-    "/cafe-en-grano-y-agua/como-afecta-el-cloro-del-agua-del-grifo-al-aroma-del-espresso/",
-    "/cafe-en-grano-y-agua/que-agua-embotellada-de-estados-unidos-es-mejor-para-cafetera-espresso/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/cafe-en-grano-y-agua/por-que-un-cafe-recien-tostado-de-hace-2-dias-no-sirve-para-espresso/",
+    "/cafe-en-grano-y-agua/arabica-100-vs-blend-80-20-con-robusta-lavado-para-crema-de-espresso/",
+    "/cafe-en-grano-y-agua/mejores-tostadores-de-especialidad-en-amazon-usa-stumptown-intelligentsia-counter-culture/",
+    "/cafe-en-grano-y-agua/por-que-nunca-guardar-el-cafe-de-uso-diario-en-la-nevera/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/como-hacer-tu-propia-agua-barista-rpavlis-water-o-third-wave-water.webp"
 }

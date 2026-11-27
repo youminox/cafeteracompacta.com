@@ -4,161 +4,122 @@
   "path": "/extraccion-y-recetas-espresso/los-10-mandamientos-para-extraer-un-espresso-perfecto-cada-dia/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "10 claves para un espresso perfecto en casa",
   "title": "Checklist de 10 Puntos para que tu Cafetera Espresso Compacta Nunca Falle una Extracción",
-  "seoTitle": "Checklist de 10 Puntos para que tu Cafetera Espresso Compacta Nunca Falle una Extracción | Guía Barista Compacta",
-  "metaDescription": "Checklist de 10 Puntos para que tu Cafetera Espresso Compacta Nunca Falle una Extracción: Desde la frescura del grano y el purgado en vacío hasta el pesaje al décimo de gramo con báscula. Guía paso a paso, tabla de medidas 51mm/54mm y accesorios recomendados en Amazon.",
-  "excerpt": "Desde la frescura del grano y el purgado en vacío hasta el pesaje al décimo de gramo con báscula.",
-  "quickAnswer": "Sobre 10 claves para un espresso perfecto en casa: Desde la frescura del grano y el purgado en vacío hasta el pesaje al décimo de gramo con báscula. Para obtener el mejor resultado en tu cafetera espresso compacta, precalienta el portafiltro con agua caliente, pesa tu dosis en báscula de 0.1 g para lograr un ratio 1:2 en 25–30 segundos y usa accesorios del diámetro exacto de tu grupo (51 mm, 54 mm o 58 mm).",
-  "readingMinutes": 7,
+  "seoTitle": "Checklist de 10 Puntos para que tu Cafetera Espresso Compacta Nunca Falle una Extracción | cafeteracompacta.com",
+  "metaDescription": "Checklist de 10 claves técnicas para extraer un espresso perfecto cada día en casa con tu cafetera compacta: temperatura, WDT, prensado, ratio y corte en…",
+  "excerpt": "Domina el checklist diario de 10 pasos técnicos —desde el disparo en vacío y el secado de cesta hasta el WDT y el corte en báscula— para clavar cada espresso en tu cafetera compacta.",
+  "quickAnswer": "Para que tu cafetera espresso compacta no falle ninguna extracción, estandariza diez puntos en cada servicio: usa grano con **7–30 días de tueste**, agua de **50–120 ppm**, precalienta el portafiltro con un **disparo en vacío de 40 ml**, seca la cesta al 100 %, pesa tu dosis con **±0.1 g** de precisión, deshaz grumos con **aguja WDT**, prensa totalmente **nivelado a 90°**, vigila la pre-infusión, corta **2 g antes** en báscula y purga la ducha al terminar.",
+  "readingMinutes": 8,
   "image": {
-    "prompt": "Warm editorial barista photography on a compact modern kitchen counter: Desde la frescura del grano y el purgado en vacío hasta el pesaje al décimo de gramo con báscula., featuring a brushed stainless steel compact espresso machine, portafilter and rich crema, natural morning light",
+    "prompt": "Top-down flat-lay knolling arrangement with accessories: realistic scene illustrating 'Checklist de 10 Puntos para que tu Cafetera Espresso Compacta Nunca Falle una Extracción' (10 claves para un espresso perfecto en casa) for cafeteracompacta.com, featuring equipment in warm sand beige with matte black hardware, on a matte dark-gray technical mat with measuring tools nearby, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Checklist de 10 Puntos para que tu Cafetera Espresso Compacta Nunca Falle una Extracción"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Cuando preparas café espresso en casa con una máquina compacta, entender a fondo **10 claves para un espresso perfecto en casa** marca la diferencia entre una taza aguada o amarga y un espresso denso con crema avellana atigrada. Desde la frescura del grano y el purgado en vacío hasta el pesaje al décimo de gramo con báscula."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Extraccion Y Recetas Espresso](/extraccion-y-recetas-espresso/)** analizamos paso a paso los parámetros exactos (gramos, segundos, temperatura y milímetros) aplicados a las cafeteras más populares de Amazon Estados Unidos y España: **[CASABREWS CM5418](/resenas-cafeteras/casabrews-cm5418-espresso/)**, **[Breville Bambino BES450](/resenas-cafeteras/breville-bambino-bes450/)**, **[De’Longhi Dedica Arte EC885M](/resenas-cafeteras/delonghi-dedica-arte-ec885m/)**, **[Gaggia Classic Evo Pro](/resenas-cafeteras/gaggia-classic-evo-pro/)** y **[HiBREW H10A](/resenas-cafeteras/hibrew-h10a-semi-automatica-58mm/)**."
+      "text": "El lunes consigues un espresso denso, achocolatado y con crema avellana persistente en tu cafetera compacta, pero el martes por la mañana —sin haber tocado ni un solo clic la rueda de tu molino— el disparo sale a borbotones en **14 segundos**, salpicando la encimera y dejando un sabor ácido y metálico. En grupos compactos de **51 mm** y **54 mm**, donde la pastilla tiene poco diámetro, cualquier descuido mínimo en la temperatura del metal, la humedad residual de la cesta o la nivelación del prensado arruina la resistencia hidráulica. Siguiendo este protocolo diario de nuestro [centro de extracción y recetas espresso](/extraccion-y-recetas-espresso/), blindarás tu rutina para obtener tazas idénticas todos los días del año."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y medidas clave: 10 claves para un espresso perfecto en casa"
+      "text": "Por qué la preparación térmica y mecánica vale más que el precio de la cafetera"
     },
     {
       "type": "p",
-      "text": "Las cafeteras espresso compactas modernas trabajan con bloques térmicos de calentamiento rápido (Thermoblock o ThermoJet), bombas vibratorias de 15 a 20 bares y cestas de menor diámetro (**51 mm** o **54 mm** frente a los 58 mm de una cafetería). Por ello, cualquier ajuste relacionado con **10 claves para un espresso perfecto en casa** tiene un efecto inmediato en la resistencia hidráulica de la pastilla de café y en la emulsión de los aceites."
+      "text": "Incluso una **Breville Bambino Plus (BES500)** con control digital PID y tecnología **ThermoJet** de **3 segundos** entregará un café tibio y subextraído si el agua a **93 °C** choca contra un portafiltro frío a **20 °C** que le roba **10 °C** al instante; por eso debes comprender [por qué es imprescindible precalentar el portafiltro con un disparo en vacío](/extraccion-y-recetas-espresso/por-que-es-imprescindible-precalentar-el-portafiltro-con-un-disparo-en-vacio/) antes de moler. Una vez estabilizada la temperatura, tu objetivo es crear una pastilla de densidad 100 % homogénea para que la bomba alcance la presión correcta, algo muy sencillo de verificar si sabes [cómo leer el manómetro de presión de la CASABREWS CM5418](/extraccion-y-recetas-espresso/como-leer-el-manometro-de-presion-de-la-casabrews-cm5418/) y la combinas con nuestra [tabla resumen de ratios 1:1, 1:2 y 1:3 con tiempos y gramos](/extraccion-y-recetas-espresso/tabla-resumen-de-ratios-1-1-1-2-y-1-3-con-tiempos-y-gramos/)."
     },
     {
       "type": "table",
-      "caption": "Parámetros de referencia barista para: 10 claves para un espresso perfecto en casa",
       "headers": [
-        "Variable Barista",
-        "Valor / Ajuste Óptimo",
-        "Efecto en tu Cafetera Compacta"
+        "Variable Omitida en la Rutina",
+        "Efecto Físico en el Grupo / Pastilla",
+        "Defecto Sensorial en Taza",
+        "Corrección Inmediata"
       ],
       "rows": [
         [
-          "Clave principal",
-          "Desde la frescura del grano y el purgado en vacío hasta el pesaje al décimo de gramo con báscula.",
-          "Mejora la consistencia y evita errores de extracción"
+          "Portafiltro frío sin purgar (Blank Shot)",
+          "Caída térmica de 8 °C a 12 °C en los primeros 10 s",
+          "Acidez punzante, crema pálida y cuerpo aguado",
+          "Encajar portafiltro vacío y purgar 40–50 ml de agua caliente sobre la taza."
         ],
         [
-          "Ratio estándar recomendado",
-          "1:2 (ej. 16–18 g en seco → 32–36 g en taza)",
-          "Equilibrio ideal entre acidez, dulzor y cuerpo"
+          "Cesta húmeda al volcar el café molido",
+          "El polvo se apelmaza en las paredes y despega el borde",
+          "Chorro rubio prematuro por canalización perimetral",
+          "Secar el interior de la cesta con microfibra seca antes de dosificar."
         ],
         [
-          "Tiempo objetivo de extracción",
-          "25 a 30 segundos desde que pulsas el botón",
-          "Evita subextracción ácida (<20 s) y amargor (>35 s)"
+          "Prensado (tamping) inclinado 3°–5°",
+          "El agua atraviesa solo el lado más bajo de la pastilla",
+          "Mezcla desagradable de acidez cruda y amargor seco",
+          "Apoyar pulgar e índice en el borde del tamper o usar tamper autonivelante."
         ],
         [
-          "Compatibilidad de grupo",
-          "51 mm (Casabrews/Dedica) · 54 mm (Breville) · 58 mm (Gaggia/HiBREW)",
-          "Asegura sellado perfecto sin fugas laterales"
-        ],
-        [
-          "Agua y temperatura",
-          "Agua filtrada (50–90 ppm) a 92–93 °C · Leche a 60–65 °C",
-          "Protege contra la cal y maximiza la crema y microespuma"
+          "Agua del grifo muy dura (>200 ppm) o destilada (0 ppm)",
+          "Incrustación de cal o falta de iones de magnesio/calcio",
+          "Sabor plano a tiza o extracción agresiva y vacía",
+          "Usar agua filtrada o mineralización débil entre 50 y 120 ppm de residuo seco."
         ]
+      ],
+      "caption": "Auditoría rápida de fallos: qué ocurre en taza cuando te saltas uno de los puntos críticos"
+    },
+    {
+      "type": "h2",
+      "text": "Los 10 puntos de control en orden cronológico antes y durante cada disparo"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "**1. Ventana óptima de desgasificación del grano (7 a 30 días post-tueste):** Nunca uses café sin fecha de tueste ni granos recién salidos del tostador con menos de 5 días (exceso de $\\text{CO}_2$ que repele el agua).",
+        "**2. Agua con mineralización equilibrada (50–120 ppm TDS):** El **90 %** de tu espresso es agua; el magnesio y el calcio en dosis moderadas son los anzuelos químicos que extraen las notas dulces del café.",
+        "**3. Disparo en vacío (*Blank Shot*) de 40 ml con el portafiltro encajado:** Calienta el acero de la ducha, la cesta y tu taza de porcelana al mismo tiempo antes de empezar a moler.",
+        "**4. Secado total de la cesta con paño de microfibra:** Una sola gota de agua en el fondo de la cesta humedece la base de la pastilla y abre un canal instantáneo cuando entra la presión de la bomba.",
+        "**5. Pesaje de la dosis en seco con tolerancia de ±0.1 g:** En cestas estrechas de **51 mm** (**Dedica Arte** o **CM5418**) y **54 mm** (**Breville Bambino**), una variación de **0.5 g** altera el tiempo de caída en **4 a 6 segundos**.",
+        "**6. Distribución profunda con agujas WDT finas (0.35–0.4 mm):** Remueve en círculos desde el fondo hacia arriba usando un embudo dosificador para deshacer los grumos estáticos del molino.",
+        "**7. Golpe vertical único sobre el tapete de silicona:** Asienta el colchón de café con un toque seco hacia abajo antes de apoyar el *tamper*, nunca golpees el lateral del portafiltro con el mazo después de prensar.",
+        "**8. Compactación nivelada a 90° hasta el tope mecánico:** Presiona de forma perpendicular con **13 a 15 kg** de fuerza (hasta notar que el café ya no cede más) y retira el *tamper* sin girar bajo presión excesiva.",
+        "**9. Control visual de la pre-infusión y subida a 9 bares:** Verifica que las primeras gotas asomen entre los **segundos 5 y 8** con tono chocolate oscuro y que el manómetro o el sonido de la bomba se estabilicen.",
+        "**10. Corte anticipado en báscula y purga final de ducha:** Detén la bomba **2 g** antes de tu peso objetivo (**34 g** para clavar **36 g** en un ratio 1:2), retira el portafiltro y suelta **2 segundos** de agua limpia para que los aceites no se horneen en la ducha."
       ]
+    },
+    {
+      "type": "h2",
+      "text": "La regla de oro al ajustar un disparo fallido: cambia una sola variable a la vez"
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Consejo de barista sobre 10 claves para un espresso perfecto en casa",
-      "text": "Desde la frescura del grano y el purgado en vacío hasta el pesaje al décimo de gramo con báscula. Recuerda verificar siempre si tu portafiltro es de 51 mm (CASABREWS CM5418 / De’Longhi Dedica) o de 54 mm (Breville Bambino) y utilizar agua filtrada para proteger el Thermoblock."
-    },
-    {
-      "type": "h2",
-      "text": "Paso a paso para aplicar 10 claves para un espresso perfecto en casa hoy mismo en tu cocina"
-    },
-    {
-      "type": "p",
-      "text": "Sigue este protocolo de 4 pasos verificados para obtener resultados repetibles desde tu próximo café:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Precalienta el grupo y el portafiltro con un disparo en vacío",
-          "text": "Encaja el portafiltro vacío en tu cafetera y deja correr agua caliente durante 4 a 5 segundos sobre la taza que vas a usar; luego seca bien la cesta con un paño de microfibra antes de dosificar."
-        },
-        {
-          "name": "Paso 2: Pesa la dosis exacta al décimo de gramo y distribuye con WDT",
-          "text": "Coloca entre 15 y 18 g de café recién molido según la capacidad de tu cesta (51 mm o 54 mm), remueve en círculos de abajo hacia arriba con agujas WDT de 0.3 mm y prensa totalmente horizontal con tu tamper."
-        },
-        {
-          "name": "Paso 3: Controla la presión y corta la extracción mirando la báscula",
-          "text": "Observa cómo la aguja del manómetro (en modelos como la CASABREWS CM5418) entra en la zona central de espresso y detén la bomba justo cuando la báscula mini alcance tu peso objetivo (32–36 g) en unos 27 segundos."
-        },
-        {
-          "name": "Paso 4: Purga la ducha y la lanceta de vapor en menos de 10 segundos",
-          "text": "Golpea la pastilla en el Knock Box, suelta 2 segundos de agua para limpiar la ducha del grupo y, si espumaste leche a 65 °C, limpia la lanceta con paño húmedo y purga un segundo de vapor."
-        }
-      ]
+      "text": "El error más frecuente cuando un espresso sale demasiado rápido o lento es modificar al mismo tiempo la dosis en gramos, el número del molino y la fuerza del prensado. Deja **fijos para siempre tu fuerza de prensado y tu dosis de café seco** (por ejemplo, **14 g** en cesta original de 51 mm o **17.5 g** en 54 mm) y utiliza **exclusivamente el ajuste de grosor del molino** para clavar tus **25–30 segundos**.",
+      "title": "Aísla las variables: fija los gramos y mueve únicamente el molino"
     },
     {
       "type": "cta",
-      "text": "¿Tienes dudas con 10 claves para un espresso perfecto en casa en tu modelo específico de cafetera o molino? Pregúntale ahora a nuestro Barista IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores comunes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Medir el café por cucharadas en vez de gramos:** una variación de solo 1.5 gramos cambia el tiempo de extracción en más de 8 segundos.",
-        "**Comprar accesorios sin comprobar los milímetros y las orejas:** un portafiltro de 54 mm jamás entrará en una Dedica o Casabrews de 51 mm.",
-        "**Usar café molido fino de espresso en una cesta presurizada:** bloqueará el único micro-orificio de salida provocando sobrepresión.",
-        "**Descalcificar con vinagre en lugar de ácido láctico:** daña las juntas internas y deja mal sabor en el circuito térmico."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Cafeteras, molinos y accesorios de Amazon recomendados"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar todo lo aprendido en esta guía con total comodidad, revisa nuestras recomendaciones de equipamiento compatible en Amazon Estados Unidos y España: desde el **[molino Baratza Encore ESP](/resenas-cafeteras/baratza-encore-esp-molino-espresso/)** y la **[báscula TIMEMORE Black Mirror Mini](/resenas-cafeteras/timemore-black-mirror-mini-bascula/)** hasta los **[mejores kits de accesorios de 51 mm y 54 mm](/mejores-cafeteras-y-accesorios/mejores-portafiltros-bottomless-sin-fondo-51mm-54mm/)**. Tienes las tarjetas con enlace directo a las ofertas justo aquí debajo."
+      "text": "Consulta las tarjetas de producto de Amazon integradas en esta página para revisar la disponibilidad actual de distribuidores WDT, *tampers* calibrados con tope de nivelación y embudos magnéticos de **51 mm** y **54 mm**, o pregúntale a nuestro Asesor IA cómo corregir tu extracción paso a paso."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la clave más importante sobre 10 claves para un espresso perfecto en casa?",
-      "a": "Desde la frescura del grano y el purgado en vacío hasta el pesaje al décimo de gramo con báscula. Además, mantén siempre una dosis pesada con báscula de 0.1 g, precalienta el portafiltro y utiliza grano fresco con agua filtrada."
+      "q": "¿Si aprieto mucho más fuerte con el tamper el café saldrá más despacio?",
+      "a": "No. A partir de unos 13 a 15 kg de presión, el aire entre las partículas de café molido ya ha sido expulsado por completo y el lecho alcanza su densidad máxima; apretar con 25 kg no frena más el agua, solo aumenta el riesgo de torcer la muñeca y desnivelar la pastilla."
     },
     {
-      "q": "¿Este procedimiento sirve para CASABREWS CM5418, Breville Bambino y De’Longhi Dedica Arte?",
-      "a": "Sí, los principios termodinámicos y de extracción se aplican a las tres máquinas, adaptando únicamente el diámetro de los accesorios: 51 mm (3 orejas) para CASABREWS CM5418 y De’Longhi Dedica Arte, y 54 mm (53.3 mm) para Breville Bambino."
+      "q": "¿Por qué nunca debo dar golpecitos al lateral del portafiltro después de compactar con el tamper?",
+      "a": "Provoca unaonda de choque que despega la pastilla compactada de las paredes metálicas de la cesta. Esa microfisura invisible alrededor del borde hace que el agua a 9 bares se escape por los lados en vez de atravesar el café."
     },
     {
-      "q": "¿Qué accesorio barato de Amazon ayuda más a mejorar este punto?",
-      "a": "Una báscula digital mini de 0.1 g con temporizador junto con un distribuidor de agujas WDT de 0.3 mm y un embudo magnético (menos de $25 en total en Amazon) ofrecen el mayor salto de calidad y limpieza en tu encimera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Specialty Coffee Association (SCA) – Barista Skills & Extraction",
-      "url": "https://sca.coffee/"
-    },
-    {
-      "label": "Barista Hustle – Espresso Extraction & Coffee Science",
-      "url": "https://www.baristahustle.com/"
+      "q": "¿Por qué es tan importante purgar agua por la ducha justo después de quitar el portafiltro?",
+      "a": "Al retirar el portafiltro, la expansión de la pastilla húmeda deja restos de posos y aceites pegados a la rejilla de la ducha. Si no purgas 2 segundos de agua al terminar, ese café se carboniza con el calor residual y da sabor rancio al café del día siguiente."
     }
   ],
   "related": [
-    "/extraccion-y-recetas-espresso/",
-    "/extraccion-y-recetas-espresso/que-es-el-ratio-1-2-en-espresso-y-como-medirlo-en-casa/",
     "/extraccion-y-recetas-espresso/tabla-resumen-de-ratios-1-1-1-2-y-1-3-con-tiempos-y-gramos/",
-    "/mejores-cafeteras-y-accesorios/mejores-cafeteras-espresso-compactas-amazon/"
+    "/extraccion-y-recetas-espresso/como-leer-el-manometro-de-presion-de-la-casabrews-cm5418/",
+    "/extraccion-y-recetas-espresso/como-programar-el-volumen-y-tiempo-de-los-botones-en-casabrews-cm5418/",
+    "/extraccion-y-recetas-espresso/por-que-es-imprescindible-precalentar-el-portafiltro-con-un-disparo-en-vacio/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-26",
+  "imageUrl": "/img/articulos/los-10-mandamientos-para-extraer-un-espresso-perfecto-cada-dia.webp"
 }
